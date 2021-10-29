@@ -1,0 +1,52 @@
+name: ⭐ Update awesome-stars
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: 30 0 * * *
+
+jobs:
+  delete_old_runs:
+    name: 🧹 Delete old workflow runs
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🧹 Delete old workflow runs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api repos/${{ github.repository }}/actions/runs \
+          --paginate -q '.workflow_runs[] | select(.status != "in_progress" and .status != "queued") | "\(.id)"' | \
+          xargs -n1 -I % gh api repos/${{ github.repository }}/actions/runs/% -X DELETE
+
+  awesome-stars:
+    name: ⭐ Update awesome-stars
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇ Checkout
+        uses: actions/checkout@v2
+
+      - name: 🔧 Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
+
+      - name: 🔧 Install dependencies
+        run: |
+          python -m pip install --upgrade pip && pip install starred
+      
+      - name: ⭐ Update awesome-stars README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: starred --username mehdichaouch --sort > README.md
+
+      - name: 🤖 Commit generate README changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          commit_message: 🤖 Update generated README
+          branch: main
+          commit_user_name: awesome-stars 🤖
+          commit_user_email: actions@github.com
+          commit_author: awesome-stars 🤖 <actions@github.com>
