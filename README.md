@@ -1425,7 +1425,6 @@
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [schmittjoh/JMSTranslationBundle](https://github.com/schmittjoh/JMSTranslationBundle) - Puts the Symfony2 Translation Component on steroids
 - [lexik/LexikMaintenanceBundle](https://github.com/lexik/LexikMaintenanceBundle) - This Symfony2 bundle allows you to place your website in maintenance mode by calling two commands in your console. A page with status code 503 appears to users, it is possible to authorize certain ips addresses stored in your configuration.
-- [codacy/codacy-phpmd](https://github.com/codacy/codacy-phpmd) - PHP Mess Detector Tool for Codacy
 - [jolicode/php7-checker](https://github.com/jolicode/php7-checker) - :ballot_box_with_check: PHP7 checker
 - [lyrixx/CommandSchedulerBundle](https://github.com/lyrixx/CommandSchedulerBundle) - Symfony2's bundle that will allow you to schedule all your commands just like unix crontab, with a nice admin panel
 - [carew/carew](https://github.com/carew/carew) - A simple site generator
@@ -1675,7 +1674,7 @@
 - [treeio/treeio](https://github.com/treeio/treeio) - Tree.io
 - [arkOScloud/arkos-install](https://github.com/arkOScloud/arkos-install) - DEPRECATED, see https://github.com/arkOScloud/assistant
 - [translate/virtaal](https://github.com/translate/virtaal) - Easy-to-use and powerful offline translation tool
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [PoncinMatthieu/BTCTrader](https://github.com/PoncinMatthieu/BTCTrader) - BTCTrader is a bot written in Python aiming to trade bitcoins using multiple APIs such as mtgox or bitcoin-central.
 - [gsiou/XAMPPadmin](https://github.com/gsiou/XAMPPadmin) - A manager for the xampp server software.
 - [packetlss/android-locdump](https://github.com/packetlss/android-locdump) - android location service cache dumper
@@ -1759,6 +1758,7 @@
 
 - [ornicar/lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+- [codacy/codacy-phpmd](https://github.com/codacy/codacy-phpmd) - PHP Mess Detector Tool for Codacy
 - [softwaremill/codebrag](https://github.com/softwaremill/codebrag) - Your daily code review tool
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 
