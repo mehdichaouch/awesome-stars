@@ -1010,6 +1010,7 @@
 
 ## PHP 
 
+- [splashlab/magento-2-cors-requests](https://github.com/splashlab/magento-2-cors-requests) - Enabling cross-origin resource sharing (CORS) requests to Magento 2 API from configured Origin domain
 - [tuyennn/magento2-outofstockatlast](https://github.com/tuyennn/magento2-outofstockatlast) - Magento 2.4.x module Sort Out Of Stock Product At last the product list
 - [elgentos/masquerade](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool
 - [fooman/magento2-starter-template](https://github.com/fooman/magento2-starter-template) - Template repository to get started with Magento 2. Includes a deployment process for staging/production environment powered by Magento 2 Deployer Plus and Github Actions.  See blogpost for further details and video walkthrough.
