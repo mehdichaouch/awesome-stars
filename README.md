@@ -1246,7 +1246,7 @@
 - [Payum/Payum](https://github.com/Payum/Payum) - PHP 7+ Payment processing library. It offers everything you need to work with payments: Credit card & offsite purchasing, subscriptions, payouts etc.  - provided by Forma-Pro
 - [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) - PHP version of mysqldump cli that comes with MySQL
 - [PHPJunior/laravel-video-chat](https://github.com/PHPJunior/laravel-video-chat) - Laravel Video Chat using Socket.IO and WebRTC
-- [consolidation/Robo](https://github.com/consolidation/Robo) - Modern task runner for PHP
+- [consolidation/robo](https://github.com/consolidation/robo) - Modern task runner for PHP
 - [Fusiow/fruitdautomneold](https://github.com/Fusiow/fruitdautomneold) - website e-commerce for my mom's art creations
 - [diglin/Diglin_LanguageCsv](https://github.com/diglin/Diglin_LanguageCsv) - Translate your Magento module easily thanks to this module which helps to extract strings from PHP & XML files
 - [Exeu/apai-io](https://github.com/Exeu/apai-io) - DISCONTINUED Amazon Product Adverstising Library based on PHP REST and SOAP (only V1) using the Product Advertising API.
