@@ -1878,6 +1878,7 @@
 
 ## TypeScript 
 
+- [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - React-based framework for building dynamic, Shopify-powered custom storefronts.
 - [jellesiderius/mage-db-sync](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and Wordpress), based on Magerun. Keeping development, staging and production in sync easily.
 - [atymic/deployer-php-action](https://github.com/atymic/deployer-php-action) - Deploy PHP projects using Deployer from Github Actions
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
