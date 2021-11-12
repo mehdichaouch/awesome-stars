@@ -1010,6 +1010,7 @@
 
 ## PHP 
 
+- [hungersoft/magento2-default-shipping-payment](https://github.com/hungersoft/magento2-default-shipping-payment) - Select default shipping and/or payment method in Magento 2
 - [splashlab/magento-2-cors-requests](https://github.com/splashlab/magento-2-cors-requests) - Enabling cross-origin resource sharing (CORS) requests to Magento 2 API from configured Origin domain
 - [tuyennn/magento2-outofstockatlast](https://github.com/tuyennn/magento2-outofstockatlast) - Magento 2.4.x module Sort Out Of Stock Product At last the product list
 - [elgentos/masquerade](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool
@@ -1212,7 +1213,7 @@
 - [magento/inventory](https://github.com/magento/inventory) - Magento Inventory Project (a.k.a MSI)
 - [magento-hackathon/magento2-plugin-visualization](https://github.com/magento-hackathon/magento2-plugin-visualization) - A Magento 2 Extension to visualize which before / after / around methods of which modules will get executed in what order.
 - [interconnectit/Search-Replace-DB](https://github.com/interconnectit/Search-Replace-DB) - This script was made to aid the process of migrating PHP and MySQL based websites. Works with most common CMSes.
-- [StudioForty9/Ngrok](https://github.com/StudioForty9/Ngrok) - Makes it easier to publish a Magento site using ngrok by dynamically switching the Base URL to whatever value is in the $_SERVER['HTTP_HOST'] variable.
+- [studioforty9-dev/Ngrok](https://github.com/studioforty9-dev/Ngrok) - Makes it easier to publish a Magento site using ngrok by dynamically switching the Base URL to whatever value is in the $_SERVER['HTTP_HOST'] variable.
 - [ircmaxell/password_compat](https://github.com/ircmaxell/password_compat) - Compatibility with the password_* functions that ship with PHP 5.5
 - [digitalpianism/customreports](https://github.com/digitalpianism/customreports) - Adds several custom reports to Magento.
 - [InvoicePlane/InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open source application for managing your invoices, clients and payments.
@@ -1335,7 +1336,7 @@
 - [composer/packagist](https://github.com/composer/packagist) - Package Repository Website - try https://packagist.com if you need your own -
 - [NitMedia/wkhtml2pdf](https://github.com/NitMedia/wkhtml2pdf) - Html to PDF Composer Package
 - [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
-- [StudioForty9/Recaptcha](https://github.com/StudioForty9/Recaptcha) - Magento Module for the most recent version of Google reCAPTCHA. (This module is no longer actively supported)
+- [studioforty9-dev/Recaptcha](https://github.com/studioforty9-dev/Recaptcha) - Magento Module for the most recent version of Google reCAPTCHA. (This module is no longer actively supported)
 - [caciobanu/improved-magento-layered-navigation](https://github.com/caciobanu/improved-magento-layered-navigation) - Improved Magento layered navigation extension
 - [rhoerr/supee-6788-toolbox](https://github.com/rhoerr/supee-6788-toolbox) - Analysis/fix tool for extension and customization conflicts resulting from the Magento SUPEE-6788 patch.
 - [peterjaap/mate](https://github.com/peterjaap/mate) - A command line Magento toolkit for Magento devs to perform repetitive tasks
@@ -1707,7 +1708,7 @@
 - [tibastral/contrats-francais](https://github.com/tibastral/contrats-francais) - Contrats français
 - [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [telerik/fiddler-docs](https://github.com/telerik/fiddler-docs) - Fiddler Documentation Articles
+- [telerik/fiddler-docs](https://github.com/telerik/fiddler-docs) - Official documentation for Fiddler Classic -  the community-trusted free Windows-only tool that logs HTTP(s) network traffic.
 - [goshacmd/nsa_panel](https://github.com/goshacmd/nsa_panel) - Easily add an NSA backdoor into your Rails app.
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [PeterBell/dojo_rules](https://github.com/PeterBell/dojo_rules) - 
