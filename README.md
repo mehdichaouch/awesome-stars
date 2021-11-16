@@ -1881,6 +1881,7 @@
 
 ## TypeScript 
 
+- [justinribeiro/lite-youtube](https://github.com/justinribeiro/lite-youtube) - The shadow dom web component version of Paul's lite-youtube-embed.
 - [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - React-based framework for building dynamic, Shopify-powered custom storefronts.
 - [jellesiderius/mage-db-sync](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and Wordpress), based on Magerun. Keeping development, staging and production in sync easily.
 - [atymic/deployer-php-action](https://github.com/atymic/deployer-php-action) - Deploy PHP projects using Deployer from Github Actions
