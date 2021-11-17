@@ -1312,7 +1312,7 @@
 - [silverstripe/silverstripe-cms](https://github.com/silverstripe/silverstripe-cms) - SilverStripe CMS - this is a module for SilverStripe Framework rather than a standalone app. Use https://github.com/silverstripe/silverstripe-installer/ to set this up.
 - [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) - SilverStripe Framework, the MVC framework that powers SilverStripe CMS
 - [astterx/MpdfBundle](https://github.com/astterx/MpdfBundle) - MpdfBundle is a wrapper service for mPDF class, created for Symfony projects.
-- [laravel/valet](https://github.com/laravel/valet) - 
+- [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
 - [josephmcdermott/SmashingMagazine-MagentoFirstModule](https://github.com/josephmcdermott/SmashingMagazine-MagentoFirstModule) - Support materials for Smashing Magazine article: The Basics Of Creating A Magento Module
 - [Agence-DnD/PIMGento-2](https://github.com/Agence-DnD/PIMGento-2) - PimGento2 is a Magento 2 extension that allows you to import your catalog from Akeneo CSV files into Magento 2.
 - [integer-net/RemoveCustomerAccountLinks](https://github.com/integer-net/RemoveCustomerAccountLinks) - Removes Customer Account Links in Magento
@@ -1865,7 +1865,7 @@
 - [Kevin-De-Koninck/Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A macOS system analyser and cleaner
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥  Control your external monitor brightness & volume on your Mac
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [blokadaorg/fem](https://github.com/blokadaorg/fem) - Blokada 5 for Android and iOS (repo moved).
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada for Android and iOS.
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
