@@ -432,6 +432,11 @@
 
 ## JavaScript 
 
+- [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - 
+- [jeremychurch/type-scale](https://github.com/jeremychurch/type-scale) - A Visual Type Scale Calculator
+- [patorjk/figlet.js](https://github.com/patorjk/figlet.js) - A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
+- [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
 - [fxhash/fxhash-webpack-boilerplate](https://github.com/fxhash/fxhash-webpack-boilerplate) - A boiletplate with webpack to develop generative Tokens on fxhash
 - [mxstbr/sharingbuttons.io](https://github.com/mxstbr/sharingbuttons.io) - Quickly generate social sharing buttons with a tiny performance footprint
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
@@ -892,6 +897,7 @@
 
 ## Others 
 
+- [smalldev-tools/smalldev-tools](https://github.com/smalldev-tools/smalldev-tools) - Official repository of https://smalldev.tools/
 - [polohb/bash-best-practices](https://github.com/polohb/bash-best-practices) - Just simple methods to keep the code clean
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
@@ -1072,7 +1078,7 @@
 - [theshreyas/magento-2-quickies](https://github.com/theshreyas/magento-2-quickies) - Magento 2 Quickies
 - [erikdubbelboer/phpRedisAdmin](https://github.com/erikdubbelboer/phpRedisAdmin) - Simple web interface to manage Redis databases.
 - [skrysmanski/chrome-separators](https://github.com/skrysmanski/chrome-separators) - Workaround for the missing bookmark separators in Chrome
-- [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) - A hack to read emails on a Slack channel while staying in free plan 🏴‍☠
+- [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) - 🏴‍☠ A hack to read emails on a Slack channel while staying in free plan
 - [opengento/dontworry](https://github.com/opengento/dontworry) - 
 - [magento/ece-tools](https://github.com/magento/ece-tools) - All Submissions you make to Magento Inc. (“Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, sublicense and distribute any feedback, ideas, code, or other information (“Submission") you submit through GitHub. (2) Your Submission is an original work of authorship and you are the owner or are legally entitled to grant the license stated above. (3) You agree to the Contributor License Agreement found here:  https://github.com/magento/magento2/blob/master/CONTRIBUTOR_LICENSE_AGREEMENT.html
 - [BabDev/Pagerfanta](https://github.com/BabDev/Pagerfanta) - Pagination library for PHP applications with support for several data providers
