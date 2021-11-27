@@ -99,6 +99,7 @@
 - [Siguza/IOHIDeous](https://github.com/Siguza/IOHIDeous) - IOHIDFamily 0day
 - [logrotate/logrotate](https://github.com/logrotate/logrotate) - The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files.
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
+- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [jedisct1/libsodium-php](https://github.com/jedisct1/libsodium-php) - The PHP extension for libsodium.
@@ -138,7 +139,6 @@
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
-- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner
 - [apache/incubator-pagespeed-mod](https://github.com/apache/incubator-pagespeed-mod) - Apache module for rewriting web pages to reduce latency and bandwidth.
 - [tekezo/Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1052,7 +1052,7 @@
 - [nicksportpat/sportpat](https://github.com/nicksportpat/sportpat) - sportpat repository Magento 2.2.11
 - [vikasneoventis/extension2](https://github.com/vikasneoventis/extension2) - 
 - [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
-- [bytefury/crater](https://github.com/bytefury/crater) - Free & Open Source Invoice App for Freelancers & Small Businesses
+- [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [postaddictme/instagram-php-scraper](https://github.com/postaddictme/instagram-php-scraper) - Get account information, photos, videos, stories and comments.
 - [ibnab/tut-magento2-import](https://github.com/ibnab/tut-magento2-import) - 
 - [olegkoval/magento2-regenerate_url_rewrites](https://github.com/olegkoval/magento2-regenerate_url_rewrites) - Magento 2 extension which add feature of regenerating a url rewrites of products/categories
@@ -1656,7 +1656,6 @@
 - [buckyroberts/Ella](https://github.com/buckyroberts/Ella) - Self-improving decision organism
 - [nexcess/magento-two-factor-auth](https://github.com/nexcess/magento-two-factor-auth) - A 2-Factor authentication extension for Magento.
 - [beurtschipper/crackcoin](https://github.com/beurtschipper/crackcoin) - Very basic blockchain-free cryptocurrency PoC in Python
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [wolfm89/linkedin-crawler](https://github.com/wolfm89/linkedin-crawler) - A web crawler based on scrapy for LinkedIn public profile data.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -1938,6 +1937,7 @@
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
 - [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
