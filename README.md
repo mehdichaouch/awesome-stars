@@ -1585,7 +1585,7 @@
 ## Python 
 
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
-- [iexcloud/pyEX](https://github.com/iexcloud/pyEX) - Python interface to IEX and IEX cloud APIs
+- [timkpaine/pyEX](https://github.com/timkpaine/pyEX) - Python interface to IEX and IEX cloud APIs
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
