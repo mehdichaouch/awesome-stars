@@ -217,7 +217,7 @@
 
 ## Dockerfile 
 
-- [kangasta/jenkins-examples](https://github.com/kangasta/jenkins-examples) - 
+- [kangasta/jenkins-examples](https://github.com/kangasta/jenkins-examples) - Examples for settings up and using Jenkins in and with containers.
 - [meanbee/docker-magento](https://github.com/meanbee/docker-magento) - 🐳 Docker containers with all required Magento dependencies installed available as Apache and CLI
 - [fballiano/docker-magento2-apache-php](https://github.com/fballiano/docker-magento2-apache-php) - 
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`.
@@ -813,7 +813,7 @@
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 &lt;audio&gt; or &lt;video&gt; player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers.
-- [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - 
+- [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 - [sproutcore/sproutcore](https://github.com/sproutcore/sproutcore) - JavaScript Application Framework - JS library only
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [lorenzos/ZenCodingNetBeansPlugin](https://github.com/lorenzos/ZenCodingNetBeansPlugin) - Zen Coding plugin for NetBeans
