@@ -1027,6 +1027,9 @@
 
 ## PHP 
 
+- [brefphp/bref](https://github.com/brefphp/bref) - Serverless PHP on AWS Lambda
+- [markalston/Alstoone_Hours](https://github.com/markalston/Alstoone_Hours) - Magento2 module to set store hours and holidays.  Items will not be added to cart during closed hours or holidays and payment methods will also be deactivated.
+- [mohammadzahwy2017/RestrictPMethod-Magento2](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2) - Disable specific payment methods on checkout page when cart have at least one product from specific category
 - [radicalloop/eodhistoricaldata](https://github.com/radicalloop/eodhistoricaldata) - EOD Historical Data API Client Wrapper (Financial and Stock Market API) for Laravel/PHP
 - [hungersoft/magento2-default-shipping-payment](https://github.com/hungersoft/magento2-default-shipping-payment) - Select default shipping and/or payment method in Magento 2
 - [splashlab/magento-2-cors-requests](https://github.com/splashlab/magento-2-cors-requests) - Enabling cross-origin resource sharing (CORS) requests to Magento 2 API from configured Origin domain
@@ -1106,7 +1109,7 @@
 - [Vendic/EAVCleaner](https://github.com/Vendic/EAVCleaner) - Magento 2 - Clean up your Magento database by removing orphaned, unused and wrongly added attribute, attribute values and settings
 - [experius/Magento-2-Module-Experius-ExtraCheckoutAddressFields](https://github.com/experius/Magento-2-Module-Experius-ExtraCheckoutAddressFields) - Add Extra Address Attributes to the Magento 2 Checkout
 - [mageplaza/magento-2-french-language-pack](https://github.com/mageplaza/magento-2-french-language-pack) - Magento 2 French Language Pack is referred to give you two steps of setting language. Today, you can remove the language barrier in the simple way if you really want to approach French clients. The only thing you need to do is transferring the default language of Magento 2 CE into French language via the following instructions.
-- [bagisto/bagisto](https://github.com/bagisto/bagisto) - An easy to use, free and open-source laravel eCommerce platform to build your online shop in no time.
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - An easy to use, free and open source laravel eCommerce platform to build your online shop in no time.
 - [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models & API Clients based on JSON Schema / OpenAPI specs
 - [pomm-project/Foundation](https://github.com/pomm-project/Foundation) - Foundation package for the Pomm database framework.
 - [php-pds/skeleton](https://github.com/php-pds/skeleton) - Standard PHP package skeleton.
@@ -1407,7 +1410,7 @@
 - [Codiad/Codiad](https://github.com/Codiad/Codiad) - Web Based, Cloud IDE
 - [creads/api2symfony](https://github.com/creads/api2symfony) - NOT MAINTAINED ANYMORE - PHP library to automatically generate Symfony2 controllers from API specifications (RAML, Blueprint, Swagger...)
 - [gabrielrcouto/php-gui](https://github.com/gabrielrcouto/php-gui) - Extensionless PHP Graphic User Interface library
-- [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+- [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 - [sstalle/php7cc](https://github.com/sstalle/php7cc) - PHP 7 Compatibility Checker
 - [thephpleague/csv](https://github.com/thephpleague/csv) - CSV data manipulation made easy in PHP
