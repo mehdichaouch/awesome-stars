@@ -1027,6 +1027,7 @@
 
 ## PHP 
 
+- [mageplaza/magento-2-quick-flush-cache](https://github.com/mageplaza/magento-2-quick-flush-cache) - Magento 2 Quick Flush Cache is the solution to save a lot of time flushing cache at the admin backend. With Quick Flush Cache, clearing cache becomes easily with the automatic process or ajax flushing on the current page
 - [brefphp/bref](https://github.com/brefphp/bref) - Serverless PHP on AWS Lambda
 - [markalston/Alstoone_Hours](https://github.com/markalston/Alstoone_Hours) - Magento2 module to set store hours and holidays.  Items will not be added to cart during closed hours or holidays and payment methods will also be deactivated.
 - [mohammadzahwy2017/RestrictPMethod-Magento2](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2) - Disable specific payment methods on checkout page when cart have at least one product from specific category
@@ -1586,6 +1587,7 @@
 
 ## Python 
 
+- [yobeatz/mosaic](https://github.com/yobeatz/mosaic) - Generate Roman style mosaics from input images
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [timkpaine/pyEX](https://github.com/timkpaine/pyEX) - Python interface to IEX and IEX cloud APIs
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
