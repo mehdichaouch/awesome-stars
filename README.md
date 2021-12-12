@@ -131,6 +131,7 @@
 
 ## C++ 
 
+- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [weserv/images](https://github.com/weserv/images) - Source code of images.weserv.nl, to be used on your own server(s).
@@ -434,6 +435,8 @@
 
 ## JavaScript 
 
+- [raviriley/STL-to-OpenSCAD-Converter](https://github.com/raviriley/STL-to-OpenSCAD-Converter) - Convert .STL files into a .SCAD module!
+- [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generating 3D models, and is especially useful for 3D printing applications.
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - 
 - [jeremychurch/type-scale](https://github.com/jeremychurch/type-scale) - A Visual Type Scale Calculator
@@ -1360,7 +1363,7 @@
 - [NitMedia/wkhtml2pdf](https://github.com/NitMedia/wkhtml2pdf) - Html to PDF Composer Package
 - [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
 - [studioforty9-dev/Recaptcha](https://github.com/studioforty9-dev/Recaptcha) - Magento Module for the most recent version of Google reCAPTCHA. (This module is no longer actively supported)
-- [caciobanu/improved-magento-layered-navigation](https://github.com/caciobanu/improved-magento-layered-navigation) - Improved Magento layered navigation extension
+- [caciobanu/improved-magento-layered-navigation](https://github.com/caciobanu/improved-magento-layered-navigation) - This project has reached its end-of-life (EOL).
 - [rhoerr/supee-6788-toolbox](https://github.com/rhoerr/supee-6788-toolbox) - Analysis/fix tool for extension and customization conflicts resulting from the Magento SUPEE-6788 patch.
 - [peterjaap/mate](https://github.com/peterjaap/mate) - A command line Magento toolkit for Magento devs to perform repetitive tasks
 - [AOEpeople/mpmd](https://github.com/AOEpeople/mpmd) - Magento Project Mess Detector (for n98-magerun)
@@ -1934,7 +1937,7 @@
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [ornicar/chessground](https://github.com/ornicar/chessground) - Mobile/Web chess UI for lichess.org
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
 - [beizhedenglong/weird-fonts](https://github.com/beizhedenglong/weird-fonts) - 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
