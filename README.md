@@ -1591,6 +1591,7 @@
 
 ## Python 
 
+- [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [yobeatz/mosaic](https://github.com/yobeatz/mosaic) - Generate Roman style mosaics from input images
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [timkpaine/pyEX](https://github.com/timkpaine/pyEX) - Python interface to IEX and IEX cloud APIs
@@ -1795,6 +1796,7 @@
 
 ## Shell 
 
+- [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [KevCui/getTweets](https://github.com/KevCui/getTweets) - :bird: Fetch tweets from a specific user without account login
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [davidalger/warden](https://github.com/davidalger/warden) - Warden is a CLI utility for orchestrating Docker based developer environments
