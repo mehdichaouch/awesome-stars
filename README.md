@@ -77,6 +77,7 @@
 
 ## C 
 
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap) - LICEcap simple animated screen capture tool for Windows and OS X
 - [waveshare/WM8960-Audio-HAT](https://github.com/waveshare/WM8960-Audio-HAT) - The drivers of [WM8960 Audio HAT] for Raspberry Pi
@@ -120,6 +121,7 @@
 
 ## C# # 
 
+- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Ellerbach/Nabaztag.Net](https://github.com/Ellerbach/Nabaztag.Net) - Nabaztag.Net to have a full interaction with the pynab service
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
@@ -936,7 +938,7 @@
 - [FriendsOfAkeneo/awesome-akeneo](https://github.com/FriendsOfAkeneo/awesome-akeneo) - Awesome Akeneo
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - The home page every developer deserves 👩🏽‍💻
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - Building the homepage every developer deserves 👩🏽‍💻 👨‍💻
 - [tducret/python-clean-architecture-example](https://github.com/tducret/python-clean-architecture-example) - Clean architecture example with Python
 - [opengento/magento2-downgrade-ee-ce](https://github.com/opengento/magento2-downgrade-ee-ce) - Migration Tool for Magento Commerce (EE) to Magento OpenSource (CE)
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
