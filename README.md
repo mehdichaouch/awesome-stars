@@ -1447,7 +1447,7 @@
 - [punkave/symfony2-file-uploader-bundle](https://github.com/punkave/symfony2-file-uploader-bundle) - Multiple file uploads, based on the BlueImp jQuery uploader. Makes it very easy to attach one or more files to whatever you're editing. It's also easy to present that list again on a later edit so that existing files can be managed side by side with existing attachments.
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from annotations
 - [thephpleague/climate](https://github.com/thephpleague/climate) - PHP's best friend for the terminal.
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - The new (and simple) admin generator for Symfony applications.
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 - [soullivaneuh/php-cs-fixer-styleci-bridge](https://github.com/soullivaneuh/php-cs-fixer-styleci-bridge) - [DEPRECATED] Replaced by a new project =&gt;
 - [rap2hpoutre/similar-text-finder](https://github.com/rap2hpoutre/similar-text-finder) - :honeybee: PHP Similar Text Finder aka Fuzzy search. `Did you mean "banana"?`
 - [adrianolek/AOTranslationBundle](https://github.com/adrianolek/AOTranslationBundle) - Doctrine as symfony translation provider + a nice gui for editing translations.
