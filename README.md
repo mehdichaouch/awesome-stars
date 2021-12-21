@@ -1567,6 +1567,7 @@
 
 ## Perl 
 
+- [dejavu-fonts/dejavu-fonts](https://github.com/dejavu-fonts/dejavu-fonts) - 
 - [daniel-nichter/hackmysql.com](https://github.com/daniel-nichter/hackmysql.com) - Deprecated tools from HackMySQL.com
 - [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.
 - [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
