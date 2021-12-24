@@ -904,6 +904,7 @@
 
 ## Others 
 
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [scaffold-eth/scaffold-eth-challenges](https://github.com/scaffold-eth/scaffold-eth-challenges) - Scaffold-Eth 🏗 Challenges repository
 - [smalldev-tools/smalldev-tools](https://github.com/smalldev-tools/smalldev-tools) - Official repository of https://smalldev.tools/
 - [polohb/bash-best-practices](https://github.com/polohb/bash-best-practices) - Just simple methods to keep the code clean
