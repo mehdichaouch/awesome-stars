@@ -1182,7 +1182,7 @@
 - [LavoWeb/Lyra-Magento2](https://github.com/LavoWeb/Lyra-Magento2) - 
 - [symfony/error-handler](https://github.com/symfony/error-handler) - The ErrorHandler component provides tools to manage errors and ease debugging PHP code.
 - [magento-hackathon/cli-plugin-list](https://github.com/magento-hackathon/cli-plugin-list) - Get an overview of plugins installed and detect their influence on a Magento 2 instance
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions
 - [goivvy/DJS](https://github.com/goivvy/DJS) - Magento 2 Defer Javascript Loading Extension
 - [mgtcommerce/Mgt_Developertoolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Mgt DeveloperToolbar for Magento 2
 - [quafzi/judge](https://github.com/quafzi/judge) - Evaluate Magento extension quality
@@ -1877,7 +1877,7 @@
 - [dockerfile/percona](https://github.com/dockerfile/percona) - Percona Server Dockerfile for trusted automated Docker builds.
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu) - git mirror of upstream bzr at http://launchpad.net/byobu
 - [jasonrobertfox/dotfiles](https://github.com/jasonrobertfox/dotfiles) - Shell and other configurations
 - [greg0ire/git_template](https://github.com/greg0ire/git_template) - Automating your workflow with git
