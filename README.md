@@ -342,7 +342,6 @@
 - [alister/Beanstalkd-Presentation](https://github.com/alister/Beanstalkd-Presentation) - PHP London talk on the topic of “Job Queues and Beanstalkd”
 - [astorm/PulsestormLauncher](https://github.com/astorm/PulsestormLauncher) - The fastest way to browse your Magento admin interface.
 - [magento-hackathon/composer-repository](https://github.com/magento-hackathon/composer-repository) - Composer Repository for Magento Modules
-- [magento/devdocs](https://github.com/magento/devdocs) - Magento Developer Documentation
 - [desandro/masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [lyrixx/gif-controller](https://github.com/lyrixx/gif-controller) - http://gifomatic.science/
@@ -1744,6 +1743,7 @@
 - [richdynamix/magestead](https://github.com/richdynamix/magestead) - The Vagrant Solution for Magento Developers
 - [tibastral/contrats-francais](https://github.com/tibastral/contrats-francais) - Contrats français
 - [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
+- [magento/devdocs](https://github.com/magento/devdocs) - Magento Developer Documentation
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [telerik/fiddler-docs](https://github.com/telerik/fiddler-docs) - Official documentation for Fiddler Classic -  the community-trusted free Windows-only tool that logs HTTP(s) network traffic.
 - [goshacmd/nsa_panel](https://github.com/goshacmd/nsa_panel) - Easily add an NSA backdoor into your Rails app.
@@ -1781,6 +1781,7 @@
 
 ## SCSS 
 
+- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [freeatnet/producthunt-digest-rss](https://github.com/freeatnet/producthunt-digest-rss) - 
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
