@@ -1035,10 +1035,10 @@
 
 ## PHP 
 
+- [mohammadzahwy2017/RestrictPMethod-Magento2](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2) - Disable specific payment methods on checkout page when cart have at least one product from specific category
+- [markalston/Alstoone_Hours](https://github.com/markalston/Alstoone_Hours) - Magento2 module to set store hours and holidays.  Items will not be added to cart during closed hours or holidays and payment methods will also be deactivated.
 - [mageplaza/magento-2-quick-flush-cache](https://github.com/mageplaza/magento-2-quick-flush-cache) - Magento 2 Quick Flush Cache is the solution to save a lot of time flushing cache at the admin backend. With Quick Flush Cache, clearing cache becomes easily with the automatic process or ajax flushing on the current page
 - [brefphp/bref](https://github.com/brefphp/bref) - Serverless PHP on AWS Lambda
-- [markalston/Alstoone_Hours](https://github.com/markalston/Alstoone_Hours) - Magento2 module to set store hours and holidays.  Items will not be added to cart during closed hours or holidays and payment methods will also be deactivated.
-- [mohammadzahwy2017/RestrictPMethod-Magento2](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2) - Disable specific payment methods on checkout page when cart have at least one product from specific category
 - [radicalloop/eodhistoricaldata](https://github.com/radicalloop/eodhistoricaldata) - EOD Historical Data API Client Wrapper (Financial and Stock Market API) for Laravel/PHP
 - [hungersoft/magento2-default-shipping-payment](https://github.com/hungersoft/magento2-default-shipping-payment) - Select default shipping and/or payment method in Magento 2
 - [splashlab/magento-2-cors-requests](https://github.com/splashlab/magento-2-cors-requests) - Enabling cross-origin resource sharing (CORS) requests to Magento 2 API from configured Origin domain
