@@ -1311,7 +1311,6 @@
 - [mamocbv/UnCancel](https://github.com/mamocbv/UnCancel) - Magento UnCancel Order
 - [ApiGen/ApiGen](https://github.com/ApiGen/ApiGen) - PHP 7.1 ready Smart and Simple Documentation for your PHP project
 - [ffuenf/Ffuenf_CategoryProductSortBackend](https://github.com/ffuenf/Ffuenf_CategoryProductSortBackend) - [Magento] This is a extension that allows changing products sort order within category by dragging and dropping.
-- [driade/anabel](https://github.com/driade/anabel) - A bridge for display PHP Composer outdated packages right in the browser
 - [wigman/AjaxSwatches](https://github.com/wigman/AjaxSwatches) - Adding Ajax functionality to Magento's RWD color swatches to drastically reduce pageload on product-lists and to switch all gallery images on product view pages
 - [magento/marketplace-eqp](https://github.com/magento/marketplace-eqp) - Magento 1.x Coding Standard
 - [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
