@@ -436,8 +436,9 @@
 
 ## JavaScript 
 
+- [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [debkbanerji/lego-art-remix](https://github.com/debkbanerji/lego-art-remix) - Powerful computer vision assisted Lego mosaic creator · Over 300,000 images created (so far!)
-- [raviriley/STL-to-OpenSCAD-Converter](https://github.com/raviriley/STL-to-OpenSCAD-Converter) - Convert .STL files into a .SCAD module!
+- [raviriley/STL-to-OpenSCAD-Converter](https://github.com/raviriley/STL-to-OpenSCAD-Converter) - Convert .STL files into a .SCAD module with ease!
 - [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generating 3D models, and is especially useful for 3D printing applications.
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
@@ -1915,6 +1916,8 @@
 
 ## TypeScript 
 
+- [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
+- [antonreshetov/image-optimizer](https://github.com/antonreshetov/image-optimizer) - A free and open source tool for optimizing images and vector graphics.
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [mathjax/MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
 - [justinribeiro/lite-youtube](https://github.com/justinribeiro/lite-youtube) - The fastest little YouTube web component on this side of the internet. The shadow dom web component version of Paul's lite-youtube-embed.
