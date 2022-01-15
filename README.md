@@ -1173,7 +1173,7 @@
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [roots/wp-password-bcrypt](https://github.com/roots/wp-password-bcrypt) - WordPress plugin to implement secure bcrypt hashed passwords
 - [oscarotero/env](https://github.com/oscarotero/env) - Simple library to read environment variables and convert to simple types.
-- [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - An open source eCommerce plugin for WordPress.
+- [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source eCommerce platform built on WordPress. Build any commerce solution you can imagine.
 - [GoogleChromeLabs/wp-native-lazyload](https://github.com/GoogleChromeLabs/wp-native-lazyload) - WordPress plugin to lazy-load media using the native browser feature.
 - [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer, easier configuration, and an improved folder structure
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
