@@ -1038,6 +1038,7 @@
 
 ## PHP 
 
+- [Magenerds/RichSnippet](https://github.com/Magenerds/RichSnippet) - 
 - [mohammadzahwy2017/RestrictPMethod-Magento2](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2) - Disable specific payment methods on checkout page when cart have at least one product from specific category
 - [markalston/Alstoone_Hours](https://github.com/markalston/Alstoone_Hours) - Magento2 module to set store hours and holidays.  Items will not be added to cart during closed hours or holidays and payment methods will also be deactivated.
 - [mageplaza/magento-2-quick-flush-cache](https://github.com/mageplaza/magento-2-quick-flush-cache) - Magento 2 Quick Flush Cache is the solution to save a lot of time flushing cache at the admin backend. With Quick Flush Cache, clearing cache becomes easily with the automatic process or ajax flushing on the current page
@@ -1598,6 +1599,7 @@
 
 ## Python 
 
+- [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 - [k2bd/action-python-poetry](https://github.com/k2bd/action-python-poetry) - Template repo to quickly make a tested and documented GitHub action in Python with Poetry
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
