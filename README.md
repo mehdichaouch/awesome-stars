@@ -436,6 +436,7 @@
 
 ## JavaScript 
 
+- [magesuite/magepack](https://github.com/magesuite/magepack) - Next generation Magento 2 advanced JavaScript bundler.
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [debkbanerji/lego-art-remix](https://github.com/debkbanerji/lego-art-remix) - Powerful computer vision assisted Lego mosaic creator · Over 300,000 images created (so far!)
 - [raviriley/STL-to-OpenSCAD-Converter](https://github.com/raviriley/STL-to-OpenSCAD-Converter) - Convert .STL files into a .SCAD module with ease!
@@ -502,7 +503,7 @@
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [jonobr1/two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 - [TargetProcess/tauCharts](https://github.com/TargetProcess/tauCharts) - D3 based data-focused charting library. Designed with passion. Flexible.
-- [britecharts/britecharts](https://github.com/britecharts/britecharts) - Client-side reusable Charting Library based on D3.js v5 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
+- [britecharts/britecharts](https://github.com/britecharts/britecharts) - Composable Charting Library based on reusable D3.js components.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
 - [SnowdogApps/magento2-menu](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2
