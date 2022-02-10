@@ -1278,7 +1278,7 @@
 - [experius/Magento-1-Experius-Patch-Helper](https://github.com/experius/Magento-1-Experius-Patch-Helper) - 
 - [staempfli/magento2-code-generator](https://github.com/staempfli/magento2-code-generator) - Code generator for Magento 2
 - [facebookarchive/php-graph-sdk](https://github.com/facebookarchive/php-graph-sdk) - The Facebook SDK for PHP provides a native interface to the Graph API and Facebook Login.  https://developers.facebook.com/docs/php
-- [Dealerdirect/phpcodesniffer-composer-installer](https://github.com/Dealerdirect/phpcodesniffer-composer-installer) - Composer installer for PHP_CodeSniffer coding standards
+- [PHPCSStandards/composer-installer](https://github.com/PHPCSStandards/composer-installer) - Composer installer for PHP_CodeSniffer coding standards
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories
 - [AOEpeople/Aoe_QuoteCleaner](https://github.com/AOEpeople/Aoe_QuoteCleaner) - 
