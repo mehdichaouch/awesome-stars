@@ -437,6 +437,7 @@
 
 ## JavaScript 
 
+- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: A GitHub Action to send an email to multiple recipients
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [magesuite/magepack](https://github.com/magesuite/magepack) - Next generation Magento 2 advanced JavaScript bundler.
@@ -1728,7 +1729,6 @@
 - [treeio/treeio](https://github.com/treeio/treeio) - Tree.io
 - [arkOScloud/arkos-install](https://github.com/arkOScloud/arkos-install) - DEPRECATED, see https://github.com/arkOScloud/assistant
 - [translate/virtaal](https://github.com/translate/virtaal) - Easy-to-use and powerful offline translation tool
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [PoncinMatthieu/BTCTrader](https://github.com/PoncinMatthieu/BTCTrader) - BTCTrader is a bot written in Python aiming to trade bitcoins using multiple APIs such as mtgox or bitcoin-central.
 - [gsiou/XAMPPadmin](https://github.com/gsiou/XAMPPadmin) - A manager for the xampp server software.
 - [packetlss/android-locdump](https://github.com/packetlss/android-locdump) - android location service cache dumper
