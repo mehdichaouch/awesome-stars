@@ -912,6 +912,7 @@
 
 ## Others 
 
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) - A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -1046,6 +1047,7 @@
 
 ## PHP 
 
+- [goivvy/DJS](https://github.com/goivvy/DJS) - Magento 2 Defer Javascript Loading Extension
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 - [pluxml/PluXml](https://github.com/pluxml/PluXml) - PluXml, Moteur de Blog et CMS à l'XML sans base de données
@@ -1199,7 +1201,6 @@
 - [symfony/error-handler](https://github.com/symfony/error-handler) - The ErrorHandler component provides tools to manage errors and ease debugging PHP code.
 - [magento-hackathon/cli-plugin-list](https://github.com/magento-hackathon/cli-plugin-list) - Get an overview of plugins installed and detect their influence on a Magento 2 instance
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions
-- [goivvy/DJS](https://github.com/goivvy/DJS) - Magento 2 Defer Javascript Loading Extension
 - [mgtcommerce/Mgt_Developertoolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Mgt DeveloperToolbar for Magento 2
 - [quafzi/judge](https://github.com/quafzi/judge) - Evaluate Magento extension quality
 - [ccampbell/chromephp](https://github.com/ccampbell/chromephp) - class for logging PHP variables to Google Chrome console
