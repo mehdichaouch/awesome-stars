@@ -1206,7 +1206,7 @@
 - [ccampbell/chromephp](https://github.com/ccampbell/chromephp) - class for logging PHP variables to Google Chrome console
 - [vijays91/Magento-Email-Notification](https://github.com/vijays91/Magento-Email-Notification) - This extension is used to, notify the customer when the product is available(in stock).
 - [sam-media/wurfl-api](https://github.com/sam-media/wurfl-api) - Mirror of WURFL PHP API
-- [magento-hackathon/EAVCleaner](https://github.com/magento-hackathon/EAVCleaner) - Clean up your Magento database by removing orphaned, unused and wrongly added attribute, attribute values and settings (for M1 & M2)
+- [magento-hackathon/EAVCleaner](https://github.com/magento-hackathon/EAVCleaner) - Clean up your Magento database by removing orphaned, unused and wrongly added attribute, attribute values and settings (for M1)
 - [sverraest/revolut-php](https://github.com/sverraest/revolut-php) - 💳 PHP Bindings for the Revolut Business API
 - [magespecialist/m1-MSP_DevTools](https://github.com/magespecialist/m1-MSP_DevTools) - MageSpecialist DevTools for Magento 1
 - [magespecialist/m2-MSP_DevTools](https://github.com/magespecialist/m2-MSP_DevTools) - MageSpecialist DevTools for Magento2
