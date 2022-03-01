@@ -41,18 +41,12 @@ jobs:
       - name: 🔧 WIP PIP LIST
         run: |
           pip list
-      
-      - name: Actor
-        run: echo "${{ github.actor }}"
 
-      - name: GITHUB_REPOSITORY_OWNER
-        run: echo "${GITHUB_REPOSITORY_OWNER}"      
-      
-      
+
       - name: ⭐ Update awesome-stars README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: ./src/starred --username mehdichaouch --sort > README.md
+        run: starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
 
       - name: 🤖 Commit generate README changes
         uses: stefanzweifel/git-auto-commit-action@v4
