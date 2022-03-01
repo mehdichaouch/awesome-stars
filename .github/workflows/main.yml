@@ -45,8 +45,8 @@ jobs:
       - name: Actor
         run: echo "${{ github.actor }}"
 
-      - name: GH_USERNAME
-        run: echo "${GH_USERNAME}"      
+      - name: GITHUB_REPOSITORY_OWNER
+        run: echo "${GITHUB_REPOSITORY_OWNER}"      
       
       
       - name: ⭐ Update awesome-stars README
