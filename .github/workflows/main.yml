@@ -54,7 +54,7 @@ jobs:
       - name: ⭐ Update awesome-stars README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
+        run: ${GITHUB_WORKSPACE}/src/starred --username ${GITHUB_REPOSITORY_OWNER} --sort > ${GITHUB_WORKSPACE}/README.md
 
       - name: 🤖 Commit generate README changes
         uses: stefanzweifel/git-auto-commit-action@v4
