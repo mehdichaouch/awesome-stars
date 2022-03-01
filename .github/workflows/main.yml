@@ -41,11 +41,9 @@ jobs:
       - name: 🔧 WIP
         run: pip list
       - name: 🔧 WIP
-        run: ls -l /home/runner/work/awesome-stars/awesome-stars/src/starred
-      - name: 🔧 WIP
         run: |
           echo ${GITHUB_WORKSPACE}
-          ls -l ${GITHUB_WORKSPACE}/src/starred/
+          ls -l ${GITHUB_WORKSPACE}/src/starred/starred/
 
 
       - name: ⭐ Update awesome-stars README
