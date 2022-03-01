@@ -41,7 +41,7 @@ jobs:
       - name: 🔧 WIP
         run: pip list
       - name: 🔧 WIP
-        run: which starred
+        run: ls -l /home/runner/work/awesome-stars/awesome-stars/src/starred
       - name: 🔧 WIP
         run: locate starred
       - name: 🔧 WIP
