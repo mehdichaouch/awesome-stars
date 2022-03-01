@@ -36,11 +36,23 @@ jobs:
           python -m pip install --upgrade pip
           pip install importlib-metadata
           pip install -e git+https://github.com/mehdichaouch/starred#egg=starred
+
+
+      - name: 🔧 WIP PIP LIST
+        run: |
+          pip list
+      
+      - name: Actor
+        run: echo "${{ github.actor }}"
+
+      - name: GH_USERNAME
+        run: echo "${GH_USERNAME}"      
+      
       
       - name: ⭐ Update awesome-stars README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: starred --username mehdichaouch --sort > README.md
+        run: ./src/starred --username mehdichaouch --sort > README.md
 
       - name: 🤖 Commit generate README changes
         uses: stefanzweifel/git-auto-commit-action@v4
