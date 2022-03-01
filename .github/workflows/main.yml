@@ -43,9 +43,12 @@ jobs:
       - name: 🔧 WIP
         run: ls -l /home/runner/work/awesome-stars/awesome-stars/src/starred
       - name: 🔧 WIP
-        run: locate starred
+        run: |
+          echo ${GITHUB_WORKSPACE}
+          ls -l ${GITHUB_WORKSPACE}
       - name: 🔧 WIP
         run: whereis starred
+        
 
 
       - name: ⭐ Update awesome-stars README
