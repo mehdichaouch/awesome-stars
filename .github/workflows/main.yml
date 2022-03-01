@@ -38,12 +38,14 @@ jobs:
           pip install -e git+https://github.com/mehdichaouch/starred#egg=starred
 
 
-      - name: 🔧 WIP PIP LIST
-        run: |
-          pip list
-          which starred
-          locate starred
-          whereis starred
+      - name: 🔧 WIP
+        run: pip list
+      - name: 🔧 WIP
+        run: which starred
+      - name: 🔧 WIP
+        run: locate starred
+      - name: 🔧 WIP
+        run: whereis starred
 
 
       - name: ⭐ Update awesome-stars README
