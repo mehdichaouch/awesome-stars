@@ -45,7 +45,7 @@ jobs:
       - name: 🔧 WIP
         run: |
           echo ${GITHUB_WORKSPACE}
-          ls -l ${GITHUB_WORKSPACE}/src/starred/starred
+          # ls -l ${GITHUB_WORKSPACE}/src/starred/starred
       - name: 🔧 WIP
         run: |
           echo $PATH
