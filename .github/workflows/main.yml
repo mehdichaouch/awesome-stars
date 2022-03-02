@@ -46,11 +46,11 @@ jobs:
         run: |
           echo ${GITHUB_WORKSPACE}
           # ls -l ${GITHUB_WORKSPACE}/src/starred/starred
-          ls -l /usr/local/bin
+          #ls -l /usr/local/bin
           PYTHON_BIN_PATH="$(python3 -m site --user-base)/bin"
           PATH="$PATH:$PYTHON_BIN_PATH"
-          ls -l $PYTHON_BIN_PATH
-          ls -l $PATH
+          echo $PYTHON_BIN_PATH
+          # ls -l $PATH
 
       - name: 🔧 WIP
         run: |
