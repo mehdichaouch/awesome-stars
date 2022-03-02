@@ -47,10 +47,13 @@ jobs:
           echo ${GITHUB_WORKSPACE}
           # ls -l ${GITHUB_WORKSPACE}/src/starred/starred
           ls -l /usr/local/bin
+          PYTHON_BIN_PATH="$(python3 -m site --user-base)/bin"
+          PATH="$PATH:$PYTHON_BIN_PATH"
+
       - name: 🔧 WIP
         run: |
           echo $PATH
-          export PATH=$PATH:~/.local/bin
+          # export PATH=$PATH:~/.local/bin
 
 
       - name: ⭐ Update awesome-stars README
