@@ -53,6 +53,7 @@ jobs:
           # PATH="$PATH:$PYTHON_BIN_PATH"
           # echo $PYTHON_BIN_PATH
           # ls -l $PATH
+          pip3 freeze
 
       - name: 🔧 WIP
         run: |
