@@ -46,8 +46,10 @@ jobs:
         run: |
           echo ${GITHUB_WORKSPACE}
           ls -l ${GITHUB_WORKSPACE}/src/starred/starred
-#      - name: 🔧 WIP
-#        run: starred --version 
+      - name: 🔧 WIP
+        run: |
+          echo $PATH
+          export PATH=$PATH:~/.local/bin
 
 
       - name: ⭐ Update awesome-stars README
