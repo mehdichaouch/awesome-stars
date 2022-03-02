@@ -45,6 +45,7 @@ jobs:
       - name: 🔧 WIP
         run: |
           pip --version
+          pip show starred
           # echo ${GITHUB_WORKSPACE}
           # ls -l ${GITHUB_WORKSPACE}/src/starred/starred
           # ls -l /usr/local/bin
