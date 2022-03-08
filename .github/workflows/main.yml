@@ -60,6 +60,7 @@ jobs:
           # export PATH=$PATH:~/.local/bin
           #~/.local/bin/starred --help
           #which starred
+          locate starred
 
       - name: ⭐ Update awesome-stars README
         env:
