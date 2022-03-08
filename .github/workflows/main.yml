@@ -59,10 +59,12 @@ jobs:
       - name: 🔧 WIP
         run: |
           echo $PATH
+          ls -l /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/
+          ls -l /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages
           # export PATH=$PATH:~/.local/bin
           #~/.local/bin/starred --help
-          which starred
-          locate starred
+          #which starred
+          #locate starred
 
       - name: ⭐ Update awesome-stars README
         env:
