@@ -58,6 +58,7 @@ jobs:
           echo $PATH
           # export PATH=$PATH:~/.local/bin
           #~/.local/bin/starred --help
+          source ~/.profile
           which starred
 
       - name: ⭐ Update awesome-stars README
