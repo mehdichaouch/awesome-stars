@@ -36,8 +36,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install importlib-metadata setuptools wheel
           pip install git+https://github.com/mehdichaouch/starred#egg=starred
-          export PATH=/home/runner/.local/bin/:$PATH
-          starred --help
+          /home/runner/.local/bin/starred --help
 
       - name: 🔧 WIP
         run: pip list
