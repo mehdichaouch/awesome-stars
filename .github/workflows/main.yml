@@ -31,17 +31,11 @@ jobs:
         with:
           python-version: '3.7'
 
-      - uses: actions/cache@v2
-        with:
-          path: ${{ env.pythonLocation }}
-          key: ${{ env.pythonLocation }}-pip-${{ hashFiles('requirements.txt') }}
-
       - name: 🔧 Install dependencies
         run: |
           python -m pip install --upgrade pip
           # pip install importlib-metadata
           pip -v install git+https://github.com/mehdichaouch/starred#egg=starred
-
 
       - name: 🔧 WIP
         run: pip list
@@ -69,7 +63,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
+          python -m starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
           # python ${GITHUB_WORKSPACE}/src/starred/starred/starred.py --username ${GITHUB_REPOSITORY_OWNER} --sort > ${GITHUB_WORKSPACE}/README.md
 
       - name: 🤖 Commit generate README changes
