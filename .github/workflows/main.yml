@@ -37,6 +37,7 @@ jobs:
           # pip install importlib-metadata setuptools wheel
           # python -m 
           pip install -e git+https://github.com/mehdichaouch/starred#egg=starred
+          starred --help
 
       - name: 🔧 WIP
         run: pip list
