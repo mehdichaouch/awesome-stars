@@ -57,7 +57,7 @@ jobs:
         run: |
           echo $PATH
           # export PATH=$PATH:~/.local/bin
-
+          ~/.local/bin/starred --help
 
       - name: ⭐ Update awesome-stars README
         env:
