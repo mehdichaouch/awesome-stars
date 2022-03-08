@@ -40,7 +40,7 @@ jobs:
           # source starred
           # stat /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred.py
           # python -m /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred --help
-          /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred --help
+          # /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred --help
 
       - name: 🔧 WIP
         run: pip list -v
@@ -55,9 +55,9 @@ jobs:
           # echo ${GITHUB_WORKSPACE}
           # ls -l ${GITHUB_WORKSPACE}/src/starred/starred
           # ls -l /usr/local/bin
-          # PYTHON_BIN_PATH="$(python3 -m site --user-base)/bin"
+          PYTHON_BIN_PATH="$(python3 -m pip --user-base)"
+          echo $PYTHON_BIN_PATH
           # PATH="$PATH:$PYTHON_BIN_PATH"
-          # echo $PYTHON_BIN_PATH
           # ls -l $PATH
           # pip3 freeze
       - name: 🔧 WIP
