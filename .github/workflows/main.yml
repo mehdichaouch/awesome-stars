@@ -26,6 +26,11 @@ jobs:
       - name: ⬇ Checkout
         uses: actions/checkout@v2
 
+      - uses: actions/cache@v2
+        with:
+          path: ${{ env.pythonLocation }}
+          key: ${{ env.pythonLocation }}-pip-${{ hashFiles('requirements.txt') }}
+
       - name: 🔧 Set up Python
         uses: actions/setup-python@v1
         with:
@@ -35,7 +40,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           # pip install importlib-metadata
-          pip install git+https://github.com/mehdichaouch/starred#egg=starred
+          pip -v install git+https://github.com/mehdichaouch/starred#egg=starred
 
 
       - name: 🔧 WIP
@@ -53,8 +58,7 @@ jobs:
           # PATH="$PATH:$PYTHON_BIN_PATH"
           # echo $PYTHON_BIN_PATH
           # ls -l $PATH
-          pip3 freeze
-
+          # pip3 freeze
       - name: 🔧 WIP
         run: |
           echo $PATH
