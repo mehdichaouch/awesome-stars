@@ -61,8 +61,8 @@ jobs:
           echo $PATH
           # export PATH=$PATH:~/.local/bin
           #~/.local/bin/starred --help
-          #which starred
-          #locate starred
+          which starred
+          locate starred
 
       - name: ⭐ Update awesome-stars README
         env:
@@ -70,7 +70,7 @@ jobs:
         run: |
           #source ~/.bashrc
           #python -m
-          starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
+          #starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
           # python ${GITHUB_WORKSPACE}/src/starred/starred/starred.py --username ${GITHUB_REPOSITORY_OWNER} --sort > ${GITHUB_WORKSPACE}/README.md
 
 #      - name: 🤖 Commit generate README changes
