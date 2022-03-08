@@ -58,13 +58,13 @@ jobs:
           echo $PATH
           # export PATH=$PATH:~/.local/bin
           #~/.local/bin/starred --help
-          source ~/.profile
-          which starred
+          #which starred
 
       - name: ⭐ Update awesome-stars README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          source ~/.profile
           #python -m 
           starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
           # python ${GITHUB_WORKSPACE}/src/starred/starred/starred.py --username ${GITHUB_REPOSITORY_OWNER} --sort > ${GITHUB_WORKSPACE}/README.md
