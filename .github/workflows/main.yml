@@ -39,7 +39,7 @@ jobs:
           #pip install starred
           # source starred
           # stat /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred.py
-          python -m /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred --help
+          # python -m /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred --help
           /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred --help
 
       - name: 🔧 WIP
