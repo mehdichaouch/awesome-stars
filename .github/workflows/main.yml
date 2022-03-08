@@ -33,7 +33,6 @@ jobs:
 
       - name: 🔧 Install dependencies
         run: |
-          cd /
           python -m pip install --upgrade pip
           # pip install importlib-metadata setuptools wheel
           # python -m 
