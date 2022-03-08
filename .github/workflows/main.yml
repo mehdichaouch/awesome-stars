@@ -35,7 +35,8 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           # pip install importlib-metadata setuptools wheel
-          pip install git+https://github.com/mehdichaouch/starred#egg=starred
+          # pip install git+https://github.com/mehdichaouch/starred#egg=starred
+          pip install starred
           # source starred
           starred --help
 
@@ -72,13 +73,13 @@ jobs:
           starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
           # python ${GITHUB_WORKSPACE}/src/starred/starred/starred.py --username ${GITHUB_REPOSITORY_OWNER} --sort > ${GITHUB_WORKSPACE}/README.md
 
-      - name: 🤖 Commit generate README changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-        with:
-          commit_message: 🤖 Update generated README
-          branch: main
-          commit_user_name: awesome-stars 🤖
-          commit_user_email: actions@github.com
-          commit_author: awesome-stars 🤖 <actions@github.com>
+#      - name: 🤖 Commit generate README changes
+#        uses: stefanzweifel/git-auto-commit-action@v4
+#        env:
+#          GITHUB_TOKEN: ${{ github.token }}
+#        with:
+#          commit_message: 🤖 Update generated README
+#          branch: main
+#          commit_user_name: awesome-stars 🤖
+#          commit_user_email: actions@github.com
+#          commit_author: awesome-stars 🤖 <actions@github.com>
