@@ -35,8 +35,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install importlib-metadata setuptools wheel
+          source activate feat
           pip install git+https://github.com/mehdichaouch/starred#egg=starred
-          ls -s /home/runner/.local/bin/
+          source activate feat
           starred --help
 
       - name: 🔧 WIP
