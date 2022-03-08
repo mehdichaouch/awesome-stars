@@ -38,11 +38,14 @@ jobs:
           pip install git+https://github.com/mehdichaouch/starred#egg=starred
           #pip install starred
           # source starred
-          stat /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred.py
-          python -m /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred.py --help
+          # stat /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred.py
+          python -m /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred --help
+          /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred --help
 
       - name: 🔧 WIP
         run: pip list -v
+      - name: 🔧 WIP
+        run: pip -V
       - name: 🔧 WIP
         run: pip freeze --local -v
       - name: 🔧 WIP
