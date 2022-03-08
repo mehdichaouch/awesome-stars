@@ -43,7 +43,6 @@ jobs:
         run: pip freeze --local 
       - name: 🔧 WIP
         run: |
-          echo "::add-path::/home/runner/.local/bin"
           pip --version
           pip show starred
           # echo ${GITHUB_WORKSPACE}
@@ -59,6 +58,7 @@ jobs:
           echo $PATH
           # export PATH=$PATH:~/.local/bin
           #~/.local/bin/starred --help
+          which starred
 
       - name: ⭐ Update awesome-stars README
         env:
