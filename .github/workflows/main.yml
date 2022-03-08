@@ -34,8 +34,8 @@ jobs:
       - name: 🔧 Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install importlib-metadata setuptools wheel
-          pip -v install --user git+https://github.com/mehdichaouch/starred#egg=starred
+          pip install --user importlib-metadata setuptools wheel
+          pip install --user -v git+https://github.com/mehdichaouch/starred#egg=starred
 
       - name: 🔧 WIP
         run: pip list
