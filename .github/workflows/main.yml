@@ -29,14 +29,14 @@ jobs:
       - name: 🔧 Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.7'
+          python-version: '3.9'
 
       - name: 🔧 Install dependencies
         run: |
           python -m pip install --upgrade pip
           # pip install importlib-metadata setuptools wheel
           pip install git+https://github.com/mehdichaouch/starred#egg=starred
-          source starred
+          # source starred
           starred --help
 
       - name: 🔧 WIP
@@ -67,7 +67,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          source ~/.bashrc
+          #source ~/.bashrc
           #python -m
           starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
           # python ${GITHUB_WORKSPACE}/src/starred/starred/starred.py --username ${GITHUB_REPOSITORY_OWNER} --sort > ${GITHUB_WORKSPACE}/README.md
