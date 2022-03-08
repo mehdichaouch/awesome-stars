@@ -33,9 +33,11 @@ jobs:
 
       - name: 🔧 Install dependencies
         run: |
+          cd /
           python -m pip install --upgrade pip
           # pip install importlib-metadata setuptools wheel
-          python -m pip install -e git+https://github.com/mehdichaouch/starred#egg=starred
+          # python -m 
+          pip install -e git+https://github.com/mehdichaouch/starred#egg=starred
 
       - name: 🔧 WIP
         run: pip list
@@ -65,7 +67,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           #source ~/.profile
-          #python -m 
+          #python -m
           starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
           # python ${GITHUB_WORKSPACE}/src/starred/starred/starred.py --username ${GITHUB_REPOSITORY_OWNER} --sort > ${GITHUB_WORKSPACE}/README.md
 
