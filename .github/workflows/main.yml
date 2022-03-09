@@ -77,7 +77,8 @@ jobs:
         run: |
           #source ~/.bashrc
           #python -m
-          starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
+          python /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred.py --help
+          #starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
           # python ${GITHUB_WORKSPACE}/src/starred/starred/starred.py --username ${GITHUB_REPOSITORY_OWNER} --sort > ${GITHUB_WORKSPACE}/README.md
 
 #      - name: 🤖 Commit generate README changes
