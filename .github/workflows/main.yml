@@ -27,17 +27,17 @@ jobs:
         uses: actions/checkout@v2
 
       - name: 🔧 Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v1
         with:
           python-version: '3.7'
 
       - name: 🔧 Install dependencies
         run: |
-          python -m pip install --upgrade pip==21.2.4
+          python -m pip install --upgrade pip
           # wheel setuptools
           #pip install importlib-metadata
           #pip install semantic-version setuptools-rust toml
-          pip install --user git+https://github.com/mehdichaouch/starred#egg=starred
+          pip install -e git+https://github.com/mehdichaouch/starred#egg=starred
           # pip install 'starred @ git+https://github.com/mehdichaouch/starred'
           # pip install starred
           # stat /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred.py
