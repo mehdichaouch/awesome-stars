@@ -33,7 +33,7 @@ jobs:
 
       - name: 🔧 Install dependencies
         run: |
-          python -m pip install --upgrade pip wheel setuptools
+          python -m pip install --upgrade pip==21.3.1 wheel setuptools
           #pip install importlib-metadata
           #pip install semantic-version setuptools-rust toml
           pip install git+https://github.com/mehdichaouch/starred#egg=starred
