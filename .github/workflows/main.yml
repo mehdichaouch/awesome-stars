@@ -33,9 +33,9 @@ jobs:
 
       - name: 🔧 Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          # pip install importlib-metadata setuptools wheel
-          pip install semantic-version setuptools-rust toml
+          python -m pip install --upgrade pip wheel setuptools
+          #pip install importlib-metadata
+          #pip install semantic-version setuptools-rust toml
           pip install git+https://github.com/mehdichaouch/starred#egg=starred
           # pip install 'starred @ git+https://github.com/mehdichaouch/starred'
           # pip install starred
