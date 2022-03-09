@@ -37,7 +37,7 @@ jobs:
           # wheel setuptools
           #pip install importlib-metadata
           #pip install semantic-version setuptools-rust toml
-          pip install git+https://github.com/mehdichaouch/starred#egg=starred
+          pip install --user git+https://github.com/mehdichaouch/starred#egg=starred
           # pip install 'starred @ git+https://github.com/mehdichaouch/starred'
           # pip install starred
           # stat /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred.py
