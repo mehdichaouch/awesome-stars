@@ -62,7 +62,8 @@ jobs:
       - name: 🔧 WIP
         run: |
           echo $PATH
-          starred --help
+          ls -l /opt/hostedtoolcache/Python/3.9.10/x64/bin
+          ls -l /opt/hostedtoolcache/Python/3.9.10/x64
           #ls -l /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/
           #ls -l /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages
           # export PATH=$PATH:~/.local/bin
@@ -76,7 +77,7 @@ jobs:
         run: |
           #source ~/.bashrc
           #python -m
-          /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
+          /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
           # python ${GITHUB_WORKSPACE}/src/starred/starred/starred.py --username ${GITHUB_REPOSITORY_OWNER} --sort > ${GITHUB_WORKSPACE}/README.md
 
 #      - name: 🤖 Commit generate README changes
