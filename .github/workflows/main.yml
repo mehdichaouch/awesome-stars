@@ -22,33 +22,96 @@ jobs:
   awesome-stars:
     name: ⭐ Update awesome-stars
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.7']
+
     steps:
       - name: ⬇ Checkout
         uses: actions/checkout@v3
 
-      - name: 🔧 Set up Python
+      - name: 🔧 Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v3
         with:
-          python-version: 3.7
+          python-version: ${{ matrix.python-version }}
 
       - name: 🔧 Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install importlib-metadata
-          pip install -e git+https://github.com/mehdichaouch/starred#egg=starred
-      
+          python -m pip install --upgrade pip wheel
+          python -m pip install setuptools
+          #python -m pip install git+https://github.com/mehdichaouch/starred#egg=starred
+          pip install -e git+https://github.com/arbal/starred@master#egg=starred
+          # wheel setuptools
+          # pip install setuptools wheel
+          # pip install semantic-version setuptools-rust toml
+          # pip install 'starred @ git+https://github.com/mehdichaouch/starred'
+          # pip install starred
+          # stat /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred.py
+          # python -m /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred --help
+          # /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred --help
+      - name: 🔧 WIP 1
+        run: pip list -v
+      - name: 🔧 WIP 2
+        run: |
+          pip -V
+          pip show starred
+      - name: 🔧 WIP 3
+        run: |
+          pip freeze --local -v && echo '---'
+          pip freeze && echo '---'
+      - name: 🔧 WIP 4
+        run: |
+          pip check
+          # export PATH=$PATH:~/.local/bin
+          # which starred
+          # export PATH="$HOME/.local/bin:$PATH"
+          # echo "export PATH=\"`python3 -m site --user-base`/bin:\$PATH\"" >> ~/.bashrc
+          # source ~/.bashrc
+          # pip3 --version && echo '---'
+          # pip3 show starred && echo '---'
+          # echo ${GITHUB_WORKSPACE}
+          # ls -l ${GITHUB_WORKSPACE}/src/starred/starred
+          # ls -l /usr/local/bin
+          # PYTHON_BIN_PATH="$(python3 -m pip --user-base)"
+          # echo $PYTHON_BIN_PATH
+          # PATH="$PATH:$PYTHON_BIN_PATH"
+          # ls -l $PATH
+          # pip3 freeze
+      - name: 🔧 WIP 5
+        run: |
+          echo $PATH && echo '---'
+          # ls -l /opt/hostedtoolcache/Python/3.7.12/x64/bin && echo '---'
+          ls -l /opt/hostedtoolcache/Python/3.7.12/x64/lib/python3.7/site-packages && echo '---'
+          ls -l /opt/hostedtoolcache/Python/3.7.12/x64/lib/python3.7/site-packages/starred && echo '---'
+          ls -l /opt/hostedtoolcache/Python/3.7.12/x64/lib/python3.7/site-packages/starred-3.2.0.dist-info && echo '---'
+          # export PATH=$PATH:~/.local/bin
+          # ~/.local/bin/starred --help
+          # which starred
+          # locate starred
       - name: ⭐ Update awesome-stars README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: starred --username mehdichaouch --sort > README.md
-
-      - name: 🤖 Commit generate README changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-        with:
-          commit_message: 🤖 Update generated README
-          branch: main
-          commit_user_name: awesome-stars 🤖
-          commit_user_email: actions@github.com
-          commit_author: awesome-stars 🤖 <actions@github.com>
+        run: |
+          starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
+          # ls -l /opt/hostedtoolcache/Python/3.7.12/x64/lib/python3.7/site-packages
+          # source ~/.bashrc
+          # python -m
+          # python /opt/hostedtoolcache/Python/3.9.10/x64/lib/python3.9/site-packages/starred/starred.py --help
+          # ls -l /home/runner/.local/lib/python3.7/site-packages
+          # PYTHON_BIN_PATH="$(python3 -m site --user-base)/bin"
+          # echo $PYTHON_BIN_PATH
+          # ls -l $PYTHON_BIN_PATH
+          # PATH="$PATH:$PYTHON_BIN_PATH"
+          # /home/runner/.local/lib/python3.7/site-packages/starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
+          # python /opt/hostedtoolcache/Python/3.7.12/x64/lib/python3.7/site-packages/starred/starred.py --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
+          # python ${GITHUB_WORKSPACE}/src/starred/starred/starred.py --username ${GITHUB_REPOSITORY_OWNER} --sort > ${GITHUB_WORKSPACE}/README.md
+#      - name: 🤖 Commit generate README changes
+#        uses: stefanzweifel/git-auto-commit-action@v4
+#        env:
+          # GITHUB_TOKEN: ${{ github.token }}
+#        with:
+          # commit_message: 🤖 Update generated README
+          # branch: main
+          # commit_user_name: awesome-stars 🤖
+          # commit_user_email: actions@github.com
+          # commit_author: awesome-stars 🤖 <actions@github.com>
