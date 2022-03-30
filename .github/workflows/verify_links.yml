@@ -26,7 +26,7 @@ jobs:
           gem install awesome_bot
       - name: 🤖 Run Awesome Bot
         run: awesome_bot README.md --allow-redirect --white-list awesome.re
-      - uses: actions/upload-artifact@v1
+      - uses: actions/upload-artifact@v3
         if: failure()
         with:
           name: ab-results
