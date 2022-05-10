@@ -315,6 +315,7 @@
 
 ## HTML 
 
+- [SnowdogApps/magento2-alpaca-theme](https://github.com/SnowdogApps/magento2-alpaca-theme) - Magento 2 theme built on top of Alpaca design system crafted for ecommerce
 - [tomlutzenberger/time-estimation](https://github.com/tomlutzenberger/time-estimation) - Calculate and share your tasks with PERT (Program Evaluation and Review Technique)
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [ajax-lives/NoRussian](https://github.com/ajax-lives/NoRussian) - Volunteer DoS tool via HTML + JS
@@ -2087,6 +2088,7 @@
 
 ## Vue 
 
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Aggregated set of useful tools that every developer may need once in a while.
 - [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) - 
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [mitchas/Keyframes](https://github.com/mitchas/Keyframes) - A simple CSS toolbox
