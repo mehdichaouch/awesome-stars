@@ -1079,6 +1079,8 @@
 
 ## PHP 
 
+- [PH2M/logistic](https://github.com/PH2M/logistic) - Import / export for Magento 2 using FireGento_FastSimpleImport2
+- [firegento/FireGento_FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) - AvS_FastSimpleImport for Magento 2
 - [php-cuong/magento2-banners-slider](https://github.com/php-cuong/magento2-banners-slider) - Banners Slider Extension For Magento 2
 - [yireo/Yireo_Core](https://github.com/yireo/Yireo_Core) - Core library for assistance in various Magento modules
 - [yireo/Yireo_Webp2ForAmastyShopby](https://github.com/yireo/Yireo_Webp2ForAmastyShopby) - Webp2 add-on to make Yireo_Webp2 work for Amasty_Shopby
@@ -1175,7 +1177,6 @@
 - [opengento/dontworry](https://github.com/opengento/dontworry) - 
 - [magento/ece-tools](https://github.com/magento/ece-tools) - All Submissions you make to Magento Inc. (“Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty f
 - [BabDev/Pagerfanta](https://github.com/BabDev/Pagerfanta) - Pagination library for PHP applications with support for several data providers
-- [firegento/FireGento_FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) - AvS_FastSimpleImport for Magento 2
 - [mageplaza/magento-2-cron-schedule](https://github.com/mageplaza/magento-2-cron-schedule) - Magento 2 Cron Schedule from Mageplaza is one of the most utility which helps you to execute tasks with no effort from the admin panel. The extension prevents errors from popping up, avoid interruptio
 - [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) - Cron Job Manager for Magento 2
 - [xdebug/xdebug](https://github.com/xdebug/xdebug) - Xdebug — Step Debugger and Debugging Aid for PHP
