@@ -688,7 +688,7 @@
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [jixunmoe/cuwcl4c](https://github.com/jixunmoe/cuwcl4c) - Bypass Wait, Code & Login on Websites [不再维护]
 - [marmelab/ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
-- [birjolaxew/flippy.js](https://github.com/birjolaxew/flippy.js) - FLIP animation helper; animate DOM changes with ease
+- [birjj/flippy.js](https://github.com/birjj/flippy.js) - FLIP animation helper; animate DOM changes with ease
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [wesleytodd/YeoPress](https://github.com/wesleytodd/YeoPress) - A Yeoman generator for WordPress
@@ -1818,7 +1818,7 @@
 - [hfreire/rotating-proxy](https://github.com/hfreire/rotating-proxy) - Rotating TOR proxy with Docker
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
-- [spree/spree](https://github.com/spree/spree) - Open Source headless multi-language/multi-currency/multi-store eCommerce platform. Developed by https://getvendo.com
+- [spree/spree](https://github.com/spree/spree) - Open Source multi-language/multi-currency/multi-store eCommerce platform
 - [EugenMayer/docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux
 - [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers
 - [mrkamel/heartbeat](https://github.com/mrkamel/heartbeat) - Use Heartbeat to monitor your Hetzner Failover IP and automatically switch to another server.
