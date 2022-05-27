@@ -984,7 +984,7 @@
 - [FriendsOfAkeneo/awesome-akeneo](https://github.com/FriendsOfAkeneo/awesome-akeneo) - Awesome Akeneo
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - Building the homepage every developer deserves 👩🏽‍💻 👨‍💻
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is where developers grow together 👩🏽‍💻 👨‍💻
 - [tducret/python-clean-architecture-example](https://github.com/tducret/python-clean-architecture-example) - Clean architecture example with Python
 - [opengento/magento2-downgrade-ee-ce](https://github.com/opengento/magento2-downgrade-ee-ce) - Migration Tool for Magento Commerce (EE) to Magento OpenSource (CE)
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
