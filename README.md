@@ -363,7 +363,6 @@
 - [astorm/PulsestormLauncher](https://github.com/astorm/PulsestormLauncher) - The fastest way to browse your Magento admin interface.
 - [magento-hackathon/composer-repository](https://github.com/magento-hackathon/composer-repository) - Composer Repository for Magento Modules
 - [desandro/masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
-- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [lyrixx/gif-controller](https://github.com/lyrixx/gif-controller) - http://gifomatic.science/
 - [Keyamoon/IcoMoon-Free](https://github.com/Keyamoon/IcoMoon-Free) - A package of flat vector icons together with an installable ligature font
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
@@ -655,6 +654,7 @@
 - [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
 - [dimsemenov/Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
 - [osano/cookieconsent](https://github.com/osano/cookieconsent) - A free solution to the EU, GDPR, and California Cookie Laws
+- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [alertifyjs/alertify.js](https://github.com/alertifyjs/alertify.js) - JavaScript Alert/Notification System
 - [Thomas101/wmail](https://github.com/Thomas101/wmail) - The missing desktop client for Gmail & Google Inbox
 - [garak/electron-symfony](https://github.com/garak/electron-symfony) - A Symfony application inside electron
