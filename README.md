@@ -346,7 +346,6 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [creativestyle/theme-creativeshop](https://github.com/creativestyle/theme-creativeshop) - 
 - [degouville/sublime-bootstrap4](https://github.com/degouville/sublime-bootstrap4) - 🔴 DEPRECATED | Bootstrap 4 Snippets for Sublime Text 3
-- [malchata/yall.js](https://github.com/malchata/yall.js) - A fast, flexible, and small SEO-friendly lazy loader.
 - [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server side TLS Tools
 - [vast-engineering/jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -578,6 +577,7 @@
 - [BobRazowsky/coinbaseTicker](https://github.com/BobRazowsky/coinbaseTicker) - 
 - [HuddleEng/PhantomCSS](https://github.com/HuddleEng/PhantomCSS) - Visual/CSS regression testing with PhantomJS
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
+- [malchata/yall.js](https://github.com/malchata/yall.js) - A fast, flexible, and small SEO-friendly lazy loader.
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [janhancic/chrome-badge-animator](https://github.com/janhancic/chrome-badge-animator) - A simple class to animate chrome extensions badge text
 - [checkly/puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node.
@@ -940,6 +940,7 @@
 
 ## Others 
 
+- [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
 - [markshust/magento2-modules](https://github.com/markshust/magento2-modules) - A curated list of all Mark's modules available for Magento 2.
 - [supertanuki/numeriqueEcoResponsable](https://github.com/supertanuki/numeriqueEcoResponsable) - Ressources et écosystème sur la mesure et la réduction des impacts environnementaux du numérique
 - [condacore/cryptocurrency-icons](https://github.com/condacore/cryptocurrency-icons) - Set of almost 2000 Cryptocurrency Icons / Logos like Bitcoin (BTC), Ethereum (ETH), Ripple (XRP) etc. in the sizes 16x16, 32x32, 64x64 and 128x128.
