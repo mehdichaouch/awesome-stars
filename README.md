@@ -596,7 +596,7 @@
 - [GoogleChrome/dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - Polyfill for the HTML dialog element
 - [0xs34n/blockchain](https://github.com/0xs34n/blockchain) - 📖Code for Blockchain Demo
 - [labnol/unsubscribe-gmail](https://github.com/labnol/unsubscribe-gmail) - Gmail Unsubscriber is a Google Apps Script for unsubscribing from unwanted newsletters and other bulk emails.
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications.
 - [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
 - [tobegit3hub/seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
 - [EastDesire/jscolor](https://github.com/EastDesire/jscolor) - JavaScript color picker with opacity (alpha channel) and customizable palette. Single file of plain JS with no dependencies.
@@ -709,7 +709,7 @@
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
+- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor
 - [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) - SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
 - [slevithan/xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions
 - [imgix/imgix.js](https://github.com/imgix/imgix.js) - Responsive images in the browser, simplified
@@ -1083,6 +1083,7 @@
 
 ## PHP 
 
+- [shoaibrehman/Magento2-OneTrust-Cookies](https://github.com/shoaibrehman/Magento2-OneTrust-Cookies) - Module to integrate OneTrust Cookie Script with Magento 2
 - [PH2M/logistic](https://github.com/PH2M/logistic) - Import / export for Magento 2 using FireGento_FastSimpleImport2
 - [firegento/FireGento_FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) - AvS_FastSimpleImport for Magento 2
 - [php-cuong/magento2-banners-slider](https://github.com/php-cuong/magento2-banners-slider) - Banners Slider Extension For Magento 2
