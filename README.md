@@ -325,7 +325,6 @@
 - [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
 - [anisayari/createurstech.fr](https://github.com/anisayari/createurstech.fr) - Première plateforme collaborative et open source qui référence les créateurs de contenus tech francophone.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
-- [hugo-toha/toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 - [r-Roms/r-Roms.github.io](https://github.com/r-Roms/r-Roms.github.io) - 
 - [mehdichaouch/screen-cheat-sheet](https://github.com/mehdichaouch/screen-cheat-sheet) - Screen Cheat Sheet & Quick Reference
@@ -484,6 +483,7 @@
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
 - [fxhash/fxhash-webpack-boilerplate](https://github.com/fxhash/fxhash-webpack-boilerplate) - A boiletplate with webpack to develop generative Tokens on fxhash
+- [hugo-toha/toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio
 - [mxstbr/sharingbuttons.io](https://github.com/mxstbr/sharingbuttons.io) - Quickly generate social sharing buttons with a tiny performance footprint
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [sohelrana09/modified-checkout](https://github.com/sohelrana09/modified-checkout) - Move billing address under shipping address in checkout in magento 2
@@ -1083,6 +1083,7 @@
 
 ## PHP 
 
+- [Smile-SA/magento2-module-debug-toolbar](https://github.com/Smile-SA/magento2-module-debug-toolbar) - Debug Toolbar for Magento 2
 - [shoaibrehman/Magento2-OneTrust-Cookies](https://github.com/shoaibrehman/Magento2-OneTrust-Cookies) - Module to integrate OneTrust Cookie Script with Magento 2
 - [PH2M/logistic](https://github.com/PH2M/logistic) - Import / export for Magento 2 using FireGento_FastSimpleImport2
 - [firegento/FireGento_FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) - AvS_FastSimpleImport for Magento 2
