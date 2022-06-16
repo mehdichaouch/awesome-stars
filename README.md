@@ -1087,6 +1087,8 @@
 
 ## PHP 
 
+- [mageplaza/magento-2-smtp](https://github.com/mageplaza/magento-2-smtp) - Magento 2 SMTP Extension helps the owner of store simply install SMTP (Simple Mail Transfer Protocol) server which transmits the messages into codes or numbers.
+- [mageplaza/magento-2-two-factor-authentication](https://github.com/mageplaza/magento-2-two-factor-authentication) - Magento 2 Two-Factor Authentication extension from Mageplaza is built to ensure the highest security for your Magento 2 stores. The extension can force using 2FA or auto skip 2FA request for trusted d
 - [Smile-SA/magento2-module-debug-toolbar](https://github.com/Smile-SA/magento2-module-debug-toolbar) - Debug Toolbar for Magento 2
 - [shoaibrehman/Magento2-OneTrust-Cookies](https://github.com/shoaibrehman/Magento2-OneTrust-Cookies) - Module to integrate OneTrust Cookie Script with Magento 2
 - [PH2M/logistic](https://github.com/PH2M/logistic) - Import / export for Magento 2 using FireGento_FastSimpleImport2
@@ -1874,6 +1876,7 @@
 
 ## SCSS 
 
+- [mpdf/mpdf.github.io](https://github.com/mpdf/mpdf.github.io) - mPDF documentation
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
