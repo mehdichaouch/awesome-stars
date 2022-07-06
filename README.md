@@ -406,7 +406,7 @@
 - [buchen/portfolio](https://github.com/buchen/portfolio) - A simple tool to calculate the overall performance of an investment portfolio.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android) - 
-- [torakiki/pdfsam](https://github.com/torakiki/pdfsam) - PDFsam, a desktop application to extract pages, split, merge, mix and rotate PDF files
+- [torakiki/pdfsam](https://github.com/torakiki/pdfsam) - PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages
 - [kalessil/phpinspectionsea](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP (a PhpStorm/Idea Plugin)
 - [GoSecure/csp-auditor](https://github.com/GoSecure/csp-auditor) - Burp and ZAP plugin to analyse Content-Security-Policy headers or generate template CSP configuration from crawling a Website
 - [drpout/boilr](https://github.com/drpout/boilr) - Price alarms for Bitcoin, cryptocurrencies, cryptoassets, futures and options.
@@ -1821,6 +1821,7 @@
 
 ## Roff 
 
+- [nabaztag2018/hardware](https://github.com/nabaztag2018/hardware) - Les fichiers du kit
 - [steverobbins/magento-version-identification-php](https://github.com/steverobbins/magento-version-identification-php) - Magento Version Identification in PHP
 
 ## Ruby 
@@ -1937,7 +1938,6 @@
 - [littlebizzy/slickstack](https://github.com/littlebizzy/slickstack) - Lightning-fast WordPress on Nginx
 - [akai-z/magento1-open-source-patches](https://github.com/akai-z/magento1-open-source-patches) - Magento Open Source 1.x patches mirror repository.
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs 🧬 for Debian-based servers and Web Applications
-- [nabaztag2018/hardware](https://github.com/nabaztag2018/hardware) - Les fichiers du kit
 - [teohm/dotfiles](https://github.com/teohm/dotfiles) - my home's dotfiles
 - [ModestCoders/magento2-dockergento](https://github.com/ModestCoders/magento2-dockergento) - Fastest Magento 2 Docker dev environment ever for Mac and Linux
 - [SpaceinvaderOne/Macinabox](https://github.com/SpaceinvaderOne/Macinabox) - Unraid docker image to help install MacOS vms
@@ -2022,6 +2022,7 @@
 
 ## TypeScript 
 
+- [antfu/changelogithub](https://github.com/antfu/changelogithub) - Generate changelog for GitHub
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [kresusapp/kresus](https://github.com/kresusapp/kresus) - Get rich, or die codin'
@@ -2057,7 +2058,7 @@
 - [tsuyoshiwada/sweet-scroll](https://github.com/tsuyoshiwada/sweet-scroll) - 
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
-- [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable particles, confetti and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.
+- [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown
