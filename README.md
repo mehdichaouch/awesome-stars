@@ -374,6 +374,7 @@
 - [gnugat/gnugat.github.io](https://github.com/gnugat/gnugat.github.io) - Blog about technical and practices advices
 - [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
 - [parisdevops/parisdevops.github.com](https://github.com/parisdevops/parisdevops.github.com) - Website of the Paris DevOps group
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation
 - [Atlantic18/ORMCheatSheet](https://github.com/Atlantic18/ORMCheatSheet) - This cheatsheet is intended as a quick reference guide for everyone working with PHP ORM frameworks and with ORM frameworks in general.
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [jolicode/composer-cheatsheet](https://github.com/jolicode/composer-cheatsheet) - :clipboard: Everything you have to know about composer.json in one page.
@@ -1583,7 +1584,6 @@
 - [kalenjordan/magerun-addons](https://github.com/kalenjordan/magerun-addons) - MageRun Addons
 - [marcoandreini/Inovarti_FixAddToCartMage18](https://github.com/marcoandreini/Inovarti_FixAddToCartMage18) - Fix for emtpy cart in magento 1.8 using varnish
 - [GordonLesti/Lesti_Fpc](https://github.com/GordonLesti/Lesti_Fpc) - Simple Magento Fullpagecache
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation
 - [silexphp/Silex](https://github.com/silexphp/Silex) - [DEPRECATED -- Use Symfony instead] The PHP micro-framework based on the Symfony Components
 - [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper
 - [ludofleury/GuzzleBundle](https://github.com/ludofleury/GuzzleBundle) - Debug your API Calls with a Symfony web profiler for guzzle
