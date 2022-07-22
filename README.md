@@ -2118,7 +2118,7 @@
 
 ## Vue 
 
-- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Aggregated set of useful tools that every developer may need once in a while.
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) - 
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [mitchas/Keyframes](https://github.com/mitchas/Keyframes) - A simple CSS toolbox
