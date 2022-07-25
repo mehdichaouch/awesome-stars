@@ -1094,6 +1094,7 @@
 
 ## PHP 
 
+- [elgentos/magento2-php8-cc](https://github.com/elgentos/magento2-php8-cc) - Magento 2 PHP 8.x compatibility checker
 - [suphiyasin/instagram-advanced-user-finder](https://github.com/suphiyasin/instagram-advanced-user-finder) - An auto software that collects, scans and sends automatic instagram users
 - [pro-cms/whatsappcloud-php](https://github.com/pro-cms/whatsappcloud-php) - Opensource php wrapper to WhatsApp Cloud API.
 - [mageplaza/magento-2-smtp](https://github.com/mageplaza/magento-2-smtp) - Magento 2 SMTP Extension helps the owner of store simply install SMTP (Simple Mail Transfer Protocol) server which transmits the messages into codes or numbers.
@@ -1690,6 +1691,7 @@
 
 ## Python 
 
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
