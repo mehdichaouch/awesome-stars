@@ -1094,6 +1094,7 @@
 
 ## PHP 
 
+- [AmpersandHQ/magento2-disable-stock-reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3
 - [elgentos/magento2-php8-cc](https://github.com/elgentos/magento2-php8-cc) - Magento 2 PHP 8.x compatibility checker
 - [suphiyasin/instagram-advanced-user-finder](https://github.com/suphiyasin/instagram-advanced-user-finder) - An auto software that collects, scans and sends automatic instagram users
 - [pro-cms/whatsappcloud-php](https://github.com/pro-cms/whatsappcloud-php) - Opensource php wrapper to WhatsApp Cloud API.
