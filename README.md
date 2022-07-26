@@ -549,7 +549,6 @@
 - [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
 - [SnowdogApps/magento2-menu](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2
 - [fightforthefuture/digital-climate-strike](https://github.com/fightforthefuture/digital-climate-strike) - Repository for Digital #ClimateStrike widget: https://digital.globalclimatestrike.net/
-- [cryptofinance-ai/cryptofinance-google-sheets-add-on](https://github.com/cryptofinance-ai/cryptofinance-google-sheets-add-on) - CRYPTOFINANCE() — The easiest way to get cryptocurrencies prices and more in Google Sheets.
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) - JavaScript image compressor.
@@ -998,6 +997,7 @@
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is where developers grow together 👩🏽‍💻 👨‍💻
 - [tducret/python-clean-architecture-example](https://github.com/tducret/python-clean-architecture-example) - Clean architecture example with Python
+- [cryptofinance-ai/cryptofinance-google-sheets-add-on](https://github.com/cryptofinance-ai/cryptofinance-google-sheets-add-on) - CRYPTOFINANCE() — The easiest way to get cryptocurrencies prices and more in Google Sheets.
 - [opengento/magento2-downgrade-ee-ce](https://github.com/opengento/magento2-downgrade-ee-ce) - Migration Tool for Magento Commerce (EE) to Magento OpenSource (CE)
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [dakshshah96/awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
