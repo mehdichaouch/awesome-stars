@@ -380,7 +380,7 @@
 - [jolicode/composer-cheatsheet](https://github.com/jolicode/composer-cheatsheet) - :clipboard: Everything you have to know about composer.json in one page.
 - [puphpet/puphpet](https://github.com/puphpet/puphpet) - Vagrant/Puppet GUI
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
-- [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns
+- [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Design Patterns
 - [davatron5000/FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
 - [davatron5000/FitText.js](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type
 - [pikock/bootstrap-magic](https://github.com/pikock/bootstrap-magic) - Bootstrap themes generator made with AngularJS
