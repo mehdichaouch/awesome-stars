@@ -235,7 +235,7 @@
 - [kangasta/jenkins-examples](https://github.com/kangasta/jenkins-examples) - Examples for settings up and using Jenkins in and with containers.
 - [meanbee/docker-magento](https://github.com/meanbee/docker-magento) - 🐳 Docker containers with all required Magento dependencies installed available as Apache and CLI
 - [fballiano/docker-magento2-apache-php](https://github.com/fballiano/docker-magento2-apache-php) - 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`.
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
 - [PrestaShop/docker](https://github.com/PrestaShop/docker) - 🐳
 - [Cquad/jeedom](https://github.com/Cquad/jeedom) - Jeedom containers
 
@@ -1089,6 +1089,7 @@
 
 ## PHP 
 
+- [ericthehacker/magento2-configscopehints](https://github.com/ericthehacker/magento2-configscopehints) - Magento2 module to label system config fields when they are overridden at more specific scope(s).
 - [AmpersandHQ/magento2-disable-stock-reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3
 - [elgentos/magento2-php8-cc](https://github.com/elgentos/magento2-php8-cc) - Magento 2 PHP 8.x compatibility checker
 - [suphiyasin/instagram-advanced-user-finder](https://github.com/suphiyasin/instagram-advanced-user-finder) - An auto software that collects, scans and sends automatic instagram users
