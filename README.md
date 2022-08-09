@@ -808,7 +808,7 @@
 - [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 - [rashidkpc/kibana2](https://github.com/rashidkpc/kibana2) - Kibana was acquired by Elastic in 2013. See elastic/kibana. More info at http://kibana.org
 - [eirikb/nipster](https://github.com/eirikb/nipster) - Search tool for npm
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files in the browser and Deno supporting multi-core compression, compression streams, Zip64 and encryption.
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, compression streams, Zip64 and encryption.
 - [verekia/initializr-website](https://github.com/verekia/initializr-website) - Initializr Home Page
 - [altryne/extensionizr](https://github.com/altryne/extensionizr) - Extensionizr! Create a chrome extension in 15 seconds!
 - [toolness/slowmo-js](https://github.com/toolness/slowmo-js) - Execute JavaScript in slow motion.
