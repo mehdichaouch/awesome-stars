@@ -656,7 +656,7 @@
 - [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
 - [dimsemenov/Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
 - [osano/cookieconsent](https://github.com/osano/cookieconsent) - A free solution to the EU, GDPR, and California Cookie Laws
-- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
+- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
 - [alertifyjs/alertify.js](https://github.com/alertifyjs/alertify.js) - JavaScript Alert/Notification System
 - [Thomas101/wmail](https://github.com/Thomas101/wmail) - The missing desktop client for Gmail & Google Inbox
 - [garak/electron-symfony](https://github.com/garak/electron-symfony) - A Symfony application inside electron
