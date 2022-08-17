@@ -458,6 +458,7 @@
 
 ## JavaScript 
 
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [HughChen/qr_image](https://github.com/HughChen/qr_image) - A web app to generate valid QR codes with readable images.
 - [yireo/Yireo_Bootstrap3](https://github.com/yireo/Yireo_Bootstrap3) - Magento 2 module inserting Twitter Bootstrap 3 via CDN
@@ -1080,7 +1081,6 @@
 - [huboard/huboard](https://github.com/huboard/huboard) - Kanban board for github issues
 - [timoxley/best-practices](https://github.com/timoxley/best-practices) - Tidbits of developer best practices from around the web
 - [larahogan/writegoodcode](https://github.com/larahogan/writegoodcode) - Tests to see bad code's effect of page load time
-- [nodejs/node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) - Moved to https://github.com/nodejs/node
 - [paytunia/api-documentation](https://github.com/paytunia/api-documentation) - MOVED TO https://github.com/Paymium/api-documentation
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) - Standards either proposed or approved by the Framework Interop Group
 - [csswizardry/CSS-Guidelines](https://github.com/csswizardry/CSS-Guidelines) - High-level guidelines for writing manageable, maintainable CSS
@@ -1090,6 +1090,7 @@
 
 ## PHP 
 
+- [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐
 - [yireo/Yireo_SalesBlock2](https://github.com/yireo/Yireo_SalesBlock2) - 
 - [ericthehacker/magento2-configscopehints](https://github.com/ericthehacker/magento2-configscopehints) - Magento2 module to label system config fields when they are overridden at more specific scope(s).
 - [AmpersandHQ/magento2-disable-stock-reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3
@@ -1268,7 +1269,6 @@
 - [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Symfony Bundle to assist in imagine manipulation using the imagine library
 - [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) - Standards compliant HTML filter written in PHP
 - [khanamiryan/php-qrcode-detector-decoder](https://github.com/khanamiryan/php-qrcode-detector-decoder) - This is a PHP library to detect and decode QR-codes. This is first and only QR code reader that works without extensions.
-- [scheb/two-factor-bundle](https://github.com/scheb/two-factor-bundle) - [ABANDONED] Two-factor authentication for Symfony 2 & 3 applications 🔐. Please use the newer versions from https://github.com/scheb/2fa.
 - [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler.
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [roots/wp-password-bcrypt](https://github.com/roots/wp-password-bcrypt) - WordPress plugin to implement secure bcrypt hashed passwords
