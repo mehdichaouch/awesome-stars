@@ -1090,6 +1090,7 @@
 
 ## PHP 
 
+- [nikic/PHP-Fuzzer](https://github.com/nikic/PHP-Fuzzer) - Experimental fuzzer for PHP libraries
 - [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐
 - [yireo/Yireo_SalesBlock2](https://github.com/yireo/Yireo_SalesBlock2) - 
 - [ericthehacker/magento2-configscopehints](https://github.com/ericthehacker/magento2-configscopehints) - Magento2 module to label system config fields when they are overridden at more specific scope(s).
