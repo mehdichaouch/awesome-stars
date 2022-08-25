@@ -33,6 +33,7 @@
 - [Less](#less)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Mako](#mako)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
 - [NSIS](#nsis)
@@ -60,7 +61,7 @@
 - [Swift](#swift)
 - [Twig](#twig)
 - [TypeScript](#typescript)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
 
@@ -902,6 +903,10 @@
 - [EmakinaFR/docker-magento2](https://github.com/EmakinaFR/docker-magento2) - :whale: Environment for a Magento2 application using Docker.
 - [httpwg/http2-spec](https://github.com/httpwg/http2-spec) - Working copy of the HTTP/2 Specification
 
+## Mako
+
+- [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
+
 ## Markdown
 
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
@@ -944,6 +949,7 @@
 
 ## Others 
 
+- [yireo/magento2-replace-graphql](https://github.com/yireo/magento2-replace-graphql) - Magento 2 meta-package to replace all optional GraphQL modules
 - [guardrailsio/awesome-php-security](https://github.com/guardrailsio/awesome-php-security) - Awesome PHP Security Resources 🕶🐘🔐
 - [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
@@ -1437,8 +1443,8 @@
 - [sampart/WhiteOctoberPagerfantaBundle](https://github.com/sampart/WhiteOctoberPagerfantaBundle) - Bundle to use Pagerfanta with Symfony
 - [evolution7/Evolution7BugsnagBundle](https://github.com/evolution7/Evolution7BugsnagBundle) - Symfony Bugsnag integration
 - [organicinternet/magento-configurable-simple](https://github.com/organicinternet/magento-configurable-simple) - Enhancement to Magento to allow simple product prices to be used instead of the default special-case configurable product prices
-- [silverstripe/silverstripe-cms](https://github.com/silverstripe/silverstripe-cms) - SilverStripe CMS - this is a module for SilverStripe Framework rather than a standalone app. Use https://github.com/silverstripe/silverstripe-installer/ to set this up.
-- [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) - SilverStripe Framework, the MVC framework that powers SilverStripe CMS
+- [silverstripe/silverstripe-cms](https://github.com/silverstripe/silverstripe-cms) - Silverstripe CMS - this is a module for Silverstripe Framework rather than a standalone app. Use https://github.com/silverstripe/silverstripe-installer/ to set this up.
+- [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) - Silverstripe Framework, the MVC framework that powers Silverstripe CMS
 - [astterx/MpdfBundle](https://github.com/astterx/MpdfBundle) - MpdfBundle is a wrapper service for mPDF class, created for Symfony projects.
 - [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
 - [josephmcdermott/SmashingMagazine-MagentoFirstModule](https://github.com/josephmcdermott/SmashingMagazine-MagentoFirstModule) - Support materials for Smashing Magazine article: The Basics Of Creating A Magento Module
@@ -1766,7 +1772,6 @@
 - [webchun/bootstrap-4-sublime-autocomplete](https://github.com/webchun/bootstrap-4-sublime-autocomplete) - Bootstrap 4 Autocomplete for Sublime Text 3
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
-- [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [klems/iac-ansible-aws](https://github.com/klems/iac-ansible-aws) - Infrastructure As Code : Ansible + Amazon EC2
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [arthepsy/ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
@@ -2115,7 +2120,7 @@
 - [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 
-## Vim script 
+## Vim Script
 
 - [rouffj/vim-config](https://github.com/rouffj/vim-config) - Config vim
 - [henrik/dotfiles](https://github.com/henrik/dotfiles) - Dotfiles.
