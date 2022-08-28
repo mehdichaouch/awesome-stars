@@ -513,6 +513,7 @@
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [Sazito/phoenix](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
 - [drobnikj/seo-audit-tool](https://github.com/drobnikj/seo-audit-tool) - SEO audit tool build on top of Apify SDK
+- [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [hfreire/make-porto-win-european-best-destination-2017](https://github.com/hfreire/make-porto-win-european-best-destination-2017) - Let's make :city_sunrise: Porto :trophy: win the :euro: European Best Destination :tada: 2017
 - [hfreire/pollmommy](https://github.com/hfreire/pollmommy) - ⭐️ Hack your 🙈 vote out of 📈 Polldaddy surveys - used by 💰 BBC, Microsoft, Forbes, Pfizer, IBM
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -924,7 +925,6 @@
 
 ## Nunjucks 
 
-- [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [5t3ph/moderncss-dot-dev](https://github.com/5t3ph/moderncss-dot-dev) - Posts from the series "Modern CSS Solutions to Old CSS Problems"
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 
@@ -1698,6 +1698,7 @@
 
 ## Python 
 
+- [azmatt/chasing_your_tail](https://github.com/azmatt/chasing_your_tail) - Tool for using wireless signals to see if you're being followed.
 - [clintmod/macprefs](https://github.com/clintmod/macprefs) - Backup and Restore your Mac System and App Preferences (e.g. defaults write)
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
