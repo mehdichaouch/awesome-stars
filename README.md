@@ -460,6 +460,8 @@
 
 ## JavaScript 
 
+- [desandro/classie](https://github.com/desandro/classie) - :tophat: class helper functions
+- [pupunzi/jquery.mb.YTPlayer](https://github.com/pupunzi/jquery.mb.YTPlayer) - use a custom yutube player for a video as background on jQuery framework
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [HughChen/qr_image](https://github.com/HughChen/qr_image) - A web app to generate valid QR codes with readable images.
