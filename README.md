@@ -1098,6 +1098,7 @@
 
 ## PHP
 
+- [avstudnitz/AvS_ScopeHint2](https://github.com/avstudnitz/AvS_ScopeHint2) - Magento 2 module for displaying additional information in configuration
 - [nikic/PHP-Fuzzer](https://github.com/nikic/PHP-Fuzzer) - Experimental fuzzer for PHP libraries
 - [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐
 - [yireo/Yireo_SalesBlock2](https://github.com/yireo/Yireo_SalesBlock2) -
@@ -1436,7 +1437,6 @@
 - [blmage/mage-enhanced-admin-grids](https://github.com/blmage/mage-enhanced-admin-grids) - [ARCHIVED] Enhanced Admin Grids extension for Magento 1. WIP version available for testing.
 - [KnpLabs/snappy](https://github.com/KnpLabs/snappy) - PHP library allowing thumbnail, snapshot or PDF generation from a url or a html page. Wrapper for wkhtmltopdf/wkhtmltoimage
 - [mpdf/mpdf](https://github.com/mpdf/mpdf) - PHP library generating PDF files from UTF-8 encoded HTML
-- [avstudnitz/AvS_ScopeHint2](https://github.com/avstudnitz/AvS_ScopeHint2) - Magento 2 module for displaying additional information in configuration
 - [platformsh-examples/platformsh-example-magento1](https://github.com/platformsh-examples/platformsh-example-magento1) - Platform.sh example for Magento 1.
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
 - [drymek/PheanstalkBundle](https://github.com/drymek/PheanstalkBundle) - 
