@@ -1589,7 +1589,7 @@
 - [swarrot/swarrot](https://github.com/swarrot/swarrot) - A lib to consume message from any Broker
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [beheh/flaps](https://github.com/beheh/flaps) - 🛬 Modular rate limiting for PHP.
-- [deployphp/deployer](https://github.com/deployphp/deployer) - A deployment tool written in PHP with support for popular frameworks out of the box
+- [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
 - [binarystash/pdf-watermarker](https://github.com/binarystash/pdf-watermarker) - Adds image watermarks to PDF files
 - [phingofficial/phing](https://github.com/phingofficial/phing) - PHing Is Not GNU make; it's a PHP project build system or build tool based on  Apache Ant.
 - [Bee-Lab/bowerphp](https://github.com/Bee-Lab/bowerphp) - A PHP implementation of bower :bird:
@@ -1661,7 +1661,7 @@
 - [Tilotiti/SnakePHP](https://github.com/Tilotiti/SnakePHP) - Framework PHP
 - [tripsta/wink-db-migrations](https://github.com/tripsta/wink-db-migrations) - A PHP library based on Zend Framework to migrate your database!
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
-- [TYPO3/typo3](https://github.com/TYPO3/typo3) - The TYPO3 Core - Enterprise Content Management System. Synchronized mirror of https://review.typo3.org/Packages/TYPO3.CMS
+- [TYPO3/typo3](https://github.com/TYPO3/typo3) - The TYPO3 Core - Enterprise Content Management System. Synchronized mirror of https://review.typo3.org/q/project:Packages/TYPO3.CMS
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP
 - [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
 - [raymondjavaxx/roxphp](https://github.com/raymondjavaxx/roxphp) - Minimalist PHP/MySQL Web Application Framework
