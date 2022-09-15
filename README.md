@@ -951,6 +951,7 @@
 
 ## Others 
 
+- [yireo/magento2-replace-core](https://github.com/yireo/magento2-replace-core) - Magento 2 meta-package to replace all optional core modules
 - [yireo/magento2-replace-graphql](https://github.com/yireo/magento2-replace-graphql) - Magento 2 meta-package to replace all optional GraphQL modules
 - [guardrailsio/awesome-php-security](https://github.com/guardrailsio/awesome-php-security) - Awesome PHP Security Resources 🕶🐘🔐
 - [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
@@ -1098,6 +1099,7 @@
 
 ## PHP
 
+- [oliverde8/phpEtlBundle](https://github.com/oliverde8/phpEtlBundle) - This bundle allows the execution of PHP etl chains in symfony with an interface to see execution history
 - [avstudnitz/AvS_ScopeHint2](https://github.com/avstudnitz/AvS_ScopeHint2) - Magento 2 module for displaying additional information in configuration
 - [nikic/PHP-Fuzzer](https://github.com/nikic/PHP-Fuzzer) - Experimental fuzzer for PHP libraries
 - [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐
