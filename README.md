@@ -76,6 +76,7 @@
 ## Astro 
 
 - [mage-os/mage-os-website](https://github.com/mage-os/mage-os-website) - 
+- [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) -
 
 ## Batchfile 
 
@@ -460,6 +461,7 @@
 
 ## JavaScript 
 
+- [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [desandro/classie](https://github.com/desandro/classie) - :tophat: class helper functions
 - [pupunzi/jquery.mb.YTPlayer](https://github.com/pupunzi/jquery.mb.YTPlayer) - use a custom yutube player for a video as background on jQuery framework
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -671,7 +673,6 @@
 - [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser m
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [sapo/Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping
-- [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [kevana/ui-for-docker](https://github.com/kevana/ui-for-docker) - A web interface for Docker, formerly known as DockerUI. This repo is not maintained
 - [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [oyejorge/less.php](https://github.com/oyejorge/less.php) - less.js ported to PHP.
@@ -1099,6 +1100,7 @@
 
 ## PHP
 
+- [run-as-root/Magento-2-Google-Shopping-Feed](https://github.com/run-as-root/Magento-2-Google-Shopping-Feed) - A simple and clean Magento 2 Feed Extension for Google Shopping.
 - [oliverde8/phpEtlBundle](https://github.com/oliverde8/phpEtlBundle) - This bundle allows the execution of PHP etl chains in symfony with an interface to see execution history
 - [avstudnitz/AvS_ScopeHint2](https://github.com/avstudnitz/AvS_ScopeHint2) - Magento 2 module for displaying additional information in configuration
 - [nikic/PHP-Fuzzer](https://github.com/nikic/PHP-Fuzzer) - Experimental fuzzer for PHP libraries
@@ -1925,6 +1927,7 @@
 
 ## Shell 
 
+- [mehdichaouch/some-bitbar-xbar-argos-plugins](https://github.com/mehdichaouch/some-bitbar-xbar-argos-plugins) - My plugin repository for xbar (the BitBar reboot) and Argos (Linux alternative)
 - [swissup/dockerize-magento2](https://github.com/swissup/dockerize-magento2) - Composer package for dockerizing Magento 2
 - [arzzen/pert](https://github.com/arzzen/pert) - A simple command line (bash/shell) utility to estimate tasks using PERT [Program Evaluation and Review Technique]
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
