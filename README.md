@@ -1033,7 +1033,7 @@
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [jurismatic/jurismatic](https://github.com/jurismatic/jurismatic) - http://www.jurismatic.com
 - [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
-- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
+- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 - [binlist/data](https://github.com/binlist/data) - binlist.net data repo
 - [SymfonyCon/2017-talks](https://github.com/SymfonyCon/2017-talks) - 
 - [kmence/nikto](https://github.com/kmence/nikto) - a Dockerized image of Nikto (web server scanner) - https://cirt.net/Nikto2
@@ -1054,7 +1054,7 @@
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
 - [bryanlittlefield/Magento-Functions](https://github.com/bryanlittlefield/Magento-Functions) - A Resource of Magento Functions
-- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - A useful list of well-received talks about JavaScript covering React, functional programming, performance, frameworks, debugging, tooling, leveling up, and more.
+- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript you have to see 📺 covering React, functional programming, performance, frameworks, debugging, tooling, leveling up, and more! ⚡️
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [nmussy/javascript-style-guide](https://github.com/nmussy/javascript-style-guide) - Guide de Style JavaScript - Traduction française
 - [kiteco/issue-tracker](https://github.com/kiteco/issue-tracker) - User-reported issues for Kite
