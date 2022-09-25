@@ -1822,7 +1822,7 @@
 - [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX
 - [bslatkin/mirrorrr](https://github.com/bslatkin/mirrorrr) - Web proxy for App Engine
-- [timbrel/GitSavvy](https://github.com/timbrel/GitSavvy) - Full git and GitHub integration with Sublime Text 3.
+- [timbrel/GitSavvy](https://github.com/timbrel/GitSavvy) - Full git and GitHub integration with Sublime Text
 - [arc90/git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
 - [spadgos/sublime-jsdocs](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++
 - [condemil/gist](https://github.com/condemil/gist) - Sublime Text plugin for creating new Gists from selected text
