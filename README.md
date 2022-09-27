@@ -461,6 +461,8 @@
 
 ## JavaScript 
 
+- [hyva-themes/magento2-react-checkout](https://github.com/hyva-themes/magento2-react-checkout) - Highly Customizable Checkout for Magento 2, Built with React.
+- [abhijitparida/hacktobermap](https://github.com/abhijitparida/hacktobermap) - A map of Hacktoberfest 2019 participants https://abhijitparida.github.io/hacktobermap/
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [desandro/classie](https://github.com/desandro/classie) - :tophat: class helper functions
 - [pupunzi/jquery.mb.YTPlayer](https://github.com/pupunzi/jquery.mb.YTPlayer) - use a custom yutube player for a video as background on jQuery framework
@@ -522,7 +524,6 @@
 - [hfreire/pollmommy](https://github.com/hfreire/pollmommy) - ⭐️ Hack your 🙈 vote out of 📈 Polldaddy surveys - used by 💰 BBC, Microsoft, Forbes, Pfizer, IBM
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [mailcheck/mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
-- [hyva-themes/magento2-react-checkout](https://github.com/hyva-themes/magento2-react-checkout) - Highly Customizable Checkout for Magento 2, Built with React.
 - [cssstats/cssstats](https://github.com/cssstats/cssstats) - Visualize various stats about your CSS
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [feross/TheAnnoyingSite.com](https://github.com/feross/TheAnnoyingSite.com) - The Annoying Site a.k.a. "The Power of the Web Platform"
@@ -952,6 +953,9 @@
 
 ## Others 
 
+- [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
+- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
+- [yireo/magento2-replace-composer-plugin](https://github.com/yireo/magento2-replace-composer-plugin) - Manage your composer replacements in your Magento project
 - [yireo/magento2-replace-core](https://github.com/yireo/magento2-replace-core) - Magento 2 meta-package to replace all optional core modules
 - [yireo/magento2-replace-graphql](https://github.com/yireo/magento2-replace-graphql) - Magento 2 meta-package to replace all optional GraphQL modules
 - [guardrailsio/awesome-php-security](https://github.com/guardrailsio/awesome-php-security) - Awesome PHP Security Resources 🕶🐘🔐
@@ -1054,7 +1058,7 @@
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
 - [bryanlittlefield/Magento-Functions](https://github.com/bryanlittlefield/Magento-Functions) - A Resource of Magento Functions
-- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript you have to see 📺 covering React, functional programming, performance, frameworks, debugging, tooling, leveling up, and more! ⚡️
+- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 covering React, functional programming, performance, frameworks, debugging, tooling, leveling up, and more! ⚡️
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [nmussy/javascript-style-guide](https://github.com/nmussy/javascript-style-guide) - Guide de Style JavaScript - Traduction française
 - [kiteco/issue-tracker](https://github.com/kiteco/issue-tracker) - User-reported issues for Kite
@@ -1100,6 +1104,17 @@
 
 ## PHP 
 
+- [Adyen/adyen-magento2](https://github.com/Adyen/adyen-magento2) - Adyen Payment plugin for Magento2
+- [oliverde8/AssociativeArraySimplified](https://github.com/oliverde8/AssociativeArraySimplified) - Allow simplified manupulation of recursive associative arrays in php
+- [elgentos/masquerade](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool
+- [elgentos/magento2-filtered-product-list-noindex](https://github.com/elgentos/magento2-filtered-product-list-noindex) - 
+- [elgentos/magento2-composer-quality-patches](https://github.com/elgentos/magento2-composer-quality-patches) - elgentos/magento2-composer-quality-patches
+- [elgentos/magento2-php8-cc](https://github.com/elgentos/magento2-php8-cc) - Magento 2 PHP 8.x compatibility checker
+- [elgentos/magerun2-addons](https://github.com/elgentos/magerun2-addons) - Addon modules for n98-magerun2
+- [elgentos/http-statuscode-checker](https://github.com/elgentos/http-statuscode-checker) - CLI HTTP statuscode checker
+- [elgentos/magento2-eu-tax-rates](https://github.com/elgentos/magento2-eu-tax-rates) - Import EU VAT tax rates into Magento 2 with a simple console command
+- [elgentos/magento2-alternate-urls](https://github.com/elgentos/magento2-alternate-urls) - 
+- [elgentos/magento2-regenerate-catalog-urls](https://github.com/elgentos/magento2-regenerate-catalog-urls) - This extension adds console commands to be able to regenerate;  a product rewrite URL based on its url path; a category rewrite URL based on its url path; a category URL path based on its URL key and 
 - [run-as-root/Magento-2-Google-Shopping-Feed](https://github.com/run-as-root/Magento-2-Google-Shopping-Feed) - A simple and clean Magento 2 Feed Extension for Google Shopping.
 - [oliverde8/phpEtlBundle](https://github.com/oliverde8/phpEtlBundle) - This bundle allows the execution of PHP etl chains in symfony with an interface to see execution history
 - [avstudnitz/AvS_ScopeHint2](https://github.com/avstudnitz/AvS_ScopeHint2) - Magento 2 module for displaying additional information in configuration
@@ -1108,7 +1123,6 @@
 - [yireo/Yireo_SalesBlock2](https://github.com/yireo/Yireo_SalesBlock2) - 
 - [ericthehacker/magento2-configscopehints](https://github.com/ericthehacker/magento2-configscopehints) - Magento2 module to label system config fields when they are overridden at more specific scope(s).
 - [AmpersandHQ/magento2-disable-stock-reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3
-- [elgentos/magento2-php8-cc](https://github.com/elgentos/magento2-php8-cc) - Magento 2 PHP 8.x compatibility checker
 - [suphiyasin/instagram-advanced-user-finder](https://github.com/suphiyasin/instagram-advanced-user-finder) - An auto software that collects, scans and sends automatic instagram users
 - [pro-cms/whatsappcloud-php](https://github.com/pro-cms/whatsappcloud-php) - Opensource php wrapper to WhatsApp Cloud API.
 - [mageplaza/magento-2-smtp](https://github.com/mageplaza/magento-2-smtp) - Magento 2 SMTP Extension helps the owner of store simply install SMTP (Simple Mail Transfer Protocol) server which transmits the messages into codes or numbers.
@@ -1164,7 +1178,6 @@
 - [hungersoft/magento2-default-shipping-payment](https://github.com/hungersoft/magento2-default-shipping-payment) - Select default shipping and/or payment method in Magento 2
 - [splashlab/magento-2-cors-requests](https://github.com/splashlab/magento-2-cors-requests) - Enabling cross-origin resource sharing (CORS) requests to Magento 2 API from configured Origin domain
 - [tuyennn/magento2-outofstockatlast](https://github.com/tuyennn/magento2-outofstockatlast) - Magento 2.4.x module Sort Out Of Stock Product At last the product list
-- [elgentos/masquerade](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool
 - [fooman/magento2-starter-template](https://github.com/fooman/magento2-starter-template) - Template repository to get started with Magento 2. Includes a deployment process for staging/production environment powered by Magento 2 Deployer Plus and Github Actions.  See blogpost for further det
 - [TGMPA/TGM-Plugin-Activation](https://github.com/TGMPA/TGM-Plugin-Activation) - TGM Plugin Activation is a PHP library that allows you to easily require or recommend plugins for your WordPress themes (and plugins). It allows your users to install, update and even automatically ac
 - [Vyvi/GiftCard](https://github.com/Vyvi/GiftCard) - GiftCard  module
@@ -1365,7 +1378,6 @@
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [peterjaap/magerun-addons](https://github.com/peterjaap/magerun-addons) - Addon modules for n98-magerun
 - [astorm/pestle](https://github.com/astorm/pestle) - A collection of command line scripts for Magento 2 code generation, and a PHP module system for organizing command line scripts.
-- [Adyen/adyen-magento2](https://github.com/Adyen/adyen-magento2) - Adyen Payment plugin for Magento2
 - [astorm/MagentoTarToConnect](https://github.com/astorm/MagentoTarToConnect) - A small shell script to automatically package tar archives into Magento's Connect 2.0 format.
 - [fbrnc/Aoe_FilePicker](https://github.com/fbrnc/Aoe_FilePicker) - Integrates Filepicker.io into Magento
 - [magesec/projectintegrity](https://github.com/magesec/projectintegrity) - 
@@ -1927,6 +1939,7 @@
 
 ## Shell 
 
+- [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [mehdichaouch/some-bitbar-xbar-argos-plugins](https://github.com/mehdichaouch/some-bitbar-xbar-argos-plugins) - My plugin repository for xbar (the BitBar reboot) and Argos (Linux alternative)
 - [swissup/dockerize-magento2](https://github.com/swissup/dockerize-magento2) - Composer package for dockerizing Magento 2
 - [arzzen/pert](https://github.com/arzzen/pert) - A simple command line (bash/shell) utility to estimate tasks using PERT [Program Evaluation and Review Technique]
@@ -2042,6 +2055,7 @@
 
 ## TypeScript 
 
+- [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [antfu/changelogithub](https://github.com/antfu/changelogithub) - Generate changelog for GitHub
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -2135,6 +2149,7 @@
 
 ## Vue 
 
+- [elgentos/magento2-upgrade-gui](https://github.com/elgentos/magento2-upgrade-gui) - Magento 2 Upgrade GUI
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) - 
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
