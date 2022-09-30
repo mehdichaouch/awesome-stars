@@ -953,6 +953,7 @@
 
 ## Others 
 
+- [ronangr1/M2-TechnicalInterviewsResources](https://github.com/ronangr1/M2-TechnicalInterviewsResources) - Compilation of all the questions that are asked during the technical interviews oriented for Magento.
 - [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
 - [yireo/magento2-replace-composer-plugin](https://github.com/yireo/magento2-replace-composer-plugin) - Manage your composer replacements in your Magento project
