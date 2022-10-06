@@ -255,6 +255,7 @@
 
 ## Go 
 
+- [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
@@ -1835,7 +1836,7 @@
 - [derv82/wifite](https://github.com/derv82/wifite) - 
 - [theodo/synckeys](https://github.com/theodo/synckeys) - synckeys a simple tool to manage ssh keys of multiple people spread on multiple servers
 - [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
-- [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX
+- [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
 - [bslatkin/mirrorrr](https://github.com/bslatkin/mirrorrr) - Web proxy for App Engine
 - [timbrel/GitSavvy](https://github.com/timbrel/GitSavvy) - Full git and GitHub integration with Sublime Text
 - [arc90/git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
