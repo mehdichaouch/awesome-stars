@@ -939,7 +939,7 @@
 ## Objective-C 
 
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
-- [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native OS X KeePass client
+- [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native macOS KeePass client
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [sequelpro/sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
 - [qpSHiNqp/airport-bssid](https://github.com/qpSHiNqp/airport-bssid) - If you want to get associated to a specific bssid with Mac OS, use this one.
