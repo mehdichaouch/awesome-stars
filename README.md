@@ -443,7 +443,7 @@
 - [romainguefveneu/naonedbus](https://github.com/romainguefveneu/naonedbus) - [DEPRECATED] L'application des transports nantais
 - [matshofman/Android-RSS-Reader-Library](https://github.com/matshofman/Android-RSS-Reader-Library) - A RSS reader library to fetch a RSS feed from the web and parse it to workable objects
 - [knowm/XChange](https://github.com/knowm/XChange) - XChange is a Java library providing a streamlined API for interacting with 60+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data.
-- [Twitter4J/Twitter4J](https://github.com/Twitter4J/Twitter4J) - Twitter4J is an open-sourced, mavenized and Google App Engine safe Java library for the Twitter API which is released under the Apache License 2.0.
+- [Twitter4J/Twitter4J](https://github.com/Twitter4J/Twitter4J) - Twitter4J is an open-source Java library for the Twitter API.
 - [rtyley/roboguice-sherlock](https://github.com/rtyley/roboguice-sherlock) - RoboGuice classes extending ActionBarSherlock classes
 - [JakeWharton/ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock) - [DEPRECATED] Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.
 - [keyboardsurfer/Crouton](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
