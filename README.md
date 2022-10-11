@@ -436,6 +436,7 @@
 - [square/flow](https://github.com/square/flow) - Name UI states, navigate between them, remember where you've been.
 - [square/mortar](https://github.com/square/mortar) - A simple library that makes it easy to pair thin views with dedicated controllers, isolated from most of the vagaries of the Activity life cycle.
 - [jenkinsci/sloccount-plugin](https://github.com/jenkinsci/sloccount-plugin) - Jenkins sloccount plugin
+- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [tbouron/WlpprforMuzei](https://github.com/tbouron/WlpprforMuzei) - Wlppr.com art source for Muzei
 - [jfeinstein10/SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thank
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -462,6 +463,7 @@
 
 ## JavaScript 
 
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [hyva-themes/magento2-react-checkout](https://github.com/hyva-themes/magento2-react-checkout) - Highly Customizable Checkout for Magento 2, Built with React.
 - [abhijitparida/hacktobermap](https://github.com/abhijitparida/hacktobermap) - A map of Hacktoberfest 2019 participants https://abhijitparida.github.io/hacktobermap/
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
@@ -896,6 +898,7 @@
 
 ## Less 
 
+- [enanobots/admin-locale-switcher](https://github.com/enanobots/admin-locale-switcher) - Magento 2 - Admin Locale Switcher
 - [mateussantin/magento2-admin-order-status-color](https://github.com/mateussantin/magento2-admin-order-status-color) - Changes the color of the order status column in the UI grid, based on the current status of the order.
 
 ## Lua 
@@ -954,6 +957,7 @@
 
 ## Others 
 
+- [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) - Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 - [ronangr1/M2-TechnicalInterviewsResources](https://github.com/ronangr1/M2-TechnicalInterviewsResources) - Compilation of all the questions that are asked during the technical interviews oriented for Magento.
 - [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
@@ -1022,7 +1026,6 @@
 - [darshanime/notes](https://github.com/darshanime/notes) - detailed notes on computer science topics, in one page
 - [quafzi/judge](https://github.com/quafzi/judge) - Evaluate Magento extension quality
 - [magento-notes/magento2-exam-notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for Magento 2 Certified Professional Developer exam
-- [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) - Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 - [astorm/magento2-travis](https://github.com/astorm/magento2-travis) - An example travis configuration for getting a Magento 2 enviornment up and running
 - [talesh/magento-security-checklist](https://github.com/talesh/magento-security-checklist) - A Magento community sourced security pre-flight checklist.
 - [magesuite/magesuite](https://github.com/magesuite/magesuite) - The main MageSuite (meta)package to rule them all
@@ -1107,6 +1110,8 @@
 
 ## PHP
 
+- [yireo/Yireo_LinkPreload](https://github.com/yireo/Yireo_LinkPreload) - Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
+- [fballiano/magento2-defer-javascripts](https://github.com/fballiano/magento2-defer-javascripts) - Defer Javascripts module for Magento 2
 - [Webstraxt/m2-page-builder-better-images](https://github.com/Webstraxt/m2-page-builder-better-images) - Magento 2 module allowing you to specify explicit dimensions and loading behaviour on Page Builder images
 - [Adyen/adyen-magento2](https://github.com/Adyen/adyen-magento2) - Adyen Payment plugin for Magento2
 - [oliverde8/AssociativeArraySimplified](https://github.com/oliverde8/AssociativeArraySimplified) - Allow simplified manupulation of recursive associative arrays in php
@@ -1890,7 +1895,6 @@
 - [Chris911/iStats](https://github.com/Chris911/iStats) - Ruby gem for your mac stats
 - [aanand/git-up](https://github.com/aanand/git-up) - NOT MAINTAINED
 - [airbnb/smartstack-cookbook](https://github.com/airbnb/smartstack-cookbook) - The chef recipes for running and testing Airbnb's SmartStack
-- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [r8/vagrant-lamp](https://github.com/r8/vagrant-lamp) - My default LAMP development stack for Vagrant
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [lg/murder](https://github.com/lg/murder) - Large scale server deploys using BitTorrent and the BitTornado library (NOTE: project no longer maintained)
@@ -1944,6 +1948,7 @@
 
 ## Shell 
 
+- [hivecommerce/magerun2-list-api-endpoints](https://github.com/hivecommerce/magerun2-list-api-endpoints) - Plugin for netz98 Magerun2 to list all API endpoints via CLI
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [mehdichaouch/some-bitbar-xbar-argos-plugins](https://github.com/mehdichaouch/some-bitbar-xbar-argos-plugins) - My plugin repository for xbar (the BitBar reboot) and Argos (Linux alternative)
 - [swissup/dockerize-magento2](https://github.com/swissup/dockerize-magento2) - Composer package for dockerizing Magento 2
@@ -2060,6 +2065,7 @@
 
 ## TypeScript 
 
+- [graphcommerce-org/graphcommerce](https://github.com/graphcommerce-org/graphcommerce) - GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [antfu/changelogithub](https://github.com/antfu/changelogithub) - Generate changelog for GitHub
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
