@@ -1111,6 +1111,8 @@
 
 ## PHP
 
+- [magento/magento-coding-standard](https://github.com/magento/magento-coding-standard) - Magento Coding Standard
+- [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [yireo/Yireo_LinkPreload](https://github.com/yireo/Yireo_LinkPreload) - Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
 - [fballiano/magento2-defer-javascripts](https://github.com/fballiano/magento2-defer-javascripts) - Defer Javascripts module for Magento 2
 - [Webstraxt/m2-page-builder-better-images](https://github.com/Webstraxt/m2-page-builder-better-images) - Magento 2 module allowing you to specify explicit dimensions and loading behaviour on Page Builder images
@@ -1263,7 +1265,6 @@
 - [pomm-project/Foundation](https://github.com/pomm-project/Foundation) - Foundation package for the Pomm database framework.
 - [php-pds/skeleton](https://github.com/php-pds/skeleton) - Standard PHP package skeleton.
 - [php-http/mock-client](https://github.com/php-http/mock-client) - Mock HTTP client
-- [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages.
 - [DominicWatts/BackInStock](https://github.com/DominicWatts/BackInStock) - Magento 2 extension where customers can register their interest for products out of stock and they will be sent an email when the product comes back in stock
