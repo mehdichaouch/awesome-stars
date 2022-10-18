@@ -215,7 +215,7 @@
 ## Clojure 
 
 - [mage2tv/magento-cache-clean](https://github.com/mage2tv/magento-cache-clean) - A faster drop in replacement for bin/magento cache:clean with file watcher
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [jhchabran/tabswitcher](https://github.com/jhchabran/tabswitcher) - Textmate's Command-T to switch tabs in Google Chrome
 
 ## CoffeeScript 
