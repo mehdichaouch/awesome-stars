@@ -1319,7 +1319,7 @@
 - [preprocess/plus](https://github.com/preprocess/plus) - This project is being developed privately.
 - [johnbillion/ext](https://github.com/johnbillion/ext) - WP-CLI command which checks the existence of PHP extensions needed to run WordPress.
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
-- [wp-premium/woocommerce-subscriptions](https://github.com/wp-premium/woocommerce-subscriptions) - WooCommerce Subscriptions, Git-ified. Synced manual! This repository is just a mirror of the WooCommerce Subscriptions plugin. Please do not send pull requests and issues.
+- [pronamic/woocommerce-subscriptions](https://github.com/pronamic/woocommerce-subscriptions) - WooCommerce Subscriptions, Git-ified. Synced manual! This repository is just a mirror of the WooCommerce Subscriptions plugin. Please do not send pull requests and issues.
 - [LavoWeb/Lyra-Magento2](https://github.com/LavoWeb/Lyra-Magento2) - 
 - [symfony/error-handler](https://github.com/symfony/error-handler) - The ErrorHandler component provides tools to manage errors and ease debugging PHP code.
 - [magento-hackathon/cli-plugin-list](https://github.com/magento-hackathon/cli-plugin-list) - Get an overview of plugins installed and detect their influence on a Magento 2 instance
