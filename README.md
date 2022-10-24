@@ -73,12 +73,12 @@
 
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
-## Astro 
+## Astro
 
-- [mage-os/mage-os-website](https://github.com/mage-os/mage-os-website) - 
+- [mage-os/mage-os-website](https://github.com/mage-os/mage-os-website) - Source of the mage-os.org website.
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) -
 
-## Batchfile 
+## Batchfile
 
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
@@ -1726,6 +1726,7 @@
 
 ## Python 
 
+- [darkosancanin/bravia_console](https://github.com/darkosancanin/bravia_console) - Bravia Console is a simple console interface written in Python to send remote control commands to a Sony Bravia TV.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [azmatt/chasing_your_tail](https://github.com/azmatt/chasing_your_tail) - Tool for using wireless signals to see if you're being followed.
 - [clintmod/macprefs](https://github.com/clintmod/macprefs) - Backup and Restore your Mac System and App Preferences (e.g. defaults write)
