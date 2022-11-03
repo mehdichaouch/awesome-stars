@@ -268,7 +268,7 @@
 - [esimov/triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [guilhem/nabcli](https://github.com/guilhem/nabcli) - CLI tool to manage my Nabaztag
 - [jolicode/pomdok](https://github.com/jolicode/pomdok) - 🍏 Simple wrapper to Symfony Go Binary for multi-app
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
@@ -1114,6 +1114,9 @@
 
 ## PHP
 
+- [bigbridge-nl/product-import](https://github.com/bigbridge-nl/product-import) - Fast product import library for Magento 2
+- [SafeChargeInternational/safecharge_magento_v2](https://github.com/SafeChargeInternational/safecharge_magento_v2) -
+- [sviatoslav-lashkiv/m2-avoid-cart-merging-module](https://github.com/sviatoslav-lashkiv/m2-avoid-cart-merging-module) -
 - [magento/magento-coding-standard](https://github.com/magento/magento-coding-standard) - Magento Coding Standard
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [yireo/Yireo_LinkPreload](https://github.com/yireo/Yireo_LinkPreload) - Magento 2 extension to set HTTP Link headers for primary resources to allow for HTTP/2 Server Push
@@ -1158,7 +1161,7 @@
 - [yireo/Yireo_NextGenImages](https://github.com/yireo/Yireo_NextGenImages) - 
 - [yireo/Yireo_Webp2](https://github.com/yireo/Yireo_Webp2) - Magento 2 module to add WebP support to Magento 2
 - [yireo/Yireo_EmailTester2](https://github.com/yireo/Yireo_EmailTester2) - 
-- [magento/magento2](https://github.com/magento/magento2) - All Submissions you make to Magento Inc. ("Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty f
+- [magento/magento2](https://github.com/magento/magento2) - Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affili
 - [markshust/magento2-module-messages](https://github.com/markshust/magento2-module-messages) - The Messages module allows you to send success, notice, warning and error messages with HTML.
 - [markshust/magento2-module-pagebuildersourcecode](https://github.com/markshust/magento2-module-pagebuildersourcecode) - The Page Builder Source Code module adds a Source Code button to the toolbar of the Page Builder WYSIWYG editor.
 - [markshust/magento2-module-disabletwofactorauth](https://github.com/markshust/magento2-module-disabletwofactorauth) - The DisableTwoFactorAuth module provides the ability to disable two-factor authentication.
