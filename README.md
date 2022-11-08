@@ -1113,6 +1113,7 @@
 
 ## PHP
 
+- [ronangr1/M2-Barbagento](https://github.com/ronangr1/M2-Barbagento) - Magento 2 x BarbaJs
 - [bigbridge-nl/product-import](https://github.com/bigbridge-nl/product-import) - Fast product import library for Magento 2
 - [SafeChargeInternational/safecharge_magento_v2](https://github.com/SafeChargeInternational/safecharge_magento_v2) -
 - [sviatoslav-lashkiv/m2-avoid-cart-merging-module](https://github.com/sviatoslav-lashkiv/m2-avoid-cart-merging-module) -
