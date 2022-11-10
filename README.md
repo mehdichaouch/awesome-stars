@@ -323,6 +323,8 @@
 
 ## HTML 
 
+- [caltamiranoHYLETE/mercurial-to-git](https://github.com/caltamiranoHYLETE/mercurial-to-git) - 
+- [gsheeets/call](https://github.com/gsheeets/call) - 📞  Call - Smart Way to Make Phone Numbers Clickable in Google Sheets
 - [iMi-digital/magento2-store-switch-all-store-views](https://github.com/iMi-digital/magento2-store-switch-all-store-views) - This module makes all store views available in the store switcher, regardless of their store or website.
 - [datalog/qrcode-svg](https://github.com/datalog/qrcode-svg) - Pure javascript QR Code generator. Armed with elegant svg path method.
 - [SnowdogApps/magento2-alpaca-theme](https://github.com/SnowdogApps/magento2-alpaca-theme) - Magento 2 theme built on top of Alpaca design system crafted for ecommerce
@@ -1113,6 +1115,19 @@
 
 ## PHP 
 
+- [happyfridayM2/pruebasgit](https://github.com/happyfridayM2/pruebasgit) - Repositorio para realizar pruebas de GIT en el subdominio happyfriday;
+- [jonatanlaksamanapurnomo/kadoqu](https://github.com/jonatanlaksamanapurnomo/kadoqu) - 
+- [cparadigm/bottomline](https://github.com/cparadigm/bottomline) - 
+- [Rekhaperiasamy/Magento-Codebase](https://github.com/Rekhaperiasamy/Magento-Codebase) - 
+- [ronakchauhan/ProjectData](https://github.com/ronakchauhan/ProjectData) - 
+- [sinichi33/newrep](https://github.com/sinichi33/newrep) - new rep
+- [nicksportpat/sportpat](https://github.com/nicksportpat/sportpat) - sportpat repository Magento 2.2.11
+- [ocadmin81/inn7](https://github.com/ocadmin81/inn7) - INN7 Magento 2 site
+- [advocodo/Advocodo_Group](https://github.com/advocodo/Advocodo_Group) - Magento module to add group list and custom group input in customer create account form.
+- [magento-hackathon/module-eavcleaner-m2](https://github.com/magento-hackathon/module-eavcleaner-m2) - Clean up your Magento database by removing orphaned, unused and wrongly added attribute, attribute values and settings (for M2).
+- [jf-xia/magento_extensions](https://github.com/jf-xia/magento_extensions) - magento extensions
+- [5mehulhelp5/MagentoExtensions](https://github.com/5mehulhelp5/MagentoExtensions) - Magento Extension Directory 1&gt; Themes Switcher 2&gt; Default Shipping On Cart 3&gt; Upshare 4&gt; Product Image Optimizer  5&gt; Idealo Product Export  6&gt; magento Google shopping Api v2 7&gt;Goo
+- [trive-digital/AdaptiveResizeM2](https://github.com/trive-digital/AdaptiveResizeM2) - 
 - [ronangr1/M2-Barbagento](https://github.com/ronangr1/M2-Barbagento) - Magento 2 x BarbaJs
 - [bigbridge-nl/product-import](https://github.com/bigbridge-nl/product-import) - Fast product import library for Magento 2
 - [SafeChargeInternational/safecharge_magento_v2](https://github.com/SafeChargeInternational/safecharge_magento_v2) - 
@@ -1211,10 +1226,7 @@
 - [code4business/freeproduct2](https://github.com/code4business/freeproduct2) - Magento2 extension that allows creating sales rules that add gift products.
 - [Smile-SA/magento2-module-gift-sales-rule](https://github.com/Smile-SA/magento2-module-gift-sales-rule) - Magento2 module to create gift product sales rules.
 - [giggsey/libphonenumber-for-php](https://github.com/giggsey/libphonenumber-for-php) - PHP version of Google's phone number handling library
-- [ocadmin81/inn7](https://github.com/ocadmin81/inn7) - INN7 Magento 2 site
 - [Straja12/UconM2](https://github.com/Straja12/UconM2) - 
-- [happyfridayM2/pruebasgit](https://github.com/happyfridayM2/pruebasgit) - Repositorio para realizar pruebas de GIT en el subdominio happyfriday;
-- [nicksportpat/sportpat](https://github.com/nicksportpat/sportpat) - sportpat repository Magento 2.2.11
 - [vikasneoventis/extension2](https://github.com/vikasneoventis/extension2) - 
 - [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
@@ -1258,7 +1270,6 @@
 - [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper script to aid upgrading magento 2 websites by detecting overrides. Now supports third party module detections
 - [mailchimp/mc-magento2](https://github.com/mailchimp/mc-magento2) - MailChimp for Magento 2. Syncs all data (subscriber, customers, orders, products) and enables marketing automation with email campaigns, automations, ads, postcards and more.
 - [firegento/firegento-magesetup2](https://github.com/firegento/firegento-magesetup2) - MageSetup for Magento2
-- [5mehulhelp5/MagentoExtensions](https://github.com/5mehulhelp5/MagentoExtensions) - Magento Extension Directory 1&gt; Themes Switcher 2&gt; Default Shipping On Cart 3&gt; Upshare 4&gt; Product Image Optimizer  5&gt; Idealo Product Export  6&gt; magento Google shopping Api v2 7&gt;Goo
 - [boldcommerce/magento2-ordercomments](https://github.com/boldcommerce/magento2-ordercomments) - Add an order comments field in the default checkout for Magento 2.
 - [Smile-SA/elasticsuite](https://github.com/Smile-SA/elasticsuite) - Smile ElasticSuite - Magento 2 merchandising and search engine built on ElasticSearch
 - [bruno-canada/magento2-hrefLang](https://github.com/bruno-canada/magento2-hrefLang) - This Magento 2 multi store extension adds the alternate hreflang tag for: Pages, Product and Category.
@@ -1448,7 +1459,6 @@
 - [Nosto/nosto-magento](https://github.com/Nosto/nosto-magento) - Magento extension for Nosto
 - [fooman/common](https://github.com/fooman/common) - Fooman Common
 - [xl7dev/WebShell](https://github.com/xl7dev/WebShell) - Webshell && Backdoor Collection
-- [jf-xia/magento_extensions](https://github.com/jf-xia/magento_extensions) - magento extensions
 - [webguys-de/TelefonKeinPflicht](https://github.com/webguys-de/TelefonKeinPflicht) - Mini-Magento Modul welches das Feld Telefon als Pflichtfeld entfernt.
 - [udovicic/Magento_Custom_Shipping](https://github.com/udovicic/Magento_Custom_Shipping) - Sample code written for educational purposes
 - [mamocbv/UnCancel](https://github.com/mamocbv/UnCancel) - Magento UnCancel Order
