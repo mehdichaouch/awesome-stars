@@ -111,7 +111,6 @@
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [jedisct1/libsodium-php](https://github.com/jedisct1/libsodium-php) - The PHP extension for libsodium.
-- [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The official Exploit Database repository
 - [magento-hackathon/Sandfox_GeoIP](https://github.com/magento-hackathon/Sandfox_GeoIP) - Connects MaxMind GeoIP DB to Magento
 - [notro/fbtft](https://github.com/notro/fbtft) - Linux Framebuffer drivers for small TFT LCD display modules
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
@@ -1058,6 +1057,7 @@
 - [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
 - [kilimchoi/cryptocurrency](https://github.com/kilimchoi/cryptocurrency) - Overview of top cryptocurrencies
 - [cmahon/awesome-cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency) - Cryptocurrency resources
+- [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb
 - [h5bp/lazyweb-requests](https://github.com/h5bp/lazyweb-requests) - Get projects and ideas built by the community
 - [folpindo/docker-centos7-phpqatools](https://github.com/folpindo/docker-centos7-phpqatools) - 
 - [bsstokes/xip.io-cert](https://github.com/bsstokes/xip.io-cert) - Self-Signed SSL Certificate for xip.io
