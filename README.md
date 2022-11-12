@@ -893,7 +893,6 @@
 - [anisayari/Youtube-apprendre-le-deeplearning-avec-tensorflow](https://github.com/anisayari/Youtube-apprendre-le-deeplearning-avec-tensorflow) - Ce repo contient les codes développés dans le cadre de ma série de vidéo sur Youtube pour apprendre à coder en python en utilisant Tensorflow afin de réaliser des tâches de Deep Learning.
 - [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [microsoft/ProjectOxford-ClientSDK](https://github.com/microsoft/ProjectOxford-ClientSDK) - This repo has moved :house: Visit our website for the latest SDKs & Samples
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 
 ## Kotlin 
 
@@ -1861,6 +1860,7 @@
 - [derv82/wifite](https://github.com/derv82/wifite) - 
 - [theodo/synckeys](https://github.com/theodo/synckeys) - synckeys a simple tool to manage ssh keys of multiple people spread on multiple servers
 - [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
 - [bslatkin/mirrorrr](https://github.com/bslatkin/mirrorrr) - Web proxy for App Engine
 - [timbrel/GitSavvy](https://github.com/timbrel/GitSavvy) - Full git and GitHub integration with Sublime Text
