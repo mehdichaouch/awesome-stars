@@ -467,6 +467,7 @@
 
 ## JavaScript
 
+- [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Gatsby and Airtable.
 - [cloudinary/responsive_breakpoints_generator](https://github.com/cloudinary/responsive_breakpoints_generator) -
