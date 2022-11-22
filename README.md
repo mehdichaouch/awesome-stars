@@ -1122,7 +1122,6 @@
 - [ronakchauhan/ProjectData](https://github.com/ronakchauhan/ProjectData) -
 - [sinichi33/newrep](https://github.com/sinichi33/newrep) - new rep
 - [nicksportpat/sportpat](https://github.com/nicksportpat/sportpat) - sportpat repository Magento 2.2.11
-- [ocadmin81/inn7](https://github.com/ocadmin81/inn7) - INN7 Magento 2 site
 - [advocodo/Advocodo_Group](https://github.com/advocodo/Advocodo_Group) - Magento module to add group list and custom group input in customer create account form.
 - [magento-hackathon/module-eavcleaner-m2](https://github.com/magento-hackathon/module-eavcleaner-m2) - Clean up your Magento database by removing orphaned, unused and wrongly added attribute, attribute values and settings (for M2).
 - [jf-xia/magento_extensions](https://github.com/jf-xia/magento_extensions) - magento extensions
