@@ -962,6 +962,7 @@
 
 ## Others 
 
+- [SymfonyCon/2022-talks](https://github.com/SymfonyCon/2022-talks) -
 - [ronangr1/M2-TechnicalInterviewsResources](https://github.com/ronangr1/M2-TechnicalInterviewsResources) - Compilation of all the questions that are asked during the technical interviews oriented for Magento.
 - [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
@@ -1815,7 +1816,6 @@
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [jolicode/docker-starter](https://github.com/jolicode/docker-starter) - 🏗️ A skeleton to start a new web project with PHP, Docker and Invoke
 - [Mage2Gen/Mage2Gen](https://github.com/Mage2Gen/Mage2Gen) - Python library for generating Magento 2 module
-- [realsirjoe/instagram-scraper](https://github.com/realsirjoe/instagram-scraper) - scrapes medias, likes, followers, tags and all metadata. Inspired by instagram-php-scraper,bot
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [webchun/bootstrap-4-sublime-autocomplete](https://github.com/webchun/bootstrap-4-sublime-autocomplete) - Bootstrap 4 Autocomplete for Sublime Text 3
