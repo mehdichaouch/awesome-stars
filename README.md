@@ -963,8 +963,10 @@
 - [fitztrev/shuttle](https://github.com/fitztrev/shuttle) - A simple shortcut menu for macOS
 - [YANOUSHek/LogCat](https://github.com/YANOUSHek/LogCat) - A simple adb logcat viewer for Mac OS X written in Objective-C
 
-## Others 
+## Others
 
+- [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+- [shubham-123-els/beautyroute_elsner](https://github.com/shubham-123-els/beautyroute_elsner) - beautyroute_elsner
 - [SymfonyCon/2022-talks](https://github.com/SymfonyCon/2022-talks) -
 - [ronangr1/M2-TechnicalInterviewsResources](https://github.com/ronangr1/M2-TechnicalInterviewsResources) - Compilation of all the questions that are asked during the technical interviews oriented for Magento.
 - [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
@@ -1119,6 +1121,7 @@
 
 ## PHP
 
+- [valanitin/Test](https://github.com/valanitin/Test) -
 - [mage-os/mageos-magento2](https://github.com/mage-os/mageos-magento2) - Work in progress.
 - [happyfridayM2/pruebasgit](https://github.com/happyfridayM2/pruebasgit) - Repositorio para realizar pruebas de GIT en el subdominio happyfriday;
 - [jonatanlaksamanapurnomo/kadoqu](https://github.com/jonatanlaksamanapurnomo/kadoqu) -
