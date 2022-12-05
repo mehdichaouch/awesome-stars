@@ -2094,6 +2094,7 @@
 
 ## TypeScript 
 
+- [romgere/text2stl](https://github.com/romgere/text2stl) - 3D text generator for 3D printing. EmberJs / Typescript / Three.js
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [graphcommerce-org/graphcommerce](https://github.com/graphcommerce-org/graphcommerce) - GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
