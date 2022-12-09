@@ -19,6 +19,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Eagle](#eagle)
+- [Elixir](#elixir)
 - [Elm](#elm)
 - [GCC Machine Description](#gcc-machine-description)
 - [Go](#go)
@@ -245,6 +246,10 @@
 ## Eagle 
 
 - [hallard/teleinfo](https://github.com/hallard/teleinfo) - Projets dédié à la téléinformation
+
+## Elixir
+
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## Elm 
 
@@ -965,6 +970,7 @@
 
 ## Others
 
+- [multiplie-fr/minimit](https://github.com/multiplie-fr/minimit) - Le MiniMit permet de redonner vie aux Minitels
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [shubham-123-els/beautyroute_elsner](https://github.com/shubham-123-els/beautyroute_elsner) - beautyroute_elsner
 - [SymfonyCon/2022-talks](https://github.com/SymfonyCon/2022-talks) -
@@ -2093,6 +2099,7 @@
 
 ## TypeScript 
 
+- [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [romgere/text2stl](https://github.com/romgere/text2stl) - 3D text generator for 3D printing. EmberJs / Typescript / Three.js
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [graphcommerce-org/graphcommerce](https://github.com/graphcommerce-org/graphcommerce) - GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
