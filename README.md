@@ -946,7 +946,6 @@
 ## Nunjucks 
 
 - [5t3ph/moderncss-dot-dev](https://github.com/5t3ph/moderncss-dot-dev) - Posts from the series "Modern CSS Solutions to Old CSS Problems"
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 
 ## OCaml 
 
@@ -1396,6 +1395,7 @@
 - [paragonie/anti-csrf](https://github.com/paragonie/anti-csrf) - Full-Featured Anti-CSRF Library
 - [paragonie/easydb](https://github.com/paragonie/easydb) - Easy-to-use PDO wrapper for PHP projects.
 - [paragonie/csp-builder](https://github.com/paragonie/csp-builder) - Build Content-Security-Policy headers from a JSON file (or build them programmatically)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
 - [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories
 - [Marko-M/Inchoo_Precache](https://github.com/Marko-M/Inchoo_Precache) - Magento pre-cache PHP shell script
