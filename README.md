@@ -2039,7 +2039,7 @@
 - [Dealerdirect/php-qa-tools](https://github.com/Dealerdirect/php-qa-tools) - A metapackage for all PHP quality assurance tools we use at Dealerdirect
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
-- [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx (with PHP5 and PHP7)
+- [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [firegento/MageCI](https://github.com/firegento/MageCI) - Magento Continuous Integration Tools
 - [MageHD/Magento-1.9.2-Vagrant-Install](https://github.com/MageHD/Magento-1.9.2-Vagrant-Install) - A vagrant box that will create a vanilla Magento 1.9 install including sample data. Compliments of Scotchbox and Magerun.
