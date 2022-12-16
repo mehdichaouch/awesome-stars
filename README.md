@@ -1126,6 +1126,9 @@
 
 ## PHP 
 
+- [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) - 
+- [markshust/magento2-module-example-set-theme-for-specific-route](https://github.com/markshust/magento2-module-example-set-theme-for-specific-route) - This is an example of a Magento 2 module that sets the theme, but only for a specific route.
+- [pragmatic-modules/magento2-module-jslayout-parser](https://github.com/pragmatic-modules/magento2-module-jslayout-parser) - 
 - [valanitin/Test](https://github.com/valanitin/Test) - 
 - [mage-os/mageos-magento2](https://github.com/mage-os/mageos-magento2) - Work in progress.
 - [happyfridayM2/pruebasgit](https://github.com/happyfridayM2/pruebasgit) - Repositorio para realizar pruebas de GIT en el subdominio happyfriday;
@@ -2066,7 +2069,7 @@
 - [dockerfile/percona](https://github.com/dockerfile/percona) - Percona Server Dockerfile for trusted automated Docker builds.
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu) - git mirror of upstream bzr at http://launchpad.net/byobu
 - [jasonrobertfox/dotfiles](https://github.com/jasonrobertfox/dotfiles) - Shell and other configurations
 - [greg0ire/git_template](https://github.com/greg0ire/git_template) - Automating your workflow with git
@@ -2155,7 +2158,7 @@
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [lichess-org/chessground](https://github.com/lichess-org/chessground) - Mobile/Web chess UI for lichess.org
 - [udleinati/redirect.center](https://github.com/udleinati/redirect.center) - Redirect domains using DNS only
-- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
+- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [beizhedenglong/weird-fonts](https://github.com/beizhedenglong/weird-fonts) - 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
