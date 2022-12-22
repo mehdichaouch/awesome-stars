@@ -1126,6 +1126,7 @@
 
 ## PHP 
 
+- [rafaelstz/magento2-quicklink](https://github.com/rafaelstz/magento2-quicklink) - ⚡️ Magento 2 extension faster subsequent page-loads by prefetching in-viewport links during idle time.
 - [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) - 
 - [markshust/magento2-module-example-set-theme-for-specific-route](https://github.com/markshust/magento2-module-example-set-theme-for-specific-route) - This is an example of a Magento 2 module that sets the theme, but only for a specific route.
 - [pragmatic-modules/magento2-module-jslayout-parser](https://github.com/pragmatic-modules/magento2-module-jslayout-parser) - 
