@@ -329,8 +329,9 @@
 
 - [Genaker/TerraformMagentoCloud](https://github.com/Genaker/TerraformMagentoCloud) - AWS Magento 2 cloud Terraform infrastructure as code. For any systems WordPress / WooCommerce/ Drupal / Shopware 6 / Shopify APP / VueStorefront / Oddo / ORO / Magento 2 with horizontal Auto scaling (
 
-## HTML 
+## HTML
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [caltamiranoHYLETE/mercurial-to-git](https://github.com/caltamiranoHYLETE/mercurial-to-git) -
 - [gsheeets/call](https://github.com/gsheeets/call) - 📞  Call - Smart Way to Make Phone Numbers Clickable in Google Sheets
 - [iMi-digital/magento2-store-switch-all-store-views](https://github.com/iMi-digital/magento2-store-switch-all-store-views) - This module makes all store views available in the store switcher, regardless of their store or website.
@@ -1128,6 +1129,14 @@
 
 ## PHP
 
+- [ambab-infotech/coupon-error-message](https://github.com/ambab-infotech/coupon-error-message) -
+- [catgento/magento2-admin-activity](https://github.com/catgento/magento2-admin-activity) - Magento 2 - Admin Activity (originally developed by KiwiCommerce)
+- [semaio/Magento2-ConfigImportExport](https://github.com/semaio/Magento2-ConfigImportExport) - Import/Export configuration data in Magento 2 via CLI.
+- [tuyennn/magento2-change-customer-password](https://github.com/tuyennn/magento2-change-customer-password) - Change Customer Password In Admin Magento 2 module is implements the form in customer edit admin-end allows admin changing customer password directly like old-fashion way Magento 1.
+- [baldwin-agency/magento2-module-url-data-integrity-checker](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - Magento 2 module which can find potential url related problems in your catalog data
+- [pykettk/module-cms-identifier-markup](https://github.com/pykettk/module-cms-identifier-markup) - A Magento 2 module that adds markup to CMS entities to help easily identify them in the admin.
+- [pykettk/module-reset-bookmark-ui](https://github.com/pykettk/module-reset-bookmark-ui) - A Magento 2 module to allow admins to reset their bookmarks.
+- [pykettk/module-indexer-deploy-config](https://github.com/pykettk/module-indexer-deploy-config) - A Magento 2 module that allows developers to lock indexer modes via deployment config.
 - [extdn/extension-dashboard-m2](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display installed extensions. Read the blog post on some of the thinking behind it:
 - [rafaelstz/magento2-quicklink](https://github.com/rafaelstz/magento2-quicklink) - ⚡️ Magento 2 extension faster subsequent page-loads by prefetching in-viewport links during idle time.
 - [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) -
@@ -2050,7 +2059,6 @@
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [firegento/MageCI](https://github.com/firegento/MageCI) - Magento Continuous Integration Tools
 - [MageHD/Magento-1.9.2-Vagrant-Install](https://github.com/MageHD/Magento-1.9.2-Vagrant-Install) - A vagrant box that will create a vanilla Magento 1.9 install including sample data. Compliments of Scotchbox and Magerun.
-- [bitnami/bitnami-docker-magento](https://github.com/bitnami/bitnami-docker-magento) - Bitnami Docker Image for Magento
 - [DavidBelicza/magento2-server-configuration](https://github.com/DavidBelicza/magento2-server-configuration) - Magento 2 server configuration -PHP7, Nginx, Postfix
 - [subeshpokhrel/ajaxify](https://github.com/subeshpokhrel/ajaxify) - Ajaxify helpes the developer to simplify the usage of Ajax on a Magento platform. Also available on Magento Connect. Over 300+ Downloads.
 - [AOEpeople/MageTestStand](https://github.com/AOEpeople/MageTestStand) - 
