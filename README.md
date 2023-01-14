@@ -354,6 +354,7 @@
 - [paullewallencom/magento-978-1-7858-8822-9](https://github.com/paullewallencom/magento-978-1-7858-8822-9) - Magento 2 Theme Design - Second Edition
 - [magento-devdocs/pbmodules](https://github.com/magento-devdocs/pbmodules) - Scaffolding CLI for Page Builder modules
 - [codrops/codrops2020](https://github.com/codrops/codrops2020) - A roundup of Codrops resources from 2020.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [GetLuko/Covid19-French-Auth](https://github.com/GetLuko/Covid19-French-Auth) - 
 - [nntoan/nntoan.github.io](https://github.com/nntoan/nntoan.github.io) - UNIX Portfolio-like
@@ -551,7 +552,6 @@
 - [cssstats/cssstats](https://github.com/cssstats/cssstats) - Visualize various stats about your CSS
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [feross/TheAnnoyingSite.com](https://github.com/feross/TheAnnoyingSite.com) - The Annoying Site a.k.a. "The Power of the Web Platform"
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
