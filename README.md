@@ -500,7 +500,7 @@
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [muan/emojilib](https://github.com/muan/emojilib) - Emoji keyword library.
 - [p-e-w/argos](https://github.com/p-e-w/argos) - Create GNOME Shell extensions in seconds
-- [oddoculus/scrollreveal](https://github.com/oddoculus/scrollreveal) - Animate elements as they scroll into view.
+- [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 - [cuixiping/Save-Image-as-Type](https://github.com/cuixiping/Save-Image-as-Type) - Chrome扩展：Save Image As Type，为图片右键菜单添加另存为jpg,png,webp文件的功能。Save Image as Type is  an chrome extension which add Save as PNG / JPG / WebP option for the context menu of image.
 - [twitter-together/action](https://github.com/twitter-together/action) - :bird: A GitHub action to tweet from a repository
 - [thaydds/chrome-extension-get-token](https://github.com/thaydds/chrome-extension-get-token) - 
