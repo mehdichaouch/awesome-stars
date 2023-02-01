@@ -589,7 +589,6 @@
 - [prerender/prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
 - [stevenschobert/instafeed.js](https://github.com/stevenschobert/instafeed.js) - A simple Instagram JavaScript plugin for your website
 - [liip/TheA11yMachine](https://github.com/liip/TheA11yMachine) - The A11y Machine is an automated accessibility testing tool which crawls and tests pages of any web application to produce detailed reports.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [frinyvonnick/gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog) - A changelog generator for gitmoji 😜
@@ -923,6 +922,7 @@
 ## Makefile 
 
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [EmakinaFR/docker-magento2](https://github.com/EmakinaFR/docker-magento2) - :whale: Environment for a Magento2 application using Docker.
 - [httpwg/http2-spec](https://github.com/httpwg/http2-spec) - Working copy of the HTTP/2 Specification
 
@@ -972,7 +972,6 @@
 
 - [multiplie-fr/minimit](https://github.com/multiplie-fr/minimit) - Le MiniMit permet de redonner vie aux Minitels
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-- [shubham-123-els/beautyroute_elsner](https://github.com/shubham-123-els/beautyroute_elsner) - beautyroute_elsner
 - [SymfonyCon/2022-talks](https://github.com/SymfonyCon/2022-talks) - 
 - [ronangr1/M2-TechnicalInterviewsResources](https://github.com/ronangr1/M2-TechnicalInterviewsResources) - Compilation of all the questions that are asked during the technical interviews oriented for Magento.
 - [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
@@ -1142,7 +1141,6 @@
 - [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) - 
 - [markshust/magento2-module-example-set-theme-for-specific-route](https://github.com/markshust/magento2-module-example-set-theme-for-specific-route) - This is an example of a Magento 2 module that sets the theme, but only for a specific route.
 - [pragmatic-modules/magento2-module-jslayout-parser](https://github.com/pragmatic-modules/magento2-module-jslayout-parser) - 
-- [valanitin/Test](https://github.com/valanitin/Test) - 
 - [mage-os/mageos-magento2](https://github.com/mage-os/mageos-magento2) - Work in progress.
 - [jonatanlaksamanapurnomo/kadoqu](https://github.com/jonatanlaksamanapurnomo/kadoqu) - 
 - [cparadigm/bottomline](https://github.com/cparadigm/bottomline) - 
