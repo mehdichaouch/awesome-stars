@@ -1125,6 +1125,8 @@
 
 ## PHP 
 
+- [degdigital/magento2-customreports](https://github.com/degdigital/magento2-customreports) - Magento 2 module that allows an admin panel user to create new reporting grids via SQL statements.
+- [LavoWeb/magento2-customreports](https://github.com/LavoWeb/magento2-customreports) - Magento 2 module that allows an admin panel user to create new reporting grids via SQL statements.
 - [zepgram/module-multi-threading](https://github.com/zepgram/module-multi-threading) - This module is a powerful tool for developers who want to process large data sets in a short amount of time.
 - [ambab-infotech/coupon-error-message](https://github.com/ambab-infotech/coupon-error-message) - 
 - [catgento/magento2-admin-activity](https://github.com/catgento/magento2-admin-activity) - Magento 2 - Admin Activity (originally developed by KiwiCommerce)
