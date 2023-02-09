@@ -1144,9 +1144,7 @@
 - [mage-os/mageos-magento2](https://github.com/mage-os/mageos-magento2) - Work in progress.
 - [jonatanlaksamanapurnomo/kadoqu](https://github.com/jonatanlaksamanapurnomo/kadoqu) -
 - [cparadigm/bottomline](https://github.com/cparadigm/bottomline) -
-- [Rekhaperiasamy/Magento-Codebase](https://github.com/Rekhaperiasamy/Magento-Codebase) -
 - [sinichi33/newrep](https://github.com/sinichi33/newrep) - new rep
-- [nicksportpat/sportpat](https://github.com/nicksportpat/sportpat) - sportpat repository Magento 2.2.11
 - [advocodo/Advocodo_Group](https://github.com/advocodo/Advocodo_Group) - Magento module to add group list and custom group input in customer create account form.
 - [magento-hackathon/module-eavcleaner-m2](https://github.com/magento-hackathon/module-eavcleaner-m2) - Clean up your Magento database by removing orphaned, unused and wrongly added attribute, attribute values and settings (for M2).
 - [jf-xia/magento_extensions](https://github.com/jf-xia/magento_extensions) - magento extensions
@@ -1252,7 +1250,6 @@
 - [Smile-SA/magento2-module-gift-sales-rule](https://github.com/Smile-SA/magento2-module-gift-sales-rule) - Magento2 module to create gift product sales rules.
 - [giggsey/libphonenumber-for-php](https://github.com/giggsey/libphonenumber-for-php) - PHP version of Google's phone number handling library
 - [Straja12/UconM2](https://github.com/Straja12/UconM2) - 
-- [vikasneoventis/extension2](https://github.com/vikasneoventis/extension2) - 
 - [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [postaddictme/instagram-php-scraper](https://github.com/postaddictme/instagram-php-scraper) - Get account information, photos, videos, stories and comments.
@@ -1269,7 +1266,6 @@
 - [staempfli/magento2-module-seo](https://github.com/staempfli/magento2-module-seo) - Magento 2 Module for Search Engine Optimization
 - [docksal/boilerplate-magento-demo](https://github.com/docksal/boilerplate-magento-demo) - Magento boilerplate with default content powered by Docksal
 - [magepal/magento2-edit-order-email](https://github.com/magepal/magento2-edit-order-email) - Magento2 - Edit Order Email from Admin
-- [sumitnamdeo/My-Projects](https://github.com/sumitnamdeo/My-Projects) - This is collection of projects
 - [donatj/PhpUserAgent](https://github.com/donatj/PhpUserAgent) - Lightning Fast, Minimalist PHP User Agent String Parser.
 - [tuyennn/Magento2_Malaysian_LocalePack_ms_MY](https://github.com/tuyennn/Magento2_Malaysian_LocalePack_ms_MY) - Malaysia language Pack for Magento 2 Community Edition
 - [mageplaza/magento-2-currency-formatter](https://github.com/mageplaza/magento-2-currency-formatter) - Mageplaza Currency Formatter extension brings flexibility in formatting the price currency appearance in Magento stores. With the support of Currency Formatter, customers from multi-nations will feel 
@@ -2139,7 +2135,7 @@
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [mathjax/MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
 - [justinribeiro/lite-youtube](https://github.com/justinribeiro/lite-youtube) - The fastest little YouTube web component on this side of the internet. The shadow dom web component version of Paul's lite-youtube-embed.
-- [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - React-based framework for building dynamic, Shopify-powered custom storefronts.
+- [Shopify/hydrogen-v1](https://github.com/Shopify/hydrogen-v1) - React-based framework for building dynamic, Shopify-powered custom storefronts.
 - [jellesiderius/mage-db-sync](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.
 - [atymic/deployer-php-action](https://github.com/atymic/deployer-php-action) - Deploy PHP projects using Deployer from Github Actions
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
