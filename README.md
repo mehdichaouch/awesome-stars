@@ -1334,7 +1334,7 @@
 - [swoft-cloud/swoft](https://github.com/swoft-cloud/swoft) - 🚀 PHP Microservice Full Coroutine Framework
 - [Tabrisrp/wps-hide-login](https://github.com/Tabrisrp/wps-hide-login) - WPS Hide Login
 - [sivaschenko/masonry-grid-example](https://github.com/sivaschenko/masonry-grid-example) - Magento masonry grid example
-- [ergonode/backend](https://github.com/ergonode/backend) - Ergonode backend repository
+- [ergonode/backend](https://github.com/ergonode/backend) - For seeing Ergonode in action please book a demo https://www.ergonode.com/book-a-demo
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, 
 - [magepal/magento2-google-tag-manager](https://github.com/magepal/magento2-google-tag-manager) - Google Tag Manager is a user-friendly, yet powerful and cost-effective solution that is a must-have integration for every Magento store. It simplifies the process of adding and managing third-party Ja
 - [marellocommerce/marello-application](https://github.com/marellocommerce/marello-application) - Marello Application
@@ -2213,7 +2213,7 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) - 
 - [mitchas/Keyframes](https://github.com/mitchas/Keyframes) - A simple CSS toolbox
-- [ergonode/frontend](https://github.com/ergonode/frontend) - Ergonode frontend repository
+- [ergonode/frontend](https://github.com/ergonode/frontend) - For seeing Ergonode in action please book a demo https://www.ergonode.com/book-a-demo
 - [AndreLion/html5-localstorage-manager](https://github.com/AndreLion/html5-localstorage-manager) - Chrome extension for managing local storage, session storage and cookie. Realtime syncing, JSON-friendly editor, inspecting in independent popup window. Helps you accelerate web development if you rel
 
 ## XSLT 
