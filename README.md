@@ -481,6 +481,7 @@
 
 ## JavaScript
 
+- [vjeantet/hugo-theme-docdock](https://github.com/vjeantet/hugo-theme-docdock) - Declination of @matcornic  Learn theme to Hugo
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [sanderheilbron/seo-shortcuts](https://github.com/sanderheilbron/seo-shortcuts) - SEO Shortcuts — A browser extension for Chrome
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
@@ -2083,6 +2084,7 @@
 - [greg0ire/git_template](https://github.com/greg0ire/git_template) - Automating your workflow with git
 - [colinmollenhour/modman](https://github.com/colinmollenhour/modman) - Modularize extensions using symlinks. Voted #1 Magento tool by @WebShopApps!
 - [andy-s-clark/zmagento2](https://github.com/andy-s-clark/zmagento2) - 
+- [henrik/dotfiles](https://github.com/henrik/dotfiles) - Dotfiles.
 - [ffuenf/vagrant-boxes](https://github.com/ffuenf/vagrant-boxes) - baseboxes build with packer.io for use with vagrant
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [IsaacSchemm/MultiCD](https://github.com/IsaacSchemm/MultiCD) - A shell script package for creating combination disks from Linux ISOs.
@@ -2204,9 +2206,8 @@
 ## Vim Script
 
 - [rouffj/vim-config](https://github.com/rouffj/vim-config) - Config vim
-- [henrik/dotfiles](https://github.com/henrik/dotfiles) - Dotfiles.
 
-## Vue 
+## Vue
 
 - [anvaka/vuereddit](https://github.com/anvaka/vuereddit) - A simple reddit client written as a vue component.
 - [elgentos/magento2-upgrade-gui](https://github.com/elgentos/magento2-upgrade-gui) - Magento 2 Upgrade GUI
