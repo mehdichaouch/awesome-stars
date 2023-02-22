@@ -1438,7 +1438,7 @@
 - [astorm/MagentoTarToConnect](https://github.com/astorm/MagentoTarToConnect) - A small shell script to automatically package tar archives into Magento's Connect 2.0 format.
 - [fbrnc/Aoe_FilePicker](https://github.com/fbrnc/Aoe_FilePicker) - Integrates Filepicker.io into Magento
 - [magesec/projectintegrity](https://github.com/magesec/projectintegrity) - 
-- [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
+- [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 - [symfony/thanks](https://github.com/symfony/thanks) - Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
 - [yireo-magento1/Yireo_CheckoutTester](https://github.com/yireo-magento1/Yireo_CheckoutTester) - 
@@ -1673,14 +1673,14 @@
 - [silexphp/Silex](https://github.com/silexphp/Silex) - [DEPRECATED -- Use Symfony instead] The PHP micro-framework based on the Symfony Components
 - [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper
 - [ludofleury/GuzzleBundle](https://github.com/ludofleury/GuzzleBundle) - Debug your API Calls with a Symfony web profiler for guzzle
-- [ludofleury/satisfy](https://github.com/ludofleury/satisfy) - Satis composer repository manager with a Web UI
+- [project-satisfy/satisfy](https://github.com/project-satisfy/satisfy) - Satis composer repository manager with a Web UI
 - [lastguest/pixeler](https://github.com/lastguest/pixeler) - CLI image renderer
 - [matks/Vivian](https://github.com/matks/Vivian) - Pretty console output in PHP
 - [symfony/symfony-installer](https://github.com/symfony/symfony-installer) - The Symfony Installer
 - [FriendsOfSymfony/FOSHttpCache](https://github.com/FriendsOfSymfony/FOSHttpCache) - Integrate your PHP application with your HTTP caching proxy
 - [commerceguys/intl](https://github.com/commerceguys/intl) - A PHP internationalization library, powered by CLDR data.
 - [commerceguys/tax](https://github.com/commerceguys/tax) - A PHP 5.5+ tax library.
-- [jupeter/DoctrineDumpFixturesBundle](https://github.com/jupeter/DoctrineDumpFixturesBundle) - Bundle for Symfony 2, where you can dump database data into fixtures.
+- [piotrplenik/DoctrineDumpFixturesBundle](https://github.com/piotrplenik/DoctrineDumpFixturesBundle) - Bundle for Symfony 2, where you can dump database data into fixtures.
 - [AOEpeople/Aoe_Scheduler](https://github.com/AOEpeople/Aoe_Scheduler) - Cron Scheduler Module for Magento
 - [dg/ftp-php](https://github.com/dg/ftp-php) - FTP Wrapper Class for PHP 5
 - [FriendsOfPHP/pickle](https://github.com/FriendsOfPHP/pickle) - PHP Extension installer
