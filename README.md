@@ -341,7 +341,6 @@
 - [datalog/qrcode-svg](https://github.com/datalog/qrcode-svg) - Pure javascript QR Code generator. Armed with elegant svg path method.
 - [SnowdogApps/magento2-alpaca-theme](https://github.com/SnowdogApps/magento2-alpaca-theme) - Magento 2 theme built on top of Alpaca design system crafted for ecommerce
 - [tomlutzenberger/time-estimation](https://github.com/tomlutzenberger/time-estimation) - Calculate and share your tasks with PERT (Program Evaluation and Review Technique)
-- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [ajax-lives/NoRussian](https://github.com/ajax-lives/NoRussian) - Volunteer DoS tool via HTML + JS
 - [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
 - [anisayari/createurstech.fr](https://github.com/anisayari/createurstech.fr) - Première plateforme collaborative et open source qui référence les créateurs de contenus tech francophone.
@@ -1919,6 +1918,7 @@
 - [magento/devdocs](https://github.com/magento/devdocs) - Magento Developer Documentation
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [hfreire/rotating-proxy](https://github.com/hfreire/rotating-proxy) - Rotating TOR proxy with Docker
