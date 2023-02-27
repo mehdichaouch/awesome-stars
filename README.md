@@ -436,7 +436,7 @@
 - [drpout/boilr](https://github.com/drpout/boilr) - Price alarms for Bitcoin, cryptocurrencies, cryptoassets, futures and options.
 - [psal/anonymouth](https://github.com/psal/anonymouth) - 
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
-- [apache/opennlp](https://github.com/apache/opennlp) - Mirror of Apache OpenNLP
+- [apache/opennlp](https://github.com/apache/opennlp) - Apache OpenNLP
 - [Haehnchen/idea-php-symfony2-plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) - IntelliJ IDEA / PhpStorm Symfony Plugin
 - [nVisium/xssValidator](https://github.com/nVisium/xssValidator) - This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.
 - [matsuhiro/AndroidDownloadManger](https://github.com/matsuhiro/AndroidDownloadManger) - download manger for Android
@@ -1132,6 +1132,7 @@
 
 ## PHP
 
+- [SamueleMartini/Magento-GPT-3-integration](https://github.com/SamueleMartini/Magento-GPT-3-integration) - Module to integrate Open AI GPT-3 in Magento
 - [degdigital/magento2-customreports](https://github.com/degdigital/magento2-customreports) - Magento 2 module that allows an admin panel user to create new reporting grids via SQL statements.
 - [LavoWeb/magento2-customreports](https://github.com/LavoWeb/magento2-customreports) - Magento 2 module that allows an admin panel user to create new reporting grids via SQL statements.
 - [zepgram/module-multi-threading](https://github.com/zepgram/module-multi-threading) - This module is a powerful tool for developers who want to process large data sets in a short amount of time.
@@ -1769,6 +1770,8 @@
 
 ## Python 
 
+- [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [darkosancanin/bravia_console](https://github.com/darkosancanin/bravia_console) - Bravia Console is a simple console interface written in Python to send remote control commands to a Sony Bravia TV.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
@@ -1958,6 +1961,7 @@
 
 ## Rust 
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
@@ -2119,6 +2123,8 @@
 
 ## TypeScript 
 
+- [egoist/tailwindcss-icons](https://github.com/egoist/tailwindcss-icons) - Use any icon (100,000+) from Iconify, for TailwindCSS
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [romgere/text2stl](https://github.com/romgere/text2stl) - 3D text generator for 3D printing. EmberJs / Typescript / Three.js
