@@ -1368,7 +1368,7 @@
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [pronamic/woocommerce-subscriptions](https://github.com/pronamic/woocommerce-subscriptions) - WooCommerce Subscriptions, Git-ified. Synced manual! This repository is just a mirror of the WooCommerce Subscriptions plugin. Please do not send pull requests and issues.
 - [LavoWeb/Lyra-Magento2](https://github.com/LavoWeb/Lyra-Magento2) - 
-- [symfony/error-handler](https://github.com/symfony/error-handler) - The ErrorHandler component provides tools to manage errors and ease debugging PHP code.
+- [symfony/error-handler](https://github.com/symfony/error-handler) - Provides tools to manage errors and ease debugging PHP code
 - [magento-hackathon/cli-plugin-list](https://github.com/magento-hackathon/cli-plugin-list) - Get an overview of plugins installed and detect their influence on a Magento 2 instance
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [mgtcommerce/Mgt_Developertoolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Mgt DeveloperToolbar for Magento 2
@@ -1562,7 +1562,7 @@
 - [Cotya/magento-composer-installer](https://github.com/Cotya/magento-composer-installer) - Composer installer for Magento modules
 - [madalinoprea/magneto-debug](https://github.com/madalinoprea/magneto-debug) - Magento Developer Toolbar
 - [mailchimp/mc-magento](https://github.com/mailchimp/mc-magento) - Mailchimp for Magento 1 Integration. Syncs all data (subscriber, customers, orders, products) and enables marketing automation with email campaigns, automations, ads, postcards and more.
-- [symfony/workflow](https://github.com/symfony/workflow) - The Workflow component provides tools for managing a workflow or finite state machine.
+- [symfony/workflow](https://github.com/symfony/workflow) - Provides tools for managing a workflow or finite state machine
 - [fooman/googleanalyticsplus](https://github.com/fooman/googleanalyticsplus) - Magento Extension to add extra features to the default GoogleAnalytics module.
 - [magento-ecg/magniffer](https://github.com/magento-ecg/magniffer) - An extendable, XPath driven, static code analysis tool for Magento, built on the top of PHP-Parser library.
 - [box-project/box2](https://github.com/box-project/box2) - An application for building and managing Phars.
@@ -1772,6 +1772,7 @@
 
 ## Python 
 
+- [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -1935,7 +1936,7 @@
 - [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers
 - [mrkamel/heartbeat](https://github.com/mrkamel/heartbeat) - Use Heartbeat to monitor your Hetzner Failover IP and automatically switch to another server.
 - [DivanteLtd/anonymizer](https://github.com/DivanteLtd/anonymizer) - Universal tool to anonymize database. GDPR (General Data Protection Regulation) data protection act supporting tool.
-- [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 - [richdynamix/magestead](https://github.com/richdynamix/magestead) - The Vagrant Solution for Magento Developers
 - [tibastral/contrats-francais](https://github.com/tibastral/contrats-francais) - Contrats français
 - [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
