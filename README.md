@@ -345,6 +345,7 @@
 - [ajax-lives/NoRussian](https://github.com/ajax-lives/NoRussian) - Volunteer DoS tool via HTML + JS
 - [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
 - [anisayari/createurstech.fr](https://github.com/anisayari/createurstech.fr) - Première plateforme collaborative et open source qui référence les créateurs de contenus tech francophone.
+- [fxhash/fxhash-boilerplate](https://github.com/fxhash/fxhash-boilerplate) - A boiletplate with webpack to develop generative Tokens on fxhash
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [hugo-toha/toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
@@ -526,7 +527,6 @@
 - [patorjk/figlet.js](https://github.com/patorjk/figlet.js) - A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
-- [fxhash/fxhash-webpack-boilerplate](https://github.com/fxhash/fxhash-webpack-boilerplate) - A boiletplate with webpack to develop generative Tokens on fxhash
 - [mxstbr/sharingbuttons.io](https://github.com/mxstbr/sharingbuttons.io) - Quickly generate social sharing buttons with a tiny performance footprint
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [sohelrana09/modified-checkout](https://github.com/sohelrana09/modified-checkout) - Move billing address under shipping address in checkout in magento 2
@@ -2032,7 +2032,7 @@
 - [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
 - [pyrech/csv-explorer](https://github.com/pyrech/csv-explorer) - Load a big CSV into a MySQL database and explore it with PHPMyAdmin
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extension in Docker containers
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [C-Duv/freemobile-smsapi-client](https://github.com/C-Duv/freemobile-smsapi-client) - API client for the Free Mobile SMS notification service
 - [riobard/bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script. See also https://github.com/riobard/zsh-powerline
