@@ -1037,7 +1037,7 @@
 - [FriendsOfAkeneo/awesome-akeneo](https://github.com/FriendsOfAkeneo/awesome-akeneo) - Awesome Akeneo
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network where developers grow together 👩🏽‍💻 👨‍💻
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [tducret/python-clean-architecture-example](https://github.com/tducret/python-clean-architecture-example) - Clean architecture example with Python
 - [cryptofinance-ai/cryptofinance-google-sheets-add-on](https://github.com/cryptofinance-ai/cryptofinance-google-sheets-add-on) - CRYPTOFINANCE() — The easiest way to get cryptocurrencies prices and more in Google Sheets.
 - [opengento/magento2-downgrade-ee-ce](https://github.com/opengento/magento2-downgrade-ee-ce) - Migration Tool for Magento Commerce (EE) to Magento OpenSource (CE)
@@ -1134,6 +1134,7 @@
 
 ## PHP
 
+- [jofDev/MuseFlowerAppLabDev](https://github.com/jofDev/MuseFlowerAppLabDev) - MuseFlowerAppLabDev Repository
 - [SamueleMartini/Magento-GPT-integration](https://github.com/SamueleMartini/Magento-GPT-integration) - Module to integrate Open AI GPT-3 in Magento
 - [degdigital/magento2-customreports](https://github.com/degdigital/magento2-customreports) - Magento 2 module that allows an admin panel user to create new reporting grids via SQL statements.
 - [LavoWeb/magento2-customreports](https://github.com/LavoWeb/magento2-customreports) - Magento 2 module that allows an admin panel user to create new reporting grids via SQL statements.
