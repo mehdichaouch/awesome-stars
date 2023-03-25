@@ -38,6 +38,7 @@
 - [Markdown](#markdown)
 - [Mustache](#mustache)
 - [NSIS](#nsis)
+- [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -950,6 +951,10 @@
 
 - [bmatzelle/gow](https://github.com/bmatzelle/gow) - Unix command line utilities installer for Windows.
 
+## Nix 
+
+- [fballiano/magento2-devenv](https://github.com/fballiano/magento2-devenv) - devenv.sh support for Magento2
+
 ## Nunjucks 
 
 - [5t3ph/moderncss-dot-dev](https://github.com/5t3ph/moderncss-dot-dev) - Posts from the series "Modern CSS Solutions to Old CSS Problems"
@@ -1134,6 +1139,7 @@
 
 ## PHP 
 
+- [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string)
 - [jofDev/MuseFlowerAppLabDev](https://github.com/jofDev/MuseFlowerAppLabDev) - MuseFlowerAppLabDev Repository
 - [SamueleMartini/Magento-GPT-integration](https://github.com/SamueleMartini/Magento-GPT-integration) - Module to integrate Open AI GPT-3 in Magento
 - [degdigital/magento2-customreports](https://github.com/degdigital/magento2-customreports) - Magento 2 module that allows an admin panel user to create new reporting grids via SQL statements.
@@ -2110,6 +2116,7 @@
 
 ## Swift 
 
+- [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
 - [schappim/macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard.
