@@ -87,6 +87,7 @@
 
 ## C 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap) - LICEcap simple animated screen capture tool for Windows and OS X
@@ -180,6 +181,7 @@
 
 ## CSS 
 
+- [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees
 - [hyva-themes/magento2-hyva-admin](https://github.com/hyva-themes/magento2-hyva-admin) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
@@ -266,6 +268,7 @@
 
 ## Go 
 
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
@@ -334,6 +337,7 @@
 
 ## HTML 
 
+- [lfolco/phpstorm-m2-filetemplates](https://github.com/lfolco/phpstorm-m2-filetemplates) - PHPStorm Magento 2 File Templates
 - [loopbackio/loopback.io](https://github.com/loopbackio/loopback.io) - LoopBack project site - now with documentation!
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [caltamiranoHYLETE/mercurial-to-git](https://github.com/caltamiranoHYLETE/mercurial-to-git) - 
@@ -422,6 +426,7 @@
 
 ## Java 
 
+- [magento/magento2-phpstorm-plugin](https://github.com/magento/magento2-phpstorm-plugin) - PHPStorm Plugin for Magento 2
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
@@ -467,7 +472,6 @@
 - [knowm/XChange](https://github.com/knowm/XChange) - XChange is a Java library providing a streamlined API for interacting with 60+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data.
 - [Twitter4J/Twitter4J](https://github.com/Twitter4J/Twitter4J) - Twitter4J is an open-source Java library for the Twitter API.
 - [rtyley/roboguice-sherlock](https://github.com/rtyley/roboguice-sherlock) - RoboGuice classes extending ActionBarSherlock classes
-- [JakeWharton/ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock) - [DEPRECATED] Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.
 - [keyboardsurfer/Crouton](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
 - [chrisbanes/Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) - DEPRECATED
 - [pwnall/chromeview](https://github.com/pwnall/chromeview) - Proof of concept Android WebView implementation based on Chromium code
@@ -484,6 +488,10 @@
 
 ## JavaScript 
 
+- [camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+- [vuestorefront/magento2-rest-client](https://github.com/vuestorefront/magento2-rest-client) - Magento2 Node.js Rest client
+- [elgentos/magento2-cypress-testing-suite](https://github.com/elgentos/magento2-cypress-testing-suite) - A community-driven Cypress testing suite for Magento 2
 - [Elijas/auto-youtube-subscription-playlist-2](https://github.com/Elijas/auto-youtube-subscription-playlist-2) - Script automatically adds videos to playlists from Youtube channels and/or subscriptions (Youtube Collections alternative).
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
@@ -981,6 +989,18 @@
 
 ## Others 
 
+- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
+- [SymfonyLive/paris-2023-talks](https://github.com/SymfonyLive/paris-2023-talks) - 
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS :)
+- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
+- [fooman/emailattachments-m2](https://github.com/fooman/emailattachments-m2) - Installation package for Fooman Email Attachments (Magento 2). To report any issues please see the implementation package linked below.
+- [sunel/awesome-magento](https://github.com/sunel/awesome-magento) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Magento ecosystem
+- [sitewards/headless-magento2-resources](https://github.com/sitewards/headless-magento2-resources) - A list of resources about consuming Magento 2 via the API in a frontend web client
+- [magespecialist/m2-MSP_Security_Suite](https://github.com/magespecialist/m2-MSP_Security_Suite) - Full MageSpecialist Security Suite
+- [fisheye-academy/m2cpfed-training](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2 Certified Professional Front End Developer exam
+- [roma-glushko/magento2-k6-load-tests](https://github.com/roma-glushko/magento2-k6-load-tests) - 
+- [netresearch/dhl-shipping-m2](https://github.com/netresearch/dhl-shipping-m2) - DHL multi-division shipping extension for Magento 2
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [ad-si/awesome-laser-cutting](https://github.com/ad-si/awesome-laser-cutting) - A curated list of awesome laser cutting resources.
 - [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists
@@ -1139,6 +1159,36 @@
 
 ## PHP 
 
+- [zepgram/magento-dotenv](https://github.com/zepgram/magento-dotenv) - Magento 2 Environment Variable Component - Implementing Symfony Dotenv
+- [akeneo/magento2-connector-community](https://github.com/akeneo/magento2-connector-community) - Akeneo Connector for Magento 2
+- [erikaheidi/dynacover](https://github.com/erikaheidi/dynacover) - Dynamic Twitter images and banners
+- [sivaschenko/magento2-clean-media](https://github.com/sivaschenko/magento2-clean-media) - Magento 2 media information and cleanup
+- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
+- [fnogatz/magento2-matomo](https://github.com/fnogatz/magento2-matomo) - Matomo Analytics Module for Magento 2
+- [magento-hackathon/bestsellers-sorting-m2](https://github.com/magento-hackathon/bestsellers-sorting-m2) - Bestsellers sorting of products in categories for Magento 2
+- [heidelpay/magento2](https://github.com/heidelpay/magento2) - For any issues or questions please get in touch with us via support@heidelpay.com
+- [avstudnitz/AvS_DisableModules](https://github.com/avstudnitz/AvS_DisableModules) - Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies
+- [Vinai/m2-tech-debt](https://github.com/Vinai/m2-tech-debt) - Magento 2 command to collect technical debt info on modules
+- [staempfli/magento2-phpstorm-templates](https://github.com/staempfli/magento2-phpstorm-templates) - PHPStorm Live template preferences for Magento 2 Projects
+- [AOEpeople/magento2-coding-standard](https://github.com/AOEpeople/magento2-coding-standard) - 
+- [AOEpeople/Magento-2-Module-Skeleton](https://github.com/AOEpeople/Magento-2-Module-Skeleton) - This Module provides a basic Skeleton for further Magento 2 Modules.
+- [yireo/Yireo_AutoFlushCache](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache whenever you save something in the System Configuration
+- [magepal/magento2-gmail-smtp-app](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send email using Google App, Gmail, Amazon Simple Email Service (SES), Microsoft Office365 and many other SMTP (Simple Mail Transfer Protocol) servers
+- [jalogut/magento2-deployer-plus](https://github.com/jalogut/magento2-deployer-plus) - Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects
+- [magespecialist/m2-MSP_ReCaptcha](https://github.com/magespecialist/m2-MSP_ReCaptcha) - Google reCaptcha for Magento 2
+- [fastly/fastly-magento2](https://github.com/fastly/fastly-magento2) - Module for integrating Fastly CDN with Magento 2 installations
+- [bitExpert/magento2-force-login](https://github.com/bitExpert/magento2-force-login) - Force Customer Login Module for Magento 2
+- [elgentos/frontend2fa](https://github.com/elgentos/frontend2fa) - Magento 2 module for 2FA on the frontend
+- [justbetter/magento2-sentry](https://github.com/justbetter/magento2-sentry) - Magento 2 module to log to Sentry
+- [mollie/magento2](https://github.com/mollie/magento2) - Mollie Payments for Magento 2
+- [kiwicommerce/magento2-login-as-customer](https://github.com/kiwicommerce/magento2-login-as-customer) - Magento 2 - Login as Customer by KiwiCommerce
+- [dannydamsky/Dev-Tools-Magento-2-Module](https://github.com/dannydamsky/Dev-Tools-Magento-2-Module) - A collection of utilities meant to improve the experience of developing modules for Magento without breaking existing functionality.
+- [elgentos/LargeConfigProducts](https://github.com/elgentos/LargeConfigProducts) - Large Configurable Products workaround for Magento 2
+- [Inxmail/inx_magento2](https://github.com/Inxmail/inx_magento2) - This repository contains the Inxmail Extension Code for Magento 2
+- [typesetsh/magento2-extension](https://github.com/typesetsh/magento2-extension) - Magento2 typeset.sh extension
+- [kiwicommerce/magento2-admin-activity](https://github.com/kiwicommerce/magento2-admin-activity) - Magento 2 - Admin Activity by KiwiCommerce
+- [run-as-root/magento2-prometheus-exporter](https://github.com/run-as-root/magento2-prometheus-exporter) - Simple Magento 2 Prometheus Exporter.
+- [aune-io/magento2-autoinvoice](https://github.com/aune-io/magento2-autoinvoice) - Magento 2 procedure to automatically invoice orders in a given status.
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string)
 - [jofDev/MuseFlowerAppLabDev](https://github.com/jofDev/MuseFlowerAppLabDev) - MuseFlowerAppLabDev Repository
 - [SamueleMartini/Magento-GPT-integration](https://github.com/SamueleMartini/Magento-GPT-integration) - Module to integrate Open AI GPT-3 in Magento
@@ -1779,6 +1829,9 @@
 
 ## Python 
 
+- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
+- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
@@ -2016,6 +2069,7 @@
 
 ## Shell 
 
+- [rainglow/jetbrains](https://github.com/rainglow/jetbrains) - 320+ color themes for JetBrains IDEs including PHPStorm, Webstorm and more.
 - [extdn/github-actions-m2](https://github.com/extdn/github-actions-m2) - 
 - [hivecommerce/magerun2-list-api-endpoints](https://github.com/hivecommerce/magerun2-list-api-endpoints) - Plugin for netz98 Magerun2 to list all API endpoints via CLI
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
@@ -2116,6 +2170,7 @@
 
 ## Swift 
 
+- [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
@@ -2135,6 +2190,8 @@
 
 ## TypeScript 
 
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [DrewML/scd](https://github.com/DrewML/scd) - Fast, drop-in replacement for Magento's Static Content Deploy (WIP)
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [egoist/tailwindcss-icons](https://github.com/egoist/tailwindcss-icons) - Use any icon (100,000+) from Iconify, for TailwindCSS
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
@@ -2237,6 +2294,7 @@
 
 ## Vue 
 
+- [mokuappio/serverless-invoices](https://github.com/mokuappio/serverless-invoices) - Create and manage invoices in your browser. Serverless Invoices is a free invoicing tool for freelancers and small businesses. Made with Vue.js.
 - [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
 - [anvaka/vuereddit](https://github.com/anvaka/vuereddit) - A simple reddit client written as a vue component.
 - [elgentos/magento2-upgrade-gui](https://github.com/elgentos/magento2-upgrade-gui) - Magento 2 Upgrade GUI
