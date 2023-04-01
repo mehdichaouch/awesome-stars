@@ -270,6 +270,7 @@
 
 ## Go 
 
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
@@ -1835,6 +1836,8 @@
 
 ## Python 
 
+- [Cerebras/modelzoo](https://github.com/Cerebras/modelzoo) -
+- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [o-daneel/Lunii.PACKS](https://github.com/o-daneel/Lunii.PACKS) - A simple Python proof of concept for handling Lunii stories
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
