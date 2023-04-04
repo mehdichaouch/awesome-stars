@@ -87,6 +87,7 @@
 
 ## C 
 
+- [s-macke/FSHistory](https://github.com/s-macke/FSHistory) - Play and Enjoy the History of Microsoft Flight Simulator
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [o-daneel/Lunii.RE](https://github.com/o-daneel/Lunii.RE) - Understanding the inner mechanics of Lunii StoryTeller. Using Ghidra to reverse engineer the STM32 firmwares and cryptography
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
@@ -430,6 +431,7 @@
 
 ## Java 
 
+- [lolo101/MsgViewer](https://github.com/lolo101/MsgViewer) - MsgViewer is email-viewer utility for .msg e-mail messages, implemented in pure Java. MsgViewer works on Windows/Linux/Mac Platforms. Also provides a java api to read mail messges (msg files) programm
 - [kairoh/studio](https://github.com/kairoh/studio) - STUdio - Story Teller Unleashed
 - [marian-m12l/studio](https://github.com/marian-m12l/studio) - STUdio - Story Teller Unleashed
 - [magento/magento2-phpstorm-plugin](https://github.com/magento/magento2-phpstorm-plugin) - PHPStorm Plugin for Magento 2
@@ -494,6 +496,9 @@
 
 ## JavaScript 
 
+- [yaroslav-n/tweetGPT](https://github.com/yaroslav-n/tweetGPT) - TweetGPT is a chrome extension that generates tweets and replies using chatGPT
+- [oakmac/chessboardjs](https://github.com/oakmac/chessboardjs) - JavaScript chessboard
+- [Strryke/betafish](https://github.com/Strryke/betafish) - A chess engine and AI move finder written in Javascript. Beats Stockfish level 6 on Lichess.
 - [camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [vuestorefront/magento2-rest-client](https://github.com/vuestorefront/magento2-rest-client) - Magento2 Node.js Rest client
@@ -1836,6 +1841,7 @@
 
 ## Python 
 
+- [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 - [Cerebras/modelzoo](https://github.com/Cerebras/modelzoo) - 
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [o-daneel/Lunii.PACKS](https://github.com/o-daneel/Lunii.PACKS) - A simple Python proof of concept for handling Lunii stories
@@ -2203,6 +2209,10 @@
 
 ## TypeScript 
 
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
+- [Clariity/react-chessboard](https://github.com/Clariity/react-chessboard) - The React Chessboard Library used at ChessOpenings.co.uk. Inspired and adapted from the unmaintained Chessboard.jsx.
+- [jhlywa/chess.js](https://github.com/jhlywa/chess.js) - A TypeScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
+- [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [DrewML/scd](https://github.com/DrewML/scd) - Fast, drop-in replacement for Magento's Static Content Deploy (WIP)
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
