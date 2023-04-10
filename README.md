@@ -2033,7 +2033,7 @@
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [lg/murder](https://github.com/lg/murder) - Large scale server deploys using BitTorrent and the BitTornado library (NOTE: project no longer maintained)
 - [joelmoss/strano](https://github.com/joelmoss/strano) - Capistrano and Github sittin' in a tree...
-- [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
+- [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 - [votee/default-vagrant](https://github.com/votee/default-vagrant) - A standard vagrant / puppet configuration for new PHP / Symfony 3 projects
 - [tlayh/vagrant-typo3neos](https://github.com/tlayh/vagrant-typo3neos) - Vagrant setup for neos
 - [dotless-de/vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - A Vagrant plugin to keep your VirtualBox Guest Additions up to date
