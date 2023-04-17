@@ -499,6 +499,7 @@
 
 ## JavaScript 
 
+- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
 - [yaroslav-n/tweetGPT](https://github.com/yaroslav-n/tweetGPT) - TweetGPT is a chrome extension that generates tweets and replies using chatGPT
 - [oakmac/chessboardjs](https://github.com/oakmac/chessboardjs) - JavaScript chessboard
 - [Strryke/betafish](https://github.com/Strryke/betafish) - A chess engine and AI move finder written in Javascript. Beats Stockfish level 6 on Lichess.
@@ -773,7 +774,6 @@
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [jffourmond/freelance-impot](https://github.com/jffourmond/freelance-impot) - Simulateur de calcul d'impôt sur le revenu pour travailleurs indépendants, en AngularJS et ES2015
 - [aaronpowell/db.js](https://github.com/aaronpowell/db.js) - db.js is a wrapper for IndexedDB to make it easier to work against
-- [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 - [anvaka/allgithub](https://github.com/anvaka/allgithub) - Crawling github data
 - [anvaka/pm](https://github.com/anvaka/pm) - package managers visualization
