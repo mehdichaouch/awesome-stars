@@ -1005,6 +1005,7 @@
 
 ## Others 
 
+- [eugeneyan/1-on-1s](https://github.com/eugeneyan/1-on-1s) - 🌱 1-on-1 questions and resources from my time as a manager.
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [mikavehns/GPT-4-Prompts](https://github.com/mikavehns/GPT-4-Prompts) - A collection of GPT-4 prompts.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
