@@ -1926,7 +1926,7 @@
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 - [ambertests/charles_to_postman](https://github.com/ambertests/charles_to_postman) - Script for converting Charlesproxy output to a Postman json file
-- [RomanMichaelPaolucci/AI_Stock_Trading](https://github.com/RomanMichaelPaolucci/AI_Stock_Trading) - Design pattern for critical stages in the development process of an AI Stock Trading Bot
+- [infinitevoidcode/AI_Stock_Trading](https://github.com/infinitevoidcode/AI_Stock_Trading) - Design pattern for critical stages in the development process of an AI Stock Trading Bot
 - [webcompat/webcompat.com](https://github.com/webcompat/webcompat.com) - Source code for webcompat.com
 - [NoMore201/googleplay-api](https://github.com/NoMore201/googleplay-api) - Google Play Unofficial Python API
 - [useme-com/revolut-python](https://github.com/useme-com/revolut-python) - Revolut API client for Python
