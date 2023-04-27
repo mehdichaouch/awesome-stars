@@ -2115,7 +2115,7 @@
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [wardenenv/warden-env-magento2](https://github.com/wardenenv/warden-env-magento2) - Template Project for Magento 2 Using Warden for Local Development
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
-- [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [KevCui/getTweets](https://github.com/KevCui/getTweets) - :bird: Fetch tweets from a specific user without account login
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [wardenenv/warden](https://github.com/wardenenv/warden) - Warden is a CLI utility for orchestrating Docker based developer environments
@@ -2227,6 +2227,7 @@
 
 ## TypeScript 
 
+- [bamdadsabbagh/leboncoin-pdf-ext](https://github.com/bamdadsabbagh/leboncoin-pdf-ext) - PDF Exporter for leboncoin.fr
 - [nohello-net/site](https://github.com/nohello-net/site) - 
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with ChatGPT and Vercel Edge Functions.
 - [Garlic-AI/siteexplainer](https://github.com/Garlic-AI/siteexplainer) - explains site
@@ -2285,7 +2286,7 @@
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
 - [datagutt/pynab.js](https://github.com/datagutt/pynab.js) - Typescript API interface for the Nabaztag revival pcb
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
