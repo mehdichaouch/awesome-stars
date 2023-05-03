@@ -393,7 +393,7 @@
 - [toSvenson/blockchain-demo](https://github.com/toSvenson/blockchain-demo) - A web-based demonstration of blockchain concepts.
 - [bradjasper/ImportJSON](https://github.com/bradjasper/ImportJSON) - Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
-- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
+- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
 - [reillo/mage_customerredirect](https://github.com/reillo/mage_customerredirect) - Magento (1.9.x) - Redirect customer group to specific store url after login.
 - [manishiitg/excellence_magento_blog](https://github.com/manishiitg/excellence_magento_blog) - Source Code of Excellence Magento Blog Modules
 - [edorian/php-coding-standard-generator](https://github.com/edorian/php-coding-standard-generator) - Create your own phpmd and phpcs.xml ruleset files and edit them in place. PHPMD is stable - PHPCS support is in alpha
@@ -660,7 +660,7 @@
 - [GoogleChrome/dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - Polyfill for the HTML dialog element
 - [0xs34n/blockchain](https://github.com/0xs34n/blockchain) - 📖Code for Blockchain Demo
 - [labnol/unsubscribe-gmail](https://github.com/labnol/unsubscribe-gmail) - Gmail Unsubscriber is a Google Apps Script for unsubscribing from unwanted newsletters and other bulk emails.
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications.
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
 - [tobegit3hub/seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
 - [EastDesire/jscolor](https://github.com/EastDesire/jscolor) - JavaScript color picker with opacity (alpha channel) and customizable palette. Single file of plain JS with no dependencies.
