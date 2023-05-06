@@ -502,6 +502,10 @@
 
 ## JavaScript
 
+- [BiveDigital/module-countdown-component-lite](https://github.com/BiveDigital/module-countdown-component-lite) - Magento 2 Countdown Timer for Page Builder
+- [happymachines/magento2-module-custom-forms-page-builder](https://github.com/happymachines/magento2-module-custom-forms-page-builder) - Magento 2 custom form page builder component
+- [ccerda0520/page-builder-enhancements](https://github.com/ccerda0520/page-builder-enhancements) - A Magento 2 module that adds features on top of the page builder module.
+- [svalveson/SliderOptions](https://github.com/svalveson/SliderOptions) - Add new options for the Slick configuration in the Page Builder Slider (Magento 2)
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [7flash/AutoChatGPT](https://github.com/7flash/AutoChatGPT) -
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
@@ -699,6 +703,7 @@
 - [CaliOpen/Caliopen](https://github.com/CaliOpen/Caliopen) - Entry point for Caliopen messaging platform project
 - [remy/5minutefork](https://github.com/remy/5minutefork) - A 5 minute fork of a github project for a quick play and test
 - [pyrech/php-wtf](https://github.com/pyrech/php-wtf) - 
+- [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [lokesh/lightbox2](https://github.com/lokesh/lightbox2) - THE original Lightbox script (v2).
 - [nexcess/magento-sentry-two-factor-authentication](https://github.com/nexcess/magento-sentry-two-factor-authentication) - 
 - [adambom/sucker-compass](https://github.com/adambom/sucker-compass) - Add this mixin to your compass projects to easily add the styles to create a mult-level dropdown menu in the style of suckerfish
@@ -1180,6 +1185,7 @@
 
 ## PHP
 
+- [fisheyehq/module-bluefoot-list](https://github.com/fisheyehq/module-bluefoot-list) - A Magento 2 module to add a list 'page builder block' to the BlueFoot CMS & Page Builder system.
 - [mageplaza/magento-2-social-login](https://github.com/mageplaza/magento-2-social-login) - Magento 2 Social Login extension is designed for quick login to your Magento 2 store without procesing complex register steps
 - [robaimes/module-native-experience](https://github.com/robaimes/module-native-experience) - Utilise modern web API's to provide a more native/app-like experience to your Magento store
 - [WordPress/performance](https://github.com/WordPress/performance) - Performance plugin from the WordPress Performance Group, which is a collection of standalone performance modules.
@@ -2318,7 +2324,6 @@
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
-- [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [kaimallea/isMobile](https://github.com/kaimallea/isMobile) - A simple JS library that detects mobile devices.
