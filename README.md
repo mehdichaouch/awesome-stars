@@ -271,6 +271,7 @@
 
 ## Go 
 
+- [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT
 - [fafrd/aquarium](https://github.com/fafrd/aquarium) - AI-controlled Linux Containers
 - [ztec/poulpe](https://github.com/ztec/poulpe) - Emoji search engine. Search emoji by text to find the right one for you
@@ -541,7 +542,7 @@
 - [muan/emojilib](https://github.com/muan/emojilib) - Emoji keyword library.
 - [p-e-w/argos](https://github.com/p-e-w/argos) - Create GNOME Shell extensions in seconds
 - [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
-- [cuixiping/Save-Image-as-Type](https://github.com/cuixiping/Save-Image-as-Type) - Chrome扩展：Save Image As Type，为图片右键菜单添加另存为jpg,png,webp文件的功能。Save Image as Type is  an chrome extension which add Save as PNG / JPG / WebP option for the context menu of image.
+- [cuixiping/Save-Image-as-Type](https://github.com/cuixiping/Save-Image-as-Type) - Save Image as Type is  an chrome extension which add Save as PNG / JPG / WebP to the context menu of image.
 - [twitter-together/action](https://github.com/twitter-together/action) - :bird: A GitHub action to tweet from a repository
 - [thaydds/chrome-extension-get-token](https://github.com/thaydds/chrome-extension-get-token) - 
 - [visjs/vis-timeline](https://github.com/visjs/vis-timeline) - 📅 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
@@ -703,7 +704,6 @@
 - [CaliOpen/Caliopen](https://github.com/CaliOpen/Caliopen) - Entry point for Caliopen messaging platform project
 - [remy/5minutefork](https://github.com/remy/5minutefork) - A 5 minute fork of a github project for a quick play and test
 - [pyrech/php-wtf](https://github.com/pyrech/php-wtf) - 
-- [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [lokesh/lightbox2](https://github.com/lokesh/lightbox2) - THE original Lightbox script (v2).
 - [nexcess/magento-sentry-two-factor-authentication](https://github.com/nexcess/magento-sentry-two-factor-authentication) - 
 - [adambom/sucker-compass](https://github.com/adambom/sucker-compass) - Add this mixin to your compass projects to easily add the styles to create a mult-level dropdown menu in the style of suckerfish
@@ -2325,6 +2325,7 @@
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [kaimallea/isMobile](https://github.com/kaimallea/isMobile) - A simple JS library that detects mobile devices.
