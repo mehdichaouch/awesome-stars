@@ -1192,7 +1192,7 @@
 - [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) - Thumbhash implementation in PHP
 - [zepgram/magento-dotenv](https://github.com/zepgram/magento-dotenv) - Magento 2 Environment Variable Component - Implementing Symfony Dotenv
 - [akeneo/magento2-connector-community](https://github.com/akeneo/magento2-connector-community) - Akeneo Connector for Magento 2
-- [erikaheidi/dynacover](https://github.com/erikaheidi/dynacover) - Dynamic Twitter images and banners
+- [erikaheidi/dynacover](https://github.com/erikaheidi/dynacover) - This project is discontinued due to changes in the Twitter API access for users. Check erikaheidi/gdaisy for the base functionality of generating image banners based on JSON templates.
 - [sivaschenko/magento2-clean-media](https://github.com/sivaschenko/magento2-clean-media) - Magento 2 media information and cleanup
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
 - [fnogatz/magento2-matomo](https://github.com/fnogatz/magento2-matomo) - Matomo Analytics Module for Magento 2
@@ -1898,7 +1898,6 @@
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [timkpaine/pyEX](https://github.com/timkpaine/pyEX) - Python interface to IEX and IEX cloud APIs
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [serpapi/google-search-results-python](https://github.com/serpapi/google-search-results-python) - Google Search Results via SERP API pip Python Package
 - [albinowax/ActiveScanPlusPlus](https://github.com/albinowax/ActiveScanPlusPlus) - ActiveScan++ Burp Suite Plugin
