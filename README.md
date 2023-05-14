@@ -503,6 +503,7 @@
 
 ## JavaScript
 
+- [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) - Scripts allowing your ULO - An interactive home monitoring owl to become a bit more useful after its support was almost immediately dropped after its release.
 - [BiveDigital/module-countdown-component-lite](https://github.com/BiveDigital/module-countdown-component-lite) - Magento 2 Countdown Timer for Page Builder
 - [happymachines/magento2-module-custom-forms-page-builder](https://github.com/happymachines/magento2-module-custom-forms-page-builder) - Magento 2 custom form page builder component
 - [ccerda0520/page-builder-enhancements](https://github.com/ccerda0520/page-builder-enhancements) - A Magento 2 module that adds features on top of the page builder module.
@@ -1860,6 +1861,7 @@
 
 ## Python
 
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [danimtb/dasshio](https://github.com/danimtb/dasshio) - Hass.io add-on to easily use Amazon Dash Buttons with Home Assistant
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
