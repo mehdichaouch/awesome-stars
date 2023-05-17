@@ -1395,7 +1395,7 @@
 - [Vendic/EAVCleaner](https://github.com/Vendic/EAVCleaner) - Magento 2 - Clean up your Magento database by removing orphaned, unused and wrongly added attribute, attribute values and settings
 - [experius/Magento-2-Module-Experius-ExtraCheckoutAddressFields](https://github.com/experius/Magento-2-Module-Experius-ExtraCheckoutAddressFields) - Add Extra Address Attributes to the Magento 2 Checkout
 - [mageplaza/magento-2-french-language-pack](https://github.com/mageplaza/magento-2-french-language-pack) - Magento 2 French Language Pack is referred to give you two steps of setting language. Today, you can remove the language barrier in the simple way if you really want to approach French clients. The on
-- [bagisto/bagisto](https://github.com/bagisto/bagisto) - An easy to use, free and open source laravel eCommerce platform to build your online shop in no time.
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
 - [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models & API Clients based on JSON Schema / OpenAPI specs
 - [pomm-project/Foundation](https://github.com/pomm-project/Foundation) - Foundation package for the Pomm database framework.
 - [php-pds/skeleton](https://github.com/php-pds/skeleton) - Standard PHP package skeleton.
@@ -1865,7 +1865,7 @@
 - [danimtb/dasshio](https://github.com/danimtb/dasshio) - Hass.io add-on to easily use Amazon Dash Buttons with Home Assistant
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [nicolaballotta/gpt3-wordpress-post-generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator) - A simple cli to generate WordPress posts using Gpt3 starting from a topic.
-- [acheong08/Bard](https://github.com/acheong08/Bard) - Reverse engineering of Google's Bard API
+- [acheong08/Bard](https://github.com/acheong08/Bard) - Python SDK/API for reverse engineered Google Bard
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 - [Cerebras/modelzoo](https://github.com/Cerebras/modelzoo) -
