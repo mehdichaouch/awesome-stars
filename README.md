@@ -114,7 +114,7 @@
 - [logrotate/logrotate](https://github.com/logrotate/logrotate) - The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files.
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [jedisct1/libsodium-php](https://github.com/jedisct1/libsodium-php) - The PHP extension for libsodium.
 - [magento-hackathon/Sandfox_GeoIP](https://github.com/magento-hackathon/Sandfox_GeoIP) - Connects MaxMind GeoIP DB to Magento
