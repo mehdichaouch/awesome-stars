@@ -463,7 +463,7 @@
 - [NetSPI/xssValidator](https://github.com/NetSPI/xssValidator) - This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.
 - [matsuhiro/AndroidDownloadManger](https://github.com/matsuhiro/AndroidDownloadManger) - download manger for Android
 - [enriquepiatti/Magicento](https://github.com/enriquepiatti/Magicento) - PHPStorm plugin for Magento developers
-- [jenkinsci/embeddable-build-status-plugin](https://github.com/jenkinsci/embeddable-build-status-plugin) - Embeddable build status for Jenkins jobs
+- [jenkinsci/embeddable-build-status-plugin](https://github.com/jenkinsci/embeddable-build-status-plugin) - Embed build status of Jenkins jobs in web pages
 - [jberkel/sms-backup-plus](https://github.com/jberkel/sms-backup-plus) - Backup Android SMS, MMS and call log to Gmail / Gcal / IMAP
 - [jenkinsci/google-login-plugin](https://github.com/jenkinsci/google-login-plugin) - A Jenkins plugin which lets you login to Jenkins with your Google account.
 - [jenkinsci/cloudbees-folder-plugin](https://github.com/jenkinsci/cloudbees-folder-plugin) - 
