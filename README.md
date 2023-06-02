@@ -344,6 +344,8 @@
 
 ## HTML 
 
+- [violinist-dev/drupal-contrib-sa](https://github.com/violinist-dev/drupal-contrib-sa) - Command to scan and create security advisories for Drupal contrib
+- [rameshx/instagram-stories](https://github.com/rameshx/instagram-stories) - Instagram stories preview
 - [astorm/magento-layout-no-frills](https://github.com/astorm/magento-layout-no-frills) - Repo for the Creative Commons published No Frills Magento Layout
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [sebbelese/mhios](https://github.com/sebbelese/mhios) - 
@@ -438,6 +440,7 @@
 
 ## Java 
 
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [lolo101/MsgViewer](https://github.com/lolo101/MsgViewer) - MsgViewer is email-viewer utility for .msg e-mail messages, implemented in pure Java. MsgViewer works on Windows/Linux/Mac Platforms. Also provides a java api to read mail messges (msg files) programm
 - [kairoh/studio](https://github.com/kairoh/studio) - STUdio - Story Teller Unleashed
 - [marian-m12l/studio](https://github.com/marian-m12l/studio) - STUdio - Story Teller Unleashed
@@ -503,6 +506,8 @@
 
 ## JavaScript 
 
+- [jweiland-net/reserve](https://github.com/jweiland-net/reserve) - This extension allows you to reserve tickets for one or more persons using a period table and a form. Each reservation has it’s own QR Code that can be scanned at the event.
+- [nbelyh/editsvgcode](https://github.com/nbelyh/editsvgcode) - Online SVG auto-complete code editor based on monaco editor
 - [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) - Scripts allowing your ULO - An interactive home monitoring owl to become a bit more useful after its support was almost immediately dropped after its release.
 - [BiveDigital/module-countdown-component-lite](https://github.com/BiveDigital/module-countdown-component-lite) - Magento 2 Countdown Timer for Page Builder
 - [happymachines/magento2-module-custom-forms-page-builder](https://github.com/happymachines/magento2-module-custom-forms-page-builder) - Magento 2 custom form page builder component
@@ -1186,6 +1191,26 @@
 
 ## PHP 
 
+- [tpwd/ke_search](https://github.com/tpwd/ke_search) - Search Extension for TYPO3 Content Management System, including faceting search functions.
+- [FriendsOfTYPO3/extension_builder](https://github.com/FriendsOfTYPO3/extension_builder) - TYPO3 extension to kickstart and maintain TYPO3 extensions
+- [FluidTYPO3/vhs](https://github.com/FluidTYPO3/vhs) - TYPO3 extension VHS: Fluid ViewHelpers
+- [plan2net/webp](https://github.com/plan2net/webp) - Create a WebP copy for images (TYPO3 CMS)
+- [netresearch/t3x-rte_ckeditor_image](https://github.com/netresearch/t3x-rte_ckeditor_image) - Image support in CKEditor for the TYPO3 ecosystem
+- [lochmueller/staticfilecache](https://github.com/lochmueller/staticfilecache) - 🚀 Fastes TYPO3 Extension ever 🚀
+- [einpraegsam/powermail_cond](https://github.com/einpraegsam/powermail_cond) - Add conditions (via AJAX) to TYPO3 powermail forms for fields and pages
+- [einpraegsam/powermail](https://github.com/einpraegsam/powermail) - This is the official repository of the TYPO3 extension powermail! Powermail is a well-known, editor-friendly, powerful and easy mailform extension for TYPO3
+- [hmmh/typo3-solr-file-indexer](https://github.com/hmmh/typo3-solr-file-indexer) - TYPO3 Extension: solr_file_indexer
+- [hendrikreimers/slug_autoupdate](https://github.com/hendrikreimers/slug_autoupdate) - TYPO3 Slug URL Segment Auto Update
+- [TYPO3-Console/TYPO3-Console](https://github.com/TYPO3-Console/TYPO3-Console) - Console command for TYPO3 CMS
+- [CodersCare/gridelements](https://github.com/CodersCare/gridelements) - 
+- [georgringer/news](https://github.com/georgringer/news) - TYPO3 Extension news
+- [FriendsOfTYPO3/tt_address](https://github.com/FriendsOfTYPO3/tt_address) - Add address / contact datasets to your content management system.
+- [christophlehmann/imageoptimizer](https://github.com/christophlehmann/imageoptimizer) - TYPO3 Extension for lossless image optimization with binaries of your choice.
+- [xperseguers/t3ext-file_list](https://github.com/xperseguers/t3ext-file_list) - TYPO3 Extension file_list. This extension provides a frontend plugin which shows a list of files and folders in a specified directory on the file system (comparable to Apache directory listing) or usi
+- [a-r-m-i-n/min](https://github.com/a-r-m-i-n/min) - TYPO3 CMS extension "min" - Compressed CSS, JS and HTML output for TYPO3
+- [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen
+- [TYPO3-Solr/ext-solr](https://github.com/TYPO3-Solr/ext-solr) - A TYPO3 extension that integrates the Apache Solr search server with TYPO3 CMS. dkd Internet Service GmbH is developing the extension. Community contributions are welcome. See CONTRIBUTING.md for deta
+- [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
 - [fisheyehq/module-bluefoot-list](https://github.com/fisheyehq/module-bluefoot-list) - A Magento 2 module to add a list 'page builder block' to the BlueFoot CMS & Page Builder system.
 - [mageplaza/magento-2-social-login](https://github.com/mageplaza/magento-2-social-login) - Magento 2 Social Login extension is designed for quick login to your Magento 2 store without procesing complex register steps
 - [robaimes/module-native-experience](https://github.com/robaimes/module-native-experience) - Utilise modern web API's to provide a more native/app-like experience to your Magento store
@@ -2327,7 +2352,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
@@ -2353,6 +2378,7 @@
 
 ## Vue 
 
+- [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [mokuappio/serverless-invoices](https://github.com/mokuappio/serverless-invoices) - Create and manage invoices in your browser. Serverless Invoices is a free invoicing tool for freelancers and small businesses. Made with Vue.js.
 - [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
 - [anvaka/vuereddit](https://github.com/anvaka/vuereddit) - A simple reddit client written as a vue component.
