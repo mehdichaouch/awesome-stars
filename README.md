@@ -930,7 +930,6 @@
 - [christophercliff/sausage](https://github.com/christophercliff/sausage) - A jQuery UI widget for contextual pagination.
 - [jslint-org/jslint](https://github.com/jslint-org/jslint) - JSLint, The JavaScript Code Quality and Coverage Tool
 - [lorenzos/ZenCodingNetBeansPlugin](https://github.com/lorenzos/ZenCodingNetBeansPlugin) - Zen Coding plugin for NetBeans
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [sproutcore/sproutcore](https://github.com/sproutcore/sproutcore) - JavaScript Application Framework - JS library only
 - [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 - [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 &lt;audio&gt; or &lt;video&gt; player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consiste
@@ -1574,7 +1573,7 @@
 - [mnapoli/pretty](https://github.com/mnapoli/pretty) - ✨ CLI command with sane defaults to simplify CodeSniffer and PHP-CS-Fixer
 - [nette/di](https://github.com/nette/di) - 💎 Flexible, compiled and full-featured Dependency Injection Container with perfectly usable autowiring and support for all new PHP 7 features.
 - [jmolivas/phpqa](https://github.com/jmolivas/phpqa) - PHPQA all-in-one Analyzer CLI tool
-- [Payum/Payum](https://github.com/Payum/Payum) - PHP 7+ Payment processing library. It offers everything you need to work with payments: Credit card & offsite purchasing, subscriptions, payouts etc.  - provided by Forma-Pro
+- [Payum/Payum](https://github.com/Payum/Payum) - PHP 7+ Payment processing library. It offers everything you need to work with payments: Credit card & offsite purchasing, subscriptions, payouts etc.
 - [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) - PHP version of mysqldump cli that comes with MySQL
 - [PHPJunior/laravel-video-chat](https://github.com/PHPJunior/laravel-video-chat) - Laravel Video Chat using Socket.IO and WebRTC
 - [consolidation/robo](https://github.com/consolidation/robo) - Modern task runner for PHP
@@ -2239,6 +2238,7 @@
 - [ffuenf/vagrant-boxes](https://github.com/ffuenf/vagrant-boxes) - baseboxes build with packer.io for use with vagrant
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [IsaacSchemm/MultiCD](https://github.com/IsaacSchemm/MultiCD) - A shell script package for creating combination disks from Linux ISOs.
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 
 ## Solidity 
 
