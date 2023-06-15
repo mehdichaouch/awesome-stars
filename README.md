@@ -331,7 +331,7 @@
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [hashicorp/serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
-- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
+- [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
@@ -1018,6 +1018,7 @@
 
 ## Others 
 
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [eugeneyan/1-on-1s](https://github.com/eugeneyan/1-on-1s) - 🌱 1-on-1 questions and resources from my time as a manager.
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [mikavehns/GPT-4-Prompts](https://github.com/mikavehns/GPT-4-Prompts) - A collection of GPT-4 prompts.
@@ -1516,7 +1517,7 @@
 - [FriendsOfPHP/Sami](https://github.com/FriendsOfPHP/Sami) - An API documentation generator
 - [magecomp/Magento-Pre-Patched-Files](https://github.com/magecomp/Magento-Pre-Patched-Files) - Read About All PrePatched Files Blog Installation Instructions
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
-- [shopware5/shopware](https://github.com/shopware5/shopware) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform
+- [shopware5/shopware](https://github.com/shopware5/shopware) - Shopware 5 core
 - [shulard/git-service-move](https://github.com/shulard/git-service-move) - Move a git project from one online service to another easily
 - [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
 - [paragonie/chronicle](https://github.com/paragonie/chronicle) - Public append-only ledger microservice built with Slim Framework
