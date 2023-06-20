@@ -299,7 +299,7 @@
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [danicat/pacgo](https://github.com/danicat/pacgo) - A Pac Man clone written in Go (with emojis!)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -1192,6 +1192,7 @@
 
 ## PHP
 
+- [Dutchento/m2-vatfallback](https://github.com/Dutchento/m2-vatfallback) - Vatfallback module provides an extra API based validation and a fallback offline regex validation for the unstable VIES database used by Magento
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [tpwd/ke_search](https://github.com/tpwd/ke_search) - Search Extension for TYPO3 Content Management System, including faceting search functions.
 - [FriendsOfTYPO3/extension_builder](https://github.com/FriendsOfTYPO3/extension_builder) - TYPO3 extension to kickstart and maintain TYPO3 extensions
@@ -2143,6 +2144,7 @@
 
 ## Shell
 
+- [MAD-I-T/magento-actions](https://github.com/MAD-I-T/magento-actions) - Github deployment actions for Magento 2
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [brenner-tobias/addon-cloudflared](https://github.com/brenner-tobias/addon-cloudflared) - Connect remotely to your Home Assistant instance without opening any ports using Cloudflared.
 - [adonno/tagreader](https://github.com/adonno/tagreader) - Simple to build/use NFC tag reader, specially created for Home Assistant
