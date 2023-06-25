@@ -1491,6 +1491,7 @@
 - [mgtcommerce/Mgt_Developertoolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Mgt DeveloperToolbar for Magento 2
 - [ccampbell/chromephp](https://github.com/ccampbell/chromephp) - class for logging PHP variables to Google Chrome console
 - [vijays91/Magento-Email-Notification](https://github.com/vijays91/Magento-Email-Notification) - This extension is used to, notify the customer when the product is available(in stock).
+- [jolicode/docker-starter](https://github.com/jolicode/docker-starter) - 🏗️ A skeleton to start a new web project with PHP, Docker and Invoke
 - [sam-media/wurfl-api](https://github.com/sam-media/wurfl-api) - Mirror of WURFL PHP API
 - [magento-hackathon/EAVCleaner](https://github.com/magento-hackathon/EAVCleaner) - Clean up your Magento database by removing orphaned, unused and wrongly added attribute, attribute values and settings (for M1)
 - [sverraest/revolut-php](https://github.com/sverraest/revolut-php) - 💳 PHP Bindings for the Revolut Business API
@@ -1981,7 +1982,6 @@
 - [cloudflare/flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
 - [translate/pootle](https://github.com/translate/pootle) - Online translation tool
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [jolicode/docker-starter](https://github.com/jolicode/docker-starter) - 🏗️ A skeleton to start a new web project with PHP, Docker and Invoke
 - [Mage2Gen/Mage2Gen](https://github.com/Mage2Gen/Mage2Gen) - Python library for generating Magento 2 module
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
