@@ -1192,6 +1192,7 @@
 
 ## PHP 
 
+- [cartalyst/sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorization system.
 - [Dutchento/m2-vatfallback](https://github.com/Dutchento/m2-vatfallback) - Vatfallback module provides an extra API based validation and a fallback offline regex validation for the unstable VIES database used by Magento
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [tpwd/ke_search](https://github.com/tpwd/ke_search) - Search Extension for TYPO3 Content Management System, including faceting search functions.
