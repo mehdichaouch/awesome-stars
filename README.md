@@ -1192,6 +1192,7 @@
 
 ## PHP 
 
+- [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) - Rector for TYPO3
 - [cartalyst/sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorization system.
 - [Dutchento/m2-vatfallback](https://github.com/Dutchento/m2-vatfallback) - Vatfallback module provides an extra API based validation and a fallback offline regex validation for the unstable VIES database used by Magento
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
