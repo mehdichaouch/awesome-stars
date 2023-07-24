@@ -382,7 +382,6 @@
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [mreidsma/bookmarklets](https://github.com/mreidsma/bookmarklets) - A collection of bookmarklets I use. Best viewed on the gh-pages branch
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
 - [thibault/strike-js](https://github.com/thibault/strike-js) - Pour aider votre site à faire grève
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -1976,6 +1975,7 @@
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
 - [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) - Nabaztag en Python pour RaspberryPi
 - [MathSci/fecon236](https://github.com/MathSci/fecon236) - Tools for financial economics. Curated wrapper over Python ecosystem. Source code for fecon235 Jupyter notebooks.
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 - [ambertests/charles_to_postman](https://github.com/ambertests/charles_to_postman) - Script for converting Charlesproxy output to a Postman json file
 - [romanmichaelpaolucci/AI_Stock_Trading](https://github.com/romanmichaelpaolucci/AI_Stock_Trading) - Design pattern for critical stages in the development process of an AI Stock Trading Bot
