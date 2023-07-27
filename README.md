@@ -551,7 +551,7 @@
 - [muan/emojilib](https://github.com/muan/emojilib) - Emoji keyword library.
 - [p-e-w/argos](https://github.com/p-e-w/argos) - Create GNOME Shell extensions in seconds
 - [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
-- [cuixiping/Save-Image-as-Type](https://github.com/cuixiping/Save-Image-as-Type) - Save Image as Type is  an chrome extension which add Save as PNG / JPG / WebP to the context menu of image.
+- [image4tools/Save-Image-as-Type](https://github.com/image4tools/Save-Image-as-Type) - Save Image as Type is  an chrome extension which add Save as PNG / JPG / WebP to the context menu of image.
 - [twitter-together/action](https://github.com/twitter-together/action) - :bird: A GitHub action to tweet from a repository
 - [thaydds/chrome-extension-get-token](https://github.com/thaydds/chrome-extension-get-token) - 
 - [visjs/vis-timeline](https://github.com/visjs/vis-timeline) - 📅 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
