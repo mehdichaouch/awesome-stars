@@ -1872,6 +1872,7 @@
 
 ## Perl 
 
+- [RotherOSS/otobo](https://github.com/RotherOSS/otobo) - OTOBO is one of the most flexible web-based ticketing systems used for Customer Service, Help Desk, IT Service Management. https://www.otobo.de/
 - [dejavu-fonts/dejavu-fonts](https://github.com/dejavu-fonts/dejavu-fonts) - 
 - [daniel-nichter/hackmysql.com](https://github.com/daniel-nichter/hackmysql.com) - Deprecated tools from HackMySQL.com
 - [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.
@@ -2280,6 +2281,7 @@
 
 ## TypeScript 
 
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [michael-dm/eva](https://github.com/michael-dm/eva) - 
 - [bamdadsabbagh/leboncoin-pdf-ext](https://github.com/bamdadsabbagh/leboncoin-pdf-ext) - PDF Exporter for leboncoin.fr
 - [nohello-net/site](https://github.com/nohello-net/site) - 
