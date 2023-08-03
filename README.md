@@ -699,7 +699,7 @@
 - [mateodelnorte/coinbase](https://github.com/mateodelnorte/coinbase) - wrapper for the coinbase bitcoin wallet & exchange API
 - [zertosh/loose-envify](https://github.com/zertosh/loose-envify) - Like envify but much faster
 - [Nanocloud/nanocloud](https://github.com/Nanocloud/nanocloud) - 
-- [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
+- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [openstream/No-Flash-Image-Uploader](https://github.com/openstream/No-Flash-Image-Uploader) - This Magento module allows the upload of images without having the Flash player installed.
 - [xdan/autocomplete](https://github.com/xdan/autocomplete) - jQuery autocomplete plugin like Google autocomplete
@@ -1197,6 +1197,7 @@
 
 ## PHP
 
+- [amzn/amazon-payments-magento-2-plugin](https://github.com/amzn/amazon-payments-magento-2-plugin) - Extension to enable Amazon Pay on Magento 2
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - The Easiest way to add coding standard to your PHP project
 - [monsieurbiz/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/monsieurbiz/CoopTilleulsSyliusClickNCollectPlugin) - Sell and deliver securely during the COVID-19 pandemic!
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) - Rector for TYPO3
