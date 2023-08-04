@@ -147,7 +147,7 @@
 
 ## C++
 
-- [letscontrolit/ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266
+- [letscontrolit/ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266/ESP32
 - [moononournation/IoT-Emoji-Sign](https://github.com/moononournation/IoT-Emoji-Sign) -
 - [function3d/petalot](https://github.com/function3d/petalot) - PET Bottle To 3D Filament
 - [sepfy/BerryShare](https://github.com/sepfy/BerryShare) - Share PC desktop to Raspberry Pi with WebRTC
@@ -508,6 +508,7 @@
 
 ## JavaScript
 
+- [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [Rob--W/dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) - Firefox and Chrome extensions to prevent Google from making links ugly.
 - [jweiland-net/reserve](https://github.com/jweiland-net/reserve) - This extension allows you to reserve tickets for one or more persons using a period table and a form. Each reservation has it’s own QR Code that can be scanned at the event.
@@ -1023,6 +1024,7 @@
 
 ## Others
 
+- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [eugeneyan/1-on-1s](https://github.com/eugeneyan/1-on-1s) - 🌱 1-on-1 questions and resources from my time as a manager.
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
@@ -1197,6 +1199,9 @@
 
 ## PHP
 
+- [FriendsOfTYPO3/tea](https://github.com/FriendsOfTYPO3/tea) - Example extension for unit testing and best practices.
+- [Yoast/Yoast-SEO-for-TYPO3](https://github.com/Yoast/Yoast-SEO-for-TYPO3) - Yoast SEO plugin for TYPO3
+- [AOEpeople/TYPO3-varnish](https://github.com/AOEpeople/TYPO3-varnish) - This is a TYPO3-Extension that integrates the popular Varnish HTTP Cache into TYPO3.
 - [amzn/amazon-payments-magento-2-plugin](https://github.com/amzn/amazon-payments-magento-2-plugin) - Extension to enable Amazon Pay on Magento 2
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - The Easiest way to add coding standard to your PHP project
 - [monsieurbiz/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/monsieurbiz/CoopTilleulsSyliusClickNCollectPlugin) - Sell and deliver securely during the COVID-19 pandemic!
@@ -2155,6 +2160,8 @@
 
 ## Shell
 
+- [mehdichaouch/YAWAC](https://github.com/mehdichaouch/YAWAC) - Yet Another Wifi Auto Connect (YAWAC) is a shell script to connect to a dataset of wireless connection and free hotspot like FreeWifi. It's works on OpenWrt.
+- [mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee](https://github.com/mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee) - WordPress Auto Update 🆕 and Notify 🔔 and Deploy 🚀 and Give a Beer 🍺 or a Coffee ☕
 - [MAD-I-T/magento-actions](https://github.com/MAD-I-T/magento-actions) - Github deployment actions for Magento 2
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [brenner-tobias/addon-cloudflared](https://github.com/brenner-tobias/addon-cloudflared) - Connect remotely to your Home Assistant instance without opening any ports using Cloudflared.
