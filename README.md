@@ -462,7 +462,7 @@
 - [GoSecure/csp-auditor](https://github.com/GoSecure/csp-auditor) - Burp and ZAP plugin to analyse Content-Security-Policy headers or generate template CSP configuration from crawling a Website
 - [drpout/boilr](https://github.com/drpout/boilr) - Price alarms for Bitcoin, cryptocurrencies, cryptoassets, futures and options.
 - [psal/anonymouth](https://github.com/psal/anonymouth) - 
-- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
+- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
 - [apache/opennlp](https://github.com/apache/opennlp) - Apache OpenNLP
 - [Haehnchen/idea-php-symfony2-plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) - IntelliJ IDEA / PhpStorm Symfony Plugin
 - [NetSPI/xssValidator](https://github.com/NetSPI/xssValidator) - This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.
