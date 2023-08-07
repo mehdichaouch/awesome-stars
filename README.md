@@ -79,6 +79,7 @@
 
 - [mage-os/mage-os-website](https://github.com/mage-os/mage-os-website) - Source of the mage-os.org website.
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) -
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Batchfile
 
@@ -612,6 +613,7 @@
 - [shkoliar/magento-grid-colors](https://github.com/shkoliar/magento-grid-colors) - Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid's bookmarks.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [sitespeedio/browsertime](https://github.com/sitespeedio/browsertime) - Your browser, your page, your scripts!
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [GoogleChromeLabs/tooling.report](https://github.com/GoogleChromeLabs/tooling.report) - tooling.report a quick way to determine the best build tool for your next web project, or if tooling migration is worth it, or how to adopt a tool's best practice into your existing configuration and 
 - [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 - [snipsnapdev/snipsnap](https://github.com/snipsnapdev/snipsnap) - Speed up your development with a powerful set of tools
@@ -805,7 +807,6 @@
 - [jolicode/best-bundle-conf](https://github.com/jolicode/best-bundle-conf) - Symfony Live Paris 2013 talk about the best and unknown Symfony2 Bundles (in French)
 - [aurbano/regex101-osx](https://github.com/aurbano/regex101-osx) - Regex101 packaged as an offline Mac OSX application
 - [ravikiranj/chromecast-player](https://github.com/ravikiranj/chromecast-player) - HTML5 video player with subtitles for easy Chromecasting
-- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [muan/mojibar](https://github.com/muan/mojibar) - :tangerine: Emoji searcher but as a menubar app.
 - [jolicode/generator-joli-symfony](https://github.com/jolicode/generator-joli-symfony) - :man: Yeoman Generator for Symfony2 projects with sensible defaults and frontend tools.
 - [julianshapiro/velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
@@ -2354,7 +2355,6 @@
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [GoogleChromeLabs/bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap) - Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
