@@ -306,7 +306,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [danicat/pacgo](https://github.com/danicat/pacgo) - A Pac Man clone written in Go (with emojis!)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (project under CNCF)
+- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [mpchadwick/dbanon](https://github.com/mpchadwick/dbanon) - A run anywhere database anonymizer
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
@@ -1627,7 +1627,6 @@
 - [udovicic/Magento_Custom_Shipping](https://github.com/udovicic/Magento_Custom_Shipping) - Sample code written for educational purposes
 - [mamocbv/UnCancel](https://github.com/mamocbv/UnCancel) - Magento UnCancel Order
 - [ApiGen/ApiGen](https://github.com/ApiGen/ApiGen) - PHP 7.1 ready Smart and Simple Documentation for your PHP project
-- [ffuenf/Ffuenf_CategoryProductSortBackend](https://github.com/ffuenf/Ffuenf_CategoryProductSortBackend) - [Magento] This is a extension that allows changing products sort order within category by dragging and dropping.
 - [wigman/AjaxSwatches](https://github.com/wigman/AjaxSwatches) - Adding Ajax functionality to Magento's RWD color swatches to drastically reduce pageload on product-lists and to switch all gallery images on product view pages
 - [magento/marketplace-eqp](https://github.com/magento/marketplace-eqp) - Magento 1.x Coding Standard
 - [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
@@ -2257,7 +2256,6 @@
 - [colinmollenhour/modman](https://github.com/colinmollenhour/modman) - Modularize extensions using symlinks. Voted #1 Magento tool by @WebShopApps!
 - [andy-s-clark/zmagento2](https://github.com/andy-s-clark/zmagento2) - 
 - [henrik/dotfiles](https://github.com/henrik/dotfiles) - Dotfiles.
-- [ffuenf/vagrant-boxes](https://github.com/ffuenf/vagrant-boxes) - baseboxes build with packer.io for use with vagrant
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [IsaacSchemm/MultiCD](https://github.com/IsaacSchemm/MultiCD) - A shell script package for creating combination disks from Linux ISOs.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
@@ -2372,7 +2370,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [davrous/dareangel](https://github.com/davrous/dareangel) - This extension provides more accessibility on images of a web page by using Microsoft Cognitive Services Computer Vision API to analyze it for you
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [3035app/pialab](https://github.com/3035app/pialab) - PiaLab Angular app
 - [processout/processout.js](https://github.com/processout/processout.js) - ProcessOut JavaScript library with modal & white-label support
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
