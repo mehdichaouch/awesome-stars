@@ -1364,7 +1364,7 @@
 - [Alekseon/CleanRunningJobs](https://github.com/Alekseon/CleanRunningJobs) - Plugin to Magento 2 which mark old cron jobs with status "running" as error. This can prevent the Magento 2 from consuming CPU
 - [goivvy/DJS](https://github.com/goivvy/DJS) - Magento 2 Defer Javascript Loading Extension
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 - [pluxml/PluXml](https://github.com/pluxml/PluXml) - PluXml, Moteur de Blog et CMS à l'XML sans base de données
 - [Magenerds/RichSnippet](https://github.com/Magenerds/RichSnippet) - 
 - [mohammadzahwy2017/RestrictPMethod-Magento2](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2) - Disable specific payment methods on checkout page when cart have at least one product from specific category
