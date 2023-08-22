@@ -682,7 +682,6 @@
 - [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
 - [tobegit3hub/seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
 - [EastDesire/jscolor](https://github.com/EastDesire/jscolor) - JavaScript color picker with opacity (alpha channel) and customizable palette. Single file of plain JS with no dependencies.
-- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [ines/console-dot-emoji](https://github.com/ines/console-dot-emoji) - :pizza: Custom Console Logging with Emoji
 - [virtimus/GoxTradingBot](https://github.com/virtimus/GoxTradingBot) - Gox Trading Bot Chrome Extension
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
@@ -972,7 +971,6 @@
 ## Makefile 
 
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [EmakinaFR/docker-magento2](https://github.com/EmakinaFR/docker-magento2) - :whale: Environment for a Magento2 application using Docker.
 - [httpwg/http2-spec](https://github.com/httpwg/http2-spec) - Working copy of the HTTP/2 Specification
 
@@ -1112,6 +1110,7 @@
 - [yireo/magento2-replace-all](https://github.com/yireo/magento2-replace-all) - Meta-package to replace all optional Magento 2 modules
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [tzyganu/MM19RO](https://github.com/tzyganu/MM19RO) - My presentation at MeetMagento Romania 2019
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [darshanime/notes](https://github.com/darshanime/notes) - detailed notes on computer science topics, in one page
 - [quafzi/judge](https://github.com/quafzi/judge) - Evaluate Magento extension quality
 - [magento-notes/magento2-exam-notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for Magento 2 Certified Professional Developer exam
@@ -2070,7 +2069,7 @@
 
 ## Ruby 
 
-- [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere.
+- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [magento/devdocs](https://github.com/magento/devdocs) - Magento Developer Documentation
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
@@ -2345,7 +2344,7 @@
 - [tsuyoshiwada/sweet-scroll](https://github.com/tsuyoshiwada/sweet-scroll) - 
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
-- [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
+- [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
