@@ -1138,7 +1138,6 @@
 - [WithTheBest/AI-WTB](https://github.com/WithTheBest/AI-WTB) - 
 - [WithTheBest/BlockchainWTB](https://github.com/WithTheBest/BlockchainWTB) - Follow up from online Blockchain With The Best Conf June 11th 2016
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
 - [kilimchoi/cryptocurrency](https://github.com/kilimchoi/cryptocurrency) - Overview of top cryptocurrencies
 - [cmahon/awesome-cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency) - Cryptocurrency resources
 - [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb
@@ -1390,7 +1389,7 @@
 - [Smile-SA/magento2-module-gift-sales-rule](https://github.com/Smile-SA/magento2-module-gift-sales-rule) - Magento2 module to create gift product sales rules.
 - [giggsey/libphonenumber-for-php](https://github.com/giggsey/libphonenumber-for-php) - PHP version of Google's phone number handling library
 - [Straja12/UconM2](https://github.com/Straja12/UconM2) - 
-- [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
+- [thedevdojo/voyager](https://github.com/thedevdojo/voyager) - Voyager - The Missing Laravel Admin
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [postaddictme/instagram-php-scraper](https://github.com/postaddictme/instagram-php-scraper) - Get account information, photos, videos, stories and comments.
 - [ibnab/tut-magento2-import](https://github.com/ibnab/tut-magento2-import) - 
@@ -2221,6 +2220,7 @@
 - [magemojo/magesecuritypatcher](https://github.com/magemojo/magesecuritypatcher) - Magento 1 Security Patcher from MageMojo
 - [Dealerdirect/php-qa-tools](https://github.com/Dealerdirect/php-qa-tools) - A metapackage for all PHP quality assurance tools we use at Dealerdirect
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+- [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
