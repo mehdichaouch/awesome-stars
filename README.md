@@ -119,7 +119,7 @@
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [jedisct1/libsodium-php](https://github.com/jedisct1/libsodium-php) - The PHP extension for libsodium.
 - [magento-hackathon/Sandfox_GeoIP](https://github.com/magento-hackathon/Sandfox_GeoIP) - Connects MaxMind GeoIP DB to Magento
-- [notro/fbtft](https://github.com/notro/fbtft) - Linux Framebuffer drivers for small TFT LCD display modules
+- [notro/fbtft](https://github.com/notro/fbtft) - Linux Framebuffer drivers for small TFT LCD display modules. Development in this github repo has ceased.
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
 - [rsyslog/rsyslog](https://github.com/rsyslog/rsyslog) - a Rocket-fast SYStem for LOG processing
 - [wishstudio/flinux](https://github.com/wishstudio/flinux) - Foreign LINUX - Run unmodified Linux applications inside Windows.
@@ -1063,7 +1063,6 @@
 - [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) - A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [trevor-reznik/fresh-os](https://github.com/trevor-reznik/fresh-os) - Script/assets to automate the process of setting up a new linux machine or vm.
 - [Puliczek/awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - 🦄🔒 Awesome list of secrets in environment variables 🖥️
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [scaffold-eth/scaffold-eth-challenges](https://github.com/scaffold-eth/scaffold-eth-challenges) - Scaffold-Eth 🏗 Challenges repository
