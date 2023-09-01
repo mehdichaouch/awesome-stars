@@ -1022,6 +1022,7 @@
 
 ## Others 
 
+- [jellesiderius/ddev-magento2-setup](https://github.com/jellesiderius/ddev-magento2-setup) - DDEV for Magento 2 including cache watching, styles watching & multi store
 - [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [eugeneyan/1-on-1s](https://github.com/eugeneyan/1-on-1s) - 🌱 1-on-1 questions and resources from my time as a manager.
