@@ -2299,7 +2299,7 @@
 - [Clariity/react-chessboard](https://github.com/Clariity/react-chessboard) - The React Chessboard Library used at ChessOpenings.co.uk. Inspired and adapted from the unmaintained Chessboard.jsx.
 - [jhlywa/chess.js](https://github.com/jhlywa/chess.js) - A TypeScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [DrewML/scd](https://github.com/DrewML/scd) - Fast, drop-in replacement for Magento's Static Content Deploy (WIP)
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [egoist/tailwindcss-icons](https://github.com/egoist/tailwindcss-icons) - Use any icon (100,000+) from Iconify, for TailwindCSS
