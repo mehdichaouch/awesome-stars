@@ -949,6 +949,7 @@
 ## Jupyter Notebook
 
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) -
 - [anisayari/Youtube-apprendre-le-deeplearning-avec-tensorflow](https://github.com/anisayari/Youtube-apprendre-le-deeplearning-avec-tensorflow) - Ce repo contient les codes développés dans le cadre de ma série de vidéo sur Youtube pour apprendre à coder en python en utilisant Tensorflow afin de réaliser des tâches de Deep Learning.
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
@@ -1909,7 +1910,6 @@
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [danimtb/dasshio](https://github.com/danimtb/dasshio) - Hass.io add-on to easily use Amazon Dash Buttons with Home Assistant
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [nicolaballotta/gpt3-wordpress-post-generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator) - A simple cli to generate WordPress posts using Gpt3 starting from a topic.
 - [acheong08/Bard](https://github.com/acheong08/Bard) - Python SDK/API for reverse engineered Google Bard
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
