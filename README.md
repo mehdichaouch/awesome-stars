@@ -588,7 +588,7 @@
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [larvalabs/cryptopunks](https://github.com/larvalabs/cryptopunks) - Collectible 8-bit characters on the Ethereum blockchain.
 - [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [dessant/lock-threads-app](https://github.com/dessant/lock-threads-app) - 🤖 GitHub App that locks closed issues and pull requests after a period of inactivity
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [Snapmaker/Luban](https://github.com/Snapmaker/Luban) - An easy-to-use 3-in-1 software tailor-made for Snapmaker machines.
@@ -2349,7 +2349,7 @@
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
 - [datagutt/pynab.js](https://github.com/datagutt/pynab.js) - Typescript API interface for the Nabaztag revival pcb
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
