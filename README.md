@@ -509,6 +509,7 @@
 
 ## JavaScript 
 
+- [tani/cheeriogs](https://github.com/tani/cheeriogs) - Cheerio for Google Apps Script
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
@@ -2307,7 +2308,7 @@
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [egoist/tailwindcss-icons](https://github.com/egoist/tailwindcss-icons) - Use any icon (100,000+) from Iconify, for TailwindCSS
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
-- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [romgere/text2stl](https://github.com/romgere/text2stl) - 3D text generator for 3D printing. EmberJs / Typescript / Three.js
