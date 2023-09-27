@@ -259,9 +259,9 @@
 
 ## Elixir
 
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
-## Elm 
+## Elm
 
 - [elm/elm-lang.org](https://github.com/elm/elm-lang.org) - Server and client code for the Elm website.
 
@@ -1031,7 +1031,6 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [eugeneyan/1-on-1s](https://github.com/eugeneyan/1-on-1s) - 🌱 1-on-1 questions and resources from my time as a manager.
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
-- [mikavehns/GPT-4-Prompts](https://github.com/mikavehns/GPT-4-Prompts) - A collection of GPT-4 prompts.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [SymfonyLive/paris-2023-talks](https://github.com/SymfonyLive/paris-2023-talks) -
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
