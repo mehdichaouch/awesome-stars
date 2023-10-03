@@ -568,7 +568,7 @@
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [magesuite/magepack](https://github.com/magesuite/magepack) - Next generation Magento 2 advanced JavaScript bundler.
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
-- [debkbanerji/lego-art-remix](https://github.com/debkbanerji/lego-art-remix) - Powerful computer vision assisted Lego mosaic creator · Over 500,000 images created (so far!)
+- [debkbanerji/lego-art-remix](https://github.com/debkbanerji/lego-art-remix) - Powerful computer vision assisted Lego mosaic creator · Over 1 million images created (so far!)
 - [raviriley/STL-to-OpenSCAD-Converter](https://github.com/raviriley/STL-to-OpenSCAD-Converter) - Convert .STL files into a .SCAD module with ease!
 - [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generati
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
@@ -2290,6 +2290,7 @@
 
 ## TypeScript 
 
+- [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [michael-dm/eva](https://github.com/michael-dm/eva) - 
