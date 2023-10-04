@@ -1200,6 +1200,7 @@
 
 ## PHP 
 
+- [symplify/vendor-patches](https://github.com/symplify/vendor-patches) - Patch your vendor files the easy way
 - [IchHabRecht/hosts_pattern](https://github.com/IchHabRecht/hosts_pattern) - Set TYPO3_CONF_VARS['SYS']['trustedHostsPattern'] depending on available sys_domain records
 - [Goomento/PageBuilder](https://github.com/Goomento/PageBuilder) - Goomento - The Free Magento Page Builder Extension, that allows you to create unique Magento websites using advanced animations, custom CSS, responsive designs, and more, by performing simple actions 
 - [FriendsOfTYPO3/tea](https://github.com/FriendsOfTYPO3/tea) - Example extension for unit testing and best practices.
