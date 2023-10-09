@@ -1199,6 +1199,7 @@
 
 ## PHP 
 
+- [flow-php/flow](https://github.com/flow-php/flow) - Flow PHP - strongly typed data processing framework
 - [symplify/vendor-patches](https://github.com/symplify/vendor-patches) - Patch your vendor files the easy way
 - [IchHabRecht/hosts_pattern](https://github.com/IchHabRecht/hosts_pattern) - Set TYPO3_CONF_VARS['SYS']['trustedHostsPattern'] depending on available sys_domain records
 - [Goomento/PageBuilder](https://github.com/Goomento/PageBuilder) - Goomento - The Free Magento Page Builder Extension, that allows you to create unique Magento websites using advanced animations, custom CSS, responsive designs, and more, by performing simple actions 
@@ -2252,7 +2253,7 @@
 - [dockerfile/percona](https://github.com/dockerfile/percona) - Percona Server Dockerfile for trusted automated Docker builds.
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu) - git mirror of upstream bzr at http://launchpad.net/byobu
 - [jasonrobertfox/dotfiles](https://github.com/jasonrobertfox/dotfiles) - Shell and other configurations
 - [greg0ire/git_template](https://github.com/greg0ire/git_template) - Automating your workflow with git
