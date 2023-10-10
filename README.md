@@ -154,7 +154,6 @@
 - [sepfy/BerryShare](https://github.com/sepfy/BerryShare) - Share PC desktop to Raspberry Pi with WebRTC
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [TheRealOrange/terminalvideoplayer](https://github.com/TheRealOrange/terminalvideoplayer) - 
-- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [weserv/images](https://github.com/weserv/images) - Source code of wsrv.nl (formerly images.weserv.nl), to be used on your own server(s).
@@ -570,6 +569,7 @@
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [debkbanerji/lego-art-remix](https://github.com/debkbanerji/lego-art-remix) - Powerful computer vision assisted Lego mosaic creator · Over 1 million images created (so far!)
 - [raviriley/STL-to-OpenSCAD-Converter](https://github.com/raviriley/STL-to-OpenSCAD-Converter) - Convert .STL files into a .SCAD module with ease!
+- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generati
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
@@ -1506,7 +1506,7 @@
 - [LavoWeb/Lyra-Magento2](https://github.com/LavoWeb/Lyra-Magento2) - 
 - [symfony/error-handler](https://github.com/symfony/error-handler) - Provides tools to manage errors and ease debugging PHP code
 - [magento-hackathon/cli-plugin-list](https://github.com/magento-hackathon/cli-plugin-list) - Get an overview of plugins installed and detect their influence on a Magento 2 instance
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [mgtcommerce/Mgt_Developertoolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Mgt DeveloperToolbar for Magento 2
 - [ccampbell/chromephp](https://github.com/ccampbell/chromephp) - class for logging PHP variables to Google Chrome console
 - [vijays91/Magento-Email-Notification](https://github.com/vijays91/Magento-Email-Notification) - This extension is used to, notify the customer when the product is available(in stock).
