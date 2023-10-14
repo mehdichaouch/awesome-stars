@@ -1199,6 +1199,7 @@
 
 ## PHP 
 
+- [theodo-group/LLPhant](https://github.com/theodo-group/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain and LLamaIndex
 - [flow-php/flow](https://github.com/flow-php/flow) - Flow PHP - strongly typed data processing framework
 - [symplify/vendor-patches](https://github.com/symplify/vendor-patches) - Patch your vendor files the easy way
 - [IchHabRecht/hosts_pattern](https://github.com/IchHabRecht/hosts_pattern) - Set TYPO3_CONF_VARS['SYS']['trustedHostsPattern'] depending on available sys_domain records
