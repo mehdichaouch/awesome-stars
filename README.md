@@ -655,7 +655,7 @@
 - [audreyt/ethercalc](https://github.com/audreyt/ethercalc) - Node.js port of Multi-user SocialCalc
 - [RobinHerbots/Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
-- [yuliskov/SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV) - Watch YouTube videos on your TV and set-top-box with comfort
+- [yuliskov/SmartTubeLegacy](https://github.com/yuliskov/SmartTubeLegacy) - Watch YouTube videos on your TV and set-top-box with comfort
 - [square/js-jose](https://github.com/square/js-jose) - JavaScript library to encrypt/decrypt data in JSON Web Encryption (JWE) format and to sign/verify data in JSON Web Signature (JWS) format. Leverages Browser's native WebCrypto API.
 - [thom4parisot/nodebook](https://github.com/thom4parisot/nodebook) - 📖 Livre publié aux Éditions Eyrolles • Première édition : Node.js v10 et npm v6.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
