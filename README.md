@@ -1025,6 +1025,7 @@
 
 ## Others 
 
+- [srinivas-gokarla/magento2-APSB23-50-patch](https://github.com/srinivas-gokarla/magento2-APSB23-50-patch) - APSB23-50 Patch for magento versions from 2.3.0 to 2.4.3
 - [jellesiderius/ddev-magento2-setup](https://github.com/jellesiderius/ddev-magento2-setup) - DDEV for Magento 2 including cache watching, styles watching & multi store
 - [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
