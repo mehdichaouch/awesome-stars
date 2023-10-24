@@ -348,6 +348,7 @@
 
 ## HTML
 
+- [lbrunet/Plongee-dans-les-CSP](https://github.com/lbrunet/Plongee-dans-les-CSP) - Conférence à BreizhCamp, 9ème édition
 - [violinist-dev/drupal-contrib-sa](https://github.com/violinist-dev/drupal-contrib-sa) - Command to scan and create security advisories for Drupal contrib
 - [rameshx/instagram-stories](https://github.com/rameshx/instagram-stories) - Instagram stories preview
 - [astorm/magento-layout-no-frills](https://github.com/astorm/magento-layout-no-frills) - Repo for the Creative Commons published No Frills Magento Layout
@@ -952,7 +953,7 @@
 ## Jupyter Notebook
 
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
-- [EleutherAI/pythia](https://github.com/EleutherAI/pythia) -
+- [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - The hub for EleutherAI's work on interpretability and learning dynamics
 - [anisayari/Youtube-apprendre-le-deeplearning-avec-tensorflow](https://github.com/anisayari/Youtube-apprendre-le-deeplearning-avec-tensorflow) - Ce repo contient les codes développés dans le cadre de ma série de vidéo sur Youtube pour apprendre à coder en python en utilisant Tensorflow afin de réaliser des tâches de Deep Learning.
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [microsoft/ProjectOxford-ClientSDK](https://github.com/microsoft/ProjectOxford-ClientSDK) - This repo has moved :house: Visit our website for the latest SDKs & Samples
@@ -1556,7 +1557,7 @@
 - [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories
 - [Marko-M/Inchoo_Precache](https://github.com/Marko-M/Inchoo_Precache) - Magento pre-cache PHP shell script
 - [oystparis/oyst-1click-magento2](https://github.com/oystparis/oyst-1click-magento2) - 
-- [30-seconds/30-seconds-of-php](https://github.com/30-seconds/30-seconds-of-php) - Short PHP code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-php](https://github.com/Chalarangelo/30-seconds-of-php) - Short PHP code snippets for all your development needs
 - [aschroder/Magento-SMTP-Pro-Email-Extension](https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension) - Full SMTP and Gmail/Google Apps Email support for Magento
 - [hartmut-co-uk/magento-php7-totals-fix](https://github.com/hartmut-co-uk/magento-php7-totals-fix) - (DEPRECATED!!) Magento Sales Quote Totals Bugfix for php7 (DEPRECATED!!)
 - [scr34m/php-malware-scanner](https://github.com/scr34m/php-malware-scanner) - Scans PHP files for malwares and known threats
