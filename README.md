@@ -426,7 +426,7 @@
 - [jolicode/composer-cheatsheet](https://github.com/jolicode/composer-cheatsheet) - :clipboard: Everything you have to know about composer.json in one page.
 - [puphpet/puphpet](https://github.com/puphpet/puphpet) - Vagrant/Puppet GUI
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
-- [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Design Patterns
+- [chuanxshi/javascript-patterns](https://github.com/chuanxshi/javascript-patterns) - JavaScript Design Patterns
 - [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [davatron5000/FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
 - [davatron5000/FitText.js](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type
@@ -1201,6 +1201,8 @@
 
 ## PHP
 
+- [Badcow/DNS](https://github.com/Badcow/DNS) - The aim of this project is to create abstract object representations of DNS records in PHP. The project consists of various classes representing DNS objects (such as Zone, ResourceRecord, and various
+- [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [theodo-group/LLPhant](https://github.com/theodo-group/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain and LLamaIndex
 - [flow-php/flow](https://github.com/flow-php/flow) - Flow PHP - strongly typed data processing framework
 - [symplify/vendor-patches](https://github.com/symplify/vendor-patches) - Patch your vendor files the easy way
