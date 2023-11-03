@@ -348,6 +348,7 @@
 
 ## HTML
 
+- [m4tthumphrey/m4tthumphrey.github.io](https://github.com/m4tthumphrey/m4tthumphrey.github.io) -
 - [lbrunet/Plongee-dans-les-CSP](https://github.com/lbrunet/Plongee-dans-les-CSP) - Conférence à BreizhCamp, 9ème édition
 - [violinist-dev/drupal-contrib-sa](https://github.com/violinist-dev/drupal-contrib-sa) - Command to scan and create security advisories for Drupal contrib
 - [rameshx/instagram-stories](https://github.com/rameshx/instagram-stories) - Instagram stories preview
@@ -959,6 +960,7 @@
 
 ## Kotlin 
 
+- [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) -
 - [one-dark/jetbrains-one-dark-theme](https://github.com/one-dark/jetbrains-one-dark-theme) - One Dark theme for JetBrains.
 
 ## Less 
@@ -1201,6 +1203,7 @@
 
 ## PHP
 
+- [php-youtubers/directory](https://github.com/php-youtubers/directory) - Curated a list of PHP YouTubers. 📋
 - [Badcow/DNS](https://github.com/Badcow/DNS) - The aim of this project is to create abstract object representations of DNS records in PHP. The project consists of various classes representing DNS objects (such as Zone, ResourceRecord, and various
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [theodo-group/LLPhant](https://github.com/theodo-group/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain and LLamaIndex
