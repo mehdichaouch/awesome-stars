@@ -890,7 +890,6 @@
 - [verekia/initializr-website](https://github.com/verekia/initializr-website) - Initializr Home Page
 - [altryne/extensionizr](https://github.com/altryne/extensionizr) - Extensionizr! Create a chrome extension in 15 seconds!
 - [toolness/slowmo-js](https://github.com/toolness/slowmo-js) - Execute JavaScript in slow motion.
-- [mbraak/jqTree](https://github.com/mbraak/jqTree) - Tree widget for jQuery
 - [jaystack/jaydata](https://github.com/jaystack/jaydata) - Notice: this library isn't maintained anymore
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [jordansinger/Hook](https://github.com/jordansinger/Hook) - Pull to refresh for the web
@@ -1027,6 +1026,7 @@
 
 ## Others 
 
+- [finary-wealth/awesome](https://github.com/finary-wealth/awesome) - 🔍👋 A curated list of Finary libraries, resources and projects.
 - [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
 - [srinivas-gokarla/magento2-APSB23-50-patch](https://github.com/srinivas-gokarla/magento2-APSB23-50-patch) - APSB23-50 Patch for magento versions from 2.3.0 to 2.4.3
 - [jellesiderius/ddev-magento2-setup](https://github.com/jellesiderius/ddev-magento2-setup) - DDEV for Magento 2 including cache watching, styles watching & multi store
@@ -1917,6 +1917,8 @@
 
 ## Python 
 
+- [MadeInPierre/finalynx](https://github.com/MadeInPierre/finalynx) - A minimalistic companion (CLI & web) to organize your investment portfolio, simulate its future, and reach your life goals.
+- [nmathey/finasync](https://github.com/nmathey/finasync) - A simple tool to sync your Finary portfolio values with sources platforms not yet officially integrated by Finary
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
@@ -2336,7 +2338,7 @@
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.
+- [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
 - [r0mankon/lib-unifonts](https://github.com/r0mankon/lib-unifonts) - 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆.
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -2413,6 +2415,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+- [mbraak/jqTree](https://github.com/mbraak/jqTree) - Tree widget for jQuery
 
 ## Vim Script 
 
