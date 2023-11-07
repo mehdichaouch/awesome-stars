@@ -563,6 +563,7 @@
 - [thaydds/chrome-extension-get-token](https://github.com/thaydds/chrome-extension-get-token) - 
 - [visjs/vis-timeline](https://github.com/visjs/vis-timeline) - 📅 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
 - [poloclub/ganlab](https://github.com/poloclub/ganlab) - GAN Lab: An Interactive, Visual Experimentation Tool for Generative Adversarial Networks
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: A GitHub Action to send an email to multiple recipients
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -1604,7 +1605,7 @@
 - [mnapoli/pretty](https://github.com/mnapoli/pretty) - ✨ CLI command with sane defaults to simplify CodeSniffer and PHP-CS-Fixer
 - [nette/di](https://github.com/nette/di) - 💎 Flexible, compiled and full-featured Dependency Injection Container with perfectly usable autowiring and support for all new PHP 7 features.
 - [jmolivas/phpqa](https://github.com/jmolivas/phpqa) - PHPQA all-in-one Analyzer CLI tool
-- [Payum/Payum](https://github.com/Payum/Payum) - PHP 7+ Payment processing library. It offers everything you need to work with payments: Credit card & offsite purchasing, subscriptions, payouts etc.
+- [Payum/Payum](https://github.com/Payum/Payum) - PHP Payment processing library. It offers everything you need to work with payments: Credit card & offsite purchasing, subscriptions, payouts etc.
 - [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) - PHP version of mysqldump cli that comes with MySQL
 - [PHPJunior/laravel-video-chat](https://github.com/PHPJunior/laravel-video-chat) - Laravel Video Chat using Socket.IO and WebRTC
 - [consolidation/robo](https://github.com/consolidation/robo) - Modern task runner for PHP
@@ -2078,6 +2079,7 @@
 
 ## Roff 
 
+- [extdn/github-actions-m2](https://github.com/extdn/github-actions-m2) -
 - [nabaztag2018/hardware](https://github.com/nabaztag2018/hardware) - Les fichiers du kit
 - [steverobbins/magento-version-identification-php](https://github.com/steverobbins/magento-version-identification-php) - Magento Version Identification in PHP
 
@@ -2179,7 +2181,6 @@
 - [brenner-tobias/addon-cloudflared](https://github.com/brenner-tobias/addon-cloudflared) - Connect remotely to your Home Assistant instance without opening any ports using Cloudflared.
 - [adonno/tagreader](https://github.com/adonno/tagreader) - Simple to build/use NFC tag reader, specially created for Home Assistant
 - [rainglow/jetbrains](https://github.com/rainglow/jetbrains) - 320+ color themes for JetBrains IDEs including PHPStorm, Webstorm and more.
-- [extdn/github-actions-m2](https://github.com/extdn/github-actions-m2) -
 - [hivecommerce/magerun2-list-api-endpoints](https://github.com/hivecommerce/magerun2-list-api-endpoints) - Plugin for netz98 Magerun2 to list all API endpoints via CLI
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [mehdichaouch/some-bitbar-xbar-argos-plugins](https://github.com/mehdichaouch/some-bitbar-xbar-argos-plugins) - My plugin repository for xbar (the BitBar reboot) and Argos (Linux alternative)
@@ -2341,7 +2342,6 @@
 - [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
 - [r0mankon/lib-unifonts](https://github.com/r0mankon/lib-unifonts) - 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆.
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
 - [antonreshetov/image-optimizer](https://github.com/antonreshetov/image-optimizer) - A free and open source tool for optimizing images and vector graphics.
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
