@@ -647,7 +647,7 @@
 - [stevenschobert/instafeed.js](https://github.com/stevenschobert/instafeed.js) - A simple Instagram JavaScript plugin for your website
 - [liip/TheA11yMachine](https://github.com/liip/TheA11yMachine) - The A11y Machine is an automated accessibility testing tool which crawls and tests pages of any web application to produce detailed reports.
 - [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
-- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
+- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [frinyvonnick/gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog) - A changelog generator for gitmoji 😜
 - [netlify/staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
 - [ccampbell/chromelogger](https://github.com/ccampbell/chromelogger) - chrome extension for server side console logging
@@ -1378,7 +1378,7 @@
 - [goivvy/DJS](https://github.com/goivvy/DJS) - Magento 2 Defer Javascript Loading Extension
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
-- [pluxml/PluXml](https://github.com/pluxml/PluXml) - PluXml, Moteur de Blog et CMS à l'XML sans base de données
+- [pluxml/PluXml](https://github.com/pluxml/PluXml) - A CMS to create lightweight websites with ease and without a database.
 - [Magenerds/RichSnippet](https://github.com/Magenerds/RichSnippet) - 
 - [mohammadzahwy2017/RestrictPMethod-Magento2](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2) - Disable specific payment methods on checkout page when cart have at least one product from specific category
 - [markalston/Alstoone_Hours](https://github.com/markalston/Alstoone_Hours) - Magento2 module to set store hours and holidays.  Items will not be added to cart during closed hours or holidays and payment methods will also be deactivated.
@@ -1918,6 +1918,7 @@
 
 ## Python 
 
+- [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [MadeInPierre/finalynx](https://github.com/MadeInPierre/finalynx) - A minimalistic companion (CLI & web) to organize your investment portfolio, simulate its future, and reach your life goals.
 - [nmathey/finasync](https://github.com/nmathey/finasync) - A simple tool to sync your Finary portfolio values with sources platforms not yet officially integrated by Finary
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
