@@ -1485,7 +1485,7 @@
 - [magefan/module-login-as-customer](https://github.com/magefan/module-login-as-customer) - Allows admin to login as a customer (enter to customer account).
 - [metagento/magento-2-backend-search](https://github.com/metagento/magento-2-backend-search) - Magento 2 extension helps store owner to search menu items and configuration fields in backend
 - [yireo-training/magento2-example-customer-data-details](https://github.com/yireo-training/magento2-example-customer-data-details) - Plugin adding additional details to the customer-data section "customer"
-- [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - :santa: The code behind Secret Santa, the holiday bot for Slack / Discord
+- [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - :santa: The code behind Secret Santa, the holiday bot for Slack / Discord / Webex
 - [swoft-cloud/swoft](https://github.com/swoft-cloud/swoft) - 🚀 PHP Microservice Full Coroutine Framework
 - [Tabrisrp/wps-hide-login](https://github.com/Tabrisrp/wps-hide-login) - WPS Hide Login
 - [sivaschenko/masonry-grid-example](https://github.com/sivaschenko/masonry-grid-example) - Magento masonry grid example
@@ -2303,6 +2303,7 @@
 
 ## TypeScript
 
+- [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 30,000 supported emoji mashups as part of Google's Emoji Kitche
 - [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
