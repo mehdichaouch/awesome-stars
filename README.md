@@ -2254,7 +2254,7 @@
 - [yireo/Magento_EU_Tax_Rates](https://github.com/yireo/Magento_EU_Tax_Rates) - Magento CSV taxrates for usage within the EU
 - [splitbrain/docker-phpfarm](https://github.com/splitbrain/docker-phpfarm) - A Dockerfile to build an image running multiple PHP versions on Apache
 - [rupa/z](https://github.com/rupa/z) - z - jump around
-- [ovh/debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 10/11 hardening
+- [ovh/debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 10/11/12 hardening
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup) - A beginner's guide to setting up a development environment on macOS
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Management Platform
