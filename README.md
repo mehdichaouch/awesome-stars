@@ -299,7 +299,6 @@
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -1530,7 +1529,7 @@
 - [magento/security-package](https://github.com/magento/security-package) - Magento Security Extensions
 - [agence-tbd/oyst-1click-magento](https://github.com/agence-tbd/oyst-1click-magento) - Oyst 1-Click plugin for Magento
 - [filp/whoops](https://github.com/filp/whoops) - PHP errors for cool kids
-- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers. It enables you to configure your git hook actions in a simple json file and easily share them with your team.
+- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze.
 - [ivicatadic/Tadic_AVP](https://github.com/ivicatadic/Tadic_AVP) - View product in frontend from Magento admin
 - [Spomky-Labs/jose](https://github.com/Spomky-Labs/jose) - :closed_lock_with_key: JSON Object Signing and Encryption Framework (JWT, JWS, JWE, JWA, JWK, JWKSet and more)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework
@@ -2383,6 +2382,7 @@
 - [Annihil/revolut-emergency](https://github.com/Annihil/revolut-emergency) - 👨‍🚀 Unofficial Revolut PC app – Freeze cards, list transactions, get notifications, contact support
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [lichess-org/chessground](https://github.com/lichess-org/chessground) - Mobile/Web chess UI for lichess.org
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [udleinati/redirect.center](https://github.com/udleinati/redirect.center) - Redirect domains using DNS only
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
