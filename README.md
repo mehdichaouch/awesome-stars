@@ -533,7 +533,6 @@
 - [vuestorefront/magento2-rest-client](https://github.com/vuestorefront/magento2-rest-client) - Magento2 Node.js Rest client
 - [elgentos/magento2-cypress-testing-suite](https://github.com/elgentos/magento2-cypress-testing-suite) - A community-driven Cypress testing suite for Magento 2
 - [Elijas/auto-youtube-subscription-playlist-2](https://github.com/Elijas/auto-youtube-subscription-playlist-2) - Script automatically adds videos to playlists from Youtube channels and/or subscriptions (Youtube Collections alternative).
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees
 - [vjeantet/hugo-theme-docdock](https://github.com/vjeantet/hugo-theme-docdock) - Declination of @matcornic  Learn theme to Hugo
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
@@ -1044,6 +1043,7 @@
 - [fisheye-academy/m2cpfed-training](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2 Certified Professional Front End Developer exam
 - [roma-glushko/magento2-k6-load-tests](https://github.com/roma-glushko/magento2-k6-load-tests) - 
 - [netresearch/dhl-shipping-m2](https://github.com/netresearch/dhl-shipping-m2) - DHL multi-division shipping extension for Magento 2
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [ad-si/awesome-laser-cutting](https://github.com/ad-si/awesome-laser-cutting) - A curated list of awesome laser cutting resources.
 - [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists
@@ -1376,7 +1376,7 @@
 - [goivvy/DJS](https://github.com/goivvy/DJS) - Magento 2 Defer Javascript Loading Extension
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
-- [pluxml/PluXml](https://github.com/pluxml/PluXml) - A CMS to create lightweight websites with ease and without a database.
+- [pluxml/PluXml](https://github.com/pluxml/PluXml) - A CMS to create lightweight websites with ease and without database.
 - [Magenerds/RichSnippet](https://github.com/Magenerds/RichSnippet) - 
 - [mohammadzahwy2017/RestrictPMethod-Magento2](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2) - Disable specific payment methods on checkout page when cart have at least one product from specific category
 - [markalston/Alstoone_Hours](https://github.com/markalston/Alstoone_Hours) - Magento2 module to set store hours and holidays.  Items will not be added to cart during closed hours or holidays and payment methods will also be deactivated.
