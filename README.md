@@ -547,7 +547,7 @@
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [desandro/classie](https://github.com/desandro/classie) - :tophat: class helper functions
 - [pupunzi/jquery.mb.YTPlayer](https://github.com/pupunzi/jquery.mb.YTPlayer) - use a custom yutube player for a video as background on jQuery framework
-- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [HughChen/qr_image](https://github.com/HughChen/qr_image) - A web app to generate valid QR codes with readable images.
 - [yireo/Yireo_Bootstrap3](https://github.com/yireo/Yireo_Bootstrap3) - Magento 2 module inserting Twitter Bootstrap 3 via CDN
@@ -1236,7 +1236,7 @@
 - [georgringer/news](https://github.com/georgringer/news) - TYPO3 Extension news
 - [FriendsOfTYPO3/tt_address](https://github.com/FriendsOfTYPO3/tt_address) - Add address / contact datasets to your content management system.
 - [christophlehmann/imageoptimizer](https://github.com/christophlehmann/imageoptimizer) - TYPO3 Extension for lossless image optimization with binaries of your choice.
-- [xperseguers/t3ext-file_list](https://github.com/xperseguers/t3ext-file_list) - TYPO3 Extension file_list. This extension provides a frontend plugin which shows a list of files and folders in a specified directory on the file system (comparable to Apache directory listing) or usi
+- [xperseguers/t3ext-file_list](https://github.com/xperseguers/t3ext-file_list) - TYPO3 Extension file_list. This extension provides a frontend plugin which shows a list of files and folders in a specified directory on the file system.
 - [a-r-m-i-n/min](https://github.com/a-r-m-i-n/min) - TYPO3 CMS extension "min" - Compressed CSS, JS and HTML output for TYPO3
 - [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen
 - [TYPO3-Solr/ext-solr](https://github.com/TYPO3-Solr/ext-solr) - A TYPO3 extension that integrates the Apache Solr search server with TYPO3 CMS. dkd Internet Service GmbH is developing the extension. Community contributions are welcome. See CONTRIBUTING.md for deta
@@ -1918,6 +1918,7 @@
 
 ## Python
 
+- [Yuchen413/text2image_safety](https://github.com/Yuchen413/text2image_safety) -
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
