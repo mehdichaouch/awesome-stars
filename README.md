@@ -509,6 +509,8 @@
 
 ## JavaScript
 
+- [bqworks/slider-pro-js](https://github.com/bqworks/slider-pro-js) - Modular JavaScript slider that is dependency-free, rich-featured, flexible and easy to use.
+- [bqworks/slider-pro](https://github.com/bqworks/slider-pro) - A modular, responsive and touch-enabled jQuery slider plugin that enables you to create elegant and professionally looking sliders.
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [tani/cheeriogs](https://github.com/tani/cheeriogs) - Cheerio for Google Apps Script
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
@@ -1053,7 +1055,6 @@
 - [ronangr1/M2-TechnicalInterviewsResources](https://github.com/ronangr1/M2-TechnicalInterviewsResources) - Compilation of all the questions that are asked during the technical interviews oriented for Magento.
 - [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
-- [yireo/magento2-replace-composer-plugin](https://github.com/yireo/magento2-replace-composer-plugin) - Manage your composer replacements in your Magento project
 - [yireo/magento2-replace-core](https://github.com/yireo/magento2-replace-core) - Magento 2 meta-package to replace all optional core modules
 - [yireo/magento2-replace-graphql](https://github.com/yireo/magento2-replace-graphql) - Magento 2 meta-package to replace all optional GraphQL modules
 - [guardrailsio/awesome-php-security](https://github.com/guardrailsio/awesome-php-security) - Awesome PHP Security Resources 🕶🐘🔐
