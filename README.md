@@ -215,6 +215,7 @@
 - [adobe-webplatform/Demo-for-Alice-s-Adventures-in-Wonderland](https://github.com/adobe-webplatform/Demo-for-Alice-s-Adventures-in-Wonderland) - Demo of CSS Shapes using the Alice in Wonderland story.
 - [Rydgel/phollow](https://github.com/Rydgel/phollow) - My blog
 - [kouphax/trello-printer](https://github.com/kouphax/trello-printer) - 
+- [verekia/initializr-website](https://github.com/verekia/initializr-website) - Initializr Home Page
 - [zenorocha/browser-diet](https://github.com/zenorocha/browser-diet) - :fries: The definitive front-end performance guide
 - [datapublica/ratp-trafic-map](https://github.com/datapublica/ratp-trafic-map) - 
 - [soulwire/Makisu](https://github.com/soulwire/Makisu) - CSS 3D Dropdown Concept
@@ -886,7 +887,6 @@
 - [rashidkpc/kibana2](https://github.com/rashidkpc/kibana2) - Kibana was acquired by Elastic in 2013. See elastic/kibana. More info at http://kibana.org
 - [eirikb/nipster](https://github.com/eirikb/nipster) - Search tool for npm
 - [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption.
-- [verekia/initializr-website](https://github.com/verekia/initializr-website) - Initializr Home Page
 - [altryne/extensionizr](https://github.com/altryne/extensionizr) - Extensionizr! Create a chrome extension in 15 seconds!
 - [toolness/slowmo-js](https://github.com/toolness/slowmo-js) - Execute JavaScript in slow motion.
 - [jaystack/jaydata](https://github.com/jaystack/jaydata) - Notice: this library isn't maintained anymore
@@ -2315,7 +2315,7 @@
 - [michael-dm/eva](https://github.com/michael-dm/eva) - 
 - [bamdadsabbagh/leboncoin-pdf-ext](https://github.com/bamdadsabbagh/leboncoin-pdf-ext) - PDF Exporter for leboncoin.fr
 - [nohello-net/site](https://github.com/nohello-net/site) - 
-- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with ChatGPT and Vercel Edge Functions.
+- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with Mixtral and GPT-3.5.
 - [Garlic-AI/siteexplainer](https://github.com/Garlic-AI/siteexplainer) - explains site
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [yaroslav-n/tweetGPT](https://github.com/yaroslav-n/tweetGPT) - Chrome extension that generates tweets and replies using chatGPT
