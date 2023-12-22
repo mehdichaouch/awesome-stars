@@ -682,7 +682,7 @@
 - [GoogleChrome/dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - Polyfill for the HTML dialog element
 - [0xs34n/blockchain](https://github.com/0xs34n/blockchain) - 📖Code for Blockchain Demo
 - [labnol/unsubscribe-gmail](https://github.com/labnol/unsubscribe-gmail) - Gmail Unsubscriber is a Google Apps Script for unsubscribing from unwanted newsletters and other bulk emails.
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [foldmap/hyperapp](https://github.com/foldmap/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
 - [tobegit3hub/seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
 - [EastDesire/jscolor](https://github.com/EastDesire/jscolor) - JavaScript color picker with opacity (alpha channel) and customizable palette. Single file of plain JS with no dependencies.
@@ -744,7 +744,7 @@
 - [garak/electron-symfony](https://github.com/garak/electron-symfony) - A Symfony application inside electron
 - [samhocevar/dtcloud](https://github.com/samhocevar/dtcloud) - Le vrai visage du Cloud™
 - [rishabhp/bideo.js](https://github.com/rishabhp/bideo.js) - Fullscreen HTML5 Background Video for the Web.
-- [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser m
+- [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - sitespeed.io is an open-source tool for comprehensive web performance analysis, enabling you to test, monitor, and optimize your website’s speed using real browsers in various environments.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [sapo/Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping
 - [kevana/ui-for-docker](https://github.com/kevana/ui-for-docker) - A web interface for Docker, formerly known as DockerUI. This repo is not maintained
@@ -1919,6 +1919,8 @@
 
 ## Python
 
+- [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
+- [Snapmaker/SnapmakerCuraPlugin](https://github.com/Snapmaker/SnapmakerCuraPlugin) - Snapmaker plugin for Cura 5
 - [Yuchen413/text2image_safety](https://github.com/Yuchen413/text2image_safety) -
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
