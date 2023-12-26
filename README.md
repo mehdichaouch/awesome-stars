@@ -118,7 +118,7 @@
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [jedisct1/libsodium-php](https://github.com/jedisct1/libsodium-php) - The PHP extension for libsodium.
 - [magento-hackathon/Sandfox_GeoIP](https://github.com/magento-hackathon/Sandfox_GeoIP) - Connects MaxMind GeoIP DB to Magento
-- [notro/fbtft](https://github.com/notro/fbtft) - Linux Framebuffer drivers for small TFT LCD display modules. Development in this github repo has ceased.
+- [notro/fbtft](https://github.com/notro/fbtft) - Linux Framebuffer drivers for small TFT LCD display modules. Development has moved to https://git.kernel.org/cgit/linux/kernel/git/gregkh/staging.git/tree/drivers/staging/fbtft?h=staging-testing
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
 - [rsyslog/rsyslog](https://github.com/rsyslog/rsyslog) - a Rocket-fast SYStem for LOG processing
 - [wishstudio/flinux](https://github.com/wishstudio/flinux) - Foreign LINUX - Run unmodified Linux applications inside Windows.
