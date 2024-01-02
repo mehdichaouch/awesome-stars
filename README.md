@@ -756,7 +756,7 @@
 - [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [oyejorge/less.php](https://github.com/oyejorge/less.php) - less.js ported to PHP.
 - [metafizzy/flickity](https://github.com/metafizzy/flickity) - :leaves: Touch, responsive, flickable carousels
-- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
+- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [CitoyensCapteurs/CitizenWatt](https://github.com/CitoyensCapteurs/CitizenWatt) - CitizenWatt vise à développer un outil de mesure de la consommation électrique des foyers à bas coût et facilement réplicable.
 - [lepture/editor](https://github.com/lepture/editor) - A markdown editor. http://lab.lepture.com/editor/
