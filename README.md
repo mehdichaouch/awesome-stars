@@ -1207,6 +1207,7 @@
 
 ## PHP
 
+- [jayankaghosh/patch-manager](https://github.com/jayankaghosh/patch-manager) - A magento extension to maintain data patches
 - [magegang/m2-logo-config](https://github.com/magegang/m2-logo-config) - Schedule a logo for each of your ecommerce store's yearly events
 - [PHP-DI/PHP-DI](https://github.com/PHP-DI/PHP-DI) - The dependency injection container for humans
 - [php-youtubers/directory](https://github.com/php-youtubers/directory) - Curated a list of PHP YouTubers. 📋
@@ -1403,7 +1404,7 @@
 - [php-etl/satellite](https://github.com/php-etl/satellite) - A micro-service compilation tool for data stream processing in the cloud
 - [experius/Magento-2-Module-Experius-Email-Catcher](https://github.com/experius/Magento-2-Module-Experius-Email-Catcher) - Magento 2 Email Catcher or Email Logger Module. Available At Packagist.
 - [magentodevblog/magento-2-add-custom-field-in-checkout-shipping](https://github.com/magentodevblog/magento-2-add-custom-field-in-checkout-shipping) - Magento 2 - add a custom field in checkout shipping address. Add a custom form fields to the checkout shipping address form fields and save the value into database - Magento 2
-- [charlyie/resmushit-wordpress](https://github.com/charlyie/resmushit-wordpress) - Wordpress plugin for reSmush.it : the Free Image Optimization API. Image optimizer plugin. See https://wordpress.org/plugins/resmushit-image-optimizer/
+- [resmushit/wordpress-plugin](https://github.com/resmushit/wordpress-plugin) - Wordpress plugin for reSmush.it : the Free Image Optimization API. Image optimizer plugin. See https://wordpress.org/plugins/resmushit-image-optimizer/
 - [davgothic/smushit](https://github.com/davgothic/smushit) - SmushIt is a PHP client for the popular Yahoo! image compression web service Smush.it
 - [code4business/freeproduct2](https://github.com/code4business/freeproduct2) - Magento2 extension that allows creating sales rules that add gift products.
 - [Smile-SA/magento2-module-gift-sales-rule](https://github.com/Smile-SA/magento2-module-gift-sales-rule) - Magento2 module to create gift product sales rules.
@@ -1993,7 +1994,6 @@
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
 - [kossiitkgp/email-to-slack](https://github.com/kossiitkgp/email-to-slack) - A hack to read emails on a slack channel while staying in free plan
@@ -2147,6 +2147,7 @@
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -2201,7 +2202,7 @@
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [wardenenv/warden-env-magento2](https://github.com/wardenenv/warden-env-magento2) - Template Project for Magento 2 Using Warden for Local Development
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [KevCui/getTweets](https://github.com/KevCui/getTweets) - :bird: Fetch tweets from a specific user without account login
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [wardenenv/warden](https://github.com/wardenenv/warden) - Warden is a CLI utility for orchestrating Docker based developer environments
