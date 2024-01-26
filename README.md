@@ -1067,7 +1067,6 @@
 - [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
 - [markshust/magento2-modules](https://github.com/markshust/magento2-modules) - A curated list of all Mark's modules available for Magento 2.
 - [supertanuki/numeriqueEcoResponsable](https://github.com/supertanuki/numeriqueEcoResponsable) - Ressources et écosystème sur la mesure et la réduction des impacts environnementaux du numérique
-- [condacore/cryptocurrency-icons](https://github.com/condacore/cryptocurrency-icons) - Set of almost 2000 Cryptocurrency Icons / Logos like Bitcoin (BTC), Ethereum (ETH), Ripple (XRP) etc. in the sizes 16x16, 32x32, 64x64 and 128x128.
 - [Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) - An awesome README template for your projects!
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) - A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
