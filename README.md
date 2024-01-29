@@ -6,7 +6,6 @@
 ## Contents
 
 - [Arduino](#arduino)
-- [AsciiDoc](#asciidoc)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -72,10 +71,6 @@
 
 - [Hackable-magazine/Hackable9](https://github.com/Hackable-magazine/Hackable9) - Sources Hackable #9
 
-## AsciiDoc 
-
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
-
 ## Astro 
 
 - [mage-os/mage-os-website](https://github.com/mage-os/mage-os-website) - Source of the mage-os.org website.
@@ -91,7 +86,6 @@
 - [s-macke/FSHistory](https://github.com/s-macke/FSHistory) - Play and Enjoy the History of Microsoft Flight Simulator
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [o-daneel/Lunii.RE](https://github.com/o-daneel/Lunii.RE) - Understanding the inner mechanics of Lunii StoryTeller. Using Ghidra to reverse engineer the STM32 firmwares and cryptography
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap) - LICEcap simple animated screen capture tool for Windows and OS X
@@ -148,6 +142,7 @@
 
 ## C++ 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [letscontrolit/ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266/ESP32
 - [moononournation/IoT-Emoji-Sign](https://github.com/moononournation/IoT-Emoji-Sign) - 
 - [function3d/petalot](https://github.com/function3d/petalot) - PET Bottle To 3D Filament
@@ -404,6 +399,7 @@
 - [toSvenson/blockchain-demo](https://github.com/toSvenson/blockchain-demo) - A web-based demonstration of blockchain concepts.
 - [bradjasper/ImportJSON](https://github.com/bradjasper/ImportJSON) - Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
 - [reillo/mage_customerredirect](https://github.com/reillo/mage_customerredirect) - Magento (1.9.x) - Redirect customer group to specific store url after login.
 - [manishiitg/excellence_magento_blog](https://github.com/manishiitg/excellence_magento_blog) - Source Code of Excellence Magento Blog Modules
