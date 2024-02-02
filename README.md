@@ -1230,7 +1230,7 @@
 - [plan2net/webp](https://github.com/plan2net/webp) - Create a WebP copy for images (TYPO3 CMS)
 - [netresearch/t3x-rte_ckeditor_image](https://github.com/netresearch/t3x-rte_ckeditor_image) - Image support in CKEditor for the TYPO3 ecosystem
 - [lochmueller/staticfilecache](https://github.com/lochmueller/staticfilecache) - 🚀 Fastes TYPO3 Extension ever 🚀
-- [einpraegsam/powermail_cond](https://github.com/einpraegsam/powermail_cond) - Add conditions (via AJAX) to TYPO3 powermail forms for fields and pages
+- [in2code-de/powermail_cond](https://github.com/in2code-de/powermail_cond) - Add conditions (via AJAX) to TYPO3 powermail forms for fields and pages
 - [in2code-de/powermail](https://github.com/in2code-de/powermail) - This is the official repository of the TYPO3 extension powermail! Powermail is a well-known, editor-friendly, powerful and easy mailform extension for TYPO3
 - [hmmh/typo3-solr-file-indexer](https://github.com/hmmh/typo3-solr-file-indexer) - TYPO3 Extension: solr_file_indexer
 - [hendrikreimers/slug_autoupdate](https://github.com/hendrikreimers/slug_autoupdate) - TYPO3 Slug URL Segment Auto Update
