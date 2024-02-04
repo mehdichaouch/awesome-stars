@@ -2132,7 +2132,6 @@
 - [tlayh/vagrant-typo3neos](https://github.com/tlayh/vagrant-typo3neos) - Vagrant setup for neos
 - [dotless-de/vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - A Vagrant plugin to keep your VirtualBox Guest Additions up to date
 - [everzet/capifony](https://github.com/everzet/capifony) - [UNMAINTAINED]
-- [defunkt/dotjs](https://github.com/defunkt/dotjs) - ~/.js
 - [alexch/sharebro](https://github.com/alexch/sharebro) - 
 - [etsy/deployinator](https://github.com/etsy/deployinator) - Deployinate!
 
@@ -2185,6 +2184,8 @@
 
 ## Shell
 
+- [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
+- [TheRemote/PiBenchmarks](https://github.com/TheRemote/PiBenchmarks) - Raspberry Pi benchmarking scripts featuring a storage benchmark with score
 - [mehdichaouch/YAWAC](https://github.com/mehdichaouch/YAWAC) - Yet Another Wifi Auto Connect (YAWAC) is a shell script to connect to a dataset of wireless connection and free hotspot like FreeWifi. It's works on OpenWrt.
 - [mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee](https://github.com/mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee) - WordPress Auto Update 🆕 and Notify 🔔 and Deploy 🚀 and Give a Beer 🍺 or a Coffee ☕
 - [MAD-I-T/magento-actions](https://github.com/MAD-I-T/magento-actions) - Github deployment actions for Magento 2
