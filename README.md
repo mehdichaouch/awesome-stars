@@ -2132,6 +2132,7 @@
 - [tlayh/vagrant-typo3neos](https://github.com/tlayh/vagrant-typo3neos) - Vagrant setup for neos
 - [dotless-de/vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - A Vagrant plugin to keep your VirtualBox Guest Additions up to date
 - [everzet/capifony](https://github.com/everzet/capifony) - [UNMAINTAINED]
+- [defunkt/dotjs](https://github.com/defunkt/dotjs) - ~/.js
 - [alexch/sharebro](https://github.com/alexch/sharebro) - 
 - [etsy/deployinator](https://github.com/etsy/deployinator) - Deployinate!
 
