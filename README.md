@@ -1209,7 +1209,7 @@
 ## PHP 
 
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don't have to work!
-- [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - a set of Symfony Console Commands to interact with your database
+- [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A Symfony bundle to backup, restore and anonymize your data
 - [videowhisper/Cam-Recorder-HTML5-Video-Audio](https://github.com/videowhisper/Cam-Recorder-HTML5-Video-Audio) - Camera / Microphone Recorder 📹🎙 in HTML5: Audio/Video Recording, Download, Send to Server, Instant Recording Booth with Recordings. 💯100% Web Based, 🚫No Flash.
 - [jayankaghosh/patch-manager](https://github.com/jayankaghosh/patch-manager) - A magento extension to maintain data patches
 - [magegang/m2-logo-config](https://github.com/magegang/m2-logo-config) - Schedule a logo for each of your ecommerce store's yearly events
@@ -1218,7 +1218,7 @@
 - [Badcow/DNS](https://github.com/Badcow/DNS) - The aim of this project is to create abstract object representations of DNS records in PHP. The project consists of various classes representing DNS objects (such as Zone, ResourceRecord, and various 
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [theodo-group/LLPhant](https://github.com/theodo-group/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain and LLamaIndex
-- [flow-php/flow](https://github.com/flow-php/flow) - Flow PHP - strongly typed data processing framework
+- [flow-php/flow](https://github.com/flow-php/flow) - Flow PHP - data processing framework
 - [symplify/vendor-patches](https://github.com/symplify/vendor-patches) - Patch your vendor files the easy way
 - [IchHabRecht/hosts_pattern](https://github.com/IchHabRecht/hosts_pattern) - Set TYPO3_CONF_VARS['SYS']['trustedHostsPattern'] depending on available sys_domain records
 - [Goomento/PageBuilder](https://github.com/Goomento/PageBuilder) - Goomento - The Free Magento Page Builder Extension, that allows you to create unique Magento websites using advanced animations, custom CSS, responsive designs, and more, by performing simple actions 
@@ -2304,6 +2304,7 @@
 
 ## Swift 
 
+- [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [odlp/bluesnooze](https://github.com/odlp/bluesnooze) - Sleeping Mac = Bluetooth off
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
