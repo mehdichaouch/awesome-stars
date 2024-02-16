@@ -2198,6 +2198,7 @@
 
 ## Shell 
 
+- [julienloizelet/ddev-m2](https://github.com/julienloizelet/ddev-m2) - A DDEV stack for Magento 2 development
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [TheRemote/PiBenchmarks](https://github.com/TheRemote/PiBenchmarks) - Raspberry Pi benchmarking scripts featuring a storage benchmark with score
