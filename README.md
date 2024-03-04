@@ -352,6 +352,7 @@
 
 ## HTML
 
+- [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [SamHerbert/SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built with pure SVG.
 - [m4tthumphrey/m4tthumphrey.github.io](https://github.com/m4tthumphrey/m4tthumphrey.github.io) -
 - [lbrunet/Plongee-dans-les-CSP](https://github.com/lbrunet/Plongee-dans-les-CSP) - Conférence à BreizhCamp, 9ème édition
@@ -392,6 +393,7 @@
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
 - [thibault/strike-js](https://github.com/thibault/strike-js) - Pour aider votre site à faire grève
+- [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [creativestyle/theme-creativeshop](https://github.com/creativestyle/theme-creativeshop) - 
 - [degouville/sublime-bootstrap4](https://github.com/degouville/sublime-bootstrap4) - Bootstrap 4 Snippets for Sublime Text 3
@@ -648,7 +650,6 @@
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) - JavaScript image compressor.
-- [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 - [magento/pwa-studio](https://github.com/magento/pwa-studio) - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
 - [prerender/prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
 - [stevenschobert/instafeed.js](https://github.com/stevenschobert/instafeed.js) - A simple Instagram JavaScript plugin for your website
@@ -1669,7 +1670,7 @@
 - [blmage/mage-enhanced-admin-grids](https://github.com/blmage/mage-enhanced-admin-grids) - [ARCHIVED] Enhanced Admin Grids extension for Magento 1. WIP version available for testing.
 - [KnpLabs/snappy](https://github.com/KnpLabs/snappy) - PHP library allowing thumbnail, snapshot or PDF generation from a url or a html page. Wrapper for wkhtmltopdf/wkhtmltoimage
 - [mpdf/mpdf](https://github.com/mpdf/mpdf) - PHP library generating PDF files from UTF-8 encoded HTML
-- [platformsh-examples/platformsh-example-magento1](https://github.com/platformsh-examples/platformsh-example-magento1) - Platform.sh example for Magento 1.
+- [platformsh/example-magento1](https://github.com/platformsh/example-magento1) - Platform.sh example for Magento 1.
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
 - [drymek/PheanstalkBundle](https://github.com/drymek/PheanstalkBundle) - 
 - [armetiz/LeezyPheanstalkBundle](https://github.com/armetiz/LeezyPheanstalkBundle) - Bundle for Pheanstalk - A PHP client for beanstalkd queue
@@ -2318,7 +2319,7 @@
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
-- [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
+- [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [schappim/macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [Kevin-De-Koninck/Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A macOS system analyser and cleaner
