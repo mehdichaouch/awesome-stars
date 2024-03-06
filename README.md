@@ -1941,7 +1941,7 @@
 - [Snapmaker/SnapmakerCuraPlugin](https://github.com/Snapmaker/SnapmakerCuraPlugin) - Snapmaker plugin for Cura 5
 - [Yuchen413/text2image_safety](https://github.com/Yuchen413/text2image_safety) -
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [MadeInPierre/finalynx](https://github.com/MadeInPierre/finalynx) - A minimalistic companion (CLI & web) to organize your investment portfolio, simulate its future, and reach your life goals.
 - [nmathey/finasync](https://github.com/nmathey/finasync) - A simple tool to sync your Finary portfolio values with sources platforms not yet officially integrated by Finary
