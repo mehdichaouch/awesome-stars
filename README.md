@@ -1216,6 +1216,7 @@
 
 ## PHP
 
+- [boxblinkracer/shopware-ai-demodata](https://github.com/boxblinkracer/shopware-ai-demodata) - AI Demo Data generator plugin for Shopware 6
 - [jolicode/castor](https://github.com/jolicode/castor) - 🦫 DX oriented task runner and command launcher built with PHP.
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don't have to work!
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A Symfony bundle to backup, restore and anonymize your data
