@@ -1964,7 +1964,7 @@
 - [Cerebras/modelzoo](https://github.com/Cerebras/modelzoo) - 
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [o-daneel/Lunii.PACKS](https://github.com/o-daneel/Lunii.PACKS) - A simple Python proof of concept for handling Lunii stories
-- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+- [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
