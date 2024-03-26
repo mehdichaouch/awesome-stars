@@ -1029,7 +1029,7 @@
 - [qpSHiNqp/airport-bssid](https://github.com/qpSHiNqp/airport-bssid) - If you want to get associated to a specific bssid with Mac OS, use this one.
 - [BonzaiThePenguin/Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for macOS
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
-- [erikdoe/ccmenu](https://github.com/erikdoe/ccmenu) - CCMenu is a Mac application to monitor continuous integration servers.
+- [ccmenu/ccmenu](https://github.com/ccmenu/ccmenu) - CCMenu is a Mac application to monitor continuous integration servers.
 - [fikovnik/ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position in OSX
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 - [Boris-Em/BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph) - Elegant Line Graphs for iOS. (Charting library)
