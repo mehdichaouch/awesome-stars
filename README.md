@@ -2189,7 +2189,7 @@
 - [mpdf/mpdf.github.io](https://github.com/mpdf/mpdf.github.io) - mPDF documentation
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [freeatnet/producthunt-digest-rss](https://github.com/freeatnet/producthunt-digest-rss) - 
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
