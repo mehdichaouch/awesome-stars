@@ -130,6 +130,7 @@
 
 ## C# # 
 
+- [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [Xavier-Mobius/Qonto.BankStatements](https://github.com/Xavier-Mobius/Qonto.BankStatements) - Retrieve bank statements from Qonto automatically
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -1038,6 +1039,7 @@
 
 ## Others
 
+- [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [finary-wealth/awesome](https://github.com/finary-wealth/awesome) - 🔍👋 A curated list of Finary libraries, resources and projects.
 - [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
 - [srinivas-gokarla/magento2-APSB23-50-patch](https://github.com/srinivas-gokarla/magento2-APSB23-50-patch) - APSB23-50 Patch for magento versions from 2.3.0 to 2.4.3
@@ -2308,7 +2310,7 @@
 - [dockerfile/percona](https://github.com/dockerfile/percona) - Percona Server Dockerfile for trusted automated Docker builds.
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu) - text window manager, shell multiplexer, integrated DevOps environment
 - [jasonrobertfox/dotfiles](https://github.com/jasonrobertfox/dotfiles) - Shell and other configurations
 - [greg0ire/git_template](https://github.com/greg0ire/git_template) - Automating your workflow with git
