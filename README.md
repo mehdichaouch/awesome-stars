@@ -383,7 +383,6 @@
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [Siteation/magento2-module-storeinfo](https://github.com/Siteation/magento2-module-storeinfo) - This Magento 2 module add the option to get the store info with ease.
-- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [paullewallencom/magento-978-1-7858-8822-9](https://github.com/paullewallencom/magento-978-1-7858-8822-9) - Magento 2 Theme Design - Second Edition
 - [commerce-docs/pbmodules](https://github.com/commerce-docs/pbmodules) - Scaffolding CLI for Page Builder modules
 - [codrops/codrops2020](https://github.com/codrops/codrops2020) - A roundup of Codrops resources from 2020.
@@ -604,6 +603,7 @@
 - [rpsthecoder/square-loading-favicon](https://github.com/rpsthecoder/square-loading-favicon) - Square loading favicon.
 - [pguyot/nabblockly](https://github.com/pguyot/nabblockly) - Blockly interface for Nabaztag
 - [XavierBerger/RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - Real time monitoring for embedded devices
+- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [larvalabs/cryptopunks](https://github.com/larvalabs/cryptopunks) - Collectible 8-bit characters on the Ethereum blockchain.
 - [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
