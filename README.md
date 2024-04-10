@@ -1640,7 +1640,6 @@
 - [monsieurbiz/Mbiz_IWantMySymlinksBack](https://github.com/monsieurbiz/Mbiz_IWantMySymlinksBack) - Make our symlinks great again ❤️
 - [AmastyLtd-zz/Magento-2-Module-Creator](https://github.com/AmastyLtd-zz/Magento-2-Module-Creator) - This Magento 2 Module Creator will help you to save time on routine tasks. Use company and extension names to generate Magento 2 extension prototype.
 - [opengento/categoryid](https://github.com/opengento/categoryid) - 
-- [eBayEnterprise/magento-multi-coupons](https://github.com/eBayEnterprise/magento-multi-coupons) - Adds support for multiple coupons in Magento
 - [mercator/unirgy_giftcert](https://github.com/mercator/unirgy_giftcert) - Mercator repository for Unirgy_Giftcart. Provides a gift certificate product type.
 - [flagbit/Magento-ChangeAttributeSet](https://github.com/flagbit/Magento-ChangeAttributeSet) - In Magento every product has a fixed attibute set. This module enables you to switch it.
 - [algolia/algoliasearch-magento](https://github.com/algolia/algoliasearch-magento) - Algolia Search integration for Magento 1 - compatible with versions from 1.6.x to 1.9.x
