@@ -453,7 +453,7 @@
 
 ## Java 
 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [lolo101/MsgViewer](https://github.com/lolo101/MsgViewer) - MsgViewer is email-viewer utility for .msg e-mail messages, implemented in pure Java. MsgViewer works on Windows/Linux/Mac Platforms. Also provides a java api to read mail messges (msg files) programm
 - [kairoh/studio](https://github.com/kairoh/studio) - STUdio - Story Teller Unleashed
@@ -712,7 +712,6 @@
 - [trentm/json](https://github.com/trentm/json) - A "json" command for massaging JSON on your Unix command line.
 - [peterherrmann/BetterLog](https://github.com/peterherrmann/BetterLog) - With one line of code, BetterLog extends the native apps script Logger and gives you automatic additional features like logging to a spreadsheet and more.
 - [xbsoftware/enjoyhint](https://github.com/xbsoftware/enjoyhint) - 
-- [lance-gg/lance](https://github.com/lance-gg/lance) - Multiplayer game server based on Node.JS
 - [edonkeycoin/gsbitcoinutils](https://github.com/edonkeycoin/gsbitcoinutils) - Cryptocurrency related Javascript utilities that can be used in Google Sheets spreadsheets
 - [mateodelnorte/coinbase](https://github.com/mateodelnorte/coinbase) - wrapper for the coinbase bitcoin wallet & exchange API
 - [zertosh/loose-envify](https://github.com/zertosh/loose-envify) - Like envify but much faster
@@ -1948,7 +1947,7 @@
 ## Python 
 
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - 2-5X faster 80% less memory LLM finetuning
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory
 - [mapbox/osm-boundaries](https://github.com/mapbox/osm-boundaries) - MapBox OSM boundary relation processing
 - [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) - OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container ima
@@ -2455,6 +2454,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [lance-gg/lance](https://github.com/lance-gg/lance) - Multiplayer game server based on Node.JS
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
