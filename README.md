@@ -520,6 +520,7 @@
 
 ## JavaScript
 
+- [netresearch/t3x-cowriter](https://github.com/netresearch/t3x-cowriter) - Use AI to help content creators in TYPO3 CMS
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [urbandroid-team/dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
 - [bqworks/slider-pro-js](https://github.com/bqworks/slider-pro-js) - Modular JavaScript slider that is dependency-free, rich-featured, flexible and easy to use.
@@ -1218,7 +1219,7 @@
 
 ## PHP
 
-- [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - ⚡ Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)
+- [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)
 - [chrome-php/chrome](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP
 - [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
 - [EaDesgin/magento2-pdf-generator2](https://github.com/EaDesgin/magento2-pdf-generator2) - Invoice PDF Generator For Magento 2
