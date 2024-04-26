@@ -162,7 +162,7 @@
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [apache/incubator-pagespeed-mod](https://github.com/apache/incubator-pagespeed-mod) - Apache module for rewriting web pages to reduce latency and bandwidth.
-- [tekezo/Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
+- [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
@@ -297,7 +297,7 @@
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) - Outil (en ligne de commande pour l'instant) vous permettant de rassembler toutes les transactions de vos différents échanges et wallets afin de constituer votre portefeuille global et ainsi vous aider
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [esimov/triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -961,8 +961,8 @@
 
 ## Jupyter Notebook
 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - The hub for EleutherAI's work on interpretability and learning dynamics
 - [anisayari/Youtube-apprendre-le-deeplearning-avec-tensorflow](https://github.com/anisayari/Youtube-apprendre-le-deeplearning-avec-tensorflow) - Ce repo contient les codes développés dans le cadre de ma série de vidéo sur Youtube pour apprendre à coder en python en utilisant Tensorflow afin de réaliser des tâches de Deep Learning.
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
@@ -1219,6 +1219,7 @@
 
 ## PHP
 
+- [bpolaszek/bentools-etl](https://github.com/bpolaszek/bentools-etl) - PHP ETL (Extract / Transform / Load) library with SOLID principles + almost no dependency.
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)
 - [chrome-php/chrome](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP
 - [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
