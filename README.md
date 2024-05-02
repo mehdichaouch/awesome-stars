@@ -1219,6 +1219,8 @@
 
 ## PHP
 
+- [SanHacks/ImagineAI](https://github.com/SanHacks/ImagineAI) - Generate Products In Magento Powered By OpenAI Dall-E 2 Model .
+- [rangerz/magento2-module-re-captcha-checkout](https://github.com/rangerz/magento2-module-re-captcha-checkout) - Add Google reCaptcha for place order against carding attack
 - [ghostunicorns/module-webapi-logs](https://github.com/ghostunicorns/module-webapi-logs) - This module allows you to analyze all the webapi rest done call toward your adobe commerce.
 - [bpolaszek/bentools-etl](https://github.com/bpolaszek/bentools-etl) - PHP ETL (Extract / Transform / Load) library with SOLID principles + almost no dependency.
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)
