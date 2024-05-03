@@ -1042,6 +1042,7 @@
 
 ## Others
 
+- [TiagoSilvaPereira/vemto2-issues](https://github.com/TiagoSilvaPereira/vemto2-issues) - Repository to track Vemto 2 Issues
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [finary-wealth/awesome](https://github.com/finary-wealth/awesome) - 🔍👋 A curated list of Finary libraries, resources and projects.
 - [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
@@ -1219,6 +1220,9 @@
 
 ## PHP
 
+- [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP
+- [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+- [ronangr1/farttocart](https://github.com/ronangr1/farttocart) - This module allows you to add fart sounds when adding a product to the cart.
 - [SanHacks/ImagineAI](https://github.com/SanHacks/ImagineAI) - Generate Products In Magento Powered By OpenAI Dall-E 2 Model .
 - [rangerz/magento2-module-re-captcha-checkout](https://github.com/rangerz/magento2-module-re-captcha-checkout) - Add Google reCaptcha for place order against carding attack
 - [ghostunicorns/module-webapi-logs](https://github.com/ghostunicorns/module-webapi-logs) - This module allows you to analyze all the webapi rest done call toward your adobe commerce.
@@ -2358,6 +2362,7 @@
 
 ## TypeScript
 
+- [ClickAndMortar/mage-wizard](https://github.com/ClickAndMortar/mage-wizard) - Develop faster on Magento / Adobe Commerce with Mage Wizard
 - [sdfxai/sdfx](https://github.com/sdfxai/sdfx) - The ultimate no-code platform to build and share AI apps with beautiful UI.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
