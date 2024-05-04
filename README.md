@@ -520,6 +520,8 @@
 
 ## JavaScript 
 
+- [74656c/fart.js](https://github.com/74656c/fart.js) - Fart library
+- [anandundavia/thanos-js](https://github.com/anandundavia/thanos-js) - A casual (but dangerous) package that will let Thanos snap fingers and delete random files inside a directory
 - [netresearch/t3x-cowriter](https://github.com/netresearch/t3x-cowriter) - Use AI to help content creators in TYPO3 CMS
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [urbandroid-team/dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
@@ -1220,6 +1222,7 @@
 
 ## PHP 
 
+- [hryvinskyi/magento2-invisible-captcha](https://github.com/hryvinskyi/magento2-invisible-captcha) - Google Invisible Captcha v3 for magento 2
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [ronangr1/farttocart](https://github.com/ronangr1/farttocart) - This module allows you to add fart sounds when adding a product to the cart.
