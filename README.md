@@ -138,6 +138,7 @@
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Ellerbach/Nabaztag.Net](https://github.com/Ellerbach/Nabaztag.Net) - Nabaztag.Net to have a full interaction with the pynab service
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
+- [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
 - [github-for-unity/Unity](https://github.com/github-for-unity/Unity) - GitHub for Unity
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [Fiasco1216/WinDroid_Toolkit](https://github.com/Fiasco1216/WinDroid_Toolkit) - A toolkit for Android devices.
@@ -686,7 +687,6 @@
 - [dtao/lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier
 - [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
 - [privacyradius/gdpr-checklist](https://github.com/privacyradius/gdpr-checklist) - The GDPR Checklist
-- [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
 - [jquery/sizzle](https://github.com/jquery/sizzle) - A sizzlin' hot selector engine.
 - [google/wicked-good-xpath](https://github.com/google/wicked-good-xpath) - Pure JS implementation of the DOM Level 3 XPath specification
 - [UseAllFive/true-visibility](https://github.com/UseAllFive/true-visibility) - Checks if a DOM element is truly visible
