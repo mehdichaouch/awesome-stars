@@ -147,6 +147,7 @@
 
 ## C++
 
+- [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [letscontrolit/ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266/ESP32
 - [moononournation/IoT-Emoji-Sign](https://github.com/moononournation/IoT-Emoji-Sign) -
