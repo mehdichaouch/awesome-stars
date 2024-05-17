@@ -1651,7 +1651,7 @@
 - [AOEpeople/Aoe_QuoteCleaner](https://github.com/AOEpeople/Aoe_QuoteCleaner) - 
 - [quafzi/magento-no-auto-invoice](https://github.com/quafzi/magento-no-auto-invoice) - This Magento extension avoids autocreation of invoices and shipments depending on target country.
 - [mnapoli/pretty](https://github.com/mnapoli/pretty) - ✨ CLI command with sane defaults to simplify CodeSniffer and PHP-CS-Fixer
-- [nette/di](https://github.com/nette/di) - 💎 Flexible, compiled and full-featured Dependency Injection Container with perfectly usable autowiring and support for all new PHP 7 features.
+- [nette/di](https://github.com/nette/di) - 💎 Flexible, compiled and full-featured Dependency Injection Container with perfectly usable autowiring and support for all new PHP 8 features.
 - [jmolivas/phpqa](https://github.com/jmolivas/phpqa) - PHPQA all-in-one Analyzer CLI tool
 - [Payum/Payum](https://github.com/Payum/Payum) - PHP Payment processing library. It offers everything you need to work with payments: Credit card & offsite purchasing, subscriptions, payouts etc.
 - [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) - PHP version of mysqldump cli that comes with MySQL
@@ -2195,7 +2195,7 @@
 ## Rust 
 
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
-- [floneum/floneum](https://github.com/floneum/floneum) - A toolkit for controllable, private AI on consumer hardware in rust
+- [floneum/floneum](https://github.com/floneum/floneum) - Fast, private, controllable pre-trained models in Rust
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [elonen/clapshot](https://github.com/elonen/clapshot) - Self hosted web based collaborative video review tool
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
