@@ -1496,7 +1496,7 @@
 - [firegento/firegento-magesetup2](https://github.com/firegento/firegento-magesetup2) - MageSetup for Magento2
 - [boldcommerce/magento2-ordercomments](https://github.com/boldcommerce/magento2-ordercomments) - Add an order comments field in the default checkout for Magento 2.
 - [Smile-SA/elasticsuite](https://github.com/Smile-SA/elasticsuite) - Smile ElasticSuite - Magento 2 merchandising and search engine built on ElasticSearch
-- [bruno-canada/magento2-hrefLang](https://github.com/bruno-canada/magento2-hrefLang) - This Magento 2 multi store extension adds the alternate hreflang tag for: Pages, Product and Category.
+- [brnquester/magento2-hrefLang](https://github.com/brnquester/magento2-hrefLang) - This Magento 2 multi store extension adds the alternate hreflang tag for: Pages, Product and Category.
 - [monsieurbiz/SyliusSettingsPlugin](https://github.com/monsieurbiz/SyliusSettingsPlugin) - Provide some custom settings to your favorite Sylius shop!
 - [Vendic/EAVCleaner](https://github.com/Vendic/EAVCleaner) - Magento 2 - Clean up your Magento database by removing orphaned, unused and wrongly added attribute, attribute values and settings
 - [experius/Magento-2-Module-Experius-ExtraCheckoutAddressFields](https://github.com/experius/Magento-2-Module-Experius-ExtraCheckoutAddressFields) - Add Extra Address Attributes to the Magento 2 Checkout
