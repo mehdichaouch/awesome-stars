@@ -864,7 +864,7 @@
 - [box/Anemometer](https://github.com/box/Anemometer) - Box SQL Slow Query Monitor
 - [objectivehtml/FlipClock](https://github.com/objectivehtml/FlipClock) - 
 - [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 - [Magicsuggest/magicsuggest](https://github.com/Magicsuggest/magicsuggest) - Multiple Selection Combo Box using Bootstrap 3
 - [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [krakenjs/kraken-js](https://github.com/krakenjs/kraken-js) - An express-based Node.js web application bootstrapping module.
