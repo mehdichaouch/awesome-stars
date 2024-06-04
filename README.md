@@ -81,7 +81,7 @@
 
 ## Batchfile
 
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ## C
@@ -525,6 +525,7 @@
 
 ## JavaScript
 
+- [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
 - [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer) - Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
 - [imsky/holder](https://github.com/imsky/holder) - :city_sunrise: Client-side image placeholders.
 - [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) -
@@ -1233,6 +1234,7 @@
 
 ## PHP
 
+- [adamkarnowka/magento2-newsletter-api](https://github.com/adamkarnowka/magento2-newsletter-api) - REST API Layer for Magento Newsletter module adds additional 4 methods which allow to list and manage Magento subscribers.
 - [carlosas/phpat](https://github.com/carlosas/phpat) - PHP Architecture Tester - Easy architecture testing for PHP :heavy_check_mark:
 - [hryvinskyi/magento2-invisible-captcha](https://github.com/hryvinskyi/magento2-invisible-captcha) - Google Invisible Captcha v3 for magento 2
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP
