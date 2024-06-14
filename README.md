@@ -385,6 +385,7 @@
 - [anisayari/createurstech.fr](https://github.com/anisayari/createurstech.fr) - Première plateforme collaborative et open source qui référence les créateurs de contenus tech francophone.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [hugo-toha/toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio
+- [r-Roms/r-Roms.github.io](https://github.com/r-Roms/r-Roms.github.io) -
 - [mehdichaouch/screen-cheat-sheet](https://github.com/mehdichaouch/screen-cheat-sheet) - Screen Cheat Sheet & Quick Reference
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
@@ -1117,7 +1118,6 @@
 - [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby) - ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
-- [r-Roms/r-Roms.github.io](https://github.com/r-Roms/r-Roms.github.io) -
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
 - [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
 - [dszczer/ideolog-symfony-format](https://github.com/dszczer/ideolog-symfony-format) - Cheatsheet for PHPStorm Ideolog Symfony logs format
