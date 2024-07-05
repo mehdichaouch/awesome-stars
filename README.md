@@ -1241,6 +1241,7 @@
 
 ## PHP
 
+- [brick/math](https://github.com/brick/math) - Arbitrary-precision arithmetic library for PHP
 - [baldwin-agency/magento2-module-csp-shim](https://github.com/baldwin-agency/magento2-module-csp-shim) - Magento 2 module which replaces the default Magento CSP module and effectively disables its functionality
 - [dadolun95/magento2-category-import](https://github.com/dadolun95/magento2-category-import) - Magento2 Category Import by csv files
 - [adamkarnowka/magento2-newsletter-api](https://github.com/adamkarnowka/magento2-newsletter-api) - REST API Layer for Magento Newsletter module adds additional 4 methods which allow to list and manage Magento subscribers.
@@ -2471,7 +2472,7 @@
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [datagutt/pynab.js](https://github.com/datagutt/pynab.js) - Typescript API interface for the Nabaztag revival pcb
