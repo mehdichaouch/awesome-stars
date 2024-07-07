@@ -2164,7 +2164,7 @@
 
 ## Ruby 
 
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely communicate sensitive information with automatic deletion after a certain number of views and/or time has passed.  Track who, what and when with full audit logs.
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [magento/devdocs](https://github.com/magento/devdocs) - Magento Developer Documentation
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
