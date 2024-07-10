@@ -1241,6 +1241,7 @@
 
 ## PHP
 
+- [swissup/module-rtl](https://github.com/swissup/module-rtl) - RTL support for Magento modules and themes
 - [brick/math](https://github.com/brick/math) - Arbitrary-precision arithmetic library for PHP
 - [baldwin-agency/magento2-module-csp-shim](https://github.com/baldwin-agency/magento2-module-csp-shim) - Magento 2 module which replaces the default Magento CSP module and effectively disables its functionality
 - [dadolun95/magento2-category-import](https://github.com/dadolun95/magento2-category-import) - Magento2 Category Import by csv files
@@ -2047,7 +2048,7 @@
 - [schollz/raspberry-pi-turnkey](https://github.com/schollz/raspberry-pi-turnkey) - How to make a Raspberry Pi image that can be deployed anywhere and assigned to a WiFi network without SSH :ok_hand:
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [sammchardy/python-binance](https://github.com/sammchardy/python-binance) - Binance Exchange API python implementation for automated trading
 - [artichoke/nightly](https://github.com/artichoke/nightly) - 🌌 Nightly builds of Artichoke Ruby
 - [project-alice-assistant/ProjectAlice](https://github.com/project-alice-assistant/ProjectAlice) - Main repository of Project Alice, contains main unit source code
