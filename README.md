@@ -1240,6 +1240,7 @@
 
 ## PHP
 
+- [MagestyApps/module-web-images](https://github.com/MagestyApps/module-web-images) - Magento 2 module for uploading images in optimised formats (SVG, WebP, etc.)
 - [swissup/module-rtl](https://github.com/swissup/module-rtl) - RTL support for Magento modules and themes
 - [brick/math](https://github.com/brick/math) - Arbitrary-precision arithmetic library for PHP
 - [baldwin-agency/magento2-module-csp-shim](https://github.com/baldwin-agency/magento2-module-csp-shim) - Magento 2 module which replaces the default Magento CSP module and effectively disables its functionality
