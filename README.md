@@ -977,6 +977,7 @@
 - [mshumer/gpt-investor](https://github.com/mshumer/gpt-investor) -
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
+- [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - The hub for EleutherAI's work on interpretability and learning dynamics
 - [anisayari/Youtube-apprendre-le-deeplearning-avec-tensorflow](https://github.com/anisayari/Youtube-apprendre-le-deeplearning-avec-tensorflow) - Ce repo contient les codes développés dans le cadre de ma série de vidéo sur Youtube pour apprendre à coder en python en utilisant Tensorflow afin de réaliser des tâches de Deep Learning.
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
@@ -1990,7 +1991,6 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.1, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [mapbox/osm-boundaries](https://github.com/mapbox/osm-boundaries) - MapBox OSM boundary relation processing
-- [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) - OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container ima
 - [lmstudio-ai/model-catalog](https://github.com/lmstudio-ai/model-catalog) - A collection of standardized JSON descriptors for Large Language Model (LLM) files.
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
