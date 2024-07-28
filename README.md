@@ -1241,6 +1241,7 @@
 
 ## PHP
 
+- [elgentos/magento2-product-duplicate-images-remove](https://github.com/elgentos/magento2-product-duplicate-images-remove) - Magento 2 extension to remove duplicate product images
 - [MagestyApps/module-web-images](https://github.com/MagestyApps/module-web-images) - Magento 2 module for uploading images in optimised formats (SVG, WebP, etc.)
 - [swissup/module-rtl](https://github.com/swissup/module-rtl) - RTL support for Magento modules and themes
 - [brick/math](https://github.com/brick/math) - Arbitrary-precision arithmetic library for PHP
