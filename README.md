@@ -549,6 +549,7 @@
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [Rob--W/dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) - Firefox and Chrome extensions to prevent Google from making links ugly.
 - [jweiland-net/reserve](https://github.com/jweiland-net/reserve) - This extension allows you to reserve tickets for one or more persons using a period table and a form. Each reservation has it’s own QR Code that can be scanned at the event.
+- [FriendsOfTYPO3/tt_address](https://github.com/FriendsOfTYPO3/tt_address) - Add address / contact datasets to your content management system.
 - [nbelyh/editsvgcode](https://github.com/nbelyh/editsvgcode) - Online SVG auto-complete code editor based on monaco editor
 - [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) - Scripts allowing your ULO - An interactive home monitoring owl to become a bit more useful after its support was almost immediately dropped after its release.
 - [BiveDigital/module-countdown-component-lite](https://github.com/BiveDigital/module-countdown-component-lite) - Magento 2 Countdown Timer for Page Builder
@@ -1301,7 +1302,6 @@
 - [TYPO3-Console/TYPO3-Console](https://github.com/TYPO3-Console/TYPO3-Console) - Console command for TYPO3 CMS
 - [CodersCare/gridelements](https://github.com/CodersCare/gridelements) -
 - [georgringer/news](https://github.com/georgringer/news) - TYPO3 Extension news
-- [FriendsOfTYPO3/tt_address](https://github.com/FriendsOfTYPO3/tt_address) - Add address / contact datasets to your content management system.
 - [christophlehmann/imageoptimizer](https://github.com/christophlehmann/imageoptimizer) - TYPO3 Extension for lossless image optimization with binaries of your choice.
 - [xperseguers/t3ext-file_list](https://github.com/xperseguers/t3ext-file_list) - TYPO3 Extension file_list. This extension provides a frontend plugin which shows a list of files and folders in a specified directory on the file system.
 - [a-r-m-i-n/min](https://github.com/a-r-m-i-n/min) - TYPO3 CMS extension "min" - Compressed CSS, JS and HTML output for TYPO3
