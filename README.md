@@ -2375,6 +2375,7 @@
 
 ## Svelte
 
+- [FabienBounoir/youtube-card](https://github.com/FabienBounoir/youtube-card) - Bastiui, a Ux Ui designer, wanted to be able to recuperate a rendering of a youtube video by simply passing a link to it. Here's what I did.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 
@@ -2402,6 +2403,7 @@
 
 ## TypeScript
 
+- [zhouzi/broll](https://github.com/zhouzi/broll) - Éditeur de carte vidéo YouTube
 - [michielgerritsen/magento2-model-generator](https://github.com/michielgerritsen/magento2-model-generator) - Rapidly create Magento 2 models
 - [ibelick/buttons](https://github.com/ibelick/buttons) - Tailwind CSS button collection
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
