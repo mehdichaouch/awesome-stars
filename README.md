@@ -1487,7 +1487,7 @@
 - [docksal/boilerplate-magento-demo](https://github.com/docksal/boilerplate-magento-demo) - Magento boilerplate with default content powered by Docksal
 - [magepal/magento2-edit-order-email](https://github.com/magepal/magento2-edit-order-email) - Magento2 - Edit Order Email from Admin
 - [donatj/PhpUserAgent](https://github.com/donatj/PhpUserAgent) - Lightning Fast, Minimalist PHP User Agent String Parser.
-- [tuyennn/Magento2_Malaysian_LocalePack_ms_MY](https://github.com/tuyennn/Magento2_Malaysian_LocalePack_ms_MY) - Malaysia language Pack for Magento 2 Community Edition
+- [tuyennn/magento2-malaysian-locale](https://github.com/tuyennn/magento2-malaysian-locale) - Malaysian language Pack for Magento 2 Community Edition
 - [mageplaza/magento-2-currency-formatter](https://github.com/mageplaza/magento-2-currency-formatter) - Mageplaza Currency Formatter extension brings flexibility in formatting the price currency appearance in Magento stores. With the support of Currency Formatter, customers from multi-nations will feel 
 - [lillik/magento2-price-decimal](https://github.com/lillik/magento2-price-decimal) - Magento 2 Extension: Price Decimal Precision
 - [theshreyas/magento-2-quickies](https://github.com/theshreyas/magento-2-quickies) - Magento 2 Quickies
