@@ -283,6 +283,7 @@
 
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
@@ -1241,6 +1242,8 @@
 
 ## PHP
 
+- [karliuka/m2.SalesSequence](https://github.com/karliuka/m2.SalesSequence) - Magento 2. Extension change format IncrementID for orders, invoices, credit memos and shipments.
+- [opengento/magento2-country-store-switcher](https://github.com/opengento/magento2-country-store-switcher) - This module will allows the customers to switch of store by country instead of name/language.
 - [elgentos/magento2-product-duplicate-images-remove](https://github.com/elgentos/magento2-product-duplicate-images-remove) - Magento 2 extension to remove duplicate product images
 - [MagestyApps/module-web-images](https://github.com/MagestyApps/module-web-images) - Magento 2 module for uploading images in optimised formats (SVG, WebP, etc.)
 - [swissup/module-rtl](https://github.com/swissup/module-rtl) - RTL support for Magento modules and themes
@@ -1984,7 +1987,6 @@
 
 ## Python
 
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [mistralai-sf24/hackathon](https://github.com/mistralai-sf24/hackathon) -
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager
