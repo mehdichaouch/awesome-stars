@@ -1986,6 +1986,7 @@
 
 ## Python
 
+- [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays
 - [mistralai-sf24/hackathon](https://github.com/mistralai-sf24/hackathon) -
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager
