@@ -1017,6 +1017,7 @@
 
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
@@ -1108,7 +1109,6 @@
 - [Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) - An awesome README template for your projects!
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) - A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [Puliczek/awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - 🦄🔒 Awesome list of secrets in environment variables 🖥️
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -1243,6 +1243,14 @@
 
 ## PHP
 
+- [annysmolyan/visual-search-module-magento](https://github.com/annysmolyan/visual-search-module-magento) -
+- [opengento/magento2-sales-sequence](https://github.com/opengento/magento2-sales-sequence) - Allows to setup with ease the prefix, format and suffix of sales sequences directly from the configuration.
+- [DeployEcommerce/module-trojan-order-prevent](https://github.com/DeployEcommerce/module-trojan-order-prevent) - A Magento2 extension that prevents billing/shipping addresses being saved via the API with known trojan order strings.
+- [baldwin-agency/magento2-module-image-cleanup](https://github.com/baldwin-agency/magento2-module-image-cleanup) - Magento 2 module which can cleanup old image files that are no longer being used
+- [magegang/m2-humanstxt](https://github.com/magegang/m2-humanstxt) - Add a humans.txt to your Magento 2 application
+- [ronangr1/M2-SystemConfigWhoDidThisLogger](https://github.com/ronangr1/M2-SystemConfigWhoDidThisLogger) - This module allows you to record any changes made to the configuration of your Magento 2 application
+- [element119/module-admin-opcache-report](https://github.com/element119/module-admin-opcache-report) - A Magento 2 module to show some PHP OpCache-related information in the admin.
+- [opengento/magento2-catalog-sort-order](https://github.com/opengento/magento2-catalog-sort-order) - This module allows to setup the sort direction options in the storefront catalog view.
 - [developersalliance/module-table-rates](https://github.com/developersalliance/module-table-rates) - Magento 2 Module for managing shipping table rates
 - [karliuka/m2.SalesSequence](https://github.com/karliuka/m2.SalesSequence) - Magento 2. Extension change format IncrementID for orders, invoices, credit memos and shipments.
 - [opengento/magento2-country-store-switcher](https://github.com/opengento/magento2-country-store-switcher) - This module will allows the customers to switch of store by country instead of name/language.
@@ -2173,7 +2181,7 @@
 
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
-- [magento/devdocs](https://github.com/magento/devdocs) - Magento Developer Documentation
+- [magento/devdocs](https://github.com/magento/devdocs) - [Deprecated] Magento Developer Documentation
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
@@ -2484,7 +2492,7 @@
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
