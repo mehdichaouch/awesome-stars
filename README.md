@@ -245,6 +245,7 @@
 
 ## Dart 
 
+- [bmaroti9/Overmorrow](https://github.com/bmaroti9/Overmorrow) - minimalist colorful weather app
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -363,6 +364,7 @@
 
 ## HTML
 
+- [rainviewer/rainviewer-api-example](https://github.com/rainviewer/rainviewer-api-example) - How to use RainViewer API: simple HTML + JS code which render an animated weather radar overlay on the map
 - [owebia/magento2-module-advanced-shipping](https://github.com/owebia/magento2-module-advanced-shipping) -
 - [vpietri/magento2-developer-quickdevbar](https://github.com/vpietri/magento2-developer-quickdevbar) - Developer Toolbar for Magento2
 - [Superserx/Superserx](https://github.com/Superserx/Superserx) - Superserx is search engine dorking project, you can find direct download links for your favourite moves, games, webseries etc
@@ -439,7 +441,6 @@
 - [gnugat/gnugat.github.io](https://github.com/gnugat/gnugat.github.io) - Blog about technical and practices advices
 - [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
 - [parisdevops/parisdevops.github.com](https://github.com/parisdevops/parisdevops.github.com) - Website of the Paris DevOps group
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation
 - [Atlantic18/ORMCheatSheet](https://github.com/Atlantic18/ORMCheatSheet) - This cheatsheet is intended as a quick reference guide for everyone working with PHP ORM frameworks and with ORM frameworks in general.
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [jolicode/composer-cheatsheet](https://github.com/jolicode/composer-cheatsheet) - :clipboard: Everything you have to know about composer.json in one page.
@@ -1895,6 +1896,7 @@
 - [kalenjordan/magerun-addons](https://github.com/kalenjordan/magerun-addons) - MageRun Addons
 - [marcoandreini/Inovarti_FixAddToCartMage18](https://github.com/marcoandreini/Inovarti_FixAddToCartMage18) - Fix for emtpy cart in magento 1.8 using varnish
 - [GordonLesti/Lesti_Fpc](https://github.com/GordonLesti/Lesti_Fpc) - Simple Magento Fullpagecache
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation
 - [silexphp/Silex](https://github.com/silexphp/Silex) - [DEPRECATED -- Use Symfony instead] The PHP micro-framework based on the Symfony Components
 - [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper
 - [ludofleury/GuzzleBundle](https://github.com/ludofleury/GuzzleBundle) - Debug your API Calls with a Symfony web profiler for guzzle
@@ -1997,6 +1999,7 @@
 
 ## Python
 
+- [make-all/tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
 - [gilcu3/govee-btled-H613B](https://github.com/gilcu3/govee-btled-H613B) - Control Govee LED BLE device H613B
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays
 - [mistralai-sf24/hackathon](https://github.com/mistralai-sf24/hackathon) -
