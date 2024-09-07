@@ -1806,7 +1806,7 @@
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [oroinc/crm-application](https://github.com/oroinc/crm-application) - OroCRM - an open-source Customer Relationship Management application.
 - [oroinc/orocommerce-application](https://github.com/oroinc/orocommerce-application) - OroCommerce - an open-source Business to Business Commerce platform.
-- [kint-php/kint](https://github.com/kint-php/kint) - Kint - a powerful and modern PHP debugging tool.
+- [kint-php/kint](https://github.com/kint-php/kint) - Kint - Advanced PHP dumper
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) - PHP Object Oriented image manipulation library
 - [simplepie/simplepie](https://github.com/simplepie/simplepie) - A simple Atom/RSS parsing library for PHP.
 - [krichprollsch/phpCssEmbed](https://github.com/krichprollsch/phpCssEmbed) - Pure php css embed
