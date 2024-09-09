@@ -1244,6 +1244,8 @@
 
 ## PHP
 
+- [element119/module-product-type-attribute-manager](https://github.com/element119/module-product-type-attribute-manager) - A Magento 2 module to allow admins to control which product attributes are applicable to different product types.
+- [element119/module-store-entity-creator](https://github.com/element119/module-store-entity-creator) - A Magento 2 CLI utility to allow developers to create new websites, stores, and store views.
 - [annysmolyan/visual-search-module-magento](https://github.com/annysmolyan/visual-search-module-magento) -
 - [opengento/magento2-sales-sequence](https://github.com/opengento/magento2-sales-sequence) - Allows to setup with ease the prefix, format and suffix of sales sequences directly from the configuration.
 - [DeployEcommerce/module-trojan-order-prevent](https://github.com/DeployEcommerce/module-trojan-order-prevent) - A Magento2 extension that prevents billing/shipping addresses being saved via the API with known trojan order strings.
@@ -2523,7 +2525,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [davrous/dareangel](https://github.com/davrous/dareangel) - This extension provides more accessibility on images of a web page by using Microsoft Cognitive Services Computer Vision API to analyze it for you
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [3035app/pialab](https://github.com/3035app/pialab) - PiaLab Angular app
 - [processout/processout.js](https://github.com/processout/processout.js) - ProcessOut JavaScript library with modal & white-label support
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to
