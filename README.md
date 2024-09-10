@@ -416,6 +416,7 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [code4business/freeproduct](https://github.com/code4business/freeproduct) - Magento Extension: Add gifts in your shopping cart when meeting cart rules
 - [gwillem/magento-malware-scanner](https://github.com/gwillem/magento-malware-scanner) - Scanner, signatures and the largest collection of Magento malware
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [startup-matrix/startup-matrix](https://github.com/startup-matrix/startup-matrix) - Startup Matrix exported to CSV, JSON, Markdown and HTML formats. Credits to original article by Eric Stromberg.
 - [toSvenson/blockchain-demo](https://github.com/toSvenson/blockchain-demo) - A web-based demonstration of blockchain concepts.
 - [bradjasper/ImportJSON](https://github.com/bradjasper/ImportJSON) - Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
@@ -721,7 +722,6 @@
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
 - [diegopamio/vue-cloudinary](https://github.com/diegopamio/vue-cloudinary) - A Vue.js (https://github.com/vuejs/vue) plugin that offers a reusable directive to get image from Cloudinary (https://cloudinary.com)
 - [SnowdogApps/magento2-frontools](https://github.com/SnowdogApps/magento2-frontools) - Set of front-end tools for Magento 2 based on Gulp.js
-- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [Heydon/inclusive-design-checklist](https://github.com/Heydon/inclusive-design-checklist) - Aims to be the biggest checklist of inclusive design considerations ever
 - [martinsbalodis/web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension) - Web data extraction tool implemented as chrome extension
 - [ovh/overthebox-feeds](https://github.com/ovh/overthebox-feeds) - OverTheBox - LEDE/OpenWrt feed
@@ -1060,6 +1060,7 @@
 
 ## Others
 
+- [streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
 - [evzone/hassio-bluepiaudio](https://github.com/evzone/hassio-bluepiaudio) - Configuration files and notes to add bluetooth audio support in Home Assistant
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [camilleroux/awesome-generative-art](https://github.com/camilleroux/awesome-generative-art) - Carefully curated list of awesome resources to create, learn and, drop generative art
