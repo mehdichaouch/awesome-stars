@@ -366,6 +366,7 @@
 
 ## HTML
 
+- [arcanis/secretsanta](https://github.com/arcanis/secretsanta) - Host secret santa without leaking your guests' informations 🎄
 - [rainviewer/rainviewer-api-example](https://github.com/rainviewer/rainviewer-api-example) - How to use RainViewer API: simple HTML + JS code which render an animated weather radar overlay on the map
 - [owebia/magento2-module-advanced-shipping](https://github.com/owebia/magento2-module-advanced-shipping) -
 - [vpietri/magento2-developer-quickdevbar](https://github.com/vpietri/magento2-developer-quickdevbar) - Developer Toolbar for Magento2
@@ -1063,6 +1064,7 @@
 
 ## Others
 
+- [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates) -
 - [streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
 - [evzone/hassio-bluepiaudio](https://github.com/evzone/hassio-bluepiaudio) - Configuration files and notes to add bluetooth audio support in Home Assistant
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
@@ -1093,6 +1095,7 @@
 - [roma-glushko/magento2-k6-load-tests](https://github.com/roma-glushko/magento2-k6-load-tests) -
 - [netresearch/dhl-shipping-m2](https://github.com/netresearch/dhl-shipping-m2) - DHL multi-division shipping extension for Magento 2
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [ad-si/awesome-laser-cutting](https://github.com/ad-si/awesome-laser-cutting) - A curated list of awesome laser cutting resources.
 - [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
@@ -1248,6 +1251,8 @@
 
 ## PHP
 
+- [pimcore/pimcore](https://github.com/pimcore/pimcore) - Core Framework for the Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
+- [getparthenon/parthenon](https://github.com/getparthenon/parthenon) - The Symfony SaaS boilerplate
 - [aaemnnosttv/wp-cli-login-command](https://github.com/aaemnnosttv/wp-cli-login-command) - Log in to WordPress with secure passwordless magic links.
 - [element119/module-product-type-attribute-manager](https://github.com/element119/module-product-type-attribute-manager) - A Magento 2 module to allow admins to control which product attributes are applicable to different product types.
 - [element119/module-store-entity-creator](https://github.com/element119/module-store-entity-creator) - A Magento 2 CLI utility to allow developers to create new websites, stores, and store views.
@@ -2006,6 +2011,7 @@
 
 ## Python
 
+- [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains
 - [make-all/tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
 - [gilcu3/govee-btled-H613B](https://github.com/gilcu3/govee-btled-H613B) - Control Govee LED BLE device H613B
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays
@@ -2408,7 +2414,6 @@
 - [odlp/bluesnooze](https://github.com/odlp/bluesnooze) - Sleeping Mac = Bluetooth off
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
-- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [schappim/macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
@@ -2426,6 +2431,7 @@
 
 ## TypeScript
 
+- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [bokub/ha-linky](https://github.com/bokub/ha-linky) - 📊 Home Assistant add-on for Linky smart meters
