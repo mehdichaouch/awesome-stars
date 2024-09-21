@@ -534,6 +534,7 @@
 
 ## JavaScript
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [tapio/live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
@@ -544,7 +545,7 @@
 - [74656c/fart.js](https://github.com/74656c/fart.js) - Fart library
 - [anandundavia/thanos-js](https://github.com/anandundavia/thanos-js) - A casual (but dangerous) package that will let Thanos snap fingers and delete random files inside a directory
 - [netresearch/t3x-cowriter](https://github.com/netresearch/t3x-cowriter) - Use AI to help content creators in TYPO3 CMS
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [urbandroid-team/dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
 - [bqworks/slider-pro-js](https://github.com/bqworks/slider-pro-js) - Modular JavaScript slider that is dependency-free, rich-featured, flexible and easy to use.
 - [bqworks/slider-pro](https://github.com/bqworks/slider-pro) - A modular, responsive and touch-enabled jQuery slider plugin that enables you to create elegant and professionally looking sliders.
