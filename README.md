@@ -284,6 +284,7 @@
 
 ## Go 
 
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -990,6 +991,7 @@
 
 ## Kotlin
 
+- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) -
 - [one-dark/jetbrains-one-dark-theme](https://github.com/one-dark/jetbrains-one-dark-theme) - One Dark theme for JetBrains.
@@ -1064,6 +1066,7 @@
 
 ## Others
 
+- [segler-alex/radiobrowser-web-angular](https://github.com/segler-alex/radiobrowser-web-angular) - New Angular based web frontend for api.radio-browser.info
 - [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates) -
 - [streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
 - [evzone/hassio-bluepiaudio](https://github.com/evzone/hassio-bluepiaudio) - Configuration files and notes to add bluetooth audio support in Home Assistant
