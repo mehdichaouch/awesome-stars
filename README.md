@@ -367,6 +367,7 @@
 
 ## HTML
 
+- [hteumeuleu/caniemail](https://github.com/hteumeuleu/caniemail) - Can I email… Support tables for HTML and CSS in emails.
 - [arcanis/secretsanta](https://github.com/arcanis/secretsanta) - Host secret santa without leaking your guests' informations 🎄
 - [rainviewer/rainviewer-api-example](https://github.com/rainviewer/rainviewer-api-example) - How to use RainViewer API: simple HTML + JS code which render an animated weather radar overlay on the map
 - [owebia/magento2-module-advanced-shipping](https://github.com/owebia/magento2-module-advanced-shipping) -
@@ -1254,6 +1255,11 @@
 
 ## PHP
 
+- [markshust/magento2-module-twilio](https://github.com/markshust/magento2-module-twilio) - The Twilio module sends SMS messages in response to Magento events.
+- [markshust/magento2-module-simpledata](https://github.com/markshust/magento2-module-simpledata) - The SimpleData module simplifies calling Magento data structures.
+- [markshust/magento2-module-removefavicon](https://github.com/markshust/magento2-module-removefavicon) - The Remove Favicon module removes all favicons from the HTML head.
+- [markshust/magento2-module-hierarchycomplexidcompatibility](https://github.com/markshust/magento2-module-hierarchycomplexidcompatibility) - The Hierarchy Complex ID Compatibility module makes the hierarchy compatible with long URL identifiers containing subpaths.
+- [markshust/magento2-module-extrabodyclasses](https://github.com/markshust/magento2-module-extrabodyclasses) - The Extra Body Classes module adds the website and store codes to the body class attribute.
 - [osalabs/phpminiadmin](https://github.com/osalabs/phpminiadmin) - extremely lightweight alternative to heavy phpMyAdmin for quick and easy access MySQL databases
 - [pimcore/pimcore](https://github.com/pimcore/pimcore) - Core Framework for the Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
 - [getparthenon/parthenon](https://github.com/getparthenon/parthenon) - The Symfony SaaS boilerplate
@@ -2436,6 +2442,7 @@
 
 ## TypeScript
 
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
