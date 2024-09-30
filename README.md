@@ -1721,7 +1721,6 @@
 - [flagbit/Magento-ChangeAttributeSet](https://github.com/flagbit/Magento-ChangeAttributeSet) - In Magento every product has a fixed attibute set. This module enables you to switch it.
 - [algolia/algoliasearch-magento](https://github.com/algolia/algoliasearch-magento) - Algolia Search integration for Magento 1 - compatible with versions from 1.6.x to 1.9.x
 - [MageTest/MageSpec](https://github.com/MageTest/MageSpec) - PHPSpec for Magento
-- [jcampbell1/simple-file-manager](https://github.com/jcampbell1/simple-file-manager) - A Simple PHP file manager.  The code is a single php file.
 - [Neimolon/phputils](https://github.com/Neimolon/phputils) - 
 - [magento-hackathon/E-MailPreview](https://github.com/magento-hackathon/E-MailPreview) - This extension enables the merchants and developers to preview mail templates from the backend with real data.
 - [nexcess/magento-turpentine](https://github.com/nexcess/magento-turpentine) - A Varnish extension for Magento.
