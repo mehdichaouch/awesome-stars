@@ -148,6 +148,7 @@
 
 ## C++
 
+- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [LineageOS/android_device_asus_flox](https://github.com/LineageOS/android_device_asus_flox) -
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
@@ -2023,6 +2024,8 @@
 
 ## Python
 
+- [kahrendt/microWakeWord](https://github.com/kahrendt/microWakeWord) - A TensorFlow based wake word detection training framework using synthetic sample generation suitable for certain microcontrollers.
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains
 - [make-all/tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
 - [gilcu3/govee-btled-H613B](https://github.com/gilcu3/govee-btled-H613B) - Control Govee LED BLE device H613B
@@ -2444,6 +2447,7 @@
 
 ## TypeScript
 
+- [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
@@ -2458,7 +2462,7 @@
 - [ClickAndMortar/mage-wizard](https://github.com/ClickAndMortar/mage-wizard) - Develop faster on Magento / Adobe Commerce with Mage Wizard
 - [sdfxai/sdfx](https://github.com/sdfxai/sdfx) - The ultimate no-code platform to build and share AI apps with beautiful UI.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 100,000 supported emoji mashups as part of Google's Emoji Kitch
 - [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D.
