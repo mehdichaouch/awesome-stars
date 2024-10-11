@@ -513,6 +513,7 @@
 - [square/flow](https://github.com/square/flow) - Name UI states, navigate between them, remember where you've been.
 - [square/mortar](https://github.com/square/mortar) - A simple library that makes it easy to pair thin views with dedicated controllers, isolated from most of the vagaries of the Activity life cycle.
 - [jenkinsci/sloccount-plugin](https://github.com/jenkinsci/sloccount-plugin) - Jenkins sloccount plugin
+- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [tbouron/WlpprforMuzei](https://github.com/tbouron/WlpprforMuzei) - Wlppr.com art source for Muzei
 - [jfeinstein10/SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thank
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -2241,7 +2242,6 @@
 - [Chris911/iStats](https://github.com/Chris911/iStats) - Ruby gem for your mac stats
 - [aanand/git-up](https://github.com/aanand/git-up) - NOT MAINTAINED
 - [airbnb/smartstack-cookbook](https://github.com/airbnb/smartstack-cookbook) - The chef recipes for running and testing Airbnb's SmartStack
-- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [r8/vagrant-lamp](https://github.com/r8/vagrant-lamp) - My default LAMP development stack for Vagrant
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [lg/murder](https://github.com/lg/murder) - Large scale server deploys using BitTorrent and the BitTornado library (NOTE: project no longer maintained)
