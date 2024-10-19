@@ -131,7 +131,6 @@
 
 ## C# # 
 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [Xavier-Mobius/Qonto.BankStatements](https://github.com/Xavier-Mobius/Qonto.BankStatements) - Retrieve bank statements from Qonto automatically
@@ -287,6 +286,7 @@
 
 ## Go 
 
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
@@ -541,6 +541,7 @@
 
 ## JavaScript
 
+- [MageQuest/magento2-module-lite-youtube](https://github.com/MageQuest/magento2-module-lite-youtube) - A Magento 2 module that adds Paul Irish's Lite YouTube implementation support.
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [tapio/live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
@@ -988,6 +989,7 @@
 
 - [mshumer/gpt-investor](https://github.com/mshumer/gpt-investor) -
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - The hub for EleutherAI's work on interpretability and learning dynamics
 - [anisayari/Youtube-apprendre-le-deeplearning-avec-tensorflow](https://github.com/anisayari/Youtube-apprendre-le-deeplearning-avec-tensorflow) - Ce repo contient les codes développés dans le cadre de ma série de vidéo sur Youtube pour apprendre à coder en python en utilisant Tensorflow afin de réaliser des tâches de Deep Learning.
@@ -1262,6 +1264,7 @@
 
 ## PHP
 
+- [EmicoEcommerce/Magento2AttributeLanding](https://github.com/EmicoEcommerce/Magento2AttributeLanding) - Attribute landingspages for Magento 2
 - [LBannenberg/magento2-layout-bricks](https://github.com/LBannenberg/magento2-layout-bricks) -
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -1340,7 +1343,7 @@
 - [FluidTYPO3/vhs](https://github.com/FluidTYPO3/vhs) - TYPO3 extension VHS: Fluid ViewHelpers
 - [plan2net/webp](https://github.com/plan2net/webp) - Create a WebP copy for images (TYPO3 CMS)
 - [netresearch/t3x-rte_ckeditor_image](https://github.com/netresearch/t3x-rte_ckeditor_image) - Image support in CKEditor for the TYPO3 ecosystem
-- [lochmueller/staticfilecache](https://github.com/lochmueller/staticfilecache) - 🚀 Fastes TYPO3 Extension ever 🚀
+- [lochmueller/staticfilecache](https://github.com/lochmueller/staticfilecache) - 🚀 Fastest TYPO3 Extension ever 🚀
 - [in2code-de/powermail_cond](https://github.com/in2code-de/powermail_cond) - Add conditions (via AJAX) to TYPO3 powermail forms for fields and pages
 - [in2code-de/powermail](https://github.com/in2code-de/powermail) - This is the official repository of the TYPO3 extension powermail! Powermail is a well-known, editor-friendly, powerful and easy mailform extension for TYPO3
 - [hmmh/typo3-solr-file-indexer](https://github.com/hmmh/typo3-solr-file-indexer) - TYPO3 Extension: solr_file_indexer
