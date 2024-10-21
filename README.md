@@ -1264,6 +1264,7 @@
 
 ## PHP
 
+- [magento/meta-for-magento2](https://github.com/magento/meta-for-magento2) -
 - [EmicoEcommerce/Magento2AttributeLanding](https://github.com/EmicoEcommerce/Magento2AttributeLanding) - Attribute landingspages for Magento 2
 - [LBannenberg/magento2-layout-bricks](https://github.com/LBannenberg/magento2-layout-bricks) -
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
