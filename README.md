@@ -17,6 +17,7 @@
 - [Cython](#cython)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Eagle](#eagle)
 - [Elixir](#elixir)
 - [Elm](#elm)
@@ -263,6 +264,10 @@
 - [PrestaShop/docker](https://github.com/PrestaShop/docker) - 🐳
 - [Cquad/jeedom](https://github.com/Cquad/jeedom) - Jeedom containers
 
+## EJS
+
+- [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api) - FakeStoreAPI is a free online REST API that provides you fake e-commerce JSON data
+
 ## Eagle 
 
 - [hallard/teleinfo](https://github.com/hallard/teleinfo) - Projets dédié à la téléinformation
@@ -286,9 +291,9 @@
 
 ## Go 
 
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -541,6 +546,8 @@
 
 ## JavaScript
 
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
+- [theshreyas/db-schema-generator](https://github.com/theshreyas/db-schema-generator) - Magento 2 db_schema.xml generator
 - [MageQuest/magento2-module-lite-youtube](https://github.com/MageQuest/magento2-module-lite-youtube) - A Magento 2 module that adds Paul Irish's Lite YouTube implementation support.
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
@@ -628,7 +635,7 @@
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 - [sohelrana09/modified-checkout](https://github.com/sohelrana09/modified-checkout) - Move billing address under shipping address in checkout in magento 2
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [marmelab/argos-realworld](https://github.com/marmelab/argos-realworld) - App on docker to test and demo argos (based on realworld repos)
 - [pisi/Reel](https://github.com/pisi/Reel) - The premier 360° solution for jQuery.
 - [lannonbr/issue-label-manager-action](https://github.com/lannonbr/issue-label-manager-action) - GitHub Action to declaratively setup labels across repos
@@ -802,14 +809,13 @@
 - [guisouza/DSS](https://github.com/guisouza/DSS) - :fire: Dynamic Style Sheets
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [akveo/blur-admin](https://github.com/akveo/blur-admin) - AngularJS Bootstrap Admin Panel Framework
-- [willdurand/BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) - A pretty nice way to expose your Symfony translation messages to your client applications.
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
 - [axway-streams/axway-amplify-streams-js](https://github.com/axway-streams/axway-amplify-streams-js) - AMPLIFY Streams Javascript package containing SDK, documentation and sample applications
 - [cemerick/jsdifflib](https://github.com/cemerick/jsdifflib) - A javascript library for diffing text and generating corresponding HTML views
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection.
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [jixunmoe/cuwcl4c](https://github.com/jixunmoe/cuwcl4c) - Bypass Wait, Code & Login on Websites [不再维护]
 - [marmelab/ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
@@ -1073,6 +1079,8 @@
 
 ## Others
 
+- [mageprince/magento2-productAttachment](https://github.com/mageprince/magento2-productAttachment) - The Product Attachments extension for Magento 2 equips product pages with a special attachments block where you can upload numerous documents such as user guides, extra images, pdf, certificates, lice
+- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [hrvey/combine-prs-workflow](https://github.com/hrvey/combine-prs-workflow) - Combine/group together PRs (for example from Dependabot and similar services)
 - [controlaltdelete-nl/magento2-code-tracker](https://github.com/controlaltdelete-nl/magento2-code-tracker) - Do a daily composer create-project to track changes in the codebase
@@ -1264,6 +1272,13 @@
 
 ## PHP
 
+- [dg/bypass-finals](https://github.com/dg/bypass-finals) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery.
+- [bemeir/magento2-rotate-encryption-keys](https://github.com/bemeir/magento2-rotate-encryption-keys) -
+- [galacticlabs/disable-compare-products](https://github.com/galacticlabs/disable-compare-products) - Magento 2 Disable Compare Products
+- [ctidigital/magento2-configurator](https://github.com/ctidigital/magento2-configurator) - Magento 2 Configurator
+- [magefan/module-blog](https://github.com/magefan/module-blog) - Magento 2 Blog Extension is a solution that helps you to create a blog on Magento and manage posts,categories, tags, authors, and comments.
+- [ronangr1/M2-SpookyEvent](https://github.com/ronangr1/M2-SpookyEvent) - SPOOKY! 👻
+- [element119/module-admin-indexer-report](https://github.com/element119/module-admin-indexer-report) - A Magento 2 module to show some indexer-related information in the admin.
 - [magento/meta-for-magento2](https://github.com/magento/meta-for-magento2) -
 - [EmicoEcommerce/Magento2AttributeLanding](https://github.com/EmicoEcommerce/Magento2AttributeLanding) - Attribute landingspages for Magento 2
 - [LBannenberg/magento2-layout-bricks](https://github.com/LBannenberg/magento2-layout-bricks) -
@@ -1603,7 +1618,7 @@
 - [yireo-training/magento2-example-customer-data-details](https://github.com/yireo-training/magento2-example-customer-data-details) - Plugin adding additional details to the customer-data section "customer"
 - [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - :santa: The code behind Secret Santa, the holiday bot for Slack / Discord / Webex
 - [swoft-cloud/swoft](https://github.com/swoft-cloud/swoft) - 🚀 PHP Microservice Full Coroutine Framework
-- [Tabrisrp/wps-hide-login](https://github.com/Tabrisrp/wps-hide-login) - WPS Hide Login
+- [remyperona/wps-hide-login](https://github.com/remyperona/wps-hide-login) - WPS Hide Login
 - [sivaschenko/masonry-grid-example](https://github.com/sivaschenko/masonry-grid-example) - Magento masonry grid example
 - [ergonode/backend](https://github.com/ergonode/backend) - For seeing Ergonode in action please book a demo https://www.ergonode.com/book-a-demo
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, 
@@ -1855,6 +1870,7 @@
 - [sculpin/sculpin](https://github.com/sculpin/sculpin) - Sculpin — Static Site Generator
 - [CouscousPHP/Couscous](https://github.com/CouscousPHP/Couscous) - Couscous is good.
 - [globalcitizen/php-iban](https://github.com/globalcitizen/php-iban) - Generate, parse, validate, error-correct and present IBAN (and IIBAN) bank account information in PHP.
+- [willdurand/BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) - A pretty nice way to expose your Symfony translation messages to your client applications.
 - [jonaswouters/XhprofBundle](https://github.com/jonaswouters/XhprofBundle) - XHProf bundle for Symfony 2
 - [nelmio/NelmioJsLoggerBundle](https://github.com/nelmio/NelmioJsLoggerBundle) - This bundle allows you to log JavaScript errors and others in your backend's Monolog logs
 - [Codiad/Codiad](https://github.com/Codiad/Codiad) - Web Based, Cloud IDE
@@ -2036,6 +2052,7 @@
 
 ## Python
 
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [kahrendt/microWakeWord](https://github.com/kahrendt/microWakeWord) - A TensorFlow based wake word detection training framework using synthetic sample generation suitable for certain microcontrollers.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -2113,7 +2130,7 @@
 - [mehdichaouch/nabstory](https://github.com/mehdichaouch/nabstory) - Let your Nabaztag 🐰 read you a story 📖
 - [ethanchewy/PythonBuddy](https://github.com/ethanchewy/PythonBuddy) - 1st Online Python Editor With Live Syntax Checking and Execution
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
-- [knassar702/scant3r](https://github.com/knassar702/scant3r) - ScanT3r - Module based Bug Bounty Automation Tool ( use Lotus instead github.com/bugBlocker/lotus )
+- [MindPatch/scant3r](https://github.com/MindPatch/scant3r) - ScanT3r - Module based Bug Bounty Automation Tool ( use Lotus instead github.com/bugBlocker/lotus )
 - [satyarth/pixelsort](https://github.com/satyarth/pixelsort) - Pixel sorting images in python.
 - [Sebclem/OctoPrint-SimpleEmergencyStop](https://github.com/Sebclem/OctoPrint-SimpleEmergencyStop) - A simple plugin that add an emergency stop buton on NavBar of OctoPrint
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
@@ -2268,6 +2285,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [floneum/floneum](https://github.com/floneum/floneum) - Instant, controllable, local pre-trained AI models in Rust
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -2433,6 +2451,7 @@
 
 ## Svelte
 
+- [bvvst/vanishso](https://github.com/bvvst/vanishso) - vanishing note service with support for aes-gcm 256, otp, and pbkdf2
 - [FabienBounoir/youtube-card](https://github.com/FabienBounoir/youtube-card) - Bastiui, a Ux Ui designer, wanted to be able to recuperate a rendering of a youtube video by simply passing a link to it. Here's what I did.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2460,6 +2479,12 @@
 
 ## TypeScript
 
+- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+- [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
+- [magento/m2-devtools](https://github.com/magento/m2-devtools) - Helpful in-browser debugging/inspection tools for the Magento 2 Front-End
+- [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [gera2ld/request-x](https://github.com/gera2ld/request-x) - A web extension to block or modify requests.
@@ -2467,7 +2492,7 @@
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [bokub/ha-linky](https://github.com/bokub/ha-linky) - 📊 Home Assistant add-on for Linky smart meters
 - [bokub/linky](https://github.com/bokub/linky) - 🔌 CLI tool to retrieve Linky smart meters data
 - [zhouzi/broll](https://github.com/zhouzi/broll) - Éditeur de carte vidéo YouTube
@@ -2487,7 +2512,7 @@
 - [michael-dm/eva](https://github.com/michael-dm/eva) -
 - [bamdadfr/leboncoin-pdf-ext](https://github.com/bamdadfr/leboncoin-pdf-ext) - PDF Exporter for leboncoin.fr
 - [nohello-net/site](https://github.com/nohello-net/site) -
-- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with Mixtral and GPT-3.5.
+- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with AI
 - [Garlic-AI/siteexplainer](https://github.com/Garlic-AI/siteexplainer) - explains site
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [yaroslav-n/tweetGPT](https://github.com/yaroslav-n/tweetGPT) - Chrome extension that generates tweets and replies using chatGPT
