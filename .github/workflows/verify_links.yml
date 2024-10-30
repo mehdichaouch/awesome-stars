@@ -1,10 +1,6 @@
 name: 🤖 Verify links
 
-on:
-  push:
-    branches: [ '*' ]
-  pull_request:
-    branches: [ '*' ]
+on: [push, pull_request]
 
 jobs:
   verify_links:
@@ -17,9 +13,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: 🔧 Set up Ruby
-        uses: actions/setup-ruby@v1
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.6.x
+          ruby-version: 2.6
 
       - name: 🔧 Install dependencies
         run: |

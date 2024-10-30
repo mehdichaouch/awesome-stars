@@ -16,9 +16,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh api repos/${{ github.repository }}/actions/runs \
-          --paginate -q '.workflow_runs[] | select(.status != "in_progress" and .status != "queued") | "\(.id)"' | \
-          xargs -n1 -I % gh api repos/${{ github.repository }}/actions/runs/% -X DELETE
+          gh api repos/${{ github.repository }}/actions/runs --paginate -q '.workflow_runs[] \
+          | select(.status != "in_progress" and .status != "queued") | "\(.id)"' \
+          | xargs -I % gh api repos/${{ github.repository }}/actions/runs/% -X DELETE
 
   awesome-stars:
     name: ⭐ Update awesome-stars
@@ -38,18 +38,35 @@ jobs:
           # python -m pip install --upgrade pip
           # pip install importlib-metadata
           # pip install -e git+https://github.com/mehdichaouch/starred#egg=starred
-      
-      - name: ⭐ Update awesome-stars README
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: starred --username mehdichaouch --sort > README.md
 
-      - name: 🤖 Commit generate README changes
+      - name: ⭐ Update repo category by topic
+        run: |
+          starred --username ${{ github.repository_owner }} --repository ${{ env.REPOSITORY_NAME }} --sort --token ${{ secrets.GITHUB_TOKEN }} --topic --topic_limit 500 > topics.md
+          head topics.md
+          line_count=$(wc -l < "topics.md")
+          if [ "$line_count" -lt 100 ]; then
+            if git ls-files --error-unmatch "topics.md" >/dev/null 2>&1; then
+              git checkout -- "topics.md"
+            else
+              rm "topics.md"
+            fi
+          fi
+
+      - name: ⭐ Update repo category by language
+        run: |
+          starred --username ${{ github.repository_owner }} --repository ${{ env.REPOSITORY_NAME }} --sort --token ${{ secrets.GITHUB_TOKEN }} > README.md
+          head README.md
+          line_count=$(wc -l < "README.md")
+          if [ "$line_count" -lt 100 ]; then
+            git checkout -- "README.md"
+          fi
+
+      - name: 🤖 Commit README/topics changes
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ github.token }}
         with:
-          commit_message: 🤖 Update generated README
+          commit_message: 🤖 Update generated README/topics
           branch: main
           commit_user_name: awesome-stars 🤖
           commit_user_email: actions@github.com
