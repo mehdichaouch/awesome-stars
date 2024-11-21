@@ -25,6 +25,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: ⬇ Checkout
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         uses: actions/checkout@v4.2.2
 
       - name: 🔧 Set up Python
