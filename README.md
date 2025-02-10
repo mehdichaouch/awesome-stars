@@ -157,6 +157,7 @@
 
 ## C++ 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [mkiol/dsnote](https://github.com/mkiol/dsnote) - Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.
 - [gasman/pharmageddon](https://github.com/gasman/pharmageddon) - a demo on a pharmacy sign
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
@@ -244,7 +245,7 @@
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [mage2tv/magento-cache-clean](https://github.com/mage2tv/magento-cache-clean) - A faster drop in replacement for bin/magento cache:clean with file watcher
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [jhchabran/tabswitcher](https://github.com/jhchabran/tabswitcher) - Textmate's Command-T to switch tabs in Google Chrome
 
 ## CoffeeScript 
@@ -798,7 +799,6 @@
 - [chriszarate/bookmarkleter](https://github.com/chriszarate/bookmarkleter) - You have JavaScript. You need a bookmarklet. This does that.
 - [CaliOpen/Caliopen](https://github.com/CaliOpen/Caliopen) - Entry point for Caliopen messaging platform project
 - [pyrech/php-wtf](https://github.com/pyrech/php-wtf) - 
-- [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [lokesh/lightbox2](https://github.com/lokesh/lightbox2) - THE original Lightbox script (v2).
 - [nexcess/magento-sentry-two-factor-authentication](https://github.com/nexcess/magento-sentry-two-factor-authentication) - 
 - [adambom/sucker-compass](https://github.com/adambom/sucker-compass) - Add this mixin to your compass projects to easily add the styles to create a mult-level dropdown menu in the style of suckerfish
@@ -1125,7 +1125,7 @@
 - [camilleroux/awesome-generative-art](https://github.com/camilleroux/awesome-generative-art) - Carefully curated list of awesome resources to create, learn and, drop generative art
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [etnbrd/awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - :sunglasses: Curated list of awesome tools to build your freelance career (in france)
-- [duggytuxy/malicious_ip_addresses](https://github.com/duggytuxy/malicious_ip_addresses) - Lists of addresses of the most active C2, Botnets, Zombies, Scanners DST = France & Belgium
+- [duggytuxy/malicious_ip_addresses](https://github.com/duggytuxy/malicious_ip_addresses) - Intelligence Vickam Cybersecurity Blocklists (IPv4). DST = France & Belgium
 - [TiagoSilvaPereira/vemto2-issues](https://github.com/TiagoSilvaPereira/vemto2-issues) - Repository to track Vemto 2 Issues
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [finary-wealth/awesome](https://github.com/finary-wealth/awesome) - 🔍👋 A curated list of Finary libraries, resources and projects.
@@ -1304,6 +1304,7 @@
 
 ## PHP 
 
+- [Catrobat/Catroweb](https://github.com/Catrobat/Catroweb) - Catroweb - A social platform to share and browse projects created with Catrobat's apps (Pocket Code, ...) by our users.
 - [getbrevo/brevo-php](https://github.com/getbrevo/brevo-php) - A fully-featured PHP API client to interact with Brevo.
 - [mcspronko/cms-page-edit-status](https://github.com/mcspronko/cms-page-edit-status) - 
 - [cerbero90/json-parser](https://github.com/cerbero90/json-parser) - 🧩 Zero-dependencies lazy parser to read JSON of any dimension and from any source in a memory-efficient way.
@@ -2122,7 +2123,7 @@
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Mistral, Phi-4 & Gemma 2 LLMs 2-5x faster with 70% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory
 - [mapbox/osm-boundaries](https://github.com/mapbox/osm-boundaries) - MapBox OSM boundary relation processing
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) - OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container ima
 - [lmstudio-ai/model-catalog](https://github.com/lmstudio-ai/model-catalog) - A collection of standardized JSON descriptors for Large Language Model (LLM) files.
@@ -2398,6 +2399,7 @@
 
 ## Shell 
 
+- [mikaelvesavuori/a11ytester-action](https://github.com/mikaelvesavuori/a11ytester-action) - Runs Webhint and pa11y (accessibility testing tools) on one or more provided URLs.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [grantcarthew/notes](https://github.com/grantcarthew/notes) - General notes for technology
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
@@ -2544,6 +2546,9 @@
 
 ## TypeScript 
 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
+- [opengento/meet-magento-fr](https://github.com/opengento/meet-magento-fr) - Meet Magento France
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
@@ -2686,6 +2691,7 @@
 - [lance-gg/lance](https://github.com/lance-gg/lance) - Multiplayer game server based on Node.JS
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+- [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [kaimallea/isMobile](https://github.com/kaimallea/isMobile) - A simple JS library that detects mobile devices.
