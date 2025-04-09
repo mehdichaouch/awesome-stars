@@ -1489,7 +1489,7 @@
 - [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) - 
 - [markshust/magento2-module-example-set-theme-for-specific-route](https://github.com/markshust/magento2-module-example-set-theme-for-specific-route) - This is an example of a Magento 2 module that sets the theme, but only for a specific route.
 - [pragmatic-modules/magento2-module-jslayout-parser](https://github.com/pragmatic-modules/magento2-module-jslayout-parser) - 
-- [mage-os/mageos-magento2](https://github.com/mage-os/mageos-magento2) - Work in progress.
+- [mage-os/mageos-magento2](https://github.com/mage-os/mageos-magento2) - The core Mage-OS Distribution codebase: An independent community distribution of Magento™ Open Source ecommerce
 - [jonatanlaksamanapurnomo/kadoqu](https://github.com/jonatanlaksamanapurnomo/kadoqu) - 
 - [cparadigm/bottomline](https://github.com/cparadigm/bottomline) - 
 - [sinichi33/newrep](https://github.com/sinichi33/newrep) - new rep
@@ -2566,6 +2566,7 @@
 
 ## TypeScript 
 
+- [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [Efrice/compress-pdf](https://github.com/Efrice/compress-pdf) - compress pdf without sever
 - [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 - [lcandy2/gitingest-extension](https://github.com/lcandy2/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
