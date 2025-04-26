@@ -552,7 +552,6 @@
 - [tbouron/WlpprforMuzei](https://github.com/tbouron/WlpprforMuzei) - Wlppr.com art source for Muzei
 - [jfeinstein10/SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thank
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
-- [marvinlabs/android-unlocker-library](https://github.com/marvinlabs/android-unlocker-library) - A library to ease implementation of unlock application for your freemium apps
 - [romainguefveneu/naonedbus](https://github.com/romainguefveneu/naonedbus) - [DEPRECATED] L'application des transports nantais
 - [matshofman/Android-RSS-Reader-Library](https://github.com/matshofman/Android-RSS-Reader-Library) - A RSS reader library to fetch a RSS feed from the web and parse it to workable objects
 - [knowm/XChange](https://github.com/knowm/XChange) - XChange is a Java library providing a streamlined API for interacting with 60+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data.
