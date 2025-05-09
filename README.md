@@ -1122,6 +1122,7 @@
 
 ## Others 
 
+- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
 - [aialt/GPT-4o-Image-Generation-Prompts](https://github.com/aialt/GPT-4o-Image-Generation-Prompts) - This repository contains curated prompts for using GPT-4o to generate images.
 - [LoogleCZ/PHPStan-Magento2-Extension](https://github.com/LoogleCZ/PHPStan-Magento2-Extension) - Extension for PHPStan v2.x for Magento 2 framework
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
@@ -1172,7 +1173,6 @@
 - [SymfonyCon/2022-talks](https://github.com/SymfonyCon/2022-talks) - 
 - [ronangr1/M2-TechnicalInterviewsResources](https://github.com/ronangr1/M2-TechnicalInterviewsResources) - Compilation of all the questions that are asked during the technical interviews oriented for Magento.
 - [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
-- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
 - [yireo/magento2-replace-core](https://github.com/yireo/magento2-replace-core) - Magento 2 meta-package to replace all optional core modules
 - [yireo/magento2-replace-graphql](https://github.com/yireo/magento2-replace-graphql) - Magento 2 meta-package to replace all optional GraphQL modules
 - [guardrailsio/awesome-php-security](https://github.com/guardrailsio/awesome-php-security) - Awesome PHP Security Resources 🕶🐘🔐
