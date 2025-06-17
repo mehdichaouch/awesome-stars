@@ -264,7 +264,7 @@
 
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-- [bmaroti9/Overmorrow](https://github.com/bmaroti9/Overmorrow) - minimalist colorful weather app
+- [bmaroti9/Overmorrow](https://github.com/bmaroti9/Overmorrow) - modern material design weather app
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
@@ -317,7 +317,7 @@
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -417,6 +417,7 @@
 - [sebbelese/mhios](https://github.com/sebbelese/mhios) - 
 - [lfolco/phpstorm-m2-filetemplates](https://github.com/lfolco/phpstorm-m2-filetemplates) - PHPStorm Magento 2 File Templates
 - [loopbackio/loopback.io](https://github.com/loopbackio/loopback.io) - LoopBack project site - now with documentation!
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [caltamiranoHYLETE/mercurial-to-git](https://github.com/caltamiranoHYLETE/mercurial-to-git) - 
 - [gsheeets/call](https://github.com/gsheeets/call) - 📞  Call - Smart Way to Make Phone Numbers Clickable in Google Sheets
 - [iMi-digital/magento2-store-switch-all-store-views](https://github.com/iMi-digital/magento2-store-switch-all-store-views) - This module makes all store views available in the store switcher, regardless of their store or website.
@@ -475,7 +476,6 @@
 - [codepo8/simple-carousel](https://github.com/codepo8/simple-carousel) - An example of a carousel - keeping it simple
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [hashicorp/otto](https://github.com/hashicorp/otto) - Development and deployment made easy.
 - [gnugat/gnugat.github.io](https://github.com/gnugat/gnugat.github.io) - Blog about technical and practices advices
 - [jstherightway/js-the-right-way](https://github.com/jstherightway/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
@@ -579,6 +579,7 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [kyr0/redaktool](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. This tool serves as a comprehensive "AI toolbox" enabling direct interaction with conte
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+- [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the project!
 - [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams
 - [antomatskev/bhavacakra](https://github.com/antomatskev/bhavacakra) - Look at your current life in a visual representation and find your state of balance, happiness and success.
 - [DannyMoerkerke/audio-recorder](https://github.com/DannyMoerkerke/audio-recorder) - Audio Recorder Web Component
@@ -589,6 +590,7 @@
 - [theshreyas/db-schema-generator](https://github.com/theshreyas/db-schema-generator) - Magento 2 db_schema.xml generator
 - [MageQuest/magento2-module-lite-youtube](https://github.com/MageQuest/magento2-module-lite-youtube) - A Magento 2 module that adds Paul Irish's Lite YouTube implementation support.
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
+- [magewirephp/magewire](https://github.com/magewirephp/magewire) - Magewire is a Laravel Livewire port for Magento 2. The goal is to make it fun and easy to build modern, reactive and dynamic interfaces, without leaving the comfort of Magento's core layout and templa
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [tapio/live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
@@ -632,7 +634,6 @@
 - [Elijas/auto-youtube-subscription-playlist-2](https://github.com/Elijas/auto-youtube-subscription-playlist-2) - Script automatically adds videos to playlists from Youtube channels and/or subscriptions (Youtube Collections alternative).
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsor
 - [vjeantet/hugo-theme-docdock](https://github.com/vjeantet/hugo-theme-docdock) - Declination of @matcornic  Learn theme to Hugo
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [sanderheilbron/seo-shortcuts](https://github.com/sanderheilbron/seo-shortcuts) - SEO Shortcuts — A browser extension for Chrome
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
@@ -815,7 +816,6 @@
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https
 - [nghuuphuoc/responsivetest](https://github.com/nghuuphuoc/responsivetest) - Test responsive layout, powered by AngularJS and Bootstrap 3. If this tool is useful to you, please Star it.
 - [jaysalvat/vegas](https://github.com/jaysalvat/vegas) - Vegas is a jQuery/Zepto plugin to add beautiful backgrounds and Slideshows to DOM elements.
-- [jssor/slider](https://github.com/jssor/slider) - Touch swipe image slider/slideshow/gallery/carousel/banner mobile responsive bootstrap
 - [NUKnightLab/TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) - TimelineJS v3: A Storytelling Timeline built in JavaScript.  http://timeline.knightlab.com
 - [siddharthkp/pay-with-a-star](https://github.com/siddharthkp/pay-with-a-star) - Get paid in :star:s for your open source work
 - [pablof7z/chardin.js](https://github.com/pablof7z/chardin.js) - Simple overlay instructions for your apps.
@@ -1088,7 +1088,9 @@
 
 ## Nix 
 
+- [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
 - [fballiano/magento2-devenv](https://github.com/fballiano/magento2-devenv) - devenv.sh support for Magento2
+- [ad-si/awesome-laser-cutting](https://github.com/ad-si/awesome-laser-cutting) - A curated list of awesome laser cutting resources.
 
 ## Nunjucks 
 
@@ -1121,7 +1123,6 @@
 - [aialt/GPT-4o-Image-Generation-Prompts](https://github.com/aialt/GPT-4o-Image-Generation-Prompts) - This repository contains curated prompts for using GPT-4o to generate images.
 - [LoogleCZ/PHPStan-Magento2-Extension](https://github.com/LoogleCZ/PHPStan-Magento2-Extension) - Extension for PHPStan v2.x for Magento 2 framework
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
-- [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
 - [mageprince/magento2-productAttachment](https://github.com/mageprince/magento2-productAttachment) - The Product Attachments extension for Magento 2 equips product pages with a special attachments block where you can upload numerous documents such as user guides, extra images, pdf, certificates, lice
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
@@ -1161,7 +1162,6 @@
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
-- [ad-si/awesome-laser-cutting](https://github.com/ad-si/awesome-laser-cutting) - A curated list of awesome laser cutting resources.
 - [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
 - [multiplie-fr/minimit](https://github.com/multiplie-fr/minimit) - Le MiniMit permet de redonner vie aux Minitels
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -1345,7 +1345,6 @@
 - [LBannenberg/magento2-layout-bricks](https://github.com/LBannenberg/magento2-layout-bricks) - 
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [magewirephp/magewire](https://github.com/magewirephp/magewire) - Magewire is a Laravel Livewire port for Magento 2. The goal is to make it fun and easy to build modern, reactive and dynamic interfaces, without leaving the comfort of Magento's core layout and templa
 - [markshust/magento2-module-twilio](https://github.com/markshust/magento2-module-twilio) - The Twilio module sends SMS messages in response to Magento events.
 - [markshust/magento2-module-simpledata](https://github.com/markshust/magento2-module-simpledata) - The SimpleData module simplifies calling Magento data structures.
 - [markshust/magento2-module-removefavicon](https://github.com/markshust/magento2-module-removefavicon) - The Remove Favicon module removes all favicons from the HTML head.
@@ -1688,7 +1687,7 @@
 - [opengento/magento2-gdpr](https://github.com/opengento/magento2-gdpr) - Magento 2 GDPR module is a must have extension for the largest e-commerce CMS used in the world. The module helps to be GDPR compliant. Actually it allows the customers to erase, or export their perso
 - [exercism/php](https://github.com/exercism/php) - Exercism exercises in PHP.
 - [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Symfony Bundle to assist in image manipulation using the imagine library
-- [liip/bootstrap-blocks-wordpress-plugin](https://github.com/liip/bootstrap-blocks-wordpress-plugin) - Bootstrap Gutenberg Blocks for WordPress
+- [tschortsch/bootstrap-blocks-wordpress-plugin](https://github.com/tschortsch/bootstrap-blocks-wordpress-plugin) - Bootstrap Gutenberg Blocks for WordPress
 - [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) - Standards compliant HTML filter written in PHP
 - [khanamiryan/php-qrcode-detector-decoder](https://github.com/khanamiryan/php-qrcode-detector-decoder) - This is a PHP library to detect and decode QR-codes. This is first and only QR code reader that works without extensions.
 - [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler.
@@ -2044,7 +2043,7 @@
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [PHPCompatibility/PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - PHP Compatibility check for PHP_CodeSniffer
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 - [atoum/atoum](https://github.com/atoum/atoum) - The modern, simple and intuitive PHP unit testing framework.
 - [fabpot/Silex](https://github.com/fabpot/Silex) - The PHP micro-framework based on the Symfony2 Components
 - [Cilex/Cilex](https://github.com/Cilex/Cilex) - Cilex a lightweight framework for creating PHP CLI scripts inspired by Silex
@@ -2121,7 +2120,7 @@
 - [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data processing and instruction calling with ML, LLM and Vision LLM
-- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 Calm and clean theme for Home Assistant
+- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 A Calm and Clean Theme for Home Assistant
 - [SeaDve/Breathing](https://github.com/SeaDve/Breathing) - Relax and meditate
 - [ORelio/Rabbit-RFID](https://github.com/ORelio/Rabbit-RFID) - Support for newer tags on Nabaztags running pynab
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
@@ -2144,7 +2143,7 @@
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [mapbox/osm-boundaries](https://github.com/mapbox/osm-boundaries) - MapBox OSM boundary relation processing
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) - OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container ima
 - [lmstudio-ai/model-catalog](https://github.com/lmstudio-ai/model-catalog) - A collection of standardized JSON descriptors for Large Language Model (LLM) files.
@@ -2195,7 +2194,7 @@
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [tkp-archive/pyEX](https://github.com/tkp-archive/pyEX) - Python interface to IEX and IEX cloud APIs
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [serpapi/google-search-results-python](https://github.com/serpapi/google-search-results-python) - Google Search Results via SERP API pip Python Package
@@ -2280,6 +2279,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [ejwa/gitinspector](https://github.com/ejwa/gitinspector) - :bar_chart: The statistical analysis tool for git repositories
 - [steve71/RasPiBrew](https://github.com/steve71/RasPiBrew) - Raspberry Pi Temperature Controller for homebrewing and sous vide cooking
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Gandi/gandi.cli](https://github.com/Gandi/gandi.cli) - ⚠ ARCHIVED - Command line interface to Gandi.net products using the public API
 - [nil0x42/phpsploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor
 - [Kinto/kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
@@ -2383,7 +2383,6 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
-- [debugger22/github-audio](https://github.com/debugger22/github-audio) - Listen to music generated by events happening across GitHub :octocat: 🎷
 - [imazen/imageflow](https://github.com/imazen/imageflow) - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
 
 ## SCSS 
@@ -2565,6 +2564,7 @@
 
 ## TypeScript 
 
+- [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [trypear/pearai-app](https://github.com/trypear/pearai-app) - PearAI: Open Source AI Code Editor (Fork of VSCode). The PearAI Submodule (https://github.com/trypear/pearai-submodule) is a fork of Continue.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -2581,7 +2581,6 @@
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the project!
 - [laravel/precognition](https://github.com/laravel/precognition) - Anticipate the outcome of a future HTTP request.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [YZarytskyi/react-audio-visualization](https://github.com/YZarytskyi/react-audio-visualization) - Demo App for the react-voice-visualizer library.
@@ -2654,7 +2653,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
-- [r0mankon/lib-unifonts](https://github.com/r0mankon/lib-unifonts) - 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆.
+- [romanrokon/lib-unifonts](https://github.com/romanrokon/lib-unifonts) - 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆.
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
@@ -2686,7 +2685,7 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [datagutt/pynab.js](https://github.com/datagutt/pynab.js) - Typescript API interface for the Nabaztag revival pcb
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [GoogleChromeLabs/bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap) - Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
@@ -2696,6 +2695,7 @@
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [lichess-org/chessground](https://github.com/lichess-org/chessground) - Mobile/Web chess UI for lichess.org
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+- [debugger22/github-audio](https://github.com/debugger22/github-audio) - Listen to music generated by events happening across GitHub :octocat: 🎷
 - [udleinati/redirect.center](https://github.com/udleinati/redirect.center) - Redirect domains using DNS only
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -2708,7 +2708,7 @@
 - [davrous/dareangel](https://github.com/davrous/dareangel) - This extension provides more accessibility on images of a web page by using Microsoft Cognitive Services Computer Vision API to analyze it for you
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
 - [3035app/pialab](https://github.com/3035app/pialab) - PiaLab Angular app
 - [processout/processout.js](https://github.com/processout/processout.js) - ProcessOut JavaScript library with modal & white-label support
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
