@@ -579,7 +579,6 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [kyr0/redaktool](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. This tool serves as a comprehensive "AI toolbox" enabling direct interaction with conte
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
-- [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the project!
 - [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams
 - [antomatskev/bhavacakra](https://github.com/antomatskev/bhavacakra) - Look at your current life in a visual representation and find your state of balance, happiness and success.
 - [DannyMoerkerke/audio-recorder](https://github.com/DannyMoerkerke/audio-recorder) - Audio Recorder Web Component
@@ -598,7 +597,7 @@
 - [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer) - Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
 - [imsky/holder](https://github.com/imsky/holder) - :city_sunrise: Client-side image placeholders.
 - [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [74656c/fart.js](https://github.com/74656c/fart.js) - Fart library
@@ -1706,7 +1705,7 @@
 - [LavoWeb/Lyra-Magento2](https://github.com/LavoWeb/Lyra-Magento2) - 
 - [symfony/error-handler](https://github.com/symfony/error-handler) - Provides tools to manage errors and ease debugging PHP code
 - [magento-hackathon/cli-plugin-list](https://github.com/magento-hackathon/cli-plugin-list) - Get an overview of plugins installed and detect their influence on a Magento 2 instance
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [mgtcommerce/Mgt_Developertoolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Mgt DeveloperToolbar for Magento 2
 - [ccampbell/chromephp](https://github.com/ccampbell/chromephp) - class for logging PHP variables to Google Chrome console
 - [vijays91/Magento-Email-Notification](https://github.com/vijays91/Magento-Email-Notification) - This extension is used to, notify the customer when the product is available(in stock).
@@ -2581,6 +2580,7 @@
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
+- [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the project!
 - [laravel/precognition](https://github.com/laravel/precognition) - Anticipate the outcome of a future HTTP request.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [YZarytskyi/react-audio-visualization](https://github.com/YZarytskyi/react-audio-visualization) - Demo App for the react-voice-visualizer library.
@@ -2593,7 +2593,7 @@
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [magento/m2-devtools](https://github.com/magento/m2-devtools) - Helpful in-browser debugging/inspection tools for the Magento 2 Front-End
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [gera2ld/request-x](https://github.com/gera2ld/request-x) - A web extension to block or modify requests.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
