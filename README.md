@@ -503,6 +503,7 @@
 ## Java 
 
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [lolo101/MsgViewer](https://github.com/lolo101/MsgViewer) - MsgViewer is email-viewer utility for .msg e-mail messages, implemented in pure Java. MsgViewer works on Windows/Linux/Mac Platforms. Also provides a java api to read mail messges (msg files) programm
 - [kairoh/studio](https://github.com/kairoh/studio) - STUdio - Story Teller Unleashed
@@ -596,7 +597,7 @@
 - [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer) - Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
 - [imsky/holder](https://github.com/imsky/holder) - :city_sunrise: Client-side image placeholders.
 - [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [74656c/fart.js](https://github.com/74656c/fart.js) - Fart library
@@ -722,7 +723,7 @@
 - [CaptainFact/captain-fact-extension](https://github.com/CaptainFact/captain-fact-extension) - 🔎 CaptainFact - Browser Extension. Displays facts on YouTube videos
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-- [jonobr1/two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
+- [jonobr1/two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web
 - [TargetProcess/tauCharts](https://github.com/TargetProcess/tauCharts) - D3 based data-focused charting library. Designed with passion. Flexible.
 - [britecharts/britecharts](https://github.com/britecharts/britecharts) - Composable Charting Library based on reusable D3.js components.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -1044,7 +1045,6 @@
 
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual and multiplatform extensible offline player
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
 - [one-dark/jetbrains-one-dark-theme](https://github.com/one-dark/jetbrains-one-dark-theme) - One Dark theme for JetBrains.
 
@@ -1132,7 +1132,7 @@
 - [evzone/hassio-bluepiaudio](https://github.com/evzone/hassio-bluepiaudio) - Configuration files and notes to add bluetooth audio support in Home Assistant
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [camilleroux/awesome-generative-art](https://github.com/camilleroux/awesome-generative-art) - Carefully curated list of awesome resources to create, learn and, drop generative art
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [etnbrd/awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - :sunglasses: Curated list of awesome tools to build your freelance career (in france)
 - [duggytuxy/Intelligence_IPv4_Blocklist](https://github.com/duggytuxy/Intelligence_IPv4_Blocklist) - Intelligence Blocklist (IPv4). DST = France & Belgium
 - [TiagoSilvaPereira/vemto2-issues](https://github.com/TiagoSilvaPereira/vemto2-issues) - Repository to track Vemto 2 Issues
@@ -1264,7 +1264,7 @@
 - [talesh/response](https://github.com/talesh/response) - A Magento Incident Response Plan Template
 - [koush/support-wiki](https://github.com/koush/support-wiki) - 
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
-- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
+- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 - [bryanlittlefield/Magento-Functions](https://github.com/bryanlittlefield/Magento-Functions) - A Resource of Magento Functions
 - [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 on functional programming, performance, frameworks, React, debugging, leveling up, and more! ⚡️
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
@@ -1493,7 +1493,7 @@
 - [jf-xia/magento_extensions](https://github.com/jf-xia/magento_extensions) - magento extensions
 - [5mehulhelp5/MagentoExtensions](https://github.com/5mehulhelp5/MagentoExtensions) - Magento Extension Directory 1&gt; Themes Switcher 2&gt; Default Shipping On Cart 3&gt; Upshare 4&gt; Product Image Optimizer  5&gt; Idealo Product Export  6&gt; magento Google shopping Api v2 7&gt;Goo
 - [trive-digital/AdaptiveResizeM2](https://github.com/trive-digital/AdaptiveResizeM2) - 
-- [ronangr1/M2-Barbagento](https://github.com/ronangr1/M2-Barbagento) - Magento 2 x BarbaJs
+- [ronangr1/m2-barbagento](https://github.com/ronangr1/m2-barbagento) - Magento 2 x BarbaJs
 - [bigbridge-nl/product-import](https://github.com/bigbridge-nl/product-import) - Fast product import library for Magento 2
 - [sviatoslav-lashkiv/m2-avoid-cart-merging-module](https://github.com/sviatoslav-lashkiv/m2-avoid-cart-merging-module) - 
 - [magento/magento-coding-standard](https://github.com/magento/magento-coding-standard) - Magento Coding Standard
@@ -2117,7 +2117,7 @@
 - [psyray/oasis](https://github.com/psyray/oasis) - Ollama Automated Security Intelligence Scanner
 - [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
-- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data processing and instruction calling with ML, LLM and Vision LLM
+- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Structured data extraction and instruction calling with ML, LLM and Vision LLM
 - [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 A Calm and Clean Theme for Home Assistant
 - [SeaDve/Breathing](https://github.com/SeaDve/Breathing) - Relax and meditate
 - [ORelio/Rabbit-RFID](https://github.com/ORelio/Rabbit-RFID) - Support for newer tags on Nabaztags running pynab
@@ -2149,7 +2149,7 @@
 - [Snapmaker/SnapmakerCuraPlugin](https://github.com/Snapmaker/SnapmakerCuraPlugin) - Snapmaker plugin for Cura 5
 - [Yuchen413/text2image_safety](https://github.com/Yuchen413/text2image_safety) - 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [MadeInPierre/finalynx](https://github.com/MadeInPierre/finalynx) - A minimalistic companion (CLI & web) to organize your investment portfolio, simulate its future, and reach your life goals.
 - [nmathey/finasync](https://github.com/nmathey/finasync) - A simple tool to sync your Finary portfolio values with sources platforms not yet officially integrated by Finary
