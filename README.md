@@ -247,7 +247,6 @@
 
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
-- [mage2tv/magento-cache-clean](https://github.com/mage2tv/magento-cache-clean) - A faster drop in replacement for bin/magento cache:clean with file watcher
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [jhchabran/tabswitcher](https://github.com/jhchabran/tabswitcher) - Textmate's Command-T to switch tabs in Google Chrome
 
@@ -1229,6 +1228,7 @@
 - [darshanime/notes](https://github.com/darshanime/notes) - detailed notes on computer science topics, in one page
 - [quafzi/judge](https://github.com/quafzi/judge) - Evaluate Magento extension quality
 - [magento-notes/magento2-exam-notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for Magento 2 Certified Professional Developer exam
+- [mage2tv/magento-cache-clean](https://github.com/mage2tv/magento-cache-clean) - A faster drop in replacement for bin/magento cache:clean with file watcher
 - [astorm/magento2-travis](https://github.com/astorm/magento2-travis) - An example travis configuration for getting a Magento 2 enviornment up and running
 - [talesh/magento-security-checklist](https://github.com/talesh/magento-security-checklist) - A Magento community sourced security pre-flight checklist.
 - [magesuite/magesuite](https://github.com/magesuite/magesuite) - The main MageSuite (meta)package to rule them all
