@@ -907,7 +907,6 @@
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
-- [brandonwamboldt/varnish-dashboard](https://github.com/brandonwamboldt/varnish-dashboard) - Advanced realtime Varnish dashboard with support for multiple servers and advanced management tasks
 - [hakimel/Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 - [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
 - [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
