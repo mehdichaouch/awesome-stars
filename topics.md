@@ -2733,7 +2733,7 @@
 - [mageprince/magento2-productAttachment](https://github.com/mageprince/magento2-productAttachment) - The Product Attachments extension for Magento 2 equips product pages with a special attachments block where you can upload numerous documents such as user guides, extra images, pdf, certificates, lice
 - [magento/m2-devtools](https://github.com/magento/m2-devtools) - Helpful in-browser debugging/inspection tools for the Magento 2 Front-End
 - [magefan/module-blog](https://github.com/magefan/module-blog) - Magento 2 Blog Extension is a solution that helps you to create a blog on Magento and manage posts,categories, tags, authors, and comments.
-- [ronangr1/M2-SpookyEvent](https://github.com/ronangr1/M2-SpookyEvent) - SPOOKY! 👻
+- [ronangr1/magento2-spookyevent](https://github.com/ronangr1/magento2-spookyevent) - SPOOKY! 👻
 - [theshreyas/db-schema-generator](https://github.com/theshreyas/db-schema-generator) - Magento 2 db_schema.xml generator
 - [bvvst/vanishso](https://github.com/bvvst/vanishso) - vanishing note service with support for aes-gcm 256, otp, and pbkdf2
 - [magento/meta-for-magento2](https://github.com/magento/meta-for-magento2) - 
@@ -2767,8 +2767,8 @@
 - [opengento/magento2-sales-sequence](https://github.com/opengento/magento2-sales-sequence) - Allows to setup with ease the prefix, format and suffix of sales sequences directly from the configuration.
 - [DeployEcommerce/module-trojan-order-prevent](https://github.com/DeployEcommerce/module-trojan-order-prevent) - A Magento2 extension that prevents billing/shipping addresses being saved via the API with known trojan order strings.
 - [baldwin-agency/magento2-module-image-cleanup](https://github.com/baldwin-agency/magento2-module-image-cleanup) - Magento 2 module which can cleanup old image files that are no longer being used
-- [magegang/m2-humanstxt](https://github.com/magegang/m2-humanstxt) - Add a humans.txt to your Magento 2 application
-- [ronangr1/M2-SystemConfigWhoDidThisLogger](https://github.com/ronangr1/M2-SystemConfigWhoDidThisLogger) - This module allows you to record any changes made to the configuration of your Magento 2 application
+- [magegang/magento2-humanstxt](https://github.com/magegang/magento2-humanstxt) - Add a humans.txt to your Magento 2 application
+- [ronangr1/magento2-whodidzis](https://github.com/ronangr1/magento2-whodidzis) - This module allows you to record any changes made to the configuration of your Magento 2 application
 - [opengento/magento2-catalog-sort-order](https://github.com/opengento/magento2-catalog-sort-order) - This module allows to setup the sort direction options in the storefront catalog view.
 - [developersalliance/module-table-rates](https://github.com/developersalliance/module-table-rates) - Magento 2 Module for managing shipping table rates
 - [evzone/hassio-bluepiaudio](https://github.com/evzone/hassio-bluepiaudio) - Configuration files and notes to add bluetooth audio support in Home Assistant
@@ -2799,7 +2799,7 @@
 - [anandundavia/thanos-js](https://github.com/anandundavia/thanos-js) - A casual (but dangerous) package that will let Thanos snap fingers and delete random files inside a directory
 - [hryvinskyi/magento2-invisible-captcha](https://github.com/hryvinskyi/magento2-invisible-captcha) - Google Invisible Captcha v3 for magento 2
 - [TiagoSilvaPereira/vemto2-issues](https://github.com/TiagoSilvaPereira/vemto2-issues) - Repository to track Vemto 2 Issues
-- [ronangr1/farttocart](https://github.com/ronangr1/farttocart) - This module allows you to add fart sounds when adding a product to the cart.
+- [ronangr1/magento2-farttocart](https://github.com/ronangr1/magento2-farttocart) - This module allows you to add fart sounds when adding a product to the cart.
 - [rangerz/magento2-module-re-captcha-checkout](https://github.com/rangerz/magento2-module-re-captcha-checkout) - Add Google reCaptcha for place order against carding attack
 - [ghostunicorns/module-webapi-logs](https://github.com/ghostunicorns/module-webapi-logs) - This module allows you to analyze all the webapi rest done call toward your adobe commerce.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
@@ -2822,7 +2822,7 @@
 - [bqworks/slider-pro-js](https://github.com/bqworks/slider-pro-js) - Modular JavaScript slider that is dependency-free, rich-featured, flexible and easy to use.
 - [bqworks/slider-pro](https://github.com/bqworks/slider-pro) - A modular, responsive and touch-enabled jQuery slider plugin that enables you to create elegant and professionally looking sliders.
 - [Yuchen413/text2image_safety](https://github.com/Yuchen413/text2image_safety) - 
-- [magegang/m2-logo-config](https://github.com/magegang/m2-logo-config) - Schedule a logo for each of your ecommerce store's yearly events
+- [magegang/magento2-logo-config](https://github.com/magegang/magento2-logo-config) - Schedule a logo for each of your ecommerce store's yearly events
 - [finary-wealth/awesome](https://github.com/finary-wealth/awesome) - 🔍👋 A curated list of Finary libraries, resources and projects.
 - [nmathey/finasync](https://github.com/nmathey/finasync) - A simple tool to sync your Finary portfolio values with sources platforms not yet officially integrated by Finary
 - [m4tthumphrey/m4tthumphrey.github.io](https://github.com/m4tthumphrey/m4tthumphrey.github.io) - 
@@ -2977,7 +2977,7 @@
 - [magento-hackathon/module-eavcleaner-m2](https://github.com/magento-hackathon/module-eavcleaner-m2) - Clean up your Magento database by removing orphaned, unused and wrongly added attribute, attribute values and settings (for M2).
 - [jf-xia/magento_extensions](https://github.com/jf-xia/magento_extensions) - magento extensions
 - [trive-digital/AdaptiveResizeM2](https://github.com/trive-digital/AdaptiveResizeM2) - 
-- [ronangr1/m2-barbagento](https://github.com/ronangr1/m2-barbagento) - Magento 2 x BarbaJs
+- [ronangr1/magento2-barbagento](https://github.com/ronangr1/magento2-barbagento) - Magento 2 x BarbaJs
 - [bigbridge-nl/product-import](https://github.com/bigbridge-nl/product-import) - Fast product import library for Magento 2
 - [sviatoslav-lashkiv/m2-avoid-cart-merging-module](https://github.com/sviatoslav-lashkiv/m2-avoid-cart-merging-module) - 
 - [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Astro and Airtable.
@@ -2988,7 +2988,7 @@
 - [qoliber/admin-locale-switcher](https://github.com/qoliber/admin-locale-switcher) - Magento 2 - Admin Locale Switcher
 - [hivecommerce/magerun2-list-api-endpoints](https://github.com/hivecommerce/magerun2-list-api-endpoints) - Plugin for netz98 Magerun2 to list all API endpoints via CLI
 - [fballiano/magento2-defer-javascripts](https://github.com/fballiano/magento2-defer-javascripts) - Defer Javascripts module for Magento 2
-- [ronangr1/M2-TechnicalInterviewsResources](https://github.com/ronangr1/M2-TechnicalInterviewsResources) - Compilation of all the questions that are asked during the technical interviews oriented for Magento.
+- [ronangr1/magento2-technicalinterviewresources](https://github.com/ronangr1/magento2-technicalinterviewresources) - Compilation of all the questions that are asked during the technical interviews oriented for Magento.
 - [Webstraxt/m2-page-builder-better-images](https://github.com/Webstraxt/m2-page-builder-better-images) - Magento 2 module allowing you to specify explicit dimensions and loading behaviour on Page Builder images
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
@@ -3793,7 +3793,6 @@
 - [assaf/zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js
 - [yeoman/generator-webapp_DEPRECATED](https://github.com/yeoman/generator-webapp_DEPRECATED) - Yeoman generator that scaffolds out a front-end web app
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
-- [brandonwamboldt/varnish-dashboard](https://github.com/brandonwamboldt/varnish-dashboard) - Advanced realtime Varnish dashboard with support for multiple servers and advanced management tasks
 - [13protons/deckdown](https://github.com/13protons/deckdown) - Write markdown, get a slide deck. No BS.
 - [hakimel/Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 - [ushahidi/SMSSync](https://github.com/ushahidi/SMSSync) - SMS gateway for Android powered phones

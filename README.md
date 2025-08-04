@@ -1161,7 +1161,7 @@
 - [multiplie-fr/minimit](https://github.com/multiplie-fr/minimit) - Le MiniMit permet de redonner vie aux Minitels
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [SymfonyCon/2022-talks](https://github.com/SymfonyCon/2022-talks) - 
-- [ronangr1/M2-TechnicalInterviewsResources](https://github.com/ronangr1/M2-TechnicalInterviewsResources) - Compilation of all the questions that are asked during the technical interviews oriented for Magento.
+- [ronangr1/magento2-technicalinterviewresources](https://github.com/ronangr1/magento2-technicalinterviewresources) - Compilation of all the questions that are asked during the technical interviews oriented for Magento.
 - [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
 - [yireo/magento2-replace-core](https://github.com/yireo/magento2-replace-core) - Magento 2 meta-package to replace all optional core modules
 - [yireo/magento2-replace-graphql](https://github.com/yireo/magento2-replace-graphql) - Magento 2 meta-package to replace all optional GraphQL modules
@@ -1334,7 +1334,7 @@
 - [galacticlabs/disable-compare-products](https://github.com/galacticlabs/disable-compare-products) - Magento 2 Disable Compare Products
 - [ctidigital/magento2-configurator](https://github.com/ctidigital/magento2-configurator) - Magento 2 Configurator
 - [magefan/module-blog](https://github.com/magefan/module-blog) - Magento 2 Blog Extension is a solution that helps you to create a blog on Magento and manage posts,categories, tags, authors, and comments.
-- [ronangr1/M2-SpookyEvent](https://github.com/ronangr1/M2-SpookyEvent) - SPOOKY! 👻
+- [ronangr1/magento2-spookyevent](https://github.com/ronangr1/magento2-spookyevent) - SPOOKY! 👻
 - [element119/module-admin-indexer-report](https://github.com/element119/module-admin-indexer-report) - A Magento 2 module to show some indexer-related information in the admin.
 - [magento/meta-for-magento2](https://github.com/magento/meta-for-magento2) - 
 - [EmicoEcommerce/Magento2AttributeLanding](https://github.com/EmicoEcommerce/Magento2AttributeLanding) - Attribute landingspages for Magento 2
@@ -1356,8 +1356,8 @@
 - [opengento/magento2-sales-sequence](https://github.com/opengento/magento2-sales-sequence) - Allows to setup with ease the prefix, format and suffix of sales sequences directly from the configuration.
 - [DeployEcommerce/module-trojan-order-prevent](https://github.com/DeployEcommerce/module-trojan-order-prevent) - A Magento2 extension that prevents billing/shipping addresses being saved via the API with known trojan order strings.
 - [baldwin-agency/magento2-module-image-cleanup](https://github.com/baldwin-agency/magento2-module-image-cleanup) - Magento 2 module which can cleanup old image files that are no longer being used
-- [magegang/m2-humanstxt](https://github.com/magegang/m2-humanstxt) - Add a humans.txt to your Magento 2 application
-- [ronangr1/M2-SystemConfigWhoDidThisLogger](https://github.com/ronangr1/M2-SystemConfigWhoDidThisLogger) - This module allows you to record any changes made to the configuration of your Magento 2 application
+- [magegang/magento2-humanstxt](https://github.com/magegang/magento2-humanstxt) - Add a humans.txt to your Magento 2 application
+- [ronangr1/magento2-whodidzis](https://github.com/ronangr1/magento2-whodidzis) - This module allows you to record any changes made to the configuration of your Magento 2 application
 - [element119/module-admin-opcache-report](https://github.com/element119/module-admin-opcache-report) - A Magento 2 module to show some PHP OpCache-related information in the admin.
 - [opengento/magento2-catalog-sort-order](https://github.com/opengento/magento2-catalog-sort-order) - This module allows to setup the sort direction options in the storefront catalog view.
 - [developersalliance/module-table-rates](https://github.com/developersalliance/module-table-rates) - Magento 2 Module for managing shipping table rates
@@ -1375,7 +1375,7 @@
 - [hryvinskyi/magento2-invisible-captcha](https://github.com/hryvinskyi/magento2-invisible-captcha) - Google Invisible Captcha v3 for magento 2
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
-- [ronangr1/farttocart](https://github.com/ronangr1/farttocart) - This module allows you to add fart sounds when adding a product to the cart.
+- [ronangr1/magento2-farttocart](https://github.com/ronangr1/magento2-farttocart) - This module allows you to add fart sounds when adding a product to the cart.
 - [SanHacks/ImagineAI](https://github.com/SanHacks/ImagineAI) - Generate Products In Magento Powered By OpenAI Dall-E 2 Model .
 - [rangerz/magento2-module-re-captcha-checkout](https://github.com/rangerz/magento2-module-re-captcha-checkout) - Add Google reCaptcha for place order against carding attack
 - [ghostunicorns/module-webapi-logs](https://github.com/ghostunicorns/module-webapi-logs) - This module allows you to analyze all the webapi rest done call toward your adobe commerce.
@@ -1391,7 +1391,7 @@
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A PHP library to back up, restore and anonymize databases
 - [videowhisper/Cam-Recorder-HTML5-Video-Audio](https://github.com/videowhisper/Cam-Recorder-HTML5-Video-Audio) - Camera / Microphone Recorder 📹🎙 in HTML5: Audio/Video Recording, Download, Send to Server, Instant Recording Booth with Recordings. 💯100% Web Based, 🚫No Flash.
 - [jayankaghosh/patch-manager](https://github.com/jayankaghosh/patch-manager) - A magento extension to maintain data patches
-- [magegang/m2-logo-config](https://github.com/magegang/m2-logo-config) - Schedule a logo for each of your ecommerce store's yearly events
+- [magegang/magento2-logo-config](https://github.com/magegang/magento2-logo-config) - Schedule a logo for each of your ecommerce store's yearly events
 - [PHP-DI/PHP-DI](https://github.com/PHP-DI/PHP-DI) - The dependency injection container for humans
 - [php-youtubers/directory](https://github.com/php-youtubers/directory) - Curated a list of PHP YouTubers. 📋
 - [Badcow/DNS](https://github.com/Badcow/DNS) - The aim of this project is to create abstract object representations of DNS records in PHP. The project consists of various classes representing DNS objects (such as Zone, ResourceRecord, and various 
@@ -1491,7 +1491,7 @@
 - [jf-xia/magento_extensions](https://github.com/jf-xia/magento_extensions) - magento extensions
 - [5mehulhelp5/MagentoExtensions](https://github.com/5mehulhelp5/MagentoExtensions) - Magento Extension Directory 1&gt; Themes Switcher 2&gt; Default Shipping On Cart 3&gt; Upshare 4&gt; Product Image Optimizer  5&gt; Idealo Product Export  6&gt; magento Google shopping Api v2 7&gt;Goo
 - [trive-digital/AdaptiveResizeM2](https://github.com/trive-digital/AdaptiveResizeM2) - 
-- [ronangr1/m2-barbagento](https://github.com/ronangr1/m2-barbagento) - Magento 2 x BarbaJs
+- [ronangr1/magento2-barbagento](https://github.com/ronangr1/magento2-barbagento) - Magento 2 x BarbaJs
 - [bigbridge-nl/product-import](https://github.com/bigbridge-nl/product-import) - Fast product import library for Magento 2
 - [sviatoslav-lashkiv/m2-avoid-cart-merging-module](https://github.com/sviatoslav-lashkiv/m2-avoid-cart-merging-module) - 
 - [magento/magento-coding-standard](https://github.com/magento/magento-coding-standard) - Magento Coding Standard
