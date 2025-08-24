@@ -1386,7 +1386,7 @@
 - [EaDesgin/magento2-pdf-generator2](https://github.com/EaDesgin/magento2-pdf-generator2) - Invoice PDF Generator For Magento 2
 - [Synoptik-Labs/magento2-pdf-generator2](https://github.com/Synoptik-Labs/magento2-pdf-generator2) - 
 - [boxblinkracer/shopware-ai-demodata](https://github.com/boxblinkracer/shopware-ai-demodata) - AI Demo Data generator plugin for Shopware 6
-- [jolicode/castor](https://github.com/jolicode/castor) - 🦫 Automate everything. In PHP.
+- [jolicode/castor](https://github.com/jolicode/castor) - 🦫 A lightweight and modern task runner for PHP.
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don't have to work!
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A PHP library to back up, restore and anonymize databases
 - [videowhisper/Cam-Recorder-HTML5-Video-Audio](https://github.com/videowhisper/Cam-Recorder-HTML5-Video-Audio) - Camera / Microphone Recorder 📹🎙 in HTML5: Audio/Video Recording, Download, Send to Server, Instant Recording Booth with Recordings. 💯100% Web Based, 🚫No Flash.
