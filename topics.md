@@ -2830,7 +2830,7 @@
 - [74656c/fart.js](https://github.com/74656c/fart.js) - Fart library
 - [anandundavia/thanos-js](https://github.com/anandundavia/thanos-js) - A casual (but dangerous) package that will let Thanos snap fingers and delete random files inside a directory
 - [hryvinskyi/magento2-invisible-captcha](https://github.com/hryvinskyi/magento2-invisible-captcha) - Google Invisible Captcha v3 for magento 2
-- [TiagoSilvaPereira/vemto2-issues](https://github.com/TiagoSilvaPereira/vemto2-issues) - Repository to track Vemto 2 Issues
+- [VemtoOrg/vemto2-issues](https://github.com/VemtoOrg/vemto2-issues) - Repository to track Vemto 2 Issues
 - [ronangr1/magento2-farttocart](https://github.com/ronangr1/magento2-farttocart) - This module allows you to add fart sounds when adding a product to the cart.
 - [rangerz/magento2-module-re-captcha-checkout](https://github.com/rangerz/magento2-module-re-captcha-checkout) - Add Google reCaptcha for place order against carding attack
 - [ghostunicorns/module-webapi-logs](https://github.com/ghostunicorns/module-webapi-logs) - This module allows you to analyze all the webapi rest done call toward your adobe commerce.
@@ -3044,7 +3044,7 @@
 - [yireo/Yireo_SalesBlock2](https://github.com/yireo/Yireo_SalesBlock2) - 
 - [clintmod/macprefs](https://github.com/clintmod/macprefs) - Backup and Restore your Mac System and App Preferences (e.g. defaults write)
 - [ericthehacker/magento2-configscopehints](https://github.com/ericthehacker/magento2-configscopehints) - Magento2 module to label system config fields when they are overridden at more specific scope(s).
-- [AmpersandHQ/magento2-disable-stock-reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3
+- [idhlagency/magento2-disable-stock-reservation](https://github.com/idhlagency/magento2-disable-stock-reservation) - This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [pro-cms/whatsappcloud-php](https://github.com/pro-cms/whatsappcloud-php) - Opensource php wrapper to WhatsApp Cloud API.
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
@@ -3250,7 +3250,7 @@
 - [tinify/magento2-plugin](https://github.com/tinify/magento2-plugin) - Speed up your Magento 2 webshop. Optimize your JPEG and PNG images automatically with TinyPNG.
 - [shkoliar/magento-grid-colors](https://github.com/shkoliar/magento-grid-colors) - Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid's bookmarks.
 - [mageplaza/magento-2-delete-orders](https://github.com/mageplaza/magento-2-delete-orders) - Magento 2 Delete orders extension is the best solution for online stores to deal with unwanted invoices, orders, shipments and credit memos appearing because of testing purposes.
-- [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper script to aid upgrading magento 2 websites by detecting overrides. Now supports third party module detections
+- [idhlagency/ampersand-magento2-upgrade-patch-helper](https://github.com/idhlagency/ampersand-magento2-upgrade-patch-helper) - Helper script to aid upgrading magento 2 websites by detecting overrides. Now supports third party module detections
 - [boldcommerce/magento2-ordercomments](https://github.com/boldcommerce/magento2-ordercomments) - Add an order comments field in the default checkout for Magento 2.
 - [df2k2/m2cert](https://github.com/df2k2/m2cert) - Adobe Magento2 Certification Study Guides - 2020/2021 Updates for M2 2.3/2.4
 - [Smile-SA/elasticsuite](https://github.com/Smile-SA/elasticsuite) - Smile ElasticSuite - Magento 2 merchandising and search engine built on ElasticSearch
