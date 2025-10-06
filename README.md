@@ -78,7 +78,7 @@
 
 ## Astro 
 
-- [Lexington-Themes/lexington-tutorials](https://github.com/Lexington-Themes/lexington-tutorials) - Tutorials from Lexington Themes.  This collection with code snippets tailored for Astro.j, Tailwind CSS and Alpinejs projects. Each snippet is designed specifically for use with Astro, Tailwind CSS an
+- [Lexington-Themes/lexington-tutorials](https://github.com/Lexington-Themes/lexington-tutorials) - This collection offers a range of code snippets tailored for Astro, JavaScript, Alpine JS and Tailwind CSS projects.
 - [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Astro and Airtable.
 - [mage-os/mage-os-website](https://github.com/mage-os/mage-os-website) - Source of the mage-os.org website.
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
