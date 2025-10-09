@@ -1624,7 +1624,6 @@
 - [pimcore/pimcore](https://github.com/pimcore/pimcore) - Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [imsky/holder](https://github.com/imsky/holder) - :city_sunrise: Client-side image placeholders.
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [chrome-php/chrome](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP
 - [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
@@ -5275,7 +5274,7 @@
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [mokuappio/serverless-invoices](https://github.com/mokuappio/serverless-invoices) - Create and manage invoices in your browser. Serverless Invoices is a free invoicing tool for freelancers and small businesses. Made with Vue.js.
-- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - An open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
+- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - A free and open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
 - [antonreshetov/image-optimizer](https://github.com/antonreshetov/image-optimizer) - A tool for optimizing images and vector graphics.
 - [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
@@ -5290,7 +5289,7 @@
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - An open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
+- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - A free and open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [antonreshetov/image-optimizer](https://github.com/antonreshetov/image-optimizer) - A tool for optimizing images and vector graphics.

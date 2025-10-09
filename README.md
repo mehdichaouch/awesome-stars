@@ -2744,7 +2744,7 @@
 - [one-click-studio/gabin](https://github.com/one-click-studio/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api.
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [mokuappio/serverless-invoices](https://github.com/mokuappio/serverless-invoices) - Create and manage invoices in your browser. Serverless Invoices is a free invoicing tool for freelancers and small businesses. Made with Vue.js.
-- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - An open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
+- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - A free and open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
 - [anvaka/vuereddit](https://github.com/anvaka/vuereddit) - A simple reddit client written as a vue component.
 - [elgentos/magento2-upgrade-gui](https://github.com/elgentos/magento2-upgrade-gui) - Magento 2 Upgrade GUI
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
