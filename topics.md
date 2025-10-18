@@ -2963,7 +2963,7 @@
 - [camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [rainglow/jetbrains](https://github.com/rainglow/jetbrains) - 320+ color themes for JetBrains IDEs including PHPStorm, Webstorm and more.
 - [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync (OS X/Linux)
 - [sivaschenko/magento2-clean-media](https://github.com/sivaschenko/magento2-clean-media) - Magento 2 media information and cleanup
 - [fnogatz/magento2-matomo](https://github.com/fnogatz/magento2-matomo) - Matomo Analytics Module for Magento 2
 - [magento-hackathon/bestsellers-sorting-m2](https://github.com/magento-hackathon/bestsellers-sorting-m2) - Bestsellers sorting of products in categories for Magento 2
