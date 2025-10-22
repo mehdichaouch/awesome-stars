@@ -453,7 +453,6 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [code4business/freeproduct](https://github.com/code4business/freeproduct) - Magento Extension: Add gifts in your shopping cart when meeting cart rules
 - [gwillem/magento-malware-scanner](https://github.com/gwillem/magento-malware-scanner) - Scanner, signatures and the largest collection of Magento malware
-- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [startup-matrix/startup-matrix](https://github.com/startup-matrix/startup-matrix) - Startup Matrix exported to CSV, JSON, Markdown and HTML formats. Credits to original article by Eric Stromberg.
 - [toSvenson/blockchain-demo](https://github.com/toSvenson/blockchain-demo) - A web-based demonstration of blockchain concepts.
 - [bradjasper/ImportJSON](https://github.com/bradjasper/ImportJSON) - Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
@@ -577,7 +576,7 @@
 - [kyr0/redaktool](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. This tool serves as a comprehensive "AI toolbox" enabling direct interaction with conte
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [grantcarthew/notes](https://github.com/grantcarthew/notes) - General notes for technology
-- [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams
+- [The-01-Company/jsontr.ee](https://github.com/The-01-Company/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams
 - [antomatskev/bhavacakra](https://github.com/antomatskev/bhavacakra) - Look at your current life in a visual representation and find your state of balance, happiness and success.
 - [DannyMoerkerke/audio-recorder](https://github.com/DannyMoerkerke/audio-recorder) - Audio Recorder Web Component
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
@@ -2251,6 +2250,7 @@
 - [Exodus-Privacy/exodus](https://github.com/Exodus-Privacy/exodus) - Platform to audit trackers used by Android application
 - [arnaucube/coffeeMiner](https://github.com/arnaucube/coffeeMiner) - collaborative (mitm) cryptocurrency mining pool in wifi networks
 - [buckyroberts/Ella](https://github.com/buckyroberts/Ella) - Self-improving decision organism
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [nexcess/magento-two-factor-auth](https://github.com/nexcess/magento-two-factor-auth) - A 2-Factor authentication extension for Magento.
 - [spipm/crackcoin](https://github.com/spipm/crackcoin) - Very basic blockchain-free cryptocurrency PoC in Python
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
