@@ -426,7 +426,7 @@
 - [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
 - [anisayari/createurstech.fr](https://github.com/anisayari/createurstech.fr) - Première plateforme collaborative et open source qui référence les créateurs de contenus tech francophone.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
-- [hugo-toha/toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio
+- [hugo-themes/toha](https://github.com/hugo-themes/toha) - A Hugo theme for personal portfolio
 - [r-Roms/r-Roms.github.io](https://github.com/r-Roms/r-Roms.github.io) - 
 - [mehdichaouch/screen-cheat-sheet](https://github.com/mehdichaouch/screen-cheat-sheet) - Screen Cheat Sheet & Quick Reference
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
@@ -961,7 +961,7 @@
 - [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 - [rashidkpc/kibana2](https://github.com/rashidkpc/kibana2) - Kibana was acquired by Elastic in 2013. See elastic/kibana. More info at http://kibana.org
 - [eirikb/nipster](https://github.com/eirikb/nipster) - Search tool for npm
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files, deflate64 decompression, and encryption.
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, web streams, zip64, split files, data encryption, and deflate64 decompression.
 - [altryne/extensionizr](https://github.com/altryne/extensionizr) - Extensionizr! Create a chrome extension in 15 seconds!
 - [toolness/slowmo-js](https://github.com/toolness/slowmo-js) - Execute JavaScript in slow motion.
 - [jaystack/jaydata](https://github.com/jaystack/jaydata) - Notice: this library isn't maintained anymore
@@ -1149,6 +1149,7 @@
 - [magespecialist/m2-MSP_Security_Suite](https://github.com/magespecialist/m2-MSP_Security_Suite) - Full MageSpecialist Security Suite
 - [fisheye-academy/m2cpfed-training](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2 Certified Professional Front End Developer exam
 - [roma-glushko/magento2-k6-load-tests](https://github.com/roma-glushko/magento2-k6-load-tests) - 
+- [kiwicommerce/magento2-admin-activity](https://github.com/kiwicommerce/magento2-admin-activity) - Magento 2 - Admin Activity by KiwiCommerce
 - [netresearch/dhl-shipping-m2](https://github.com/netresearch/dhl-shipping-m2) - DHL multi-division shipping extension for Magento 2
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
@@ -1456,7 +1457,6 @@
 - [elgentos/LargeConfigProducts](https://github.com/elgentos/LargeConfigProducts) - Large Configurable Products workaround for Magento 2
 - [Inxmail/inx_magento2](https://github.com/Inxmail/inx_magento2) - This repository contains the Inxmail Extension Code for Magento 2
 - [typesetsh/magento2-extension](https://github.com/typesetsh/magento2-extension) - Magento2 typeset.sh extension
-- [kiwicommerce/magento2-admin-activity](https://github.com/kiwicommerce/magento2-admin-activity) - Magento 2 - Admin Activity by KiwiCommerce
 - [run-as-root/magento2-prometheus-exporter](https://github.com/run-as-root/magento2-prometheus-exporter) - Simple Magento 2 Prometheus Exporter.
 - [aune-io/magento2-autoinvoice](https://github.com/aune-io/magento2-autoinvoice) - Magento 2 procedure to automatically invoice orders in a given status.
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string)
@@ -2106,7 +2106,7 @@
 
 ## Python 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [psyray/oasis](https://github.com/psyray/oasis) - Ollama Automated Security Intelligence Scanner
 - [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
@@ -2124,7 +2124,7 @@
 - [MathisHammel/CroixPharmacie](https://github.com/MathisHammel/CroixPharmacie) - Build apps and run Doom on a pharmacy cross!
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
-- [kahrendt/microWakeWord](https://github.com/kahrendt/microWakeWord) - A TensorFlow based wake word detection training framework using synthetic sample generation suitable for certain microcontrollers.
+- [OHF-Voice/micro-wake-word](https://github.com/OHF-Voice/micro-wake-word) - A TensorFlow based wake word detection training framework using synthetic sample generation suitable for certain microcontrollers.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable email domains
 - [make-all/tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
@@ -2134,7 +2134,7 @@
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [mapbox/osm-boundaries](https://github.com/mapbox/osm-boundaries) - MapBox OSM boundary relation processing
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) - OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container ima
