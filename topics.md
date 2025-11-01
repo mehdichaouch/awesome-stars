@@ -289,7 +289,7 @@
 ## ai 
 
 - [trypear/pearai-app](https://github.com/trypear/pearai-app) - PearAI: Open Source AI Code Editor (Fork of VSCode). The PearAI Submodule (https://github.com/trypear/pearai-submodule) is a fork of Continue.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
@@ -299,7 +299,7 @@
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -307,7 +307,7 @@
 - [sdfxai/sdfx](https://github.com/sdfxai/sdfx) - The ultimate no-code platform to build and share AI apps with beautiful UI.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [floneum/floneum](https://github.com/floneum/floneum) - Instant, controllable, local pre-trained AI models in Rust
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
@@ -323,7 +323,7 @@
 
 ## ai-agents 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
@@ -614,7 +614,7 @@
 
 ## blockchain 
 
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
 - [0xs34n/blockchain](https://github.com/0xs34n/blockchain) - 📖Code for Blockchain Demo
 - [NebulousLabs/Sia-UI](https://github.com/NebulousLabs/Sia-UI) - A Graphical Frontend for Sia - https://sia.tech
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
@@ -683,7 +683,7 @@
 ## chatgpt 
 
 - [aialt/GPT-4o-Image-Generation-Prompts](https://github.com/aialt/GPT-4o-Image-Generation-Prompts) - This repository contains curated prompts for using GPT-4o to generate images.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
@@ -1023,7 +1023,7 @@
 
 ## data-visualization 
 
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [britecharts/britecharts](https://github.com/britecharts/britecharts) - Composable Charting Library based on reusable D3.js components.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -1036,7 +1036,7 @@
 - [mevdschee/php-crud-api](https://github.com/mevdschee/php-crud-api) - Single file PHP script that adds a REST API to a SQL database
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A PHP library to back up, restore and anonymize databases
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [pomm-project/Foundation](https://github.com/pomm-project/Foundation) - Foundation package for the Pomm database framework.
@@ -1062,7 +1062,7 @@
 ## deno 
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files, deflate64 decompression, and encryption.
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, web streams, zip64, split files, data encryption, and deflate64 decompression.
 
 ## deployment 
 
@@ -1348,7 +1348,7 @@
 
 ## framework 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
@@ -1639,6 +1639,7 @@
 - [jolicode/castor](https://github.com/jolicode/castor) - 🦫 A lightweight and modern task runner for Automation, CI/CD & DevOps.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) - Example extension for unit testing and best practices.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -1681,7 +1682,7 @@
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generati
-- [hugo-toha/toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio
+- [hugo-themes/toha](https://github.com/hugo-themes/toha) - A Hugo theme for personal portfolio
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [php-etl/satellite](https://github.com/php-etl/satellite) - A micro-service compilation tool for data stream processing in the cloud
 - [giggsey/libphonenumber-for-php](https://github.com/giggsey/libphonenumber-for-php) - PHP version of Google's phone number handling library
@@ -2116,7 +2117,7 @@
 - [jellekralt/Responsive-Tabs](https://github.com/jellekralt/Responsive-Tabs) - Responsive Tabs is a jQuery plugin that provides responsive tab functionality. The tabs transform to an accordion when it reaches a CSS breakpoint. You can use this plugin as a solution for displaying
 - [casperjs/casperjs](https://github.com/casperjs/casperjs) - CasperJS is no longer actively maintained. Navigation scripting and testing utility for PhantomJS and SlimerJS
 - [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files, deflate64 decompression, and encryption.
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, web streams, zip64, split files, data encryption, and deflate64 decompression.
 - [mbraak/jqTree](https://github.com/mbraak/jqTree) - Tree widget for jQuery
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers
@@ -2314,7 +2315,7 @@
 
 ## llm 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Structured data extraction and instruction calling with ML, LLM and Vision LLM
@@ -2322,7 +2323,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [floneum/floneum](https://github.com/floneum/floneum) - Instant, controllable, local pre-trained AI models in Rust
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
@@ -2650,7 +2651,7 @@
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [hapijs/hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files, deflate64 decompression, and encryption.
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, web streams, zip64, split files, data encryption, and deflate64 decompression.
 
 ## nosql 
 
@@ -2686,7 +2687,7 @@
 
 ## open-source 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -2714,7 +2715,7 @@
 
 ## openai 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
@@ -2803,7 +2804,7 @@
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [gera2ld/request-x](https://github.com/gera2ld/request-x) - A web extension to block or modify requests.
 - [magewirephp/magewire](https://github.com/magewirephp/magewire) - Magewire is a Laravel Livewire port for Magento 2. The goal is to make it fun and easy to build modern, reactive and dynamic interfaces, without leaving the comfort of Magento's core layout and templa
-- [kahrendt/microWakeWord](https://github.com/kahrendt/microWakeWord) - A TensorFlow based wake word detection training framework using synthetic sample generation suitable for certain microcontrollers.
+- [OHF-Voice/micro-wake-word](https://github.com/OHF-Voice/micro-wake-word) - A TensorFlow based wake word detection training framework using synthetic sample generation suitable for certain microcontrollers.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [hrvey/combine-prs-workflow](https://github.com/hrvey/combine-prs-workflow) - Combine/group together PRs (for example from Dependabot and similar services)
 - [controlaltdelete-nl/magento2-code-tracker](https://github.com/controlaltdelete-nl/magento2-code-tracker) - Do a daily composer create-project to track changes in the codebase
@@ -4503,7 +4504,7 @@
 
 ## python 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [Screenly/Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -4932,7 +4933,7 @@
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [pyrech/csv-explorer](https://github.com/pyrech/csv-explorer) - Load a big CSV into a MySQL database and explore it with PHPMyAdmin
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics
