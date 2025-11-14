@@ -1128,6 +1128,7 @@
 - [camilleroux/awesome-generative-art](https://github.com/camilleroux/awesome-generative-art) - Carefully curated list of awesome resources to create, learn and, drop generative art
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [etnbrd/awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - :sunglasses: Curated list of awesome tools to build your freelance career (in france)
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist is an additional layer of protection containing a list of IP addresses (version 4) whose activities have been detected as malicious.
 - [VemtoOrg/vemto2-issues](https://github.com/VemtoOrg/vemto2-issues) - Repository to track Vemto 2 Issues
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [finary-wealth/awesome](https://github.com/finary-wealth/awesome) - 🔍👋 A curated list of Finary libraries, resources and projects.
@@ -1157,7 +1158,6 @@
 - [multiplie-fr/minimit](https://github.com/multiplie-fr/minimit) - Le MiniMit permet de redonner vie aux Minitels
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [SymfonyCon/2022-talks](https://github.com/SymfonyCon/2022-talks) - 
-- [ronangr1/magento2-technicalinterviewresources](https://github.com/ronangr1/magento2-technicalinterviewresources) - Compilation of all the questions that are asked during the technical interviews oriented for Magento.
 - [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
 - [yireo/magento2-replace-core](https://github.com/yireo/magento2-replace-core) - Magento 2 meta-package to replace all optional core modules
 - [yireo/magento2-replace-graphql](https://github.com/yireo/magento2-replace-graphql) - Magento 2 meta-package to replace all optional GraphQL modules
@@ -1330,7 +1330,6 @@
 - [galacticlabs/disable-compare-products](https://github.com/galacticlabs/disable-compare-products) - Magento 2 Disable Compare Products
 - [ctidigital/magento2-configurator](https://github.com/ctidigital/magento2-configurator) - Magento 2 Configurator
 - [magefan/module-blog](https://github.com/magefan/module-blog) - Magento 2 Blog Extension is a solution that helps you to create a blog on Magento and manage posts,categories, tags, authors, and comments.
-- [ronangr1/magento2-spookyevent](https://github.com/ronangr1/magento2-spookyevent) - SPOOKY! 👻
 - [element119/module-admin-indexer-report](https://github.com/element119/module-admin-indexer-report) - A Magento 2 module to show some indexer-related information in the admin.
 - [magento/meta-for-magento2](https://github.com/magento/meta-for-magento2) - 
 - [EmicoEcommerce/Magento2AttributeLanding](https://github.com/EmicoEcommerce/Magento2AttributeLanding) - Attribute landingspages for Magento 2
@@ -1352,8 +1351,6 @@
 - [opengento/magento2-sales-sequence](https://github.com/opengento/magento2-sales-sequence) - Allows to setup with ease the prefix, format and suffix of sales sequences directly from the configuration.
 - [DeployEcommerce/module-trojan-order-prevent](https://github.com/DeployEcommerce/module-trojan-order-prevent) - A Magento2 extension that prevents billing/shipping addresses being saved via the API with known trojan order strings.
 - [baldwin-agency/magento2-module-image-cleanup](https://github.com/baldwin-agency/magento2-module-image-cleanup) - Magento 2 module which can cleanup old image files that are no longer being used
-- [magegang/magento2-humanstxt](https://github.com/magegang/magento2-humanstxt) - Add a humans.txt to your Magento 2 application
-- [ronangr1/magento2-whodidzis](https://github.com/ronangr1/magento2-whodidzis) - This module automatically logs every action that creates, updates, or deletes entities in Magento 2—whether triggered by admins, APIs, or automated processes.
 - [element119/module-admin-opcache-report](https://github.com/element119/module-admin-opcache-report) - A Magento 2 module to show some PHP OpCache-related information in the admin.
 - [opengento/magento2-catalog-sort-order](https://github.com/opengento/magento2-catalog-sort-order) - This module allows to setup the sort direction options in the storefront catalog view.
 - [developersalliance/module-table-rates](https://github.com/developersalliance/module-table-rates) - Magento 2 Module for managing shipping table rates
@@ -1371,7 +1368,6 @@
 - [hryvinskyi/magento2-invisible-captcha](https://github.com/hryvinskyi/magento2-invisible-captcha) - Google Invisible Captcha v3 for magento 2
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
-- [ronangr1/magento2-farttocart](https://github.com/ronangr1/magento2-farttocart) - This module allows you to add fart sounds when adding a product to the cart.
 - [SanHacks/ImagineAI](https://github.com/SanHacks/ImagineAI) - Generate Products In Magento Powered By OpenAI Dall-E 2 Model .
 - [rangerz/magento2-module-re-captcha-checkout](https://github.com/rangerz/magento2-module-re-captcha-checkout) - Add Google reCaptcha for place order against carding attack
 - [ghostunicorns/module-webapi-logs](https://github.com/ghostunicorns/module-webapi-logs) - This module allows you to analyze all the webapi rest done call toward your adobe commerce.
@@ -1387,7 +1383,6 @@
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A PHP library to back up, restore and anonymize databases
 - [videowhisper/Cam-Recorder-HTML5-Video-Audio](https://github.com/videowhisper/Cam-Recorder-HTML5-Video-Audio) - Camera / Microphone Recorder 📹🎙 in HTML5: Audio/Video Recording, Download, Send to Server, Instant Recording Booth with Recordings. 💯100% Web Based, 🚫No Flash.
 - [jayankaghosh/patch-manager](https://github.com/jayankaghosh/patch-manager) - A magento extension to maintain data patches
-- [magegang/magento2-logo-config](https://github.com/magegang/magento2-logo-config) - Schedule a logo for each of your ecommerce store's yearly events
 - [PHP-DI/PHP-DI](https://github.com/PHP-DI/PHP-DI) - The dependency injection container for humans
 - [php-youtubers/directory](https://github.com/php-youtubers/directory) - Curated a list of PHP YouTubers. 📋
 - [Badcow/DNS](https://github.com/Badcow/DNS) - The aim of this project is to create abstract object representations of DNS records in PHP. The project consists of various classes representing DNS objects (such as Zone, ResourceRecord, and various 
@@ -1426,7 +1421,7 @@
 - [a-r-m-i-n/min](https://github.com/a-r-m-i-n/min) - TYPO3 CMS extension "min" - Compressed CSS, JS and HTML output for TYPO3
 - [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen
 - [TYPO3-Solr/ext-solr](https://github.com/TYPO3-Solr/ext-solr) - A TYPO3 extension that integrates the Apache Solr search server with TYPO3 CMS. dkd Internet Service GmbH is developing the extension. Community contributions are welcome. See CONTRIBUTING.md for deta
-- [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
+- [endroid/qr-code](https://github.com/endroid/qr-code) - PHP QR Code library that helps you create QR codes in a jiffy
 - [fisheyehq/module-bluefoot-list](https://github.com/fisheyehq/module-bluefoot-list) - A Magento 2 module to add a list 'page builder block' to the BlueFoot CMS & Page Builder system.
 - [WordPress/performance](https://github.com/WordPress/performance) - Performance plugin from the WordPress Performance Group, which is a collection of standalone performance modules.
 - [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) - Thumbhash implementation in PHP
@@ -1486,7 +1481,6 @@
 - [jf-xia/magento_extensions](https://github.com/jf-xia/magento_extensions) - magento extensions
 - [5mehulhelp5/MagentoExtensions](https://github.com/5mehulhelp5/MagentoExtensions) - Magento Extension Directory 1&gt; Themes Switcher 2&gt; Default Shipping On Cart 3&gt; Upshare 4&gt; Product Image Optimizer  5&gt; Idealo Product Export  6&gt; magento Google shopping Api v2 7&gt;Goo
 - [trive-digital/AdaptiveResizeM2](https://github.com/trive-digital/AdaptiveResizeM2) - 
-- [ronangr1/magento2-barbagento](https://github.com/ronangr1/magento2-barbagento) - Magento 2 x BarbaJs
 - [bigbridge-nl/product-import](https://github.com/bigbridge-nl/product-import) - Fast product import library for Magento 2
 - [sviatoslav-lashkiv/m2-avoid-cart-merging-module](https://github.com/sviatoslav-lashkiv/m2-avoid-cart-merging-module) - 
 - [magento/magento-coding-standard](https://github.com/magento/magento-coding-standard) - Magento Coding Standard
@@ -2105,6 +2099,7 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [psyray/oasis](https://github.com/psyray/oasis) - Ollama Automated Security Intelligence Scanner
@@ -2417,7 +2412,6 @@
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [julienloizelet/magento2-ddev-installation](https://github.com/julienloizelet/magento2-ddev-installation) - A GitHub Action for installing Magento 2 with DDEV
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist is an additional layer of protection containing a list of IP addresses (version 4) whose activities have been detected as malicious.
 - [julienloizelet/ddev-m2](https://github.com/julienloizelet/ddev-m2) - A DDEV stack for Magento 2 development
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
@@ -2701,7 +2695,7 @@
 - [davrous/dareangel](https://github.com/davrous/dareangel) - This extension provides more accessibility on images of a web page by using Microsoft Cognitive Services Computer Vision API to analyze it for you
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
 - [3035app/pialab](https://github.com/3035app/pialab) - PiaLab Angular app
 - [processout/processout.js](https://github.com/processout/processout.js) - ProcessOut JavaScript library with modal & white-label support
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
