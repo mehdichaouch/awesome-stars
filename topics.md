@@ -740,6 +740,7 @@
 
 ## cli 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -1708,7 +1709,6 @@
 - [sulu/skeleton](https://github.com/sulu/skeleton) - Project template for starting your new project based on the Sulu content management system
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [monsieurbiz/SyliusSalesReportsPlugin](https://github.com/monsieurbiz/SyliusSalesReportsPlugin) - A simple plugin to have sales reports in Sylius
-- [one-dark/jetbrains-one-dark-theme](https://github.com/one-dark/jetbrains-one-dark-theme) - One Dark theme for JetBrains.
 - [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - 🎅 The code behind Secret Santa, the holiday bot for Slack / Discord / Webex
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, 
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -2793,7 +2793,6 @@
 - [mageprince/magento2-productAttachment](https://github.com/mageprince/magento2-productAttachment) - The Product Attachments extension for Magento 2 equips product pages with a special attachments block where you can upload numerous documents such as user guides, extra images, pdf, certificates, lice
 - [magento/m2-devtools](https://github.com/magento/m2-devtools) - Helpful in-browser debugging/inspection tools for the Magento 2 Front-End
 - [magefan/module-blog](https://github.com/magefan/module-blog) - Magento 2 Blog Extension is a solution that helps you to create a blog on Magento and manage posts,categories, tags, authors, and comments.
-- [ronangr1/magento2-spookyevent](https://github.com/ronangr1/magento2-spookyevent) - SPOOKY! 👻
 - [theshreyas/db-schema-generator](https://github.com/theshreyas/db-schema-generator) - Magento 2 db_schema.xml generator
 - [bvvst/vanishso](https://github.com/bvvst/vanishso) - vanishing note service with support for aes-gcm 256, otp, and pbkdf2
 - [magento/meta-for-magento2](https://github.com/magento/meta-for-magento2) - 
@@ -2827,8 +2826,6 @@
 - [opengento/magento2-sales-sequence](https://github.com/opengento/magento2-sales-sequence) - Allows to setup with ease the prefix, format and suffix of sales sequences directly from the configuration.
 - [DeployEcommerce/module-trojan-order-prevent](https://github.com/DeployEcommerce/module-trojan-order-prevent) - A Magento2 extension that prevents billing/shipping addresses being saved via the API with known trojan order strings.
 - [baldwin-agency/magento2-module-image-cleanup](https://github.com/baldwin-agency/magento2-module-image-cleanup) - Magento 2 module which can cleanup old image files that are no longer being used
-- [magegang/magento2-humanstxt](https://github.com/magegang/magento2-humanstxt) - Add a humans.txt to your Magento 2 application
-- [ronangr1/magento2-whodidzis](https://github.com/ronangr1/magento2-whodidzis) - This module automatically logs every action that creates, updates, or deletes entities in Magento 2—whether triggered by admins, APIs, or automated processes.
 - [opengento/magento2-catalog-sort-order](https://github.com/opengento/magento2-catalog-sort-order) - This module allows to setup the sort direction options in the storefront catalog view.
 - [developersalliance/module-table-rates](https://github.com/developersalliance/module-table-rates) - Magento 2 Module for managing shipping table rates
 - [evzone/hassio-bluepiaudio](https://github.com/evzone/hassio-bluepiaudio) - Configuration files and notes to add bluetooth audio support in Home Assistant
@@ -2859,7 +2856,6 @@
 - [anandundavia/thanos-js](https://github.com/anandundavia/thanos-js) - A casual (but dangerous) package that will let Thanos snap fingers and delete random files inside a directory
 - [hryvinskyi/magento2-invisible-captcha](https://github.com/hryvinskyi/magento2-invisible-captcha) - Google Invisible Captcha v3 for magento 2
 - [VemtoOrg/vemto2-issues](https://github.com/VemtoOrg/vemto2-issues) - Repository to track Vemto 2 Issues
-- [ronangr1/magento2-farttocart](https://github.com/ronangr1/magento2-farttocart) - This module allows you to add fart sounds when adding a product to the cart.
 - [rangerz/magento2-module-re-captcha-checkout](https://github.com/rangerz/magento2-module-re-captcha-checkout) - Add Google reCaptcha for place order against carding attack
 - [ghostunicorns/module-webapi-logs](https://github.com/ghostunicorns/module-webapi-logs) - This module allows you to analyze all the webapi rest done call toward your adobe commerce.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
@@ -2882,7 +2878,6 @@
 - [bqworks/slider-pro-js](https://github.com/bqworks/slider-pro-js) - Modular JavaScript slider that is dependency-free, rich-featured, flexible and easy to use.
 - [bqworks/slider-pro](https://github.com/bqworks/slider-pro) - A modular, responsive and touch-enabled jQuery slider plugin that enables you to create elegant and professionally looking sliders.
 - [Yuchen413/text2image_safety](https://github.com/Yuchen413/text2image_safety) - 
-- [magegang/magento2-logo-config](https://github.com/magegang/magento2-logo-config) - Schedule a logo for each of your ecommerce store's yearly events
 - [finary-wealth/awesome](https://github.com/finary-wealth/awesome) - 🔍👋 A curated list of Finary libraries, resources and projects.
 - [nmathey/finasync](https://github.com/nmathey/finasync) - A simple tool to sync your Finary portfolio values with sources platforms not yet officially integrated by Finary
 - [m4tthumphrey/m4tthumphrey.github.io](https://github.com/m4tthumphrey/m4tthumphrey.github.io) - 
@@ -3036,7 +3031,6 @@
 - [magento-hackathon/module-eavcleaner-m2](https://github.com/magento-hackathon/module-eavcleaner-m2) - Clean up your Magento database by removing orphaned, unused and wrongly added attribute, attribute values and settings (for M2).
 - [jf-xia/magento_extensions](https://github.com/jf-xia/magento_extensions) - magento extensions
 - [trive-digital/AdaptiveResizeM2](https://github.com/trive-digital/AdaptiveResizeM2) - 
-- [ronangr1/magento2-barbagento](https://github.com/ronangr1/magento2-barbagento) - Magento 2 x BarbaJs
 - [bigbridge-nl/product-import](https://github.com/bigbridge-nl/product-import) - Fast product import library for Magento 2
 - [sviatoslav-lashkiv/m2-avoid-cart-merging-module](https://github.com/sviatoslav-lashkiv/m2-avoid-cart-merging-module) - 
 - [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Astro and Airtable.
@@ -3047,7 +3041,6 @@
 - [qoliber/admin-locale-switcher](https://github.com/qoliber/admin-locale-switcher) - Magento 2 - Admin Locale Switcher
 - [hivecommerce/magerun2-list-api-endpoints](https://github.com/hivecommerce/magerun2-list-api-endpoints) - Plugin for netz98 Magerun2 to list all API endpoints via CLI
 - [fballiano/magento2-defer-javascripts](https://github.com/fballiano/magento2-defer-javascripts) - Defer Javascripts module for Magento 2
-- [ronangr1/magento2-technicalinterviewresources](https://github.com/ronangr1/magento2-technicalinterviewresources) - Compilation of all the questions that are asked during the technical interviews oriented for Magento.
 - [webstraxt/m2-page-builder-better-images](https://github.com/webstraxt/m2-page-builder-better-images) - Magento 2 module allowing you to specify explicit dimensions and loading behaviour on Page Builder images
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
@@ -3335,6 +3328,7 @@
 - [magepal/magento2-catalog-lazy-load](https://github.com/magepal/magento2-catalog-lazy-load) - Improve the load time of your Magento 2 categories pages by loading your images on demand with our Lazy Load  Extension
 - [thibault/strike-js](https://github.com/thibault/strike-js) - Pour aider votre site à faire grève
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
+- [one-dark/jetbrains-one-dark-theme](https://github.com/one-dark/jetbrains-one-dark-theme) - One Dark theme for JetBrains.
 - [wp-media/wp-rocket](https://github.com/wp-media/wp-rocket) - Performance optimization plugin for WordPress
 - [techdivision/import](https://github.com/techdivision/import) - This is a library that provides generic functionalities for the implementation of imports. In addition to maximum performance and optimized memory consumption, Pacemaker can also be used to implement 
 - [magefan/module-login-as-customer](https://github.com/magefan/module-login-as-customer) - Allows admin to login as a customer (enter to customer account).
@@ -4176,7 +4170,7 @@
 - [georgringer/news](https://github.com/georgringer/news) - TYPO3 Extension news
 - [a-r-m-i-n/min](https://github.com/a-r-m-i-n/min) - TYPO3 CMS extension "min" - Compressed CSS, JS and HTML output for TYPO3
 - [TYPO3-Solr/ext-solr](https://github.com/TYPO3-Solr/ext-solr) - A TYPO3 extension that integrates the Apache Solr search server with TYPO3 CMS. dkd Internet Service GmbH is developing the extension. Community contributions are welcome. See CONTRIBUTING.md for deta
-- [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
+- [endroid/qr-code](https://github.com/endroid/qr-code) - PHP QR Code library that helps you create QR codes in a jiffy
 - [violinist-dev/drupal-contrib-sa](https://github.com/violinist-dev/drupal-contrib-sa) - Command to scan and create security advisories for Drupal contrib
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) - Thumbhash implementation in PHP
@@ -4502,6 +4496,7 @@
 
 ## python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [Screenly/Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
@@ -4670,7 +4665,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
 - [NebulousLabs/Sia-UI](https://github.com/NebulousLabs/Sia-UI) - A Graphical Frontend for Sia - https://sia.tech
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
