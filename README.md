@@ -1124,6 +1124,7 @@
 - [xcomptek/awesome-saas-boilerplates](https://github.com/xcomptek/awesome-saas-boilerplates) - List of SaaS boilerplates (starter kits)
 - [streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
 - [evzone/hassio-bluepiaudio](https://github.com/evzone/hassio-bluepiaudio) - Configuration files and notes to add bluetooth audio support in Home Assistant
+- [julienloizelet/magento2-ddev-installation](https://github.com/julienloizelet/magento2-ddev-installation) - A GitHub Action for installing Magento 2 with DDEV
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [camilleroux/awesome-generative-art](https://github.com/camilleroux/awesome-generative-art) - Carefully curated list of awesome resources to create, learn and, drop generative art
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
@@ -2410,7 +2411,6 @@
 - [jhermann/awesome-python-talks](https://github.com/jhermann/awesome-python-talks) - :clapper: :mortar_board: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
-- [julienloizelet/magento2-ddev-installation](https://github.com/julienloizelet/magento2-ddev-installation) - A GitHub Action for installing Magento 2 with DDEV
 - [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist is an additional layer of protection containing a list of IP addresses (version 4) whose activities have been detected as malicious.
 - [julienloizelet/ddev-m2](https://github.com/julienloizelet/ddev-m2) - A DDEV stack for Magento 2 development
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
