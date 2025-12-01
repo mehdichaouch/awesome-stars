@@ -265,7 +265,7 @@
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [bmaroti9/Overmorrow](https://github.com/bmaroti9/Overmorrow) - modern material design weather app
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -2419,7 +2419,7 @@
 - [mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee](https://github.com/mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee) - WordPress Auto Update 🆕 and Notify 🔔 and Deploy 🚀 and Give a Beer 🍺 or a Coffee ☕
 - [MAD-I-T/magento-actions](https://github.com/MAD-I-T/magento-actions) - Github deployment actions for Magento 2
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [brenner-tobias/addon-cloudflared](https://github.com/brenner-tobias/addon-cloudflared) - Connect remotely to your Home Assistant instance without opening any ports using Cloudflared.
+- [homeassistant-apps/app-cloudflared](https://github.com/homeassistant-apps/app-cloudflared) - Connect remotely to your Home Assistant instance without opening any ports using Cloudflared.
 - [adonno/tagreader](https://github.com/adonno/tagreader) - Simple to build/use NFC tag reader, specially created for Home Assistant
 - [rainglow/jetbrains](https://github.com/rainglow/jetbrains) - 320+ color themes for JetBrains IDEs including PHPStorm, Webstorm and more.
 - [hivecommerce/magerun2-list-api-endpoints](https://github.com/hivecommerce/magerun2-list-api-endpoints) - Plugin for netz98 Magerun2 to list all API endpoints via CLI
