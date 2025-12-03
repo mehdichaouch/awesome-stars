@@ -846,7 +846,7 @@
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - Detect Browsers, OS, Devices, Bots, AI Crawlers, Apps, and more. Run in Browser (client-side) or Node.js (server-side).
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [jixunmoe/cuwcl4c](https://github.com/jixunmoe/cuwcl4c) - Bypass Wait, Code & Login on Websites [不再维护]
 - [marmelab/ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
