@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - name: ⬇ Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: 🔧 Set up Ruby
         uses: ruby/setup-ruby@v1
@@ -22,7 +22,7 @@ jobs:
           gem install awesome_bot
       - name: 🤖 Run Awesome Bot
         run: awesome_bot README.md --allow-redirect --white-list awesome.re
-      - uses: actions/upload-artifact@v5
+      - uses: actions/upload-artifact@v6
         if: failure()
         with:
           name: ab-results
