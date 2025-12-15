@@ -333,7 +333,7 @@
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -1468,7 +1468,7 @@
 - [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) - 
 - [markshust/magento2-module-example-set-theme-for-specific-route](https://github.com/markshust/magento2-module-example-set-theme-for-specific-route) - This is an example of a Magento 2 module that sets the theme, but only for a specific route.
 - [pragmatic-modules/magento2-module-jslayout-parser](https://github.com/pragmatic-modules/magento2-module-jslayout-parser) - 
-- [mage-os/mageos-magento2](https://github.com/mage-os/mageos-magento2) - Work in progress.
+- [mage-os/mageos-magento2](https://github.com/mage-os/mageos-magento2) - This is the Mage-OS fork of the Magento core at https://github.com/magento/magento2. Mage-OS is an independent nonprofit distribution of Magento Open Source. We are not associated with Adobe or Magent
 - [jonatanlaksamanapurnomo/kadoqu](https://github.com/jonatanlaksamanapurnomo/kadoqu) - 
 - [cparadigm/bottomline](https://github.com/cparadigm/bottomline) - 
 - [sinichi33/newrep](https://github.com/sinichi33/newrep) - new rep
@@ -1544,7 +1544,7 @@
 - [rlerdorf/opcache-status](https://github.com/rlerdorf/opcache-status) - A one-page opcache status page
 - [PeeHaa/OpCacheGUI](https://github.com/PeeHaa/OpCacheGUI) - GUI for PHP's OpCache
 - [minicli/minicli](https://github.com/minicli/minicli) - A minimal framework for command-line applications in PHP. Join our Discord: https://discord.gg/hY5UNC4XPf
-- [secondrealityGmbH/magento2-allow-missing-filetypes](https://github.com/secondrealityGmbH/magento2-allow-missing-filetypes) - Enable the upload of missing Filetypes like videos and PDFs.
+- [srhostingUG/magento2-allow-missing-filetypes](https://github.com/srhostingUG/magento2-allow-missing-filetypes) - Enable the upload of missing Filetypes like videos and PDFs.
 - [Alekseon/CleanRunningJobs](https://github.com/Alekseon/CleanRunningJobs) - Plugin to Magento 2 which mark old cron jobs with status "running" as error. This can prevent the Magento 2 from consuming CPU
 - [goivvy/DJS](https://github.com/goivvy/DJS) - Magento 2 Defer Javascript Loading Extension
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
@@ -2596,7 +2596,7 @@
 - [ClickAndMortar/mage-wizard](https://github.com/ClickAndMortar/mage-wizard) - Develop faster on Magento / Adobe Commerce with Mage Wizard
 - [sdfxai/sdfx](https://github.com/sdfxai/sdfx) - The ultimate no-code platform to build and share AI apps with beautiful UI.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 100,000 supported emoji mashups as part of Google's Emoji Kitch
