@@ -5182,6 +5182,7 @@
 ## terraform 
 
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [Genaker/TerraformMagentoCloud](https://github.com/Genaker/TerraformMagentoCloud) - AWS Magento 2 cloud Terraform infrastructure as code. For any systems WordPress / WooCommerce/ Drupal / Shopware 6 / Shopify APP / VueStorefront / Oddo / ORO / Magento 2 with horizontal Auto scaling (
 
 ## testing 
