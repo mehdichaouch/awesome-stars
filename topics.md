@@ -3003,7 +3003,6 @@
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [Cerebras/modelzoo](https://github.com/Cerebras/modelzoo) - 
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
-- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [kairoh/studio](https://github.com/kairoh/studio) - STUdio - Story Teller Unleashed
@@ -3967,7 +3966,7 @@
 - [evil0/startsilex](https://github.com/evil0/startsilex) - startSilex
 - [AppVentus/AvListBundle](https://github.com/AppVentus/AvListBundle) - Easily make paginate and orderable list in Symfony2
 - [firegento/firegento-magesetup](https://github.com/firegento/firegento-magesetup) - MageSetup
-- [Magicsuggest/magicsuggest](https://github.com/Magicsuggest/magicsuggest) - Multiple Selection Combo Box using Bootstrap 3
+- [Magicsuggest/magicsuggest](https://github.com/Magicsuggest/magicsuggest) - Multiple Selection Combo Box using Bootstrap
 - [seblepers/Magento-CE-French-translation](https://github.com/seblepers/Magento-CE-French-translation) - 
 - [lulzlabs/AirChat](https://github.com/lulzlabs/AirChat) - Free Communications For Everyone.
 - [iugu/iugu-magento-skeleton](https://github.com/iugu/iugu-magento-skeleton) - 

@@ -919,7 +919,7 @@
 - [box/Anemometer](https://github.com/box/Anemometer) - Box SQL Slow Query Monitor
 - [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
-- [Magicsuggest/magicsuggest](https://github.com/Magicsuggest/magicsuggest) - Multiple Selection Combo Box using Bootstrap 3
+- [Magicsuggest/magicsuggest](https://github.com/Magicsuggest/magicsuggest) - Multiple Selection Combo Box using Bootstrap
 - [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [krakenjs/kraken-js](https://github.com/krakenjs/kraken-js) - An express-based Node.js web application bootstrapping module.
 - [aslushnikov/table-of-contents-preprocessor](https://github.com/aslushnikov/table-of-contents-preprocessor) - Small and simple markdown preprocessor for creating table of contents
@@ -2149,7 +2149,6 @@
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 - [Cerebras/modelzoo](https://github.com/Cerebras/modelzoo) - 
-- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [o-daneel/Lunii.PACKS](https://github.com/o-daneel/Lunii.PACKS) - A simple Python proof of concept for handling Lunii stories
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
