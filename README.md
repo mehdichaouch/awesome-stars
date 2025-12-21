@@ -1035,7 +1035,6 @@
 
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - RiMusic is a multilingual and multiplatform application for streaming music
 - [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
-- [one-dark/jetbrains-one-dark-theme](https://github.com/one-dark/jetbrains-one-dark-theme) - One Dark theme for JetBrains.
 
 ## Less 
 
@@ -1209,6 +1208,7 @@
 - [cryptofinance-ai/cryptofinance-google-sheets-add-on](https://github.com/cryptofinance-ai/cryptofinance-google-sheets-add-on) - CRYPTOFINANCE() — The easiest way to get cryptocurrencies prices and more in Google Sheets.
 - [opengento/magento2-downgrade-ee-ce](https://github.com/opengento/magento2-downgrade-ee-ce) - Migration Tool for Adobe Commerce to Magento Open Source
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
+- [one-dark/jetbrains-one-dark-theme](https://github.com/one-dark/jetbrains-one-dark-theme) - One Dark theme for JetBrains.
 - [dakshshah96/awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 - [yireo/magento2-replace-bundled](https://github.com/yireo/magento2-replace-bundled) - Magento 2 meta-package to replace all optional third-party modules bundled with the core
 - [yireo/magento2-replace-all](https://github.com/yireo/magento2-replace-all) - Meta-package to replace all optional Magento 2 modules
