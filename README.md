@@ -78,7 +78,6 @@
 
 ## Astro 
 
-- [Lexington-Themes/lexington-tutorials](https://github.com/Lexington-Themes/lexington-tutorials) - This collection offers a range of code snippets tailored for Astro, JavaScript, Alpine JS and Tailwind CSS projects.
 - [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Astro and Airtable.
 - [mage-os/mage-os-website](https://github.com/mage-os/mage-os-website) - Source of the mage-os.org website.
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
@@ -993,7 +992,6 @@
 - [slhck/online-markdown-editor](https://github.com/slhck/online-markdown-editor) - A pure JS/HTML Markdown editor with live preview and syntax highlighting
 - [CSSLint/csslint](https://github.com/CSSLint/csslint) - Automated linting of Cascading Stylesheets
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
-- [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 - [jquery-boilerplate/jquery-boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development
 - [joelambert/Flux-Slider](https://github.com/joelambert/Flux-Slider) - CSS3 Animation based image transitions
 - [valueof/hiro](https://github.com/valueof/hiro) - Framework for testing third-party JavaScript applications
@@ -2714,7 +2712,7 @@
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [MicrosoftDX/Vorlonjs](https://github.com/MicrosoftDX/Vorlonjs) - A new, open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
@@ -2724,6 +2722,7 @@
 - [bda-research/node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery ;-)
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [mbraak/jqTree](https://github.com/mbraak/jqTree) - Tree widget for jQuery
+- [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 
