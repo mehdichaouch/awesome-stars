@@ -403,7 +403,6 @@
 - [hteumeuleu/caniemail](https://github.com/hteumeuleu/caniemail) - Can I email… Support tables for HTML and CSS in emails.
 - [rainviewer/rainviewer-api-example](https://github.com/rainviewer/rainviewer-api-example) - How to use RainViewer API: simple HTML + JS code which render an animated weather radar overlay on the map
 - [owebia/magento2-module-advanced-shipping](https://github.com/owebia/magento2-module-advanced-shipping) - 
-- [Superserx/Superserx](https://github.com/Superserx/Superserx) - Superserx is search engine dorking project, you can find direct download links for your favourite moves, games, webseries etc
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [SamHerbert/SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built with pure SVG.
 - [m4tthumphrey/m4tthumphrey.github.io](https://github.com/m4tthumphrey/m4tthumphrey.github.io) - 
@@ -2119,6 +2118,7 @@
 - [make-all/tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
 - [gilcu3/govee-btled-H613B](https://github.com/gilcu3/govee-btled-H613B) - Control Govee LED BLE device H613B
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mistralai-sf24/hackathon](https://github.com/mistralai-sf24/hackathon) - 
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
@@ -2517,7 +2517,6 @@
 - [bvvst/vanishso](https://github.com/bvvst/vanishso) - vanishing note service with support for aes-gcm 256, otp, and pbkdf2
 - [FabienBounoir/youtube-card](https://github.com/FabienBounoir/youtube-card) - 🎞️ Bastiui, a Ux Ui designer, wanted to be able to recuperate a rendering of a youtube video by simply passing a link to it. Here's what I did.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Swift 
 
