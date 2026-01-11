@@ -403,6 +403,7 @@
 - [hteumeuleu/caniemail](https://github.com/hteumeuleu/caniemail) - Can I email… Support tables for HTML and CSS in emails.
 - [rainviewer/rainviewer-api-example](https://github.com/rainviewer/rainviewer-api-example) - How to use RainViewer API: simple HTML + JS code which render an animated weather radar overlay on the map
 - [owebia/magento2-module-advanced-shipping](https://github.com/owebia/magento2-module-advanced-shipping) - 
+- [Superserx/Superserx](https://github.com/Superserx/Superserx) - Superserx is search engine dorking project, you can find direct download links for your favourite moves, games, webseries etc
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [SamHerbert/SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built with pure SVG.
 - [m4tthumphrey/m4tthumphrey.github.io](https://github.com/m4tthumphrey/m4tthumphrey.github.io) - 

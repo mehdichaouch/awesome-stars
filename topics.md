@@ -1683,7 +1683,6 @@
 
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [Catrobat/Catroweb](https://github.com/Catrobat/Catroweb) - Catroweb - A social platform to share and browse projects created with Catrobat's apps (Pocket Code, ...) by our users.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
