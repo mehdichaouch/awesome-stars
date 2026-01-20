@@ -1247,7 +1247,7 @@
 - [folpindo/docker-centos7-phpqatools](https://github.com/folpindo/docker-centos7-phpqatools) - 
 - [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [symfony/skeleton](https://github.com/symfony/skeleton) - The Symfony skeleton
-- [diegotham/certificacion-symfony](https://github.com/diegotham/certificacion-symfony) - Apuntes de Symfony y PHP en español agrupados según la temática exigida para obtener la certificación de Symfony 3
+- [diegofin/certificacion-symfony](https://github.com/diegofin/certificacion-symfony) - Apuntes de Symfony y PHP en español agrupados según la temática exigida para obtener la certificación de Symfony 3
 - [firegento/magento](https://github.com/firegento/magento) - Magento Community Editions
 - [talesh/response](https://github.com/talesh/response) - A Magento Incident Response Plan Template
 - [koush/support-wiki](https://github.com/koush/support-wiki) - 
@@ -2634,7 +2634,7 @@
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
 - [romanrokon/lib-unifonts](https://github.com/romanrokon/lib-unifonts) - 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆.
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
