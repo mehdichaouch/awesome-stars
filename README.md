@@ -2293,7 +2293,6 @@
 
 ## Roff 
 
-- [extdn/github-actions-m2](https://github.com/extdn/github-actions-m2) - 
 - [nabaztag2018/hardware](https://github.com/nabaztag2018/hardware) - Les fichiers du kit
 - [steverobbins/magento-version-identification-php](https://github.com/steverobbins/magento-version-identification-php) - Magento Version Identification in PHP
 
@@ -2417,6 +2416,7 @@
 - [homeassistant-apps/app-cloudflared](https://github.com/homeassistant-apps/app-cloudflared) - Connect remotely to your Home Assistant instance without opening any ports using Cloudflared.
 - [adonno/tagreader](https://github.com/adonno/tagreader) - Simple to build/use NFC tag reader, specially created for Home Assistant
 - [rainglow/jetbrains](https://github.com/rainglow/jetbrains) - 320+ color themes for JetBrains IDEs including PHPStorm, Webstorm and more.
+- [extdn/github-actions-m2](https://github.com/extdn/github-actions-m2) - 
 - [hivecommerce/magerun2-list-api-endpoints](https://github.com/hivecommerce/magerun2-list-api-endpoints) - Plugin for netz98 Magerun2 to list all API endpoints via CLI
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [mehdichaouch/some-bitbar-xbar-argos-plugins](https://github.com/mehdichaouch/some-bitbar-xbar-argos-plugins) - My plugin repository for xbar (the BitBar reboot) and Argos (Linux alternative)
@@ -2550,7 +2550,7 @@
 - [Efrice/compress-pdf](https://github.com/Efrice/compress-pdf) - compress pdf without sever
 - [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [opengento/meet-magento-fr](https://github.com/opengento/meet-magento-fr) - Meet Magento France
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
