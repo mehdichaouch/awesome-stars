@@ -162,6 +162,7 @@
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
@@ -2487,6 +2488,13 @@
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
+## malware 
+
+- [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
+- [scr34m/php-malware-scanner](https://github.com/scr34m/php-malware-scanner) - Scans PHP files for malwares and known threats
+- [jvoisin/php-malware-finder](https://github.com/jvoisin/php-malware-finder) - Detect potentially malicious PHP files
+- [gwillem/magento-malware-scanner](https://github.com/gwillem/magento-malware-scanner) - Scanner, signatures and the largest collection of Magento malware
+
 ## markdown 
 
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
@@ -3543,7 +3551,6 @@
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 - [Siguza/IOHIDeous](https://github.com/Siguza/IOHIDeous) - IOHIDFamily 0day
 - [symfony/thanks](https://github.com/symfony/thanks) - Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!
-- [gwillem/magento-malware-scanner](https://github.com/gwillem/magento-malware-scanner) - Scanner, signatures and the largest collection of Magento malware
 - [yireo-magento1/Yireo_CheckoutTester](https://github.com/yireo-magento1/Yireo_CheckoutTester) - 
 - [paimpozhil/MageFirewall](https://github.com/paimpozhil/MageFirewall) - Magento Firewall for securing your e-commerce system.
 - [mrkamel/heartbeat](https://github.com/mrkamel/heartbeat) - Use Heartbeat to monitor your Hetzner Failover IP and automatically switch to another server.
