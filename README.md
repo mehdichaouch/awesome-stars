@@ -369,7 +369,7 @@
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [dunglas/stack2slack](https://github.com/dunglas/stack2slack) - A Slack bot to monitor StackOverflow/StackExchange tags
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
+- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [NebulousLabs/Sia](https://github.com/NebulousLabs/Sia) - Blockchain-based marketplace for file storage. Project has moved to GitLab: https://gitlab.com/NebulousLabs/Sia
 - [lovoo/goka](https://github.com/lovoo/goka) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
@@ -596,7 +596,6 @@
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [74656c/fart.js](https://github.com/74656c/fart.js) - Fart library
 - [anandundavia/thanos-js](https://github.com/anandundavia/thanos-js) - A casual (but dangerous) package that will let Thanos snap fingers and delete random files inside a directory
-- [netresearch/t3x-cowriter](https://github.com/netresearch/t3x-cowriter) - Use AI to help content creators in TYPO3 CMS
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [urbandroid-team/dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
 - [bqworks/slider-pro-js](https://github.com/bqworks/slider-pro-js) - Modular JavaScript slider that is dependency-free, rich-featured, flexible and easy to use.
@@ -1016,7 +1015,7 @@
 
 ## Jinja 
 
-- [hassio-addons/addon-ssh](https://github.com/hassio-addons/addon-ssh) - Advanced SSH & Web Terminal - Home Assistant Community Add-ons
+- [hassio-addons/app-ssh](https://github.com/hassio-addons/app-ssh) - Advanced SSH & Web Terminal - Home Assistant Community Apps
 
 ## Jupyter Notebook 
 
@@ -1123,6 +1122,7 @@
 - [camilleroux/awesome-generative-art](https://github.com/camilleroux/awesome-generative-art) - Carefully curated list of awesome resources to create, learn and, drop generative art
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [etnbrd/awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - :sunglasses: Curated list of awesome tools to build your freelance career (in france)
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
 - [VemtoOrg/vemto2-issues](https://github.com/VemtoOrg/vemto2-issues) - Repository to track Vemto 2 Issues
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [finary-wealth/awesome](https://github.com/finary-wealth/awesome) - 🔍👋 A curated list of Finary libraries, resources and projects.
@@ -1366,6 +1366,7 @@
 - [rangerz/magento2-module-re-captcha-checkout](https://github.com/rangerz/magento2-module-re-captcha-checkout) - Add Google reCaptcha for place order against carding attack
 - [ghostunicorns/module-webapi-logs](https://github.com/ghostunicorns/module-webapi-logs) - This module allows you to analyze all the webapi rest done call toward your adobe commerce.
 - [bpolaszek/bentools-etl](https://github.com/bpolaszek/bentools-etl) - PHP ETL (Extract / Transform / Load) library with SOLID principles + almost no dependency.
+- [netresearch/t3x-cowriter](https://github.com/netresearch/t3x-cowriter) - Use AI to help content creators in TYPO3 CMS
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)
 - [chrome-php/chrome](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP
 - [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
@@ -2404,7 +2405,6 @@
 - [jhermann/awesome-python-talks](https://github.com/jhermann/awesome-python-talks) - :clapper: :mortar_board: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
 - [julienloizelet/ddev-m2](https://github.com/julienloizelet/ddev-m2) - A DDEV stack for Magento 2 development
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
@@ -2442,7 +2442,7 @@
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [C-Duv/freemobile-smsapi-client](https://github.com/C-Duv/freemobile-smsapi-client) - API client for the Free Mobile SMS notification service
 - [riobard/bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script. See also https://github.com/riobard/zsh-powerline
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [f-laurens/pynab_cli](https://github.com/f-laurens/pynab_cli) - Command line tools for Nabaztag rabbits running Pynab
 - [breunigs/bravia-auth-and-remote](https://github.com/breunigs/bravia-auth-and-remote) - Shell snippets to auth and send remote control commands to Sony Bravia TVs
 - [rekcuFniarB/File2PNG](https://github.com/rekcuFniarB/File2PNG) - Store any file as PNG image

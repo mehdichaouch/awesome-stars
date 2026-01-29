@@ -1182,7 +1182,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [mroth/bootslap](https://github.com/mroth/bootslap) - :coffee: bootstraps macOS to be usable
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
+- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 
 ## discord 
@@ -1578,7 +1578,7 @@
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [dunglas/stack2slack](https://github.com/dunglas/stack2slack) - A Slack bot to monitor StackOverflow/StackExchange tags
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
+- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -1863,7 +1863,7 @@
 ## home-assistant 
 
 - [zigbee2mqtt/hassio-zigbee2mqtt](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt) - Official Zigbee2MQTT Home Assistant add-on
-- [hassio-addons/addon-ssh](https://github.com/hassio-addons/addon-ssh) - Advanced SSH & Web Terminal - Home Assistant Community Add-ons
+- [hassio-addons/app-ssh](https://github.com/hassio-addons/app-ssh) - Advanced SSH & Web Terminal - Home Assistant Community Apps
 - [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 A Calm and Clean Theme for Home Assistant
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
 - [make-all/tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
@@ -2475,6 +2475,7 @@
 - [mage2click/docker-magento-mutagen](https://github.com/mage2click/docker-magento-mutagen) - Mage2click Docker-based development environment for Magento with mutagen.io sync for files on macOS
 - [EugenMayer/docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux
 - [mroth/bootslap](https://github.com/mroth/bootslap) - :coffee: bootstraps macOS to be usable
+- [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [minamarkham/formation](https://github.com/minamarkham/formation) - 💻 macOS setup script for front-end development
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
@@ -5190,7 +5191,7 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [mehdichaouch/screen-cheat-sheet](https://github.com/mehdichaouch/screen-cheat-sheet) - Screen Cheat Sheet & Quick Reference
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
@@ -5229,7 +5230,7 @@
 - [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
+- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
