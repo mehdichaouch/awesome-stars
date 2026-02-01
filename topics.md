@@ -1832,7 +1832,6 @@
 - [phansible/phansible](https://github.com/phansible/phansible) - Phansible - generate Vagrant + Ansible dev environments for PHP
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [TalAter/UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online
-- [jenkinsci/embeddable-build-status-plugin](https://github.com/jenkinsci/embeddable-build-status-plugin) - Embed build status of Jenkins jobs in web pages
 - [KnpLabs/KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) - Easily create PDF and images in Symfony by converting html using webkit
 - [hoangthienan/symfony-pre-commit](https://github.com/hoangthienan/symfony-pre-commit) - A Symfony pre-commit hook
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
@@ -3085,7 +3084,7 @@
 - [jofDev/MuseFlowerAppLabDev](https://github.com/jofDev/MuseFlowerAppLabDev) - MuseFlowerAppLabDev Repository
 - [letscontrolit/ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266/ESP32
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
-- [egoist/tailwindcss-icons](https://github.com/egoist/tailwindcss-icons) - Use any icon (100,000+) from Iconify, for TailwindCSS
+- [hyoban/tailwindcss-icons](https://github.com/hyoban/tailwindcss-icons) - Use any icon (100,000+) from Iconify, for TailwindCSS
 - [SamueleMartini/Magento-GPT-integration](https://github.com/SamueleMartini/Magento-GPT-integration) - Module to integrate Open AI GPT-3 in Magento
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
@@ -3876,6 +3875,7 @@
 - [jolicode/best-bundle-conf](https://github.com/jolicode/best-bundle-conf) - Symfony Live Paris 2013 talk about the best and unknown Symfony2 Bundles (in French)
 - [codacy/codacy-phpmd](https://github.com/codacy/codacy-phpmd) - PHP Mess Detector Tool for Codacy
 - [aurbano/regex101-osx](https://github.com/aurbano/regex101-osx) - Regex101 packaged as an offline Mac OSX application
+- [jenkinsci/embeddable-build-status-plugin](https://github.com/jenkinsci/embeddable-build-status-plugin) - Embed build status of Jenkins jobs in web pages
 - [jolicode/php7-checker](https://github.com/jolicode/php7-checker) - :ballot_box_with_check: PHP7 checker
 - [lyrixx/blog.lyrixx.info](https://github.com/lyrixx/blog.lyrixx.info) - My blog (the true content is in the _carew folder)
 - [gnugat/gnugat.github.io](https://github.com/gnugat/gnugat.github.io) - 📘 Blog about technical and practices advices
