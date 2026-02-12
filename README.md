@@ -1000,7 +1000,6 @@
 - [brunch/brunch](https://github.com/brunch/brunch) - 🍴 Web applications made easy. Since 2011.
 - [jshint/jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
 - [cubiq/iscroll](https://github.com/cubiq/iscroll) - Smooth scrolling for the web
-- [christophercliff/sausage](https://github.com/christophercliff/sausage) - A jQuery UI widget for contextual pagination.
 - [jslint-org/jslint](https://github.com/jslint-org/jslint) - JSLint, The JavaScript Code Quality and Coverage Tool
 - [lorenzos/ZenCodingNetBeansPlugin](https://github.com/lorenzos/ZenCodingNetBeansPlugin) - Zen Coding plugin for NetBeans
 - [sproutcore/sproutcore](https://github.com/sproutcore/sproutcore) - JavaScript Application Framework - JS library only

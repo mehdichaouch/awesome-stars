@@ -4163,7 +4163,6 @@
 - [jshint/jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
 - [cubiq/iscroll](https://github.com/cubiq/iscroll) - Smooth scrolling for the web
 - [twitter-archive/twitter-text-js](https://github.com/twitter-archive/twitter-text-js) - A JavaScript implementation of Twitter's text processing library
-- [christophercliff/sausage](https://github.com/christophercliff/sausage) - A jQuery UI widget for contextual pagination.
 - [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
 - [sproutcore/sproutcore](https://github.com/sproutcore/sproutcore) - JavaScript Application Framework - JS library only
 - [CyanogenMod/android_device_htc_vision](https://github.com/CyanogenMod/android_device_htc_vision) - Device repository for HTC Vision
