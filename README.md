@@ -416,7 +416,7 @@
 - [sebbelese/mhios](https://github.com/sebbelese/mhios) - 
 - [lfolco/phpstorm-m2-filetemplates](https://github.com/lfolco/phpstorm-m2-filetemplates) - PHPStorm Magento 2 File Templates
 - [loopbackio/loopback.io](https://github.com/loopbackio/loopback.io) - LoopBack project site - now with documentation!
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [caltamiranoHYLETE/mercurial-to-git](https://github.com/caltamiranoHYLETE/mercurial-to-git) - 
 - [gsheeets/call](https://github.com/gsheeets/call) - 📞  Call - Smart Way to Make Phone Numbers Clickable in Google Sheets
 - [iMi-digital/magento2-store-switch-all-store-views](https://github.com/iMi-digital/magento2-store-switch-all-store-views) - This module makes all store views available in the store switcher, regardless of their store or website.
@@ -1362,7 +1362,7 @@
 - [vpietri/magento2-developer-quickdevbar](https://github.com/vpietri/magento2-developer-quickdevbar) - Developer Toolbar for Magento2
 - [hryvinskyi/magento2-invisible-captcha](https://github.com/hryvinskyi/magento2-invisible-captcha) - Google Invisible Captcha v3 for magento 2
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP
-- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
+- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
 - [SanHacks/ImagineAI](https://github.com/SanHacks/ImagineAI) - Generate Products In Magento Powered By OpenAI Dall-E 2 Model .
 - [rangerz/magento2-module-re-captcha-checkout](https://github.com/rangerz/magento2-module-re-captcha-checkout) - Add Google reCaptcha for place order against carding attack
 - [ghostunicorns/module-webapi-logs](https://github.com/ghostunicorns/module-webapi-logs) - This module allows you to analyze all the webapi rest done call toward your adobe commerce.
@@ -2252,7 +2252,7 @@
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [humphd/have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning) - An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks
 - [gwillem/magento-version-identification](https://github.com/gwillem/magento-version-identification) - Find publicly accessible magento files that identify a version
-- [trakt/script.trakt](https://github.com/trakt/script.trakt) - Trakt.tv movie and TV show scrobbler for Kodi
+- [razzeee/script.trakt](https://github.com/razzeee/script.trakt) - Trakt.tv movie and TV show scrobbler for Kodi
 - [scakemyer/plugin.video.quasar](https://github.com/scakemyer/plugin.video.quasar) - Quasar add-on for Kodi
 - [BinaryDefense/artillery](https://github.com/BinaryDefense/artillery) - The Artillery Project is an open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods.
 - [novaspirit/AlexaPi](https://github.com/novaspirit/AlexaPi) - Turn a Raspberry Pi into an Alexa Client
