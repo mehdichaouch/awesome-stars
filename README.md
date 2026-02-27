@@ -2312,7 +2312,7 @@
 - [hfreire/rotating-proxy](https://github.com/hfreire/rotating-proxy) - Rotating TOR proxy with Docker
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
-- [spree/spree](https://github.com/spree/spree) - Spree Commerce is an API-first, open-source eCommerce platform for fast growing businesses and enterprises. Spree supports complex commerce scenarios natively — from B2B wholesale to multi-vendor mark
+- [spree/spree](https://github.com/spree/spree) - Spree is an API-first, open-source eCommerce platform for fast growing businesses and enterprises. Spree supports complex commerce scenarios natively — from B2B wholesale to multi-vendor marketplace t
 - [EugenMayer/docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux
 - [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers
 - [mrkamel/heartbeat](https://github.com/mrkamel/heartbeat) - Use Heartbeat to monitor your Hetzner Failover IP and automatically switch to another server.
