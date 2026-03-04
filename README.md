@@ -2517,6 +2517,7 @@
 - [bvvst/vanishso](https://github.com/bvvst/vanishso) - vanishing note service with support for aes-gcm 256, otp, and pbkdf2
 - [FabienBounoir/youtube-card](https://github.com/FabienBounoir/youtube-card) - 🎞️ Bastiui, a Ux Ui designer, wanted to be able to recuperate a rendering of a youtube video by simply passing a link to it. Here's what I did.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 
 ## Swift 
 
@@ -2619,7 +2620,6 @@
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [romgere/text2stl](https://github.com/romgere/text2stl) - 3D text generator for 3D printing. EmberJs / Typescript / Three.js
-- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [graphcommerce-org/graphcommerce](https://github.com/graphcommerce-org/graphcommerce) - GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
@@ -2629,7 +2629,6 @@
 - [kresusapp/kresus](https://github.com/kresusapp/kresus) - Get rich, or die codin'
 - [shadowmoose/Q-Art-Codes](https://github.com/shadowmoose/Q-Art-Codes) - Generate beautiful QR codes with background images, on your browser or server.
 - [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - 📖 A guide for your daily "professional" interactions
-- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
@@ -2736,6 +2735,7 @@
 - [anvaka/vuereddit](https://github.com/anvaka/vuereddit) - A simple reddit client written as a vue component.
 - [elgentos/magento2-upgrade-gui](https://github.com/elgentos/magento2-upgrade-gui) - Magento 2 Upgrade GUI
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) - 
 - [mitchas/Keyframes](https://github.com/mitchas/Keyframes) - A simple CSS toolbox
 - [ergonode/frontend](https://github.com/ergonode/frontend) - For seeing Ergonode in action please book a demo https://www.ergonode.com/book-a-demo
