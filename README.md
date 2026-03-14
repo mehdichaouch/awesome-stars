@@ -245,7 +245,6 @@
 
 ## Clojure 
 
-- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [jhchabran/tabswitcher](https://github.com/jhchabran/tabswitcher) - Textmate's Command-T to switch tabs in Google Chrome
@@ -359,6 +358,7 @@
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [jehiah/json2csv](https://github.com/jehiah/json2csv) - command line tool to convert json to csv
+- [MagicalTux/goro](https://github.com/MagicalTux/goro) - PHP in Go
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -1714,7 +1714,6 @@
 - [mailchimp/mc-woocommerce](https://github.com/mailchimp/mc-woocommerce) - MailChimp for Woocommerce Integration. Syncs all data (subscriber, customers, orders, products) and enables marketing automation with email campaigns, automations, ads, postcards and more.
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) - CLI App and library to manage apc & opcache.
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
-- [MagicalTux/goro](https://github.com/MagicalTux/goro) - PHP in Go
 - [wp-plugins/mistape](https://github.com/wp-plugins/mistape) - WordPress.org Plugin Mirror
 - [FriendsOfPHP/Sami](https://github.com/FriendsOfPHP/Sami) - An API documentation generator
 - [magecomp/Magento-Pre-Patched-Files](https://github.com/magecomp/Magento-Pre-Patched-Files) - Read About All PrePatched Files Blog Installation Instructions
@@ -2574,6 +2573,7 @@
 - [magento/m2-devtools](https://github.com/magento/m2-devtools) - Helpful in-browser debugging/inspection tools for the Magento 2 Front-End
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
+- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [gera2ld/request-x](https://github.com/gera2ld/request-x) - A web extension to block or modify requests.
