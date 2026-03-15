@@ -1608,7 +1608,7 @@
 - [danicat/pacgo](https://github.com/danicat/pacgo) - A Pac Man clone written in Go (with emojis!)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [mpchadwick/dbanon](https://github.com/mpchadwick/dbanon) - A run anywhere database anonymizer
-- [MagicalTux/goro](https://github.com/MagicalTux/goro) - PHP in Go
+- [KarpelesLab/goro](https://github.com/KarpelesLab/goro) - PHP in Go
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [tobegit3hub/seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
@@ -2289,7 +2289,7 @@
 ## language 
 
 - [aialt/GPT-4o-Image-Generation-Prompts](https://github.com/aialt/GPT-4o-Image-Generation-Prompts) - This repository contains curated prompts for using GPT-4o to generate images.
-- [MagicalTux/goro](https://github.com/MagicalTux/goro) - PHP in Go
+- [KarpelesLab/goro](https://github.com/KarpelesLab/goro) - PHP in Go
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 
 ## laravel 
@@ -4334,7 +4334,7 @@
 - [Spomky-Labs/jose](https://github.com/Spomky-Labs/jose) - :closed_lock_with_key: JSON Object Signing and Encryption Framework (JWT, JWS, JWE, JWA, JWK, JWKSet and more)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
-- [MagicalTux/goro](https://github.com/MagicalTux/goro) - PHP in Go
+- [KarpelesLab/goro](https://github.com/KarpelesLab/goro) - PHP in Go
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
 - [shopware5/shopware](https://github.com/shopware5/shopware) - Shopware 5 core
 - [paragonie/chronicle](https://github.com/paragonie/chronicle) - Public append-only ledger microservice built with Slim Framework

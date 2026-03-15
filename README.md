@@ -260,7 +260,6 @@
 
 ## Dart 
 
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [bmaroti9/Overmorrow](https://github.com/bmaroti9/Overmorrow) - modern material design weather app
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -358,7 +357,6 @@
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [jehiah/json2csv](https://github.com/jehiah/json2csv) - command line tool to convert json to csv
-- [MagicalTux/goro](https://github.com/MagicalTux/goro) - PHP in Go
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -1029,6 +1027,7 @@
 
 ## Kotlin 
 
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - RiMusic is a multilingual and multiplatform application for streaming music
 - [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
 
@@ -1714,6 +1713,7 @@
 - [mailchimp/mc-woocommerce](https://github.com/mailchimp/mc-woocommerce) - MailChimp for Woocommerce Integration. Syncs all data (subscriber, customers, orders, products) and enables marketing automation with email campaigns, automations, ads, postcards and more.
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) - CLI App and library to manage apc & opcache.
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
+- [KarpelesLab/goro](https://github.com/KarpelesLab/goro) - PHP in Go
 - [wp-plugins/mistape](https://github.com/wp-plugins/mistape) - WordPress.org Plugin Mirror
 - [FriendsOfPHP/Sami](https://github.com/FriendsOfPHP/Sami) - An API documentation generator
 - [magecomp/Magento-Pre-Patched-Files](https://github.com/magecomp/Magento-Pre-Patched-Files) - Read About All PrePatched Files Blog Installation Instructions
