@@ -752,7 +752,7 @@
 - [jquery/sizzle](https://github.com/jquery/sizzle) - A sizzlin' hot selector engine.
 - [google/wicked-good-xpath](https://github.com/google/wicked-good-xpath) - Pure JS implementation of the DOM Level 3 XPath specification
 - [UseAllFive/true-visibility](https://github.com/UseAllFive/true-visibility) - Checks if a DOM element is truly visible
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [berrberr/streamkeys](https://github.com/berrberr/streamkeys) - Global media player hotkeys for chrome
 - [bluzi/jsonstore](https://github.com/bluzi/jsonstore) - :rocket: jsonstore offers a free and secured JSON-based cloud datastore for small projects | Inactive
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
