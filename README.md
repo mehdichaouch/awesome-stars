@@ -440,6 +440,7 @@
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [mreidsma/bookmarklets](https://github.com/mreidsma/bookmarklets) - A collection of bookmarklets I use. Best viewed on the gh-pages branch
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
 - [thibault/strike-js](https://github.com/thibault/strike-js) - Pour aider votre site à faire grève
 - [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
@@ -498,7 +499,7 @@
 
 ## Java 
 
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+- [ReVanced/ravanced-patches](https://github.com/ReVanced/ravanced-patches) - 🧩 Patches for ReVanced
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [lolo101/MsgViewer](https://github.com/lolo101/MsgViewer) - MsgViewer is email-viewer utility for .msg e-mail messages, implemented in pure Java. MsgViewer works on Windows/Linux/Mac Platforms. Also provides a java api to read mail messges (msg files) programm
 - [kairoh/studio](https://github.com/kairoh/studio) - STUdio - Story Teller Unleashed
@@ -1022,7 +1023,6 @@
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - The hub for EleutherAI's work on interpretability and learning dynamics
 - [anisayari/Youtube-apprendre-le-deeplearning-avec-tensorflow](https://github.com/anisayari/Youtube-apprendre-le-deeplearning-avec-tensorflow) - Ce repo contient les codes développés dans le cadre de ma série de vidéo sur Youtube pour apprendre à coder en python en utilisant Tensorflow afin de réaliser des tâches de Deep Learning.
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [microsoft/ProjectOxford-ClientSDK](https://github.com/microsoft/ProjectOxford-ClientSDK) - This repo has moved :house: Visit our website for the latest SDKs & Samples
 
 ## Kotlin 
@@ -2643,7 +2643,7 @@
 - [Shopify/hydrogen-v1](https://github.com/Shopify/hydrogen-v1) - React-based framework for building dynamic, Shopify-powered custom storefronts.
 - [jellesiderius/mage-db-sync](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.
 - [atymic/deployer-php-action](https://github.com/atymic/deployer-php-action) - Deploy PHP projects using Deployer from Github Actions
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [WalletConnect/walletconnect-example-dapp](https://github.com/WalletConnect/walletconnect-example-dapp) - Example Dapp
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
