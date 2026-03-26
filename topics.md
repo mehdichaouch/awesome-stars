@@ -87,6 +87,7 @@
 - [elixir](#elixir)
 - [ember](#ember)
 - [emoji](#emoji)
+- [emulator](#emulator)
 - [es6](#es6)
 - [eslint](#eslint)
 - [ethereum](#ethereum)
@@ -1324,6 +1325,10 @@
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [ines/console-dot-emoji](https://github.com/ines/console-dot-emoji) - :pizza: Custom Console Logging with Emoji
 - [muan/mojibar](https://github.com/muan/mojibar) - :tangerine: Emoji searcher but as a menubar app.
+
+## emulator 
+
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM. Verified checksums, 6700+ files, 300+ emulators profiled from source code.
 
 ## es6 
 
@@ -4701,7 +4706,6 @@
 - [davesteele/comitup](https://github.com/davesteele/comitup) - Bootstrap Wifi support over Wifi
 - [sepfy/BerryShare](https://github.com/sepfy/BerryShare) - Share PC desktop to Raspberry Pi with WebRTC
 - [jmcerrejon/PiKISS](https://github.com/jmcerrejon/PiKISS) - PiKISS for Raspberry Pi: A bunch of scripts with menu to make your life easier.
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS & firmware collection for retrogaming emulators. RetroArch, Batocera, Recalbox, Lakka, and more. Verified checksums, automated packs, 50+ systems.
 - [schollz/raspberry-pi-turnkey](https://github.com/schollz/raspberry-pi-turnkey) - How to make a Raspberry Pi image that can be deployed anywhere and assigned to a WiFi network without SSH :ok_hand:
 - [pguyot/arm-runner-action](https://github.com/pguyot/arm-runner-action) - Run tests natively and build images directly from GitHub Actions using a chroot-based virtualized Raspberry Pi (raspios/raspbian) environment
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!

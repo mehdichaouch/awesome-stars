@@ -273,7 +273,6 @@
 - [kangasta/jenkins-examples](https://github.com/kangasta/jenkins-examples) - Examples for settings up and using Jenkins in and with containers.
 - [meanbee/docker-magento](https://github.com/meanbee/docker-magento) - 🐳 Docker containers with all required Magento dependencies installed available as Apache and CLI
 - [fballiano/docker-magento2-apache-php](https://github.com/fballiano/docker-magento2-apache-php) - 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
 - [PrestaShop/docker](https://github.com/PrestaShop/docker) - 🐳
 - [Cquad/jeedom](https://github.com/Cquad/jeedom) - Jeedom containers
 
@@ -573,6 +572,7 @@
 - [kyr0/redaktool](https://github.com/kyr0/redaktool) - Browser extension for editors and professionals engaged in text-related research, writing, and evaluation tasks. This tool serves as a comprehensive "AI toolbox" enabling direct interaction with conte
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [grantcarthew/notes](https://github.com/grantcarthew/notes) - General notes for technology
+- [laravel/precognition](https://github.com/laravel/precognition) - Anticipate the outcome of a future HTTP request.
 - [The-01-Company/jsontr.ee](https://github.com/The-01-Company/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams
 - [antomatskev/bhavacakra](https://github.com/antomatskev/bhavacakra) - Look at your current life in a visual representation and find your state of balance, happiness and success.
 - [DannyMoerkerke/audio-recorder](https://github.com/DannyMoerkerke/audio-recorder) - Audio Recorder Web Component
@@ -2175,7 +2175,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [serpapi/google-search-results-python](https://github.com/serpapi/google-search-results-python) - Google Search Results via SERP API pip Python Package
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS & firmware collection for retrogaming emulators. RetroArch, Batocera, Recalbox, Lakka, and more. Verified checksums, automated packs, 50+ systems.
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM. Verified checksums, 6700+ files, 300+ emulators profiled from source code.
 - [schollz/raspberry-pi-turnkey](https://github.com/schollz/raspberry-pi-turnkey) - How to make a Raspberry Pi image that can be deployed anywhere and assigned to a WiFi network without SSH :ok_hand:
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
@@ -2460,6 +2460,7 @@
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [minamarkham/formation](https://github.com/minamarkham/formation) - 💻 macOS setup script for front-end development
 - [RPi-Distro/raspi-config](https://github.com/RPi-Distro/raspi-config) - Configuration tool for the Raspberry Pi
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [RayViljoen/Raspberry-PI-SD-Installer-OS-X](https://github.com/RayViljoen/Raspberry-PI-SD-Installer-OS-X) - Shell Script for creating Raspberry PI SD card on OS X.
 - [alexcheng1982/docker-magento](https://github.com/alexcheng1982/docker-magento) - Docker image for Magento 1.6 to 1.9
@@ -2556,7 +2557,6 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the project!
-- [laravel/precognition](https://github.com/laravel/precognition) - Anticipate the outcome of a future HTTP request.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [YZarytskyi/react-audio-visualization](https://github.com/YZarytskyi/react-audio-visualization) - Demo App for the react-voice-visualizer library.
 - [YZarytskyi/react-voice-visualizer](https://github.com/YZarytskyi/react-voice-visualizer) - React library for audio recording and visualization using the Web Audio API
