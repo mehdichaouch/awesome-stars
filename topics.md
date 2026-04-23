@@ -2780,6 +2780,7 @@
 ## obsidian 
 
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## obsidian-md 
 
@@ -2843,6 +2844,8 @@
 
 ## others 
 
+- [fast4x/RiPlay](https://github.com/fast4x/RiPlay) - Multiplatform Music Player
+- [zerodytrash/YouTube-Internal-Clients](https://github.com/zerodytrash/YouTube-Internal-Clients) - A python script that discovers hidden YouTube API clients. Just a research project.
 - [berliozd/addeos-anonymize](https://github.com/berliozd/addeos-anonymize) - Magento 2 module with anonymization command
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -2915,7 +2918,6 @@
 - [markshust/magento2-module-removefavicon](https://github.com/markshust/magento2-module-removefavicon) - The Remove Favicon module removes all favicons from the HTML head.
 - [markshust/magento2-module-hierarchycomplexidcompatibility](https://github.com/markshust/magento2-module-hierarchycomplexidcompatibility) - The Hierarchy Complex ID Compatibility module makes the hierarchy compatible with long URL identifiers containing subpaths.
 - [markshust/magento2-module-extrabodyclasses](https://github.com/markshust/magento2-module-extrabodyclasses) - The Extra Body Classes module adds the website and store codes to the body class attribute.
-- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - RiMusic is a multilingual and multiplatform application for streaming music
 - [segler-alex/radiobrowser-web-angular](https://github.com/segler-alex/radiobrowser-web-angular) - New Angular based web frontend for api.radio-browser.info
 - [arcanis/secretsanta](https://github.com/arcanis/secretsanta) - Helping you host your secret santas without leaking your guests' informations since 2015 🎄
 - [xcomptek/awesome-saas-boilerplates](https://github.com/xcomptek/awesome-saas-boilerplates) - List of SaaS boilerplates (starter kits)
@@ -4965,6 +4967,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
