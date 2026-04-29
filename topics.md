@@ -2838,6 +2838,7 @@
 
 ## others 
 
+- [markshust/magento-polyshell-patch](https://github.com/markshust/magento-polyshell-patch) - 
 - [fast4x/RiPlay](https://github.com/fast4x/RiPlay) - Multiplatform Music Player
 - [zerodytrash/YouTube-Internal-Clients](https://github.com/zerodytrash/YouTube-Internal-Clients) - A python script that discovers hidden YouTube API clients. Just a research project.
 - [berliozd/addeos-anonymize](https://github.com/berliozd/addeos-anonymize) - Magento 2 module with anonymization command
