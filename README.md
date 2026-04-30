@@ -800,7 +800,7 @@
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [digitalcraftsman/hugo-creative-theme](https://github.com/digitalcraftsman/hugo-creative-theme) - Port of Startbootstrap's Creative theme to Hugo
-- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
+- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling cookies, client-side.
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features a
 - [nghuuphuoc/responsivetest](https://github.com/nghuuphuoc/responsivetest) - Test responsive layout, powered by AngularJS and Bootstrap 3. If this tool is useful to you, please Star it.
 - [jaysalvat/vegas](https://github.com/jaysalvat/vegas) - Vegas is a jQuery/Zepto plugin to add beautiful backgrounds and Slideshows to DOM elements.
