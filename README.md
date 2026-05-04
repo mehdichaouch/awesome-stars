@@ -1385,7 +1385,7 @@
 - [Yoast/Yoast-SEO-for-TYPO3](https://github.com/Yoast/Yoast-SEO-for-TYPO3) - Yoast SEO plugin for TYPO3
 - [AOEpeople/TYPO3-varnish](https://github.com/AOEpeople/TYPO3-varnish) - This is a TYPO3-Extension that integrates the popular Varnish HTTP Cache into TYPO3.
 - [amzn/amazon-payments-magento-2-plugin](https://github.com/amzn/amazon-payments-magento-2-plugin) - Extension to enable Amazon Pay on Magento 2
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - The Easiest way to add coding standard to your PHP project
+- [easy-coding-standard/ecs](https://github.com/easy-coding-standard/ecs) - The Easiest way to add coding standard to your PHP project
 - [monsieurbiz/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/monsieurbiz/CoopTilleulsSyliusClickNCollectPlugin) - Sell and deliver securely during the COVID-19 pandemic!
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) - Rector for TYPO3
 - [cartalyst/sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorization system.
@@ -1555,7 +1555,7 @@
 - [fooman/magento2-starter-template](https://github.com/fooman/magento2-starter-template) - Template repository to get started with Magento 2. Includes a deployment process for staging/production environment powered by Magento 2 Deployer Plus and Github Actions.  See blogpost for further det
 - [TGMPA/TGM-Plugin-Activation](https://github.com/TGMPA/TGM-Plugin-Activation) - TGM Plugin Activation is a PHP library that allows you to easily require or recommend plugins for your WordPress themes (and plugins). It allows your users to install, update and even automatically ac
 - [Vyvi/GiftCard](https://github.com/Vyvi/GiftCard) - GiftCard  module
-- [springbot/magento2-plugin](https://github.com/springbot/magento2-plugin) - Springbot integration for the Magento 2 platform
+- [springboltgroup/magento2-plugin](https://github.com/springboltgroup/magento2-plugin) - Springbot integration for the Magento 2 platform
 - [mageplaza/magento-2-backend-reindex](https://github.com/mageplaza/magento-2-backend-reindex) - Magento 2 Backend Reindex by Mageplaza allows store admins to update individual or all indexes manually right from the admin backend easily instead of running command line.
 - [mageplaza/magento-2-geoip-library](https://github.com/mageplaza/magento-2-geoip-library) - Magento 2 GeoIP extension  is an optimal solution for generating awesome customers’ experiences. It records the customers’ IP addresses then use it for navigating them to the suitable store locations,
 - [aleron75/mageres](https://github.com/aleron75/mageres) - A list of useful Magento technical resources
@@ -2090,7 +2090,7 @@
 
 - [zerodytrash/YouTube-Internal-Clients](https://github.com/zerodytrash/YouTube-Internal-Clients) - A python script that discovers hidden YouTube API clients. Just a research project.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [psyray/oasis](https://github.com/psyray/oasis) - Ollama Automated Security Intelligence Scanner
 - [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
