@@ -241,7 +241,7 @@
 - [datapublica/ratp-trafic-map](https://github.com/datapublica/ratp-trafic-map) - 
 - [soulwire/Makisu](https://github.com/soulwire/Makisu) - CSS 3D Dropdown Concept
 - [appdotnet/api-spec](https://github.com/appdotnet/api-spec) - App.net API Documentation is on the web at https://developers.app.net. Source for these docs is in the new-docs branch here. Please use the issue tracker and submit pull requests! Help us build the re
-- [DataTables/DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery
+- [DataTables/DataTables](https://github.com/DataTables/DataTables) - DataTables - legacy repo
 
 ## Clojure 
 
