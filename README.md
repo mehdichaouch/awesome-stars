@@ -342,6 +342,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [guilhem/nabcli](https://github.com/guilhem/nabcli) - CLI tool to manage my Nabaztag
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [jolicode/pomdok](https://github.com/jolicode/pomdok) - 🍏 Simple wrapper to Symfony Go Binary for multi-app
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -2204,7 +2205,6 @@
 - [BitBotFactory/MikaLendingBot](https://github.com/BitBotFactory/MikaLendingBot) - Automated lending on Cryptocurrency exchanges Poloniex and Bitfinex
 - [maxbbraun/trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
 - [goberoi/faceit](https://github.com/goberoi/faceit) - A script to make it easy to swap faces in videos using the faceswap library, and YouTube videos.
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
 - [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) - Nabaztag en Python pour RaspberryPi
 - [MathSci/fecon236](https://github.com/MathSci/fecon236) - Tools for financial economics. Curated wrapper over Python ecosystem. Source code for fecon235 Jupyter notebooks.
@@ -2421,7 +2421,6 @@
 - [wardenenv/warden-env-magento2](https://github.com/wardenenv/warden-env-magento2) - Template Project for Magento 2 Using Warden for Local Development
 - [bugswriter/notflix](https://github.com/bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
-- [KevCui/getTweets](https://github.com/KevCui/getTweets) - :bird: Fetch tweets from a specific user without account login
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [wardenenv/warden](https://github.com/wardenenv/warden) - Warden is a CLI utility for orchestrating Docker based developer environments
 - [jmcerrejon/PiKISS](https://github.com/jmcerrejon/PiKISS) - PiKISS for Raspberry Pi: A bunch of scripts with menu to make your life easier.
