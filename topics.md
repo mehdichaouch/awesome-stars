@@ -2559,7 +2559,6 @@
 ## microsoft 
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 
 ## mobile 
 
@@ -4175,6 +4174,7 @@
 - [packetlss/android-locdump](https://github.com/packetlss/android-locdump) - android location service cache dumper
 - [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 - [spine/spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications
+- [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 - [pikanji/ImageDetail](https://github.com/pikanji/ImageDetail) - Simply shows all the information about the selected image data.
 - [commonsguy/cw-lunchlist](https://github.com/commonsguy/cw-lunchlist) - LunchList tutorials from _Android Programming Tutorials_
 - [play-co/webgl-2d](https://github.com/play-co/webgl-2d) - Canvas2D API in WebGL
