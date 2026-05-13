@@ -2930,7 +2930,7 @@
 - [streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
 - [element119/module-product-type-attribute-manager](https://github.com/element119/module-product-type-attribute-manager) - A Magento 2 module to allow admins to control which product attributes are applicable to different product types.
 - [element119/module-store-entity-creator](https://github.com/element119/module-store-entity-creator) - A Magento 2 CLI utility to allow developers to create new websites, stores, and store views.
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [rainviewer/rainviewer-api-example](https://github.com/rainviewer/rainviewer-api-example) - How to use RainViewer API: simple HTML + JS code which render an animated weather radar overlay on the map
 - [annysmolyan/visual-search-module-magento](https://github.com/annysmolyan/visual-search-module-magento) - 
 - [opengento/magento2-sales-sequence](https://github.com/opengento/magento2-sales-sequence) - Allows to setup with ease the prefix, format and suffix of sales sequences directly from the configuration.
