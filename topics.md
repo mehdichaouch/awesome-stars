@@ -3711,7 +3711,6 @@
 - [peterjaap/mate](https://github.com/peterjaap/mate) - A command line Magento toolkit for Magento devs to perform repetitive tasks
 - [AOEpeople/mpmd](https://github.com/AOEpeople/mpmd) - Magento Project Mess Detector (for n98-magerun)
 - [steverobbins/mageaudit](https://github.com/steverobbins/mageaudit) - Simple script for beginning a code review on a site.  This script will list all installed community and local modules and any blocks, helpers, or models that they have rewritten.
-- [euperia/monitoring](https://github.com/euperia/monitoring) - Misc scripts for monitoring etc
 - [magento-hackathon/Hackathon_IndexerStats](https://github.com/magento-hackathon/Hackathon_IndexerStats) - 
 - [talesh/response](https://github.com/talesh/response) - A Magento Incident Response Plan Template
 - [gwillem/magento-version-identification](https://github.com/gwillem/magento-version-identification) - Find publicly accessible magento files that identify a version
@@ -4776,7 +4775,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [welovedevs/react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) - 💼 🎨 A modern software developer resume built with React and JSONResume

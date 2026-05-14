@@ -698,7 +698,7 @@
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [mohamedmansour/reload-all-tabs-extension](https://github.com/mohamedmansour/reload-all-tabs-extension) - Reload All Tabs Google Chrome Extension
 - [jcubic/jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - JavaScript library for creating web-based terminals with custom commands
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [2ec0b4/kaamelott-soundboard](https://github.com/2ec0b4/kaamelott-soundboard) - Ou : chante Sloubi. Nous, on va faire que la soundboard de Kaamelott.
 - [shkoliar/magento-grid-colors](https://github.com/shkoliar/magento-grid-colors) - Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid's bookmarks.
 - [sitespeedio/browsertime](https://github.com/sitespeedio/browsertime) - Measure and Optimize Web Performance
@@ -1862,7 +1862,6 @@
 - [peterjaap/mate](https://github.com/peterjaap/mate) - A command line Magento toolkit for Magento devs to perform repetitive tasks
 - [AOEpeople/mpmd](https://github.com/AOEpeople/mpmd) - Magento Project Mess Detector (for n98-magerun)
 - [steverobbins/mageaudit](https://github.com/steverobbins/mageaudit) - Simple script for beginning a code review on a site.  This script will list all installed community and local modules and any blocks, helpers, or models that they have rewritten.
-- [euperia/monitoring](https://github.com/euperia/monitoring) - Misc scripts for monitoring etc
 - [magento-hackathon/Hackathon_IndexerStats](https://github.com/magento-hackathon/Hackathon_IndexerStats) - 
 - [Hypernode/hypernode-magerun](https://github.com/Hypernode/hypernode-magerun) - Useful n98-magerun plugins
 - [steverobbins/magescan](https://github.com/steverobbins/magescan) - Scan a Magento site for information
