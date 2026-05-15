@@ -69,7 +69,6 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
-- [Zig](#zig)
 
 ## Arduino 
 
@@ -1395,7 +1394,7 @@
 - [tpwd/ke_search](https://github.com/tpwd/ke_search) - Search Extension for TYPO3 Content Management System, including faceting search functions.
 - [FriendsOfTYPO3/extension_builder](https://github.com/FriendsOfTYPO3/extension_builder) - TYPO3 extension to kickstart and maintain TYPO3 extensions
 - [FluidTYPO3/vhs](https://github.com/FluidTYPO3/vhs) - TYPO3 extension VHS: Fluid ViewHelpers
-- [plan2net/webp](https://github.com/plan2net/webp) - Create a WebP copy for images (TYPO3 CMS)
+- [plan2net/webp](https://github.com/plan2net/webp) - Serve WebP to browsers that support it, without changing your URLs or HTML
 - [netresearch/t3x-rte_ckeditor_image](https://github.com/netresearch/t3x-rte_ckeditor_image) - Image support in CKEditor for the TYPO3 ecosystem - by Netresearch
 - [lochmueller/staticfilecache](https://github.com/lochmueller/staticfilecache) - 🚀 Fastest TYPO3 Extension ever 🚀
 - [jweiland-net/reserve](https://github.com/jweiland-net/reserve) - This extension allows you to reserve tickets for one or more persons using a period table and a form. Each reservation has it’s own QR Code that can be scanned at the event.
@@ -2341,6 +2340,7 @@
 
 - [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
@@ -2740,10 +2740,6 @@
 ## XSLT 
 
 - [EdgedesignCZ/phpqa](https://github.com/EdgedesignCZ/phpqa) - Analyze PHP code with one command
-
-## Zig 
-
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
