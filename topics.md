@@ -3009,7 +3009,6 @@
 - [MAD-I-T/magento-actions](https://github.com/MAD-I-T/magento-actions) - Github deployment actions for Magento 2
 - [tpwd/ke_search](https://github.com/tpwd/ke_search) - Search Extension for TYPO3 Content Management System, including faceting search functions.
 - [FriendsOfTYPO3/extension_builder](https://github.com/FriendsOfTYPO3/extension_builder) - TYPO3 extension to kickstart and maintain TYPO3 extensions
-- [plan2net/webp](https://github.com/plan2net/webp) - Create a WebP copy for images (TYPO3 CMS)
 - [netresearch/t3x-rte_ckeditor_image](https://github.com/netresearch/t3x-rte_ckeditor_image) - Image support in CKEditor for the TYPO3 ecosystem - by Netresearch
 - [lochmueller/staticfilecache](https://github.com/lochmueller/staticfilecache) - 🚀 Fastest TYPO3 Extension ever 🚀
 - [jweiland-net/reserve](https://github.com/jweiland-net/reserve) - This extension allows you to reserve tickets for one or more persons using a period table and a form. Each reservation has it’s own QR Code that can be scanned at the event.
@@ -3189,7 +3188,6 @@
 - [php-cuong/magento2-banners-slider](https://github.com/php-cuong/magento2-banners-slider) - Banners Slider Extension For Magento 2
 - [yireo/Yireo_Core](https://github.com/yireo/Yireo_Core) - Core library for assistance in various Magento modules
 - [yireo/Yireo_Webp2ForAmastyShopby](https://github.com/yireo/Yireo_Webp2ForAmastyShopby) - Webp2 add-on to make Yireo_Webp2 work for Amasty_Shopby
-- [yireo/Yireo_Bootstrap3](https://github.com/yireo/Yireo_Bootstrap3) - Magento 2 module inserting Twitter Bootstrap 3 via CDN
 - [yireo/Yireo_ByAttributeGraphQl](https://github.com/yireo/Yireo_ByAttributeGraphQl) - 
 - [yireo/Yireo_CustomStepUi](https://github.com/yireo/Yireo_CustomStepUi) - Magento 2 module to add an example step to the legacy Luma checkout.
 - [yireo/Yireo_DevHacks](https://github.com/yireo/Yireo_DevHacks) - Magento 2 module with various hacks and solutions for custom development
@@ -4269,6 +4267,7 @@
 - [cartalyst/sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorization system.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [FluidTYPO3/vhs](https://github.com/FluidTYPO3/vhs) - TYPO3 extension VHS: Fluid ViewHelpers
+- [plan2net/webp](https://github.com/plan2net/webp) - Drop-in WebP delivery for TYPO3 images — automatic, no URL or template changes
 - [georgringer/news](https://github.com/georgringer/news) - TYPO3 Extension news
 - [a-r-m-i-n/min](https://github.com/a-r-m-i-n/min) - TYPO3 CMS extension "min" - Compressed CSS, JS and HTML output for TYPO3
 - [TYPO3-Solr/ext-solr](https://github.com/TYPO3-Solr/ext-solr) - A TYPO3 extension that integrates the Apache Solr search server with TYPO3 CMS. dkd Internet Service GmbH is developing the extension. Community contributions are welcome. See CONTRIBUTING.md for deta

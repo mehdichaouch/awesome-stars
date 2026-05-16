@@ -638,7 +638,6 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [HughChen/qr_image](https://github.com/HughChen/qr_image) - A web app to generate valid QR codes with readable images.
-- [yireo/Yireo_Bootstrap3](https://github.com/yireo/Yireo_Bootstrap3) - Magento 2 module inserting Twitter Bootstrap 3 via CDN
 - [yireo/Yireo_CustomStepUi](https://github.com/yireo/Yireo_CustomStepUi) - Magento 2 module to add an example step to the legacy Luma checkout.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [muan/emojilib](https://github.com/muan/emojilib) - Emoji keyword library.
@@ -1394,7 +1393,7 @@
 - [tpwd/ke_search](https://github.com/tpwd/ke_search) - Search Extension for TYPO3 Content Management System, including faceting search functions.
 - [FriendsOfTYPO3/extension_builder](https://github.com/FriendsOfTYPO3/extension_builder) - TYPO3 extension to kickstart and maintain TYPO3 extensions
 - [FluidTYPO3/vhs](https://github.com/FluidTYPO3/vhs) - TYPO3 extension VHS: Fluid ViewHelpers
-- [plan2net/webp](https://github.com/plan2net/webp) - Serve WebP to browsers that support it, without changing your URLs or HTML
+- [plan2net/webp](https://github.com/plan2net/webp) - Drop-in WebP delivery for TYPO3 images — automatic, no URL or template changes
 - [netresearch/t3x-rte_ckeditor_image](https://github.com/netresearch/t3x-rte_ckeditor_image) - Image support in CKEditor for the TYPO3 ecosystem - by Netresearch
 - [lochmueller/staticfilecache](https://github.com/lochmueller/staticfilecache) - 🚀 Fastest TYPO3 Extension ever 🚀
 - [jweiland-net/reserve](https://github.com/jweiland-net/reserve) - This extension allows you to reserve tickets for one or more persons using a period table and a form. Each reservation has it’s own QR Code that can be scanned at the event.
