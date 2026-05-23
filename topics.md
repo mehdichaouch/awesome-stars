@@ -3688,7 +3688,6 @@
 - [CaliOpen/Caliopen](https://github.com/CaliOpen/Caliopen) - Entry point for Caliopen messaging platform project
 - [apache/incubator-pagespeed-mod](https://github.com/apache/incubator-pagespeed-mod) - Apache module for rewriting web pages to reduce latency and bandwidth.
 - [pyrech/php-wtf](https://github.com/pyrech/php-wtf) - 
-- [tibastral/contrats-francais](https://github.com/tibastral/contrats-francais) - Contrats français
 - [WhiteHouse/fb_messenger_bot](https://github.com/WhiteHouse/fb_messenger_bot) - This Drupal module provides a tool to build a chat bot to work on Facebook's Messenger Platform.
 - [ecoco/magento_profiler](https://github.com/ecoco/magento_profiler) - ecocode Profiler for Magento 1.x based on the symfony/web-profiler-bundle
 - [diegofin/certificacion-symfony](https://github.com/diegofin/certificacion-symfony) - Apuntes de Symfony y PHP en español agrupados según la temática exigida para obtener la certificación de Symfony 3

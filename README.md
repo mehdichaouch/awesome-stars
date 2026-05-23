@@ -2311,7 +2311,6 @@
 - [DivanteLtd/anonymizer](https://github.com/DivanteLtd/anonymizer) - Universal tool to anonymize database. GDPR (General Data Protection Regulation) data protection act supporting tool.
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 - [richdynamix/magestead](https://github.com/richdynamix/magestead) - The Vagrant Solution for Magento Developers
-- [tibastral/contrats-francais](https://github.com/tibastral/contrats-francais) - Contrats français
 - [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [telerik/fiddler-docs](https://github.com/telerik/fiddler-docs) - Official documentation for Fiddler Classic -  the community-trusted free Windows-only tool that logs HTTP(s) network traffic.
