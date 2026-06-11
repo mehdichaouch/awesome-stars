@@ -4268,7 +4268,7 @@
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
 - [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) - Example extension for unit testing and best practices.
 - [amzn/amazon-payments-magento-2-plugin](https://github.com/amzn/amazon-payments-magento-2-plugin) - Extension to enable Amazon Pay on Magento 2
-- [easy-coding-standard/ecs](https://github.com/easy-coding-standard/ecs) - The Easiest way to add coding standard to your PHP project
+- [ecsphp/ecs](https://github.com/ecsphp/ecs) - ECS runs PHP-CS-Fixer and PHP_CodeSniffer as a single, parallel, fast tool, zero dependencies, requiring only PHP 7.2+. Configure with prepared sets, gradual levels via, plug-in and keep it running fo
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) - Rector for TYPO3
 - [cartalyst/sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorization system.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
