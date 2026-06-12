@@ -748,7 +748,7 @@
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [bamdadfr/leboncoin-pdf-ext](https://github.com/bamdadfr/leboncoin-pdf-ext) - PDF Exporter for leboncoin.fr
-- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
+- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory. Suspend what you don't need.
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
 - [sanderheilbron/seo-shortcuts](https://github.com/sanderheilbron/seo-shortcuts) - SEO Shortcuts — A browser extension for Chrome
 - [sitespeedio/browsertime](https://github.com/sitespeedio/browsertime) - Measure and Optimize Web Performance
@@ -765,7 +765,7 @@
 
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 - [bamdadfr/leboncoin-pdf-ext](https://github.com/bamdadfr/leboncoin-pdf-ext) - PDF Exporter for leboncoin.fr
-- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
+- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory. Suspend what you don't need.
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [sanderheilbron/seo-shortcuts](https://github.com/sanderheilbron/seo-shortcuts) - SEO Shortcuts — A browser extension for Chrome
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
@@ -2259,7 +2259,7 @@
 
 ## js 
 
-- [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf
+- [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free open-source web software for signing PDF (alone or with others) and also organize pages, edit metadata and compress pdf
 - [Catrobat/Catroweb](https://github.com/Catrobat/Catroweb) - Catroweb - A social platform to share and browse projects created with Catrobat's apps (Pocket Code, ...) by our users.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - [videowhisper/Cam-Recorder-HTML5-Video-Audio](https://github.com/videowhisper/Cam-Recorder-HTML5-Video-Audio) - Camera / Microphone Recorder 📹🎙 in HTML5: Audio/Video Recording, Download, Send to Server, Instant Recording Booth with Recordings. 💯100% Web Based, 🚫No Flash.
@@ -3533,7 +3533,7 @@
 - [shulard/git-service-move](https://github.com/shulard/git-service-move) - Move a git project from one online service to another easily
 - [paragonie/seedspring](https://github.com/paragonie/seedspring) - Seeded, Deterministic PRNG (based on AES-CTR instead of LCG)
 - [paragonie/anti-csrf](https://github.com/paragonie/anti-csrf) - Full-Featured Anti-CSRF Library
-- [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server side TLS Tools
+- [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server Side TLS Tools have moved
 - [Marko-M/Inchoo_Precache](https://github.com/Marko-M/Inchoo_Precache) - Magento pre-cache PHP shell script
 - [oystparis/oyst-1click-magento2](https://github.com/oystparis/oyst-1click-magento2) - 
 - [BonzaiThePenguin/Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for macOS
@@ -4238,7 +4238,7 @@
 ## php 
 
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - Utility that creates anonymized database dumps (MySQL only). Provides default config templates for Magento, Drupal and Shopware.
-- [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf
+- [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free open-source web software for signing PDF (alone or with others) and also organize pages, edit metadata and compress pdf
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 - [mevdschee/php-crud-api](https://github.com/mevdschee/php-crud-api) - Single file PHP script that adds a REST API to a SQL database
 - [Catrobat/Catroweb](https://github.com/Catrobat/Catroweb) - Catroweb - A social platform to share and browse projects created with Catrobat's apps (Pocket Code, ...) by our users.
@@ -4268,7 +4268,7 @@
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
 - [TYPO3BestPractices/tea](https://github.com/TYPO3BestPractices/tea) - Example extension for unit testing and best practices.
 - [amzn/amazon-payments-magento-2-plugin](https://github.com/amzn/amazon-payments-magento-2-plugin) - Extension to enable Amazon Pay on Magento 2
-- [ecsphp/ecs](https://github.com/ecsphp/ecs) - ECS runs PHP-CS-Fixer and PHP_CodeSniffer as a single, parallel, fast tool, zero dependencies, requiring only PHP 7.2+. Configure with prepared sets, gradual levels via, plug-in and keep it running fo
+- [ecsphp/ecs](https://github.com/ecsphp/ecs) - ECS runs PHP-CS-Fixer and PHP_CodeSniffer as a single, parallel fast tool with zero dependencies. Run on PHP 7.2+
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) - Rector for TYPO3
 - [cartalyst/sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorization system.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.

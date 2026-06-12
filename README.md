@@ -102,6 +102,7 @@
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [rofl0r/ncdu](https://github.com/rofl0r/ncdu) - inofficial fork of "NCurses Disk Usage"
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [mozilla/mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
 - [cyd01/KiTTY](https://github.com/cyd01/KiTTY) - :computer: KiTTY, a free telnet/ssh client for Windows
@@ -144,7 +145,6 @@
 - [Xavier-Mobius/Qonto.BankStatements](https://github.com/Xavier-Mobius/Qonto.BankStatements) - Retrieve bank statements from Qonto automatically
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [Ellerbach/Nabaztag.Net](https://github.com/Ellerbach/Nabaztag.Net) - Nabaztag.Net to have a full interaction with the pynab service
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
@@ -307,7 +307,6 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
@@ -448,7 +447,7 @@
 - [creativestyle/theme-creativeshop](https://github.com/creativestyle/theme-creativeshop) - 
 - [degouville/sublime-bootstrap4](https://github.com/degouville/sublime-bootstrap4) - Bootstrap 4 Snippets for Sublime Text 3
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
-- [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server side TLS Tools
+- [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server Side TLS Tools have moved
 - [vast-engineering/jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [code4business/freeproduct](https://github.com/code4business/freeproduct) - Magento Extension: Add gifts in your shopping cart when meeting cart rules
@@ -566,7 +565,7 @@
 
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
-- [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf
+- [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free open-source web software for signing PDF (alone or with others) and also organize pages, edit metadata and compress pdf
 - [macademy/magento-csp-whitelist-generator](https://github.com/macademy/magento-csp-whitelist-generator) - 
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -615,7 +614,7 @@
 - [robaimes/module-native-experience](https://github.com/robaimes/module-native-experience) - Utilise modern web API's to provide a more native/app-like experience to your Magento store
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [7flash/AutoChatGPT](https://github.com/7flash/AutoChatGPT) - 
-- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
+- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory. Suspend what you don't need.
 - [oakmac/chessboardjs](https://github.com/oakmac/chessboardjs) - JavaScript chessboard
 - [Strryke/betafish](https://github.com/Strryke/betafish) - A chess engine and AI move finder written in Javascript. Beats Stockfish level 6 on Lichess.
 - [camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
@@ -1383,7 +1382,7 @@
 - [Yoast/Yoast-SEO-for-TYPO3](https://github.com/Yoast/Yoast-SEO-for-TYPO3) - Yoast SEO plugin for TYPO3
 - [AOEpeople/TYPO3-varnish](https://github.com/AOEpeople/TYPO3-varnish) - This is a TYPO3-Extension that integrates the popular Varnish HTTP Cache into TYPO3.
 - [amzn/amazon-payments-magento-2-plugin](https://github.com/amzn/amazon-payments-magento-2-plugin) - Extension to enable Amazon Pay on Magento 2
-- [easy-coding-standard/ecs](https://github.com/easy-coding-standard/ecs) - The Easiest way to add coding standard to your PHP project
+- [ecsphp/ecs](https://github.com/ecsphp/ecs) - ECS runs PHP-CS-Fixer and PHP_CodeSniffer as a single, parallel fast tool with zero dependencies. Run on PHP 7.2+
 - [monsieurbiz/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/monsieurbiz/CoopTilleulsSyliusClickNCollectPlugin) - Sell and deliver securely during the COVID-19 pandemic!
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) - Rector for TYPO3
 - [cartalyst/sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorization system.
@@ -2563,6 +2562,7 @@
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [magento/m2-devtools](https://github.com/magento/m2-devtools) - Helpful in-browser debugging/inspection tools for the Magento 2 Front-End
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
