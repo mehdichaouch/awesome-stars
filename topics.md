@@ -3528,7 +3528,7 @@
 - [RPi-Distro/raspi-config](https://github.com/RPi-Distro/raspi-config) - Configuration tool for the Raspberry Pi
 - [DanMcInerney/wifijammer](https://github.com/DanMcInerney/wifijammer) - Continuously jam all wifi clients/routers
 - [savio-code/ghost-phisher](https://github.com/savio-code/ghost-phisher) - Automatically exported from code.google.com/p/ghost-phisher
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
+- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
 - [3035app/pialab](https://github.com/3035app/pialab) - PiaLab Angular app
 - [shulard/git-service-move](https://github.com/shulard/git-service-move) - Move a git project from one online service to another easily
 - [paragonie/seedspring](https://github.com/paragonie/seedspring) - Seeded, Deterministic PRNG (based on AES-CTR instead of LCG)
