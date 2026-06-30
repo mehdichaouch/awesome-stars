@@ -797,7 +797,7 @@
 - [opengento/magento2-makegento-cli](https://github.com/opengento/magento2-makegento-cli) - Make but for Magento
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [jolicode/castor](https://github.com/jolicode/castor) - 🦫 A lightweight and modern task runner for Automation, CI/CD & DevOps.
-- [MadeInPierre/finalynx](https://github.com/MadeInPierre/finalynx) - A minimalistic companion (CLI & web) to organize your investment portfolio, simulate its future, and reach your life goals.
+- [MadeInPierre/finalynx](https://github.com/MadeInPierre/finalynx) - A minimalistic CLI to organize your investment portfolio, simulate its future, and reach your life goals.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [o-daneel/Lunii.PACKS](https://github.com/o-daneel/Lunii.PACKS) - A simple Python proof of concept for handling Lunii stories
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -893,7 +893,7 @@
 
 - [opengento/magento2-makegento-cli](https://github.com/opengento/magento2-makegento-cli) - Make but for Magento
 - [jolicode/castor](https://github.com/jolicode/castor) - 🦫 A lightweight and modern task runner for Automation, CI/CD & DevOps.
-- [MadeInPierre/finalynx](https://github.com/MadeInPierre/finalynx) - A minimalistic companion (CLI & web) to organize your investment portfolio, simulate its future, and reach your life goals.
+- [MadeInPierre/finalynx](https://github.com/MadeInPierre/finalynx) - A minimalistic CLI to organize your investment portfolio, simulate its future, and reach your life goals.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [minicli/minicli](https://github.com/minicli/minicli) - A minimal framework for command-line applications in PHP. Join our Discord: https://discord.gg/hY5UNC4XPf
@@ -1376,7 +1376,7 @@
 
 ## finance 
 
-- [MadeInPierre/finalynx](https://github.com/MadeInPierre/finalynx) - A minimalistic companion (CLI & web) to organize your investment portfolio, simulate its future, and reach your life goals.
+- [MadeInPierre/finalynx](https://github.com/MadeInPierre/finalynx) - A minimalistic CLI to organize your investment portfolio, simulate its future, and reach your life goals.
 - [tkp-archive/pyEX](https://github.com/tkp-archive/pyEX) - Python interface to IEX and IEX cloud APIs
 - [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
@@ -4618,7 +4618,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [pytube/pytube](https://github.com/pytube/pytube) - Lightweight, dependency-free Python library and CLI for downloading YouTube videos, playlists, and captions.
-- [MadeInPierre/finalynx](https://github.com/MadeInPierre/finalynx) - A minimalistic companion (CLI & web) to organize your investment portfolio, simulate its future, and reach your life goals.
+- [MadeInPierre/finalynx](https://github.com/MadeInPierre/finalynx) - A minimalistic CLI to organize your investment portfolio, simulate its future, and reach your life goals.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [danimtb/dasshio](https://github.com/danimtb/dasshio) - Hass.io add-on to easily use Amazon Dash Buttons with Home Assistant
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -5461,7 +5461,7 @@
 ## web 
 
 - [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
-- [MadeInPierre/finalynx](https://github.com/MadeInPierre/finalynx) - A minimalistic companion (CLI & web) to organize your investment portfolio, simulate its future, and reach your life goals.
+- [MadeInPierre/finalynx](https://github.com/MadeInPierre/finalynx) - A minimalistic CLI to organize your investment portfolio, simulate its future, and reach your life goals.
 - [Badcow/DNS](https://github.com/Badcow/DNS) - The aim of this project is to create abstract object representations of DNS records in PHP. The project consists of various classes representing DNS objects (such as Zone, ResourceRecord, and various 
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
