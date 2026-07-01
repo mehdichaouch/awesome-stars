@@ -244,7 +244,7 @@
 
 ## Clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [jhchabran/tabswitcher](https://github.com/jhchabran/tabswitcher) - Textmate's Command-T to switch tabs in Google Chrome
 
@@ -1466,6 +1466,7 @@
 - [advocodo/Advocodo_Group](https://github.com/advocodo/Advocodo_Group) - Magento module to add group list and custom group input in customer create account form.
 - [magento-hackathon/module-eavcleaner-m2](https://github.com/magento-hackathon/module-eavcleaner-m2) - Clean up your Magento database by removing orphaned, unused and wrongly added attribute, attribute values and settings (for M2).
 - [jf-xia/magento_extensions](https://github.com/jf-xia/magento_extensions) - magento extensions
+- [5mehulhelp5/MagentoExtensions](https://github.com/5mehulhelp5/MagentoExtensions) - Magento Extension Directory 1&gt; Themes Switcher 2&gt; Default Shipping On Cart 3&gt; Upshare 4&gt; Product Image Optimizer  5&gt; Idealo Product Export  6&gt; magento Google shopping Api v2 7&gt;Goo
 - [trive-digital/AdaptiveResizeM2](https://github.com/trive-digital/AdaptiveResizeM2) - 
 - [bigbridge-nl/product-import](https://github.com/bigbridge-nl/product-import) - Fast product import library for Magento 2
 - [sviatoslav-lashkiv/m2-avoid-cart-merging-module](https://github.com/sviatoslav-lashkiv/m2-avoid-cart-merging-module) - 
