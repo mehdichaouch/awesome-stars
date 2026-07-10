@@ -1192,7 +1192,7 @@
 - [FriendsOfAkeneo/awesome-akeneo](https://github.com/FriendsOfAkeneo/awesome-akeneo) - Awesome Akeneo
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
 - [tducret/python-clean-architecture-example](https://github.com/tducret/python-clean-architecture-example) - Clean architecture example with Python
 - [cryptofinance-ai/cryptofinance-google-sheets-add-on](https://github.com/cryptofinance-ai/cryptofinance-google-sheets-add-on) - CRYPTOFINANCE() — The easiest way to get cryptocurrencies prices and more in Google Sheets.
 - [opengento/magento2-downgrade-ee-ce](https://github.com/opengento/magento2-downgrade-ee-ce) - Migration Tool for Adobe Commerce to Magento Open Source
@@ -2271,6 +2271,7 @@
 - [bslatkin/mirrorrr](https://github.com/bslatkin/mirrorrr) - Web proxy for App Engine
 - [timbrel/GitSavvy](https://github.com/timbrel/GitSavvy) - Full git and GitHub integration with Sublime Text
 - [arc90/git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
+- [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu) - text window manager, shell multiplexer, integrated DevOps environment
 - [spadgos/sublime-jsdocs](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++
 - [condemil/gist](https://github.com/condemil/gist) - Sublime Text plugin for creating new Gists from selected text
 - [tv42/gitosis](https://github.com/tv42/gitosis) - software for hosting git repositories
@@ -2489,7 +2490,6 @@
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu) - text window manager, shell multiplexer, integrated DevOps environment
 - [jasonrobertfox/dotfiles](https://github.com/jasonrobertfox/dotfiles) - Shell and other configurations
 - [greg0ire/git_template](https://github.com/greg0ire/git_template) - Automating your workflow with git
 - [colinmollenhour/modman](https://github.com/colinmollenhour/modman) - Modularize extensions using symlinks. Voted #1 Magento tool by @WebShopApps!

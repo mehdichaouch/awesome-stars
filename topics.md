@@ -293,6 +293,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [workflow](#workflow)
 - [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
@@ -348,7 +349,7 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [floneum/kalosm](https://github.com/floneum/kalosm) - Instant, controllable, local pre-trained AI models in Rust
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -358,7 +359,7 @@
 - [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
@@ -774,7 +775,7 @@
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [CaptainFact/captain-fact-extension](https://github.com/CaptainFact/captain-fact-extension) - 🔎 CaptainFact - Browser Extension. Displays facts on YouTube videos
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
 - [ccampbell/chromelogger](https://github.com/ccampbell/chromelogger) - chrome extension for server side console logging
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [nilbuild/githunt](https://github.com/nilbuild/githunt) - Hunt the most starred projects on any date on GitHub
@@ -1168,7 +1169,7 @@
 - [smalldev-tools/smalldev-tools](https://github.com/smalldev-tools/smalldev-tools) - Official repository of https://smalldev.tools/
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [watch-devtube/contrib](https://github.com/watch-devtube/contrib) - Data for dev.tube – 🍿 a free and open-source tech video hub.
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
 - [ccampbell/chromelogger](https://github.com/ccampbell/chromelogger) - chrome extension for server side console logging
 - [checkly/puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node.
 - [jackmahoney/DomainPecker-Support](https://github.com/jackmahoney/DomainPecker-Support) - 
@@ -4613,7 +4614,7 @@
 
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [graphcommerce-org/graphcommerce](https://github.com/graphcommerce-org/graphcommerce) - GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
 - [magento/pwa-studio](https://github.com/magento/pwa-studio) - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [vuejs-templates/pwa](https://github.com/vuejs-templates/pwa) - PWA template for vue-cli based on the webpack template
@@ -5522,7 +5523,6 @@
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [elonen/clapshot](https://github.com/elonen/clapshot) - Self hosted web based collaborative video review tool
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [jackmahoney/DomainPecker-Support](https://github.com/jackmahoney/DomainPecker-Support) - 
 
 ## webpack 
@@ -5593,6 +5593,12 @@
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
+
+## workflow 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [symfony/workflow](https://github.com/symfony/workflow) - Provides tools for managing a workflow or finite state machine
+- [brunch/brunch](https://github.com/brunch/brunch) - 🍴 Web applications made easy. Since 2011.
 
 ## xcode 
 
