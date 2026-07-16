@@ -435,7 +435,6 @@
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 on functional programming, performance, frameworks, React, debugging, leveling up, and more! ⚡️
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
-- [axway-streams/axway-amplify-streams-js](https://github.com/axway-streams/axway-amplify-streams-js) - AMPLIFY Streams Javascript package containing SDK, documentation and sample applications
 - [marmelab/ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
 - [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 
@@ -2274,7 +2273,6 @@
 - [videowhisper/Cam-Recorder-HTML5-Video-Audio](https://github.com/videowhisper/Cam-Recorder-HTML5-Video-Audio) - Camera / Microphone Recorder 📹🎙 in HTML5: Audio/Video Recording, Download, Send to Server, Instant Recording Booth with Recordings. 💯100% Web Based, 🚫No Flash.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
-- [axway-streams/axway-amplify-streams-js](https://github.com/axway-streams/axway-amplify-streams-js) - AMPLIFY Streams Javascript package containing SDK, documentation and sample applications
 - [jstherightway/js-the-right-way](https://github.com/jstherightway/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
 - [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 
@@ -2764,7 +2762,6 @@
 - [lance-gg/lance](https://github.com/lance-gg/lance) - Multiplayer game server based on Node.JS
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [axway-streams/axway-amplify-streams-js](https://github.com/axway-streams/axway-amplify-streams-js) - AMPLIFY Streams Javascript package containing SDK, documentation and sample applications
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -5473,7 +5470,6 @@
 - [ergonode/frontend](https://github.com/ergonode/frontend) - For seeing Ergonode in action please book a demo https://www.ergonode.com/book-a-demo
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
-- [axway-streams/axway-amplify-streams-js](https://github.com/axway-streams/axway-amplify-streams-js) - AMPLIFY Streams Javascript package containing SDK, documentation and sample applications
 
 ## web 
 
