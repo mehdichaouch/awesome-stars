@@ -49,7 +49,6 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Processing](#processing)
-- [Pug](#pug)
 - [Puppet](#puppet)
 - [Python](#python)
 - [R](#r)
@@ -2074,10 +2073,6 @@
 
 - [processing-js/processing-js](https://github.com/processing-js/processing-js) - A port of the Processing visualization language to JavaScript.
 
-## Pug 
-
-- [app-generator/tailwind-css-components](https://github.com/app-generator/tailwind-css-components) - Tailwind CSS Components - Free and Open-Source Tailwind Components | AppSeed
-
 ## Puppet 
 
 - [mstrauss/puppet-runit](https://github.com/mstrauss/puppet-runit) - This is a very basic module to manage the runit service supervisor. http://smarden.org/runit/
@@ -2299,7 +2294,7 @@
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [magento/devdocs](https://github.com/magento/devdocs) - [Deprecated] Magento Developer Documentation
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
-- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
 - [hfreire/rotating-proxy](https://github.com/hfreire/rotating-proxy) - Rotating TOR proxy with Docker
