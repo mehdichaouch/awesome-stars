@@ -1142,7 +1142,7 @@
 - [multiplie-fr/minimit](https://github.com/multiplie-fr/minimit) - Le MiniMit permet de redonner vie aux Minitels
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [SymfonyCon/2022-talks](https://github.com/SymfonyCon/2022-talks) - 
-- [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
+- [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - Awesome tools to tinker with containers.
 - [yireo/magento2-replace-core](https://github.com/yireo/magento2-replace-core) - Magento 2 meta-package to replace all optional core modules
 - [yireo/magento2-replace-graphql](https://github.com/yireo/magento2-replace-graphql) - Magento 2 meta-package to replace all optional GraphQL modules
 - [guardrailsio/awesome-php-security](https://github.com/guardrailsio/awesome-php-security) - Awesome PHP Security Resources 🕶🐘🔐
