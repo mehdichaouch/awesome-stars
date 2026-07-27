@@ -2584,7 +2584,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [michael-dm/eva](https://github.com/michael-dm/eva) - 
-- [bamdadfr/leboncoin-pdf-ext](https://github.com/bamdadfr/leboncoin-pdf-ext) - PDF Exporter for leboncoin.fr
+- [bamdadfr/leboncoin-pdf](https://github.com/bamdadfr/leboncoin-pdf) - leboncoin PDF
 - [nohello-net/site](https://github.com/nohello-net/site) - 
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with AI
 - [Garlic-AI/siteexplainer](https://github.com/Garlic-AI/siteexplainer) - explains site

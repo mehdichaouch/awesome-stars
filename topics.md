@@ -750,7 +750,7 @@
 
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
-- [bamdadfr/leboncoin-pdf-ext](https://github.com/bamdadfr/leboncoin-pdf-ext) - PDF Exporter for leboncoin.fr
+- [bamdadfr/leboncoin-pdf](https://github.com/bamdadfr/leboncoin-pdf) - leboncoin PDF
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory. Suspend what you don't need.
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
 - [sanderheilbron/seo-shortcuts](https://github.com/sanderheilbron/seo-shortcuts) - SEO Shortcuts — A browser extension for Chrome
@@ -767,7 +767,7 @@
 ## chrome-extension 
 
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
-- [bamdadfr/leboncoin-pdf-ext](https://github.com/bamdadfr/leboncoin-pdf-ext) - PDF Exporter for leboncoin.fr
+- [bamdadfr/leboncoin-pdf](https://github.com/bamdadfr/leboncoin-pdf) - leboncoin PDF
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory. Suspend what you don't need.
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [sanderheilbron/seo-shortcuts](https://github.com/sanderheilbron/seo-shortcuts) - SEO Shortcuts — A browser extension for Chrome
@@ -1398,7 +1398,7 @@
 
 ## firefox 
 
-- [bamdadfr/leboncoin-pdf-ext](https://github.com/bamdadfr/leboncoin-pdf-ext) - PDF Exporter for leboncoin.fr
+- [bamdadfr/leboncoin-pdf](https://github.com/bamdadfr/leboncoin-pdf) - leboncoin PDF
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [sitespeedio/browsertime](https://github.com/sitespeedio/browsertime) - Measure and Optimize Web Performance
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -2079,7 +2079,7 @@
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [videowhisper/Cam-Recorder-HTML5-Video-Audio](https://github.com/videowhisper/Cam-Recorder-HTML5-Video-Audio) - Camera / Microphone Recorder 📹🎙 in HTML5: Audio/Video Recording, Download, Send to Server, Instant Recording Booth with Recordings. 💯100% Web Based, 🚫No Flash.
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
-- [bamdadfr/leboncoin-pdf-ext](https://github.com/bamdadfr/leboncoin-pdf-ext) - PDF Exporter for leboncoin.fr
+- [bamdadfr/leboncoin-pdf](https://github.com/bamdadfr/leboncoin-pdf) - leboncoin PDF
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [Clariity/react-chessboard](https://github.com/Clariity/react-chessboard) - A modern, responsive chessboard component for React applications.
 - [Strryke/betafish](https://github.com/Strryke/betafish) - A chess engine and AI move finder written in Javascript. Beats Stockfish level 6 on Lichess.
