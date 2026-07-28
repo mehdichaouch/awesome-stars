@@ -78,6 +78,7 @@
 - [Lexington-Themes/lexington-tutorials](https://github.com/Lexington-Themes/lexington-tutorials) - This collection offers a range of code snippets tailored for Astro, JavaScript, Alpine JS and Tailwind CSS projects.
 - [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Astro and Airtable.
 - [mage-os/mage-os-website](https://github.com/mage-os/mage-os-website) - Source of the mage-os.org website.
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
@@ -451,7 +452,6 @@
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server Side TLS Tools have moved
 - [vast-engineering/jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [code4business/freeproduct](https://github.com/code4business/freeproduct) - Magento Extension: Add gifts in your shopping cart when meeting cart rules
 - [gwillem/magento-malware-scanner](https://github.com/gwillem/magento-malware-scanner) - Scanner, signatures and the largest collection of Magento malware
 - [startup-matrix/startup-matrix](https://github.com/startup-matrix/startup-matrix) - Startup Matrix exported to CSV, JSON, Markdown and HTML formats. Credits to original article by Eric Stromberg.
@@ -617,7 +617,7 @@
 - [robaimes/module-native-experience](https://github.com/robaimes/module-native-experience) - Utilise modern web API's to provide a more native/app-like experience to your Magento store
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [7flash/AutoChatGPT](https://github.com/7flash/AutoChatGPT) - 
-- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory. Suspend what you don't need.
+- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory: a Manifest V3 Chrome extension that suspends inactive tabs to save memory and CPU. Session backup, tab health checks, Google Drive sync, 18 languages. No ads, no tracking.
 - [oakmac/chessboardjs](https://github.com/oakmac/chessboardjs) - JavaScript chessboard
 - [Strryke/betafish](https://github.com/Strryke/betafish) - A chess engine and AI move finder written in Javascript. Beats Stockfish level 6 on Lichess.
 - [camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
@@ -774,7 +774,6 @@
 - [NebulousLabs/Sia-UI](https://github.com/NebulousLabs/Sia-UI) - A Graphical Frontend for Sia - https://sia.tech
 - [trentm/json](https://github.com/trentm/json) - A "json" command for massaging JSON on your Unix command line.
 - [peterherrmann/BetterLog](https://github.com/peterherrmann/BetterLog) - With one line of code, BetterLog extends the native apps script Logger and gives you automatic additional features like logging to a spreadsheet and more.
-- [xbsoftware/enjoyhint](https://github.com/xbsoftware/enjoyhint) - 
 - [edonkeycoin/gsbitcoinutils](https://github.com/edonkeycoin/gsbitcoinutils) - Cryptocurrency related Javascript utilities that can be used in Google Sheets spreadsheets
 - [mateodelnorte/coinbase](https://github.com/mateodelnorte/coinbase) - wrapper for the coinbase bitcoin wallet & exchange API
 - [zertosh/loose-envify](https://github.com/zertosh/loose-envify) - Like envify but much faster
@@ -1288,6 +1287,7 @@
 
 ## PHP 
 
+- [zepgram/module-disable-search-engine](https://github.com/zepgram/module-disable-search-engine) - Module to disable OpenSearch/Elasticsearch in Magento2. Disable also fulltext indexing for category search.
 - [markshust/magento-polyshell-patch](https://github.com/markshust/magento-polyshell-patch) - 
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - Utility that creates anonymized database dumps (MySQL only). Provides default config templates for Magento, Drupal and Shopware.
 - [berliozd/addeos-anonymize](https://github.com/berliozd/addeos-anonymize) - Magento 2 module with anonymization command
@@ -1400,7 +1400,7 @@
 - [hmmh/typo3-solr-file-indexer](https://github.com/hmmh/typo3-solr-file-indexer) - TYPO3 Extension: solr_file_indexer
 - [hendrikreimers/slug_autoupdate](https://github.com/hendrikreimers/slug_autoupdate) - TYPO3 Slug URL Segment Auto Update
 - [TYPO3-Console/TYPO3-Console](https://github.com/TYPO3-Console/TYPO3-Console) - Console command for TYPO3 CMS
-- [CodersCare/gridelements](https://github.com/CodersCare/gridelements) - Be part of the future of TYPO3! Support Gridelements now and unlock exclusive early access to v13! The well-established Gridelements V12 elevates TYPO3 by bringing grid-based layouts to content elemen
+- [CodersCare/gridelements](https://github.com/CodersCare/gridelements) - Grid-based layouts for TYPO3 content elements - nested grids, real references, advanced drag & drop, a drag-in wizard, granular permissions. The original grid solution for TYPO3 and still the benchmar
 - [georgringer/news](https://github.com/georgringer/news) - TYPO3 Extension news
 - [christophlehmann/imageoptimizer](https://github.com/christophlehmann/imageoptimizer) - TYPO3 Extension for lossless image optimization with binaries of your choice.
 - [xperseguers/t3ext-file_list](https://github.com/xperseguers/t3ext-file_list) - TYPO3 Extension file_list. This extension provides a frontend plugin which shows a list of files and folders in a specified directory on the file system.
@@ -2682,6 +2682,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [xbsoftware/enjoyhint](https://github.com/xbsoftware/enjoyhint) - 
 - [lance-gg/lance](https://github.com/lance-gg/lance) - Multiplayer game server based on Node.JS
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.

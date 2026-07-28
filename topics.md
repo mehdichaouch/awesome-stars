@@ -225,6 +225,7 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [qt](#qt)
+- [quant](#quant)
 - [quantitative-finance](#quantitative-finance)
 - [rag](#rag)
 - [rails](#rails)
@@ -751,7 +752,7 @@
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [bamdadfr/leboncoin-pdf](https://github.com/bamdadfr/leboncoin-pdf) - leboncoin PDF
-- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory. Suspend what you don't need.
+- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory: a Manifest V3 Chrome extension that suspends inactive tabs to save memory and CPU. Session backup, tab health checks, Google Drive sync, 18 languages. No ads, no tracking.
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
 - [sanderheilbron/seo-shortcuts](https://github.com/sanderheilbron/seo-shortcuts) - SEO Shortcuts — A browser extension for Chrome
 - [sitespeedio/browsertime](https://github.com/sitespeedio/browsertime) - Measure and Optimize Web Performance
@@ -768,7 +769,7 @@
 
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 - [bamdadfr/leboncoin-pdf](https://github.com/bamdadfr/leboncoin-pdf) - leboncoin PDF
-- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory. Suspend what you don't need.
+- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory: a Manifest V3 Chrome extension that suspends inactive tabs to save memory and CPU. Session backup, tab health checks, Google Drive sync, 18 languages. No ads, no tracking.
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [sanderheilbron/seo-shortcuts](https://github.com/sanderheilbron/seo-shortcuts) - SEO Shortcuts — A browser extension for Chrome
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
@@ -2081,6 +2082,7 @@
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [bamdadfr/leboncoin-pdf](https://github.com/bamdadfr/leboncoin-pdf) - leboncoin PDF
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory: a Manifest V3 Chrome extension that suspends inactive tabs to save memory and CPU. Session backup, tab health checks, Google Drive sync, 18 languages. No ads, no tracking.
 - [Clariity/react-chessboard](https://github.com/Clariity/react-chessboard) - A modern, responsive chessboard component for React applications.
 - [Strryke/betafish](https://github.com/Strryke/betafish) - A chess engine and AI move finder written in Javascript. Beats Stockfish level 6 on Lichess.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -2867,6 +2869,7 @@
 
 ## others 
 
+- [zepgram/module-disable-search-engine](https://github.com/zepgram/module-disable-search-engine) - Module to disable OpenSearch/Elasticsearch in Magento2. Disable also fulltext indexing for category search.
 - [markshust/magento-polyshell-patch](https://github.com/markshust/magento-polyshell-patch) - 
 - [fast4x/RiPlay](https://github.com/fast4x/RiPlay) - Multiplatform Music Player
 - [zerodytrash/YouTube-Internal-Clients](https://github.com/zerodytrash/YouTube-Internal-Clients) - A python script that discovers hidden YouTube API clients. Just a research project.
@@ -3037,7 +3040,7 @@
 - [in2code-de/powermail](https://github.com/in2code-de/powermail) - This is the official repository of the TYPO3 extension powermail! Powermail is a well-known, editor-friendly, powerful and easy mailform extension for TYPO3
 - [hmmh/typo3-solr-file-indexer](https://github.com/hmmh/typo3-solr-file-indexer) - TYPO3 Extension: solr_file_indexer
 - [hendrikreimers/slug_autoupdate](https://github.com/hendrikreimers/slug_autoupdate) - TYPO3 Slug URL Segment Auto Update
-- [CodersCare/gridelements](https://github.com/CodersCare/gridelements) - Be part of the future of TYPO3! Support Gridelements now and unlock exclusive early access to v13! The well-established Gridelements V12 elevates TYPO3 by bringing grid-based layouts to content elemen
+- [CodersCare/gridelements](https://github.com/CodersCare/gridelements) - Grid-based layouts for TYPO3 content elements - nested grids, real references, advanced drag & drop, a drag-in wizard, granular permissions. The original grid solution for TYPO3 and still the benchmar
 - [FriendsOfTYPO3/tt_address](https://github.com/FriendsOfTYPO3/tt_address) - Add address / contact datasets to your content management system.
 - [christophlehmann/imageoptimizer](https://github.com/christophlehmann/imageoptimizer) - TYPO3 Extension for lossless image optimization with binaries of your choice.
 - [xperseguers/t3ext-file_list](https://github.com/xperseguers/t3ext-file_list) - TYPO3 Extension file_list. This extension provides a frontend plugin which shows a list of files and folders in a specified directory on the file system.
@@ -4578,6 +4581,7 @@
 
 ## productivity 
 
+- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory: a Manifest V3 Chrome extension that suspends inactive tabs to save memory and CPU. Session backup, tab health checks, Google Drive sync, 18 languages. No ads, no tracking.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
@@ -4715,6 +4719,10 @@
 
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
+
+## quant 
+
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 
 ## quantitative-finance 
 
