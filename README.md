@@ -2179,7 +2179,6 @@
 - [mehdichaouch/nabstory](https://github.com/mehdichaouch/nabstory) - Let your Nabaztag 🐰 read you a story 📖
 - [ethanchewy/PythonBuddy](https://github.com/ethanchewy/PythonBuddy) - 1st Online Python Editor With Live Syntax Checking and Execution
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
-- [MindPatch/scant3r](https://github.com/MindPatch/scant3r) - ScanT3r - Module based Bug Bounty Automation Tool ( use Lotus instead github.com/bugBlocker/lotus )
 - [satyarth/pixelsort](https://github.com/satyarth/pixelsort) - Pixel sorting images in python.
 - [Sebclem/OctoPrint-SimpleEmergencyStop](https://github.com/Sebclem/OctoPrint-SimpleEmergencyStop) - A simple plugin that add an emergency stop buton on NavBar of OctoPrint
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
@@ -2344,6 +2343,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
+- [MindPatch/scant3r](https://github.com/MindPatch/scant3r) - ScanT3r - Module based Bug Bounty Automation Tool ( use Lotus instead github.com/bugBlocker/lotus )
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
