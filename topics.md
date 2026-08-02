@@ -2323,7 +2323,6 @@
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-- [alibaba/tengine](https://github.com/alibaba/tengine) - High-performance web server and reverse proxy: HTTP/3, Kubernetes Ingress, zero-downtime dynamic configuration, active upstream health checks, and NTLS (SM2/SM3/SM4). 100% nginx-compatible, battle-tes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
@@ -2466,7 +2465,7 @@
 ## lua 
 
 - [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
-- [alibaba/tengine](https://github.com/alibaba/tengine) - High-performance web server and reverse proxy: HTTP/3, Kubernetes Ingress, zero-downtime dynamic configuration, active upstream health checks, and NTLS (SM2/SM3/SM4). 100% nginx-compatible, battle-tes
+- [alibaba/tengine](https://github.com/alibaba/tengine) - A high-performance web server and reverse proxy, 100% compatible with nginx.
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 
 ## mac 
