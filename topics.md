@@ -3278,7 +3278,7 @@
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [simonw/package-stats](https://github.com/simonw/package-stats) - Download statistics for my PyPI packages
 - [yasoob/github-action-scraper-tutorial](https://github.com/yasoob/github-action-scraper-tutorial) - 
-- [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: A GitHub Action to send an email to multiple recipients
+- [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: GitHub Action for sending emails
 - [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) - A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 - [magesuite/magepack](https://github.com/magesuite/magepack) - Next generation Magento 2 advanced JavaScript bundler.
 - [Magenerds/RichSnippet](https://github.com/Magenerds/RichSnippet) - 
