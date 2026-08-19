@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [agent](#agent)
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -319,6 +320,10 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
+
+## agent-skills 
+
+- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 
 ## agents 
 
@@ -3639,6 +3644,7 @@
 - [monsieurbiz/Mbiz_IWantMySymlinksBack](https://github.com/monsieurbiz/Mbiz_IWantMySymlinksBack) - Make our symlinks great again ❤️
 - [AmastyLtd-zz/Magento-2-Module-Creator](https://github.com/AmastyLtd-zz/Magento-2-Module-Creator) - This Magento 2 Module Creator will help you to save time on routine tasks. Use company and extension names to generate Magento 2 extension prototype.
 - [opengento/categoryid](https://github.com/opengento/categoryid) - 
+- [Open-Enterprise-Archive/magento-multi-coupons](https://github.com/Open-Enterprise-Archive/magento-multi-coupons) - Adds support for multiple coupons in Magento
 - [nexcess/magento-two-factor-auth](https://github.com/nexcess/magento-two-factor-auth) - A 2-Factor authentication extension for Magento.
 - [flagbit/Magento-ChangeAttributeSet](https://github.com/flagbit/Magento-ChangeAttributeSet) - In Magento every product has a fixed attibute set. This module enables you to switch it.
 - [MageTest/MageSpec](https://github.com/MageTest/MageSpec) - PHPSpec for Magento
@@ -5245,7 +5251,6 @@
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - 📖 A guide for your daily "professional" interactions
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.

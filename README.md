@@ -144,6 +144,7 @@
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
 - [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+- [UniverseDevel/ULO-Manager](https://github.com/UniverseDevel/ULO-Manager) - Scripts allowing your ULO - An interactive home monitoring owl to become a bit more useful after its support was almost immediately dropped after its release.
 - [Xavier-Mobius/Qonto.BankStatements](https://github.com/Xavier-Mobius/Qonto.BankStatements) - Retrieve bank statements from Qonto automatically
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
@@ -610,7 +611,6 @@
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [Rob--W/dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) - Firefox and Chrome extensions to prevent Google from making links ugly.
 - [FriendsOfTYPO3/tt_address](https://github.com/FriendsOfTYPO3/tt_address) - Add address / contact datasets to your content management system.
-- [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) - Scripts allowing your ULO - An interactive home monitoring owl to become a bit more useful after its support was almost immediately dropped after its release.
 - [BiveDigital/module-countdown-component-lite](https://github.com/BiveDigital/module-countdown-component-lite) - Magento 2 Countdown Timer for Page Builder
 - [happymachines/magento2-module-custom-forms-page-builder](https://github.com/happymachines/magento2-module-custom-forms-page-builder) - Magento 2 custom form page builder component
 - [ccerda0520/page-builder-enhancements](https://github.com/ccerda0520/page-builder-enhancements) - A Magento 2 module that adds features on top of the page builder module.
@@ -650,7 +650,7 @@
 - [thaydds/chrome-extension-get-token](https://github.com/thaydds/chrome-extension-get-token) - 
 - [visjs/vis-timeline](https://github.com/visjs/vis-timeline) - 📅 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
 - [poloclub/ganlab](https://github.com/poloclub/ganlab) - GAN Lab: An Interactive, Visual Experimentation Tool for Generative Adversarial Networks
-- [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: A GitHub Action to send an email to multiple recipients
+- [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: GitHub Action for sending emails
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [magesuite/magepack](https://github.com/magesuite/magepack) - Next generation Magento 2 advanced JavaScript bundler.
 - [debkbanerji/lego-art-remix](https://github.com/debkbanerji/lego-art-remix) - Powerful computer vision assisted Lego mosaic creator · Over 1 million images created (so far!)
@@ -1778,6 +1778,7 @@
 - [monsieurbiz/Mbiz_IWantMySymlinksBack](https://github.com/monsieurbiz/Mbiz_IWantMySymlinksBack) - Make our symlinks great again ❤️
 - [AmastyLtd-zz/Magento-2-Module-Creator](https://github.com/AmastyLtd-zz/Magento-2-Module-Creator) - This Magento 2 Module Creator will help you to save time on routine tasks. Use company and extension names to generate Magento 2 extension prototype.
 - [opengento/categoryid](https://github.com/opengento/categoryid) - 
+- [Open-Enterprise-Archive/magento-multi-coupons](https://github.com/Open-Enterprise-Archive/magento-multi-coupons) - Adds support for multiple coupons in Magento
 - [flagbit/Magento-ChangeAttributeSet](https://github.com/flagbit/Magento-ChangeAttributeSet) - In Magento every product has a fixed attibute set. This module enables you to switch it.
 - [algolia/algoliasearch-magento](https://github.com/algolia/algoliasearch-magento) - Algolia Search integration for Magento 1 - compatible with versions from 1.6.x to 1.9.x
 - [MageTest/MageSpec](https://github.com/MageTest/MageSpec) - PHPSpec for Magento
