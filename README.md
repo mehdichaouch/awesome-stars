@@ -2099,7 +2099,7 @@
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [Screenly/Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude t
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application bot in Python: auto apply to jobs, with a tailored resume and cover letter for each posting.
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application bot in Python: browser automation and web scraping to read job postings, then auto-apply with a tailored resume and cover letter for each posting.
 - [3DTopia/3DTopia](https://github.com/3DTopia/3DTopia) - Text-to-3D Generation within 5 Minutes
 - [openfisca/openfisca-france](https://github.com/openfisca/openfisca-france) - French tax and benefit system for OpenFisca
 - [MathisHammel/CroixPharmacie](https://github.com/MathisHammel/CroixPharmacie) - Build apps and run Doom on a pharmacy cross!
