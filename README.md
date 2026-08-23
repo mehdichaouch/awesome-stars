@@ -30,7 +30,6 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Less](#less)
@@ -1008,10 +1007,6 @@
 - [arty-name/Open-Google-Reader](https://github.com/arty-name/Open-Google-Reader) - Replaces native Google Reader's interface with fully customizable one.
 - [kangax/detect-global](https://github.com/kangax/detect-global) - Bookmarklet for listing global variables (helps prevent accidental leaks)
 
-## Jinja 
-
-- [hassio-addons/app-ssh](https://github.com/hassio-addons/app-ssh) - Advanced SSH & Web Terminal - Home Assistant Community Apps
-
 ## Jupyter Notebook 
 
 - [mshumer/gpt-investor](https://github.com/mshumer/gpt-investor) - 
@@ -1251,7 +1246,7 @@
 - [kiteco/issue-tracker](https://github.com/kiteco/issue-tracker) - User-reported issues for Kite
 - [symfony/binary-utils](https://github.com/symfony/binary-utils) - 
 - [recalbox/recalbox-os](https://github.com/recalbox/recalbox-os) - The recalbox repository moved to https://gitlab.com/recalbox/recalbox
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
 - [lopspower/BestAndroidGists](https://github.com/lopspower/BestAndroidGists) - Find best Android Gist 🔥
@@ -2389,6 +2384,7 @@
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [zigbee2mqtt/hassio-zigbee2mqtt](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt) - Official Zigbee2MQTT Home Assistant add-on
+- [hassio-addons/app-ssh](https://github.com/hassio-addons/app-ssh) - Advanced SSH & Web Terminal - Home Assistant Community Apps
 - [mikaelvesavuori/a11ytester-action](https://github.com/mikaelvesavuori/a11ytester-action) - Runs Webhint and pa11y (accessibility testing tools) on one or more provided URLs.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
