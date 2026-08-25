@@ -1219,7 +1219,7 @@
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [jurismatic/jurismatic](https://github.com/jurismatic/jurismatic) - http://www.jurismatic.com
 - [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
-- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro. 🕹
 - [binlist/data](https://github.com/binlist/data) - binlist.net data repo
 - [SymfonyCon/2017-talks](https://github.com/SymfonyCon/2017-talks) - 
 - [kmence/nikto](https://github.com/kmence/nikto) - a Dockerized image of Nikto (web server scanner) - https://cirt.net/Nikto2
@@ -1801,7 +1801,6 @@
 - [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
 - [integer-net/solr-magento1](https://github.com/integer-net/solr-magento1) - Free Solr Module for Magento 1 for greatly improved search results
 - [hirak/prestissimo](https://github.com/hirak/prestissimo) - composer parallel install plugin
-- [PayEx/PayEx.Magento](https://github.com/PayEx/PayEx.Magento) - Legacy PayEx Payment Gateway Extension for Magento 1
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - :heavy_check_mark: PHP Test Framework for Freedom, Truth, and Justice
 - [maxmind/GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - PHP API for GeoIP2 webservice client and database reader
 - [Inchoo/Inchoo_PHP7](https://github.com/Inchoo/Inchoo_PHP7) - PHP 7 compatibility extension for Magento 1 (DEPRECATED!!)
