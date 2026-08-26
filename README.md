@@ -1941,7 +1941,6 @@
 - [schmittjoh/JMSTranslationBundle](https://github.com/schmittjoh/JMSTranslationBundle) - Puts the Symfony2 Translation Component on steroids
 - [lexik/LexikMaintenanceBundle](https://github.com/lexik/LexikMaintenanceBundle) - This Symfony2 bundle allows you to place your website in maintenance mode by calling two commands in your console. A page with status code 503 appears to users, it is possible to authorize certain ips
 - [jolicode/php7-checker](https://github.com/jolicode/php7-checker) - :ballot_box_with_check: PHP7 checker
-- [lyrixx/CommandSchedulerBundle](https://github.com/lyrixx/CommandSchedulerBundle) - Symfony2's bundle that will allow you to schedule all your commands just like unix crontab, with a nice admin panel
 - [carew/carew](https://github.com/carew/carew) - A simple site generator
 - [KnpLabs/KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) - Easily create PDF and images in Symfony by converting html using webkit
 - [hoangthienan/symfony-pre-commit](https://github.com/hoangthienan/symfony-pre-commit) - A Symfony pre-commit hook
@@ -2108,7 +2107,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mistralai-sf24/hackathon](https://github.com/mistralai-sf24/hackathon) - 
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
-- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
+- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
