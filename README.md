@@ -800,7 +800,7 @@
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [digitalcraftsman/hugo-creative-theme](https://github.com/digitalcraftsman/hugo-creative-theme) - Port of Startbootstrap's Creative theme to Hugo
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling cookies, client-side.
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features a
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . Translations as PRs to imports/i18n/da
 - [nghuuphuoc/responsivetest](https://github.com/nghuuphuoc/responsivetest) - Test responsive layout, powered by AngularJS and Bootstrap 3. If this tool is useful to you, please Star it.
 - [jaysalvat/vegas](https://github.com/jaysalvat/vegas) - Vegas is a jQuery/Zepto plugin to add beautiful backgrounds and Slideshows to DOM elements.
 - [NUKnightLab/TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) - TimelineJS v3: A Storytelling Timeline built in JavaScript.  http://timeline.knightlab.com
@@ -950,7 +950,7 @@
 - [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 - [rashidkpc/kibana2](https://github.com/rashidkpc/kibana2) - Kibana was acquired by Elastic in 2013. See elastic/kibana. More info at http://kibana.org
 - [eirikb/nipster](https://github.com/eirikb/nipster) - Search tool for npm
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting parallel compression, web streams, zip64, split files, data encryption, and deflate64 decompression.
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting parallel compression, web streams, pluggable compression engines, zip64, split files, data encryption, and deflate64 decompression.
 - [altryne/extensionizr](https://github.com/altryne/extensionizr) - Extensionizr! Create a chrome extension in 15 seconds!
 - [toolness/slowmo-js](https://github.com/toolness/slowmo-js) - Execute JavaScript in slow motion.
 - [jaystack/jaydata](https://github.com/jaystack/jaydata) - Notice: this library isn't maintained anymore
@@ -2110,7 +2110,7 @@
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [mapbox/osm-boundaries](https://github.com/mapbox/osm-boundaries) - MapBox OSM boundary relation processing
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) - OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container ima
 - [lmstudio-ai/model-catalog](https://github.com/lmstudio-ai/model-catalog) - A collection of standardized JSON descriptors for Large Language Model (LLM) files.
