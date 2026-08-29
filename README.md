@@ -268,7 +268,7 @@
 
 ## Dockerfile 
 
-- [hassio-addons/addon-vscode](https://github.com/hassio-addons/addon-vscode) - Studio Code Server - Home Assistant Community Add-ons
+- [hassio-addons/app-vscode](https://github.com/hassio-addons/app-vscode) - Studio Code Server - Home Assistant Community Apps
 - [kangasta/jenkins-examples](https://github.com/kangasta/jenkins-examples) - Examples for settings up and using Jenkins in and with containers.
 - [meanbee/docker-magento](https://github.com/meanbee/docker-magento) - 🐳 Docker containers with all required Magento dependencies installed available as Apache and CLI
 - [fballiano/docker-magento2-apache-php](https://github.com/fballiano/docker-magento2-apache-php) - 
@@ -800,7 +800,7 @@
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [digitalcraftsman/hugo-creative-theme](https://github.com/digitalcraftsman/hugo-creative-theme) - Port of Startbootstrap's Creative theme to Hugo
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling cookies, client-side.
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . Translations as PRs to imports/i18n/da
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/
 - [nghuuphuoc/responsivetest](https://github.com/nghuuphuoc/responsivetest) - Test responsive layout, powered by AngularJS and Bootstrap 3. If this tool is useful to you, please Star it.
 - [jaysalvat/vegas](https://github.com/jaysalvat/vegas) - Vegas is a jQuery/Zepto plugin to add beautiful backgrounds and Slideshows to DOM elements.
 - [NUKnightLab/TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) - TimelineJS v3: A Storytelling Timeline built in JavaScript.  http://timeline.knightlab.com
