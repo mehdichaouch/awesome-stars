@@ -2003,7 +2003,7 @@
 - [netz98/n98-magerun](https://github.com/netz98/n98-magerun) - The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a mod
 - [nicksagona/popphp-v1-legacy](https://github.com/nicksagona/popphp-v1-legacy) - Pop PHP Framework v1.7.0 : A Lightweight PHP Framework
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
-- [thelia/thelia](https://github.com/thelia/thelia) - Thelia is an open source tool for creating e-business websites and managing online content. Repo containing the new major version (v2)
+- [thelia/thelia](https://github.com/thelia/thelia) - Thelia is an open-source e-commerce CMS and framework built on Symfony 7 and API Platform.
 - [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
 - [BitOne/php-meminfo](https://github.com/BitOne/php-meminfo) - PHP extension to get insight about memory usage
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.

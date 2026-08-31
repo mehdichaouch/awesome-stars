@@ -882,6 +882,7 @@
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
+- [thelia/thelia](https://github.com/thelia/thelia) - Thelia is an open-source e-commerce CMS and framework built on Symfony 7 and API Platform.
 - [TYPO3/typo3](https://github.com/TYPO3/typo3) - The TYPO3 Core - Enterprise Content Management System. Synchronized mirror of https://review.typo3.org/q/project:Packages/TYPO3.CMS
 
 ## code 
@@ -1893,7 +1894,7 @@
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 - [getsentry/sentry-php](https://github.com/getsentry/sentry-php) - The official PHP SDK for Sentry (sentry.io)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
-- [thelia/thelia](https://github.com/thelia/thelia) - Thelia is an open source tool for creating e-business websites and managing online content. Repo containing the new major version (v2)
+- [thelia/thelia](https://github.com/thelia/thelia) - Thelia is an open-source e-commerce CMS and framework built on Symfony 7 and API Platform.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -2671,7 +2672,7 @@
 - [DavidBelicza/magento2-server-configuration](https://github.com/DavidBelicza/magento2-server-configuration) - Magento 2 server configuration -PHP7, Nginx, Postfix
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
-- [thelia/thelia](https://github.com/thelia/thelia) - Thelia is an open source tool for creating e-business websites and managing online content. Repo containing the new major version (v2)
+- [thelia/thelia](https://github.com/thelia/thelia) - Thelia is an open-source e-commerce CMS and framework built on Symfony 7 and API Platform.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 
 ## natural-language-processing 
@@ -4515,7 +4516,7 @@
 - [getsentry/sentry-php](https://github.com/getsentry/sentry-php) - The official PHP SDK for Sentry (sentry.io)
 - [netz98/n98-magerun](https://github.com/netz98/n98-magerun) - The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a mod
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
-- [thelia/thelia](https://github.com/thelia/thelia) - Thelia is an open source tool for creating e-business websites and managing online content. Repo containing the new major version (v2)
+- [thelia/thelia](https://github.com/thelia/thelia) - Thelia is an open-source e-commerce CMS and framework built on Symfony 7 and API Platform.
 - [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
@@ -5227,7 +5228,7 @@
 - [certificationy/certificationy](https://github.com/certificationy/certificationy) - The core library to create tests and certifications
 - [liip/LiipMonitorBundle](https://github.com/liip/LiipMonitorBundle) - Integrates the LiipMonitor library into Symfony
 - [mmoreram/ControllerExtraBundle](https://github.com/mmoreram/ControllerExtraBundle) - Controller extra Bundle for Symfony2
-- [thelia/thelia](https://github.com/thelia/thelia) - Thelia is an open source tool for creating e-business websites and managing online content. Repo containing the new major version (v2)
+- [thelia/thelia](https://github.com/thelia/thelia) - Thelia is an open-source e-commerce CMS and framework built on Symfony 7 and API Platform.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 - [FriendsOfSymfony/FOSUserBundle](https://github.com/FriendsOfSymfony/FOSUserBundle) - Provides user management for your Symfony project. Compatible with Doctrine ORM & ODM, and custom storages.
 - [nelmio/alice](https://github.com/nelmio/alice) - Expressive fixtures generator
