@@ -411,7 +411,6 @@
 - [rameshx/instagram-stories](https://github.com/rameshx/instagram-stories) - Instagram stories preview
 - [astorm/magento-layout-no-frills](https://github.com/astorm/magento-layout-no-frills) - Repo for the Creative Commons published No Frills Magento Layout
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
-- [mageplaza/magento-2-social-login](https://github.com/mageplaza/magento-2-social-login) - Magento 2 Social Login extension is designed for quick login to your Magento 2 store without procesing complex register steps
 - [sebbelese/mhios](https://github.com/sebbelese/mhios) - 
 - [lfolco/phpstorm-m2-filetemplates](https://github.com/lfolco/phpstorm-m2-filetemplates) - PHPStorm Magento 2 File Templates
 - [loopbackio/loopback.io](https://github.com/loopbackio/loopback.io) - LoopBack project site - now with documentation!
@@ -1404,6 +1403,7 @@
 - [TYPO3-Solr/ext-solr](https://github.com/TYPO3-Solr/ext-solr) - A TYPO3 extension that integrates the Apache Solr search server with TYPO3 CMS. dkd Internet Service GmbH is developing the extension. Community contributions are welcome. See CONTRIBUTING.md for deta
 - [endroid/qr-code](https://github.com/endroid/qr-code) - PHP QR Code library that helps you create QR codes in a jiffy
 - [fisheyehq/module-bluefoot-list](https://github.com/fisheyehq/module-bluefoot-list) - A Magento 2 module to add a list 'page builder block' to the BlueFoot CMS & Page Builder system.
+- [mageplaza/magento-2-social-login](https://github.com/mageplaza/magento-2-social-login) - Magento 2 Social Login extension is designed for quick login to your Magento 2 store without procesing complex register steps
 - [WordPress/performance](https://github.com/WordPress/performance) - Performance plugin from the WordPress Performance Group, which is a collection of standalone performance modules.
 - [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) - Thumbhash implementation in PHP
 - [zepgram/magento-dotenv](https://github.com/zepgram/magento-dotenv) - Magento 2 Environment Variable Component - Implementing Symfony Dotenv
