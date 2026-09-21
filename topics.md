@@ -1879,7 +1879,6 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [GeSHi/geshi-1.0](https://github.com/GeSHi/geshi-1.0) - Original version of Generic Syntax Highlighter for PHP
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [rap2hpoutre/similar-text-finder](https://github.com/rap2hpoutre/similar-text-finder) - :honeybee: PHP Similar Text Finder aka Fuzzy search. `Did you mean "banana"?`

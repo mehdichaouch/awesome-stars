@@ -432,7 +432,6 @@
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [Siteation/magento2-module-storeinfo](https://github.com/Siteation/magento2-module-storeinfo) - This Magento 2 module add the option to get the store info with ease.
-- [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [paullewallencom/magento-978-1-7858-8822-9](https://github.com/paullewallencom/magento-978-1-7858-8822-9) - Magento 2 Theme Design - Second Edition
 - [commerce-docs/pbmodules](https://github.com/commerce-docs/pbmodules) - Scaffolding CLI for Page Builder modules
 - [codrops/codrops2020](https://github.com/codrops/codrops2020) - A roundup of Codrops resources from 2020.
@@ -2419,6 +2418,7 @@
 - [mehdichaouch/pi-boot-script](https://github.com/mehdichaouch/pi-boot-script) - Fork of Jim Danner's excellent pi-boot-script found on GitLab.
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
+- [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
 - [pyrech/csv-explorer](https://github.com/pyrech/csv-explorer) - Load a big CSV into a MySQL database and explore it with PHPMyAdmin
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
