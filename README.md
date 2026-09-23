@@ -499,7 +499,6 @@
 
 ## Java 
 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [lolo101/MsgViewer](https://github.com/lolo101/MsgViewer) - MsgViewer is email-viewer utility for .msg e-mail messages, implemented in pure Java. MsgViewer works on Windows/Linux/Mac Platforms. Also provides a java api to read mail messges (msg files) programm
 - [kairoh/studio](https://github.com/kairoh/studio) - STUdio - Story Teller Unleashed
@@ -1237,7 +1236,7 @@
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 - [bryanlittlefield/Magento-Functions](https://github.com/bryanlittlefield/Magento-Functions) - A Resource of Magento Functions
-- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - JavaScript talks you have to see 📺 on functional programming, performance, frameworks, React, debugging, leveling up, and more!
+- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - JavaScript talks you have to see 👀 on functional programming, performance, frameworks, React, debugging, leveling up, and more!
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [nmussy/javascript-style-guide](https://github.com/nmussy/javascript-style-guide) - Guide de Style JavaScript - Traduction française
 - [kiteco/issue-tracker](https://github.com/kiteco/issue-tracker) - User-reported issues for Kite
@@ -2091,7 +2090,7 @@
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [Screenly/Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude t
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.
+- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Anti-detect agentic stealth browser: undetected browsing, browser automation, Python AI web browsing agent, computer use, scraping, lead generation. No captchas.
 - [3DTopia/3DTopia](https://github.com/3DTopia/3DTopia) - Text-to-3D Generation within 5 Minutes
 - [openfisca/openfisca-france](https://github.com/openfisca/openfisca-france) - French tax and benefit system for OpenFisca
 - [MathisHammel/CroixPharmacie](https://github.com/MathisHammel/CroixPharmacie) - Build apps and run Doom on a pharmacy cross!
@@ -2574,6 +2573,7 @@
 - [sdfxai/sdfx](https://github.com/sdfxai/sdfx) - The ultimate no-code platform to build and share AI apps with beautiful UI.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [elonen/clapshot](https://github.com/elonen/clapshot) - Self hosted web based collaborative video review tool
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 100,000 supported emoji mashups as part of Google's Emoji Kitch
