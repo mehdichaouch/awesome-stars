@@ -556,7 +556,7 @@
 - [cyrilmottier/Polaris](https://github.com/cyrilmottier/Polaris) - A library greatly enhancing the features of the Google Maps external library: Effortless map annotating, gesture support, map callout support, built-in “user tracking” mode, etc.
 - [stephanenicolas/robospice](https://github.com/stephanenicolas/robospice) - Repo of the Open Source Android library : RoboSpice. RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports cac
 - [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance.
-- [lomadurov/netbeans-jslint](https://github.com/lomadurov/netbeans-jslint) - JSLint plugin for NetBeans. JSLint is a JavaScript program that looks for problems in JavaScript programs. It is a code quality tool.
+- [bratik-dev/netbeans-jslint](https://github.com/bratik-dev/netbeans-jslint) - JSLint plugin for NetBeans. JSLint is a JavaScript program that looks for problems in JavaScript programs. It is a code quality tool.
 - [foxykeep/DataDroid](https://github.com/foxykeep/DataDroid) - An Android Library for data management
 - [pikanji/ImageDetail](https://github.com/pikanji/ImageDetail) - Simply shows all the information about the selected image data.
 - [commonsguy/cw-lunchlist](https://github.com/commonsguy/cw-lunchlist) - LunchList tutorials from _Android Programming Tutorials_

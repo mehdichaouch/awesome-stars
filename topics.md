@@ -4200,7 +4200,7 @@
 - [Andromadus/android_device_htc_vision](https://github.com/Andromadus/android_device_htc_vision) - Device repository for HTC Vision
 - [audiocogs/flac.js](https://github.com/audiocogs/flac.js) - FLAC decoder in JavaScript
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
-- [lomadurov/netbeans-jslint](https://github.com/lomadurov/netbeans-jslint) - JSLint plugin for NetBeans. JSLint is a JavaScript program that looks for problems in JavaScript programs. It is a code quality tool.
+- [bratik-dev/netbeans-jslint](https://github.com/bratik-dev/netbeans-jslint) - JSLint plugin for NetBeans. JSLint is a JavaScript program that looks for problems in JavaScript programs. It is a code quality tool.
 - [deprecate/hub.me](https://github.com/deprecate/hub.me) - [deprecated] A responsive gallery to display your projects on Github
 - [alexch/sharebro](https://github.com/alexch/sharebro) - 
 - [liftoff/GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
