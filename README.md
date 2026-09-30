@@ -631,6 +631,7 @@
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [cloudinary/responsive_breakpoints_generator](https://github.com/cloudinary/responsive_breakpoints_generator) - 
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
+- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [friends-of-hyva/magento2-react-checkout](https://github.com/friends-of-hyva/magento2-react-checkout) - Highly Customizable Checkout for Magento 2, Built with React.
 - [abhijitparida/hacktobermap](https://github.com/abhijitparida/hacktobermap) - A map of Hacktoberfest 2019 participants https://abhijitparida.github.io/hacktobermap/
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
@@ -835,7 +836,7 @@
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive email easy
 - [nilbuild/githunt](https://github.com/nilbuild/githunt) - Hunt the most starred projects on any date on GitHub
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js: The Go-To User-Agent Tool for Teams That Build the Web. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [jixunmoe/cuwcl4c](https://github.com/jixunmoe/cuwcl4c) - Bypass Wait, Code & Login on Websites [不再维护]
 - [marmelab/ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
@@ -2142,7 +2143,6 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [darkosancanin/bravia_console](https://github.com/darkosancanin/bravia_console) - Bravia Console is a simple console interface written in Python to send remote control commands to a Sony Bravia TV.
-- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [azmatt/chasing_your_tail](https://github.com/azmatt/chasing_your_tail) - Tool for using wireless signals to see if you're being followed.
 - [clintmod/macprefs](https://github.com/clintmod/macprefs) - Backup and Restore your Mac System and App Preferences (e.g. defaults write)
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
