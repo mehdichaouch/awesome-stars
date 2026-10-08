@@ -797,7 +797,7 @@
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
 - [digitalcraftsman/hugo-creative-theme](https://github.com/digitalcraftsman/hugo-creative-theme) - Port of Startbootstrap's Creative theme to Hugo
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling cookies, client-side.
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/
+- [wekan/wekan](https://github.com/wekan/wekan) - FLOSS kanban, built with Meteor. Official Public Support at GitHub issues only. Official Private Pre-Paid Support at https://wekan.fi/commercial-support/ only. Translation PRs to imports/i18n/data/en.
 - [nghuuphuoc/responsivetest](https://github.com/nghuuphuoc/responsivetest) - Test responsive layout, powered by AngularJS and Bootstrap 3. If this tool is useful to you, please Star it.
 - [jaysalvat/vegas](https://github.com/jaysalvat/vegas) - Vegas is a jQuery/Zepto plugin to add beautiful backgrounds and Slideshows to DOM elements.
 - [NUKnightLab/TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) - TimelineJS v3: A Storytelling Timeline built in JavaScript.  http://timeline.knightlab.com
@@ -1350,7 +1350,7 @@
 - [rangerz/magento2-module-re-captcha-checkout](https://github.com/rangerz/magento2-module-re-captcha-checkout) - Add Google reCaptcha for place order against carding attack
 - [ghostunicorns/module-webapi-logs](https://github.com/ghostunicorns/module-webapi-logs) - This module allows you to analyze all the webapi rest done call toward your adobe commerce.
 - [bpolaszek/bentools-etl](https://github.com/bpolaszek/bentools-etl) - PHP ETL (Extract / Transform / Load) library with SOLID principles + almost no dependency.
-- [netresearch/t3x-cowriter](https://github.com/netresearch/t3x-cowriter) - TYPO3 extension for AI-powered content creation in CKEditor - by Netresearch
+- [netresearch/t3x-cowriter](https://github.com/netresearch/t3x-cowriter) - AI Cowriter for TYPO3 - AI assistant in CKEditor that helps editors write page content.
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)
 - [chrome-php/chrome](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP
 - [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
@@ -1385,7 +1385,7 @@
 - [FriendsOfTYPO3/extension_builder](https://github.com/FriendsOfTYPO3/extension_builder) - TYPO3 extension to kickstart and maintain TYPO3 extensions
 - [FluidTYPO3/vhs](https://github.com/FluidTYPO3/vhs) - TYPO3 extension VHS: Fluid ViewHelpers
 - [plan2net/webp](https://github.com/plan2net/webp) - Drop-in WebP, AVIF, and JPEG XL delivery for TYPO3 images — automatic, no URL or template changes
-- [netresearch/t3x-rte_ckeditor_image](https://github.com/netresearch/t3x-rte_ckeditor_image) - Image support in CKEditor for the TYPO3 ecosystem - by Netresearch
+- [netresearch/t3x-rte_ckeditor_image](https://github.com/netresearch/t3x-rte_ckeditor_image) - CKEditor Image Support for TYPO3 - Adds FAL image support to CKEditor in the rich text editor.
 - [lochmueller/staticfilecache](https://github.com/lochmueller/staticfilecache) - 🚀 Fastest TYPO3 Extension ever 🚀
 - [jweiland-net/reserve](https://github.com/jweiland-net/reserve) - This extension allows you to reserve tickets for one or more persons using a period table and a form. Each reservation has it’s own QR Code that can be scanned at the event.
 - [in2code-de/powermail_cond](https://github.com/in2code-de/powermail_cond) - Add conditions (via AJAX) to TYPO3 powermail forms for fields and pages
@@ -2090,7 +2090,6 @@
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [Screenly/Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude t
-- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.
 - [3DTopia/3DTopia](https://github.com/3DTopia/3DTopia) - Text-to-3D Generation within 5 Minutes
 - [openfisca/openfisca-france](https://github.com/openfisca/openfisca-france) - French tax and benefit system for OpenFisca
 - [MathisHammel/CroixPharmacie](https://github.com/MathisHammel/CroixPharmacie) - Build apps and run Doom on a pharmacy cross!
@@ -2422,7 +2421,7 @@
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [C-Duv/freemobile-smsapi-client](https://github.com/C-Duv/freemobile-smsapi-client) - API client for the Free Mobile SMS notification service
 - [riobard/bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script. See also https://github.com/riobard/zsh-powerline
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 700 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
 - [f-laurens/pynab_cli](https://github.com/f-laurens/pynab_cli) - Command line tools for Nabaztag rabbits running Pynab
 - [breunigs/bravia-auth-and-remote](https://github.com/breunigs/bravia-auth-and-remote) - Shell snippets to auth and send remote control commands to Sony Bravia TVs
 - [rekcuFniarB/File2PNG](https://github.com/rekcuFniarB/File2PNG) - Store any file as PNG image
@@ -2542,6 +2541,7 @@
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the project!
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
+- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) - Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 - [YZarytskyi/react-audio-visualization](https://github.com/YZarytskyi/react-audio-visualization) - Demo App for the react-voice-visualizer library.
 - [YZarytskyi/react-voice-visualizer](https://github.com/YZarytskyi/react-voice-visualizer) - React library for audio recording and visualization using the Web Audio API
 - [Anurag-Kochar-1/Shadcn-UI-Audio-Recorder-With-Visualizer](https://github.com/Anurag-Kochar-1/Shadcn-UI-Audio-Recorder-With-Visualizer) - Audio recorder with visualizer, Built on top of Shadcn UI. Simply copy the source code. No npm install required, all in under 400 lines of code
