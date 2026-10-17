@@ -2917,6 +2917,7 @@
 
 ## others 
 
+- [Conway-Research/automaton](https://github.com/Conway-Research/automaton) - The first AI that can earn its own existence, replicate, and evolve — without needing a human
 - [zepgram/module-disable-search-engine](https://github.com/zepgram/module-disable-search-engine) - Module to disable OpenSearch/Elasticsearch in Magento2. Disable also fulltext indexing for category search.
 - [markshust/magento-polyshell-patch](https://github.com/markshust/magento-polyshell-patch) - 
 - [fast4x/RiPlay](https://github.com/fast4x/RiPlay) - Multiplatform Music Player
