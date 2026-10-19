@@ -1993,7 +1993,7 @@
 - [Wisembly/elephant.io](https://github.com/Wisembly/elephant.io) - Ça trompe énormément
 - [mmoreram/ControllerExtraBundle](https://github.com/mmoreram/ControllerExtraBundle) - Controller extra Bundle for Symfony2
 - [keboola/php-csv](https://github.com/keboola/php-csv) - CSV reader/writer
-- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) - The official PHP SDK for Sentry (sentry.io)
+- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) - The official PHP SDK for Sentry
 - [netz98/n98-magerun](https://github.com/netz98/n98-magerun) - The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a mod
 - [nicksagona/popphp-v1-legacy](https://github.com/nicksagona/popphp-v1-legacy) - Pop PHP Framework v1.7.0 : A Lightweight PHP Framework
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
