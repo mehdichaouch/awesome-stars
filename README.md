@@ -418,7 +418,6 @@
 - [caltamiranoHYLETE/mercurial-to-git](https://github.com/caltamiranoHYLETE/mercurial-to-git) - 
 - [gsheeets/call](https://github.com/gsheeets/call) - 📞  Call - Smart Way to Make Phone Numbers Clickable in Google Sheets
 - [iMi-digital/magento2-store-switch-all-store-views](https://github.com/iMi-digital/magento2-store-switch-all-store-views) - This module makes all store views available in the store switcher, regardless of their store or website.
-- [datalog/qrcode-svg](https://github.com/datalog/qrcode-svg) - Pure javascript QR Code generator. Armed with elegant svg path method.
 - [SnowdogApps/magento2-alpaca-theme](https://github.com/SnowdogApps/magento2-alpaca-theme) - Magento 2 theme built on top of Alpaca design system crafted for ecommerce
 - [tomlutzenberger/time-estimation](https://github.com/tomlutzenberger/time-estimation) - Calculate and share your tasks with PERT (Program Evaluation and Review Technique)
 - [ajax-lives/NoRussian](https://github.com/ajax-lives/NoRussian) - Volunteer DoS tool via HTML + JS
@@ -639,6 +638,7 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [HughChen/qr_image](https://github.com/HughChen/qr_image) - A web app to generate valid QR codes with readable images.
+- [datalog/qrcode-svg](https://github.com/datalog/qrcode-svg) - QR Code generator. Lightweight, dependency-free, vanilla JavaScript.
 - [yireo/Yireo_CustomStepUi](https://github.com/yireo/Yireo_CustomStepUi) - Magento 2 module to add an example step to the legacy Luma checkout.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [muan/emojilib](https://github.com/muan/emojilib) - Emoji keyword library.
@@ -2109,7 +2109,7 @@
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
 - [mapbox/osm-boundaries](https://github.com/mapbox/osm-boundaries) - MapBox OSM boundary relation processing
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) - OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container ima
 - [lmstudio-ai/model-catalog](https://github.com/lmstudio-ai/model-catalog) - A collection of standardized JSON descriptors for Large Language Model (LLM) files.
@@ -2379,7 +2379,7 @@
 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
+- [home-assistant/apps](https://github.com/home-assistant/apps) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [zigbee2mqtt/hassio-zigbee2mqtt](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt) - Official Zigbee2MQTT Home Assistant add-on
 - [hassio-addons/app-ssh](https://github.com/hassio-addons/app-ssh) - Advanced SSH & Web Terminal - Home Assistant Community Apps
 - [mikaelvesavuori/a11ytester-action](https://github.com/mikaelvesavuori/a11ytester-action) - Runs Webhint and pa11y (accessibility testing tools) on one or more provided URLs.
