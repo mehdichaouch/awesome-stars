@@ -2338,7 +2338,7 @@
 - [jehiah/json2csv](https://github.com/jehiah/json2csv) - command line tool to convert json to csv
 - [square/js-jose](https://github.com/square/js-jose) - JavaScript library to encrypt/decrypt data in JSON Web Encryption (JWE) format and to sign/verify data in JSON Web Signature (JWS) format. Leverages Browser's native WebCrypto API.
 - [Spomky-Labs/jose](https://github.com/Spomky-Labs/jose) - :closed_lock_with_key: JSON Object Signing and Encryption Framework (JWT, JWS, JWE, JWA, JWK, JWKSet and more)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK.
 - [paragonie/sapient](https://github.com/paragonie/sapient) - Secure API Toolkit
 - [startup-matrix/startup-matrix](https://github.com/startup-matrix/startup-matrix) - Startup Matrix exported to CSV, JSON, Markdown and HTML formats. Credits to original article by Eric Stromberg.
 - [willdurand/Hateoas](https://github.com/willdurand/Hateoas) - A PHP library to support implementing representations for HATEOAS REST web services.
@@ -4316,7 +4316,7 @@
 
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - Utility that creates anonymized database dumps (MySQL only). Provides default config templates for Magento, Drupal and Shopware.
 - [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free open-source web software for signing PDF (alone or with others) and also organize pages, edit metadata and compress pdf
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords.
 - [mevdschee/php-crud-api](https://github.com/mevdschee/php-crud-api) - Single file PHP script that adds a REST API to a SQL database
 - [Catrobat/Catroweb](https://github.com/Catrobat/Catroweb) - Catroweb - A social platform to share and browse projects created with Catrobat's apps (Pocket Code, ...) by our users.
 - [getbrevo/brevo-php](https://github.com/getbrevo/brevo-php) - A fully-featured PHP API client to interact with Brevo.
@@ -4436,7 +4436,7 @@
 - [filp/whoops](https://github.com/filp/whoops) - PHP errors for cool kids
 - [captainhook-git/captainhook](https://github.com/captainhook-git/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze.
 - [Spomky-Labs/jose](https://github.com/Spomky-Labs/jose) - :closed_lock_with_key: JSON Object Signing and Encryption Framework (JWT, JWS, JWE, JWA, JWK, JWKSet and more)
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK.
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [KarpelesLab/goro](https://github.com/KarpelesLab/goro) - PHP in Go
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
