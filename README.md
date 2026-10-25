@@ -2073,6 +2073,8 @@
 
 ## Python 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
 - [hectorg2211/jarvis](https://github.com/hectorg2211/jarvis) - 
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
@@ -2241,7 +2243,6 @@
 - [bearstech/archisim](https://github.com/bearstech/archisim) - Simulate software architecture with LXD, inside a Vagrant
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [ejwa/gitinspector](https://github.com/ejwa/gitinspector) - :bar_chart: The statistical analysis tool for git repositories
 - [steve71/RasPiBrew](https://github.com/steve71/RasPiBrew) - Raspberry Pi Temperature Controller for homebrewing and sous vide cooking
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
