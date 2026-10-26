@@ -1041,6 +1041,7 @@
 ## css 
 
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [hteumeuleu/caniemail](https://github.com/hteumeuleu/caniemail) - Can I email… Support tables for HTML and CSS in emails.
@@ -1467,7 +1468,7 @@
 
 ## flutter 
 
-- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
+- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [bmaroti9/Overmorrow](https://github.com/bmaroti9/Overmorrow) - modern material design weather app
@@ -2884,6 +2885,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
+- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
@@ -2939,7 +2941,7 @@
 ## others 
 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser 
 - [hectorg2211/jarvis](https://github.com/hectorg2211/jarvis) - 
 - [Conway-Research/automaton](https://github.com/Conway-Research/automaton) - The first AI that can earn its own existence, replicate, and evolve — without needing a human
 - [zepgram/module-disable-search-engine](https://github.com/zepgram/module-disable-search-engine) - Module to disable OpenSearch/Elasticsearch in Magento2. Disable also fulltext indexing for category search.
@@ -4848,7 +4850,7 @@
 ## react 
 
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
+- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
@@ -4905,7 +4907,7 @@
 
 ## react-native 
 
-- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
+- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
@@ -5545,6 +5547,7 @@
 
 ## vue 
 
+- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)

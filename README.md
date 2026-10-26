@@ -2075,7 +2075,7 @@
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser 
 - [hectorg2211/jarvis](https://github.com/hectorg2211/jarvis) - 
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
@@ -2543,7 +2543,7 @@
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [xenova/whisper-web](https://github.com/xenova/whisper-web) - ML-powered speech recognition directly in your browser
-- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
+- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the project!
