@@ -1308,7 +1308,7 @@
 - [ctidigital/magento2-configurator](https://github.com/ctidigital/magento2-configurator) - Magento 2 Configurator
 - [magefan/module-blog](https://github.com/magefan/module-blog) - Create a blog on Magento, generate blog posts with AI, choose your design anad improve SEO all from one place with the best Magento 2 Blog Extension on the market.
 - [element119/module-admin-indexer-report](https://github.com/element119/module-admin-indexer-report) - A Magento 2 module to show some indexer-related information in the admin.
-- [facebook/meta-for-magento2](https://github.com/facebook/meta-for-magento2) - 
+- [meta/meta-for-magento2](https://github.com/meta/meta-for-magento2) - 
 - [EmicoEcommerce/Magento2AttributeLanding](https://github.com/EmicoEcommerce/Magento2AttributeLanding) - Attribute landingspages for Magento 2
 - [LBannenberg/magento2-layout-bricks](https://github.com/LBannenberg/magento2-layout-bricks) - 
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
@@ -2347,7 +2347,7 @@
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [imazen/imageflow](https://github.com/imazen/imageflow) - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
-- [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
+- [meta/flow](https://github.com/meta/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 
 ## SCSS 
 
@@ -2673,7 +2673,7 @@
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [davrous/dareangel](https://github.com/davrous/dareangel) - This extension provides more accessibility on images of a web page by using Microsoft Cognitive Services Computer Vision API to analyze it for you
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
