@@ -83,7 +83,6 @@
 
 ## Batchfile 
 
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ## C 
@@ -1565,7 +1564,6 @@
 - [olegkoval/magento2-regenerate_url_rewrites](https://github.com/olegkoval/magento2-regenerate_url_rewrites) - Magento 2 extension which add feature of regenerating a url rewrites of products/categories
 - [EcomDev/magento2-product-preloader](https://github.com/EcomDev/magento2-product-preloader) - Magento 2 product data preloaded for anticipated data in other components based on currently available product objects.
 - [magento-l10n/language-fr_FR](https://github.com/magento-l10n/language-fr_FR) - Language package for fr_FR.
-- [ron273/CheckCartQuantityM2](https://github.com/ron273/CheckCartQuantityM2) - Magento 2 module to only allow checkout when the number of items in the cart are a multiple of X.
 - [Mestrona/Mestrona_CategoryRedirect](https://github.com/Mestrona/Mestrona_CategoryRedirect) - Magento 2 Menu to simply customize the menu with additional URLs: Create a category, enter the redirect, done
 - [magenizr/Magenizr_Envbar](https://github.com/magenizr/Magenizr_Envbar) - Envbar allows you to differentiate between environments by adding a custom-colored bar above the top navigation.
 - [HenryRoger/magento2-productAttachment](https://github.com/HenryRoger/magento2-productAttachment) - The Product Attachments extension for Magento 2 equips product pages with a special attachments block where you can upload numerous documents such as user guides, extra images, pdf, certificates, lice
@@ -2056,6 +2054,7 @@
 ## PowerShell 
 
 - [securityjoes/MasterParser](https://github.com/securityjoes/MasterParser) - MasterParser is a powerful DFIR tool designed for analyzing and parsing Linux logs
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [lesstif/dotfiles](https://github.com/lesstif/dotfiles) - 초기 설정 파일들
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
@@ -2107,7 +2106,6 @@
 - [make-all/tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
 - [gilcu3/govee-btled-H613B](https://github.com/gilcu3/govee-btled-H613B) - Control Govee LED BLE device H613B
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mistralai-sf24/hackathon](https://github.com/mistralai-sf24/hackathon) - 
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player.
@@ -2503,6 +2501,7 @@
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [bvvst/vanishso](https://github.com/bvvst/vanishso) - vanishing note service with support for aes-gcm 256, otp, and pbkdf2
 - [FabienBounoir/youtube-card](https://github.com/FabienBounoir/youtube-card) - 🎞️ Bastiui, a Ux Ui designer, wanted to be able to recuperate a rendering of a youtube video by simply passing a link to it. Here's what I did.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Swift 
 

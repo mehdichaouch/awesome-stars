@@ -3418,7 +3418,6 @@
 - [magento-l10n/language-fr_FR](https://github.com/magento-l10n/language-fr_FR) - Language package for fr_FR.
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) - Outil (en ligne de commande pour l'instant) vous permettant de rassembler toutes les transactions de vos différents échanges et wallets afin de constituer votre portefeuille global et ainsi vous aider
-- [ron273/CheckCartQuantityM2](https://github.com/ron273/CheckCartQuantityM2) - Magento 2 module to only allow checkout when the number of items in the cart are a multiple of X.
 - [Alex-D/Trumbowyg](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor under 10kB
 - [magenizr/Magenizr_Envbar](https://github.com/magenizr/Magenizr_Envbar) - Envbar allows you to differentiate between environments by adding a custom-colored bar above the top navigation.
 - [waveshareteam/WM8960-Audio-HAT](https://github.com/waveshareteam/WM8960-Audio-HAT) - The drivers of [WM8960 Audio HAT] for Raspberry Pi
