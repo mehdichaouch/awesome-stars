@@ -1934,6 +1934,7 @@
 - [schmittjoh/JMSTranslationBundle](https://github.com/schmittjoh/JMSTranslationBundle) - Puts the Symfony2 Translation Component on steroids
 - [lexik/LexikMaintenanceBundle](https://github.com/lexik/LexikMaintenanceBundle) - This Symfony2 bundle allows you to place your website in maintenance mode by calling two commands in your console. A page with status code 503 appears to users, it is possible to authorize certain ips
 - [jolicode/php7-checker](https://github.com/jolicode/php7-checker) - :ballot_box_with_check: PHP7 checker
+- [lyrixx/blog.lyrixx.info](https://github.com/lyrixx/blog.lyrixx.info) - My blog (the true content is in the _carew folder)
 - [carew/carew](https://github.com/carew/carew) - A simple site generator
 - [KnpLabs/KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) - Easily create PDF and images in Symfony by converting html using webkit
 - [hoangthienan/symfony-pre-commit](https://github.com/hoangthienan/symfony-pre-commit) - A Symfony pre-commit hook
@@ -2093,7 +2094,7 @@
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [Screenly/Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude t
-- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - An AI web agent that applies to jobs for you while you sleep.
+- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - AI job application bot: automated job search and job hunting, auto-apply to resume-matching jobs while you sleep.
 - [3DTopia/3DTopia](https://github.com/3DTopia/3DTopia) - Text-to-3D Generation within 5 Minutes
 - [openfisca/openfisca-france](https://github.com/openfisca/openfisca-france) - French tax and benefit system for OpenFisca
 - [MathisHammel/CroixPharmacie](https://github.com/MathisHammel/CroixPharmacie) - Build apps and run Doom on a pharmacy cross!
@@ -2478,7 +2479,6 @@
 - [blackdotsh/curl-speedtest](https://github.com/blackdotsh/curl-speedtest) - A simple speed test script that shows download and upload speed, CPU speed, and I/O write speed.
 - [boynux/LXCTools](https://github.com/boynux/LXCTools) - LXC Helper scripts
 - [mcrapet/plowshare](https://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites
-- [lyrixx/blog.lyrixx.info](https://github.com/lyrixx/blog.lyrixx.info) - My blog (the true content is in the _carew folder)
 - [dockerfile/percona](https://github.com/dockerfile/percona) - Percona Server Dockerfile for trusted automated Docker builds.
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
