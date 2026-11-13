@@ -67,6 +67,7 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
+- [Zig](#zig)
 
 ## Arduino 
 
@@ -2427,7 +2428,7 @@
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [C-Duv/freemobile-smsapi-client](https://github.com/C-Duv/freemobile-smsapi-client) - API client for the Free Mobile SMS notification service
 - [riobard/bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script. See also https://github.com/riobard/zsh-powerline
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 900 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 950 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [f-laurens/pynab_cli](https://github.com/f-laurens/pynab_cli) - Command line tools for Nabaztag rabbits running Pynab
 - [breunigs/bravia-auth-and-remote](https://github.com/breunigs/bravia-auth-and-remote) - Shell snippets to auth and send remote control commands to Sony Bravia TVs
 - [rekcuFniarB/File2PNG](https://github.com/rekcuFniarB/File2PNG) - Store any file as PNG image
@@ -2738,6 +2739,10 @@
 ## XSLT 
 
 - [EdgedesignCZ/phpqa](https://github.com/EdgedesignCZ/phpqa) - Analyze PHP code with one command
+
+## Zig 
+
+- [awf-project/zpm](https://github.com/awf-project/zpm) - Sounds like "Zig Prolog MCP"
 
 
 ## License
