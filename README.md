@@ -78,7 +78,7 @@
 - [Lexington-Themes/lexington-tutorials](https://github.com/Lexington-Themes/lexington-tutorials) - This collection offers a range of code snippets tailored for Astro, JavaScript, Alpine JS and Tailwind CSS projects.
 - [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Astro and Airtable.
 - [mage-os/mage-os-website](https://github.com/mage-os/mage-os-website) - Source of the mage-os.org website.
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
@@ -610,7 +610,7 @@
 - [svalveson/SliderOptions](https://github.com/svalveson/SliderOptions) - Add new options for the Slick configuration in the Page Builder Slider (Magento 2)
 - [robaimes/module-native-experience](https://github.com/robaimes/module-native-experience) - Utilise modern web API's to provide a more native/app-like experience to your Magento store
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [7flash/AutoChatGPT](https://github.com/7flash/AutoChatGPT) - 
+- [gberlian/AutoChatGPT](https://github.com/gberlian/AutoChatGPT) - 
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A free, open-source Chrome extension - no ads, no tracking. Based on The Great Suspender, cleaned up and actively maintained.
 - [oakmac/chessboardjs](https://github.com/oakmac/chessboardjs) - JavaScript chessboard
 - [Strryke/betafish](https://github.com/Strryke/betafish) - A chess engine and AI move finder written in Javascript. Beats Stockfish level 6 on Lichess.
@@ -973,6 +973,7 @@
 - [marquete/kibo](https://github.com/marquete/kibo) - A simple JavaScript library for handling keyboard events.
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [thinkpixellab/pl](https://github.com/thinkpixellab/pl) - A collection of javascript helpers
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [ahmadnassri/app-restconsole](https://github.com/ahmadnassri/app-restconsole) - HTTP Client and Request Visualizer and Constructor tool, helps developers build, debug and test RESTful APIs
 - [rauschma/proto-js](https://github.com/rauschma/proto-js) - Proto.js – prototypes as classes
 - [slhck/online-markdown-editor](https://github.com/slhck/online-markdown-editor) - A pure JS/HTML Markdown editor with live preview and syntax highlighting
@@ -1034,7 +1035,6 @@
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
@@ -1104,7 +1104,6 @@
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [camilleroux/awesome-generative-art](https://github.com/camilleroux/awesome-generative-art) - Carefully curated list of awesome resources to create, learn and, drop generative art
 - [etnbrd/awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - :sunglasses: Curated list of awesome tools to build your freelance career (in france)
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield provides maintained IPv4 blocklists for inbound filtering on firewalls, gateways and web application firewalls.
 - [VemtoOrg/vemto2-issues](https://github.com/VemtoOrg/vemto2-issues) - Repository to track Vemto 2 Issues
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [finary-wealth/awesome](https://github.com/finary-wealth/awesome) - 🔍👋 A curated list of Finary libraries, resources and projects.
@@ -1372,7 +1371,7 @@
 - [Yoast/Yoast-SEO-for-TYPO3](https://github.com/Yoast/Yoast-SEO-for-TYPO3) - Yoast SEO plugin for TYPO3
 - [AOEpeople/TYPO3-varnish](https://github.com/AOEpeople/TYPO3-varnish) - This is a TYPO3-Extension that integrates the popular Varnish HTTP Cache into TYPO3.
 - [amzn/amazon-payments-magento-2-plugin](https://github.com/amzn/amazon-payments-magento-2-plugin) - Extension to enable Amazon Pay on Magento 2
-- [ecsphp/ecs](https://github.com/ecsphp/ecs) - ECS runs PHP-CS-Fixer and PHP_CodeSniffer as a single, parallel fast tool with zero dependencies. Run on PHP 7.2+
+- [ecsphp/ecs](https://github.com/ecsphp/ecs) - Checks Symfony in 3 seconds ⚡ PHP-CS-Fixer + PHP_CodeSniffer in one parallel tool, zero dependencies. PSR-12, PER-CS and Laravel sets ready to use. PHP 7.2–8.5.
 - [monsieurbiz/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/monsieurbiz/CoopTilleulsSyliusClickNCollectPlugin) - Sell and deliver securely during the COVID-19 pandemic!
 - [sabbelasichon/typo3-rector](https://github.com/sabbelasichon/typo3-rector) - Rector for TYPO3
 - [cartalyst/sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorization system.
@@ -2112,6 +2111,7 @@
 - [mistralai-sf24/hackathon](https://github.com/mistralai-sf24/hackathon) - 
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player.
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield provides maintained IPv4 blocklists for inbound filtering on firewalls, gateways and web application firewalls.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
