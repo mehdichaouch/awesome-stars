@@ -78,7 +78,6 @@
 - [Lexington-Themes/lexington-tutorials](https://github.com/Lexington-Themes/lexington-tutorials) - This collection offers a range of code snippets tailored for Astro, JavaScript, Alpine JS and Tailwind CSS projects.
 - [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Astro and Airtable.
 - [mage-os/mage-os-website](https://github.com/mage-os/mage-os-website) - Source of the mage-os.org website.
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
@@ -556,6 +555,7 @@
 
 ## JavaScript 
 
+- [cyberzilla/czQR](https://github.com/cyberzilla/czQR) - QRCode Reader & Generator
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -2053,7 +2053,7 @@
 ## PowerShell 
 
 - [securityjoes/MasterParser](https://github.com/securityjoes/MasterParser) - MasterParser is a powerful DFIR tool designed for analyzing and parsing Linux logs
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - An open and lightweight modification to Windows, designed to optimise performance, privacy and usability.
 - [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [lesstif/dotfiles](https://github.com/lesstif/dotfiles) - 초기 설정 파일들
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
@@ -2461,7 +2461,7 @@
 - [magemojo/magesecuritypatcher](https://github.com/magemojo/magesecuritypatcher) - Magento 1 Security Patcher from MageMojo
 - [Dealerdirect/php-qa-tools](https://github.com/Dealerdirect/php-qa-tools) - A metapackage for all PHP quality assurance tools we use at Dealerdirect
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
-- [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx
+- [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP with Apache, Nginx or as fpm
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [firegento/MageCI](https://github.com/firegento/MageCI) - Magento Continuous Integration Tools
 - [MageHD/Magento-1.9.2-Vagrant-Install](https://github.com/MageHD/Magento-1.9.2-Vagrant-Install) - A vagrant box that will create a vanilla Magento 1.9 install including sample data. Compliments of Scotchbox and Magerun.
@@ -2688,6 +2688,7 @@
 - [3035app/pialab](https://github.com/3035app/pialab) - PiaLab Angular app
 - [processout/processout.js](https://github.com/processout/processout.js) - ProcessOut JavaScript library with modal & white-label support
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -2728,6 +2729,7 @@
 
 ## Vue 
 
+- [luridev/qr-github-generator](https://github.com/luridev/qr-github-generator) - App for generating QR codes with GitHub logo and export to SVG/PNG/JPEG/WEBP format
 - [miroir-os/gabin](https://github.com/miroir-os/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api.
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [mokuappio/serverless-invoices](https://github.com/mokuappio/serverless-invoices) - Create and manage invoices in your browser. Serverless Invoices is a free invoicing tool for freelancers and small businesses. Made with Vue.js.

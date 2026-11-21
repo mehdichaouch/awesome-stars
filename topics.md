@@ -1359,7 +1359,7 @@
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [tobegit3hub/seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
-- [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx
+- [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP with Apache, Nginx or as fpm
 - [splitbrain/docker-phpfarm](https://github.com/splitbrain/docker-phpfarm) - A Dockerfile to build an image running multiple PHP versions on Apache
 - [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
@@ -1608,7 +1608,7 @@
 ## gaming 
 
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - An open and lightweight modification to Windows, designed to optimise performance, privacy and usability.
 
 ## generative-ai 
 
@@ -2963,7 +2963,7 @@
 - [bmaroti9/Overmorrow](https://github.com/bmaroti9/Overmorrow) - modern material design weather app
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - An open and lightweight modification to Windows, designed to optimise performance, privacy and usability.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -3010,6 +3010,7 @@
 
 ## others 
 
+- [cyberzilla/czQR](https://github.com/cyberzilla/czQR) - QRCode Reader & Generator
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 - [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉
 - [unclebob/ub-mode](https://github.com/unclebob/ub-mode) - 
@@ -4558,7 +4559,7 @@
 - [integer-net/Autoshipping](https://github.com/integer-net/Autoshipping) - Provide shipping costs in Magento Cart, plus the ability to change the country there
 - [jedisct1/libsodium-php](https://github.com/jedisct1/libsodium-php) - The PHP extension for libsodium.
 - [ApiGen/ApiGen](https://github.com/ApiGen/ApiGen) - PHP 7.1 ready Smart and Simple Documentation for your PHP project
-- [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx
+- [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP with Apache, Nginx or as fpm
 - [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - :heavy_check_mark: PHP Test Framework for Freedom, Truth, and Justice
 - [KnpLabs/snappy](https://github.com/KnpLabs/snappy) - PHP library allowing thumbnail, snapshot or PDF generation from a url or a html page. Wrapper for wkhtmltopdf/wkhtmltoimage
@@ -4708,7 +4709,7 @@
 
 ## privacy 
 
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - An open and lightweight modification to Windows, designed to optimise performance, privacy and usability.
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -5093,7 +5094,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [securityjoes/MasterParser](https://github.com/securityjoes/MasterParser) - MasterParser is a powerful DFIR tool designed for analyzing and parsing Linux logs
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - An open and lightweight modification to Windows, designed to optimise performance, privacy and usability.
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
 - [IchHabRecht/hosts_pattern](https://github.com/IchHabRecht/hosts_pattern) - Set TYPO3_CONF_VARS['SYS']['trustedHostsPattern'] depending on available sys_domain records
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -5652,6 +5653,7 @@
 
 ## vue 
 
+- [luridev/qr-github-generator](https://github.com/luridev/qr-github-generator) - App for generating QR codes with GitHub logo and export to SVG/PNG/JPEG/WEBP format
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
@@ -5763,7 +5765,7 @@
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - An open and lightweight modification to Windows, designed to optimise performance, privacy and usability.
 - [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
