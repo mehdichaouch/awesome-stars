@@ -375,7 +375,6 @@
 - [dgageot/marcel](https://github.com/dgageot/marcel) - Marcel: One docker CLI to rule them all
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [hashicorp/serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -1368,7 +1367,7 @@
 - [Badcow/DNS](https://github.com/Badcow/DNS) - The aim of this project is to create abstract object representations of DNS records in PHP. The project consists of various classes representing DNS objects (such as Zone, ResourceRecord, and various 
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
-- [flow-php/flow](https://github.com/flow-php/flow) - The most advanced data processing framework allowing to build scalable data processing pipelines and move data between various data sources and destinations.
+- [flow-php/flow](https://github.com/flow-php/flow) - Strongly typed data processing framework for PHP with a low memory footprint.
 - [symplify/vendor-patches](https://github.com/symplify/vendor-patches) - Patch your vendor files the easy way
 - [IchHabRecht/hosts_pattern](https://github.com/IchHabRecht/hosts_pattern) - Set TYPO3_CONF_VARS['SYS']['trustedHostsPattern'] depending on available sys_domain records
 - [Goomento/PageBuilder](https://github.com/Goomento/PageBuilder) - Goomento - The Free Magento Page Builder Extension, that allows you to create unique Magento websites using advanced animations, custom CSS, responsive designs, and more, by performing simple actions 
@@ -2717,6 +2716,7 @@
 - [MicrosoftDX/Vorlonjs](https://github.com/MicrosoftDX/Vorlonjs) - A new, open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - [ARCHIVED] A JavaScript library to draw pretty git graphs in the browser
 - [objectivehtml/FlipClock](https://github.com/objectivehtml/FlipClock) - 
 - [bda-research/node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery ;-)
